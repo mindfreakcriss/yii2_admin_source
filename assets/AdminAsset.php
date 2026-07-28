@@ -31,7 +31,10 @@ class AdminAsset extends AssetBundle
       'admin/js/pages/demo.dashboard.js'
 
     ];
+
+    //需要增加这一步，不然资源会无法生效
     public $depends = [
-        //'yii\web\YiiAsset'
+        'yii\web\YiiAsset',
+        'yii\bootstrap5\BootstrapAsset'
     ];
 }
