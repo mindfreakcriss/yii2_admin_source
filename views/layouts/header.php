@@ -21,5 +21,35 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 <head>
     <title><?= Html::encode($this->title) ?></title>
     <?php $this->head() ?>
+    <style>
+        body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu {
+            top: auto !important;
+            bottom: auto !important;
+        }
+        body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu #leftside-menu-container {
+            height: auto !important;
+        }
+        body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu .simplebar-wrapper,
+        body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu .simplebar-mask,
+        body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu .simplebar-offset,
+        body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu .simplebar-content-wrapper,
+        body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu .simplebar-content {
+            height: auto !important;
+            min-height: auto !important;
+            max-height: none !important;
+        }
+        body[data-leftbar-compact-mode="condensed"] .wrapper {
+            overflow: visible !important;
+        }
+        body[data-leftbar-compact-mode="condensed"] .wrapper .content-page {
+            min-height: 1600px;
+        }
+        body[data-leftbar-compact-mode="condensed"] .wrapper .footer {
+            position: relative !important;
+            bottom: auto !important;
+            left: auto !important;
+            margin-left: 70px;
+        }
+    </style>
 </head>
 
