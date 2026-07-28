@@ -5,7 +5,6 @@ use yii\helpers\Html;
 use yii\helpers\Url;
 use yii\grid\ActionColumn;
 use yii\grid\GridView;
-use app\assets\AdminAsset;
 
 /** @var yii\web\View $this */
 /** @var app\models\search\SearchDemoModel $searchModel */
@@ -13,17 +12,13 @@ use app\assets\AdminAsset;
 
 $this->title = 'Demo Models';
 $this->params['breadcrumbs'][] = $this->title;
-
-
-AdminAsset::register($this);
-
 ?>
 <div class="demo-model-index">
 
     <h1><?= Html::encode($this->title) ?></h1>
 
     <p>
-        <?= Html::a('Create Demo Model', ['create'], ['class' => 'btn btn-success']) ?>
+        <?= Html::a('新建数据', ['create'], ['class' => 'btn btn-success']) ?>
     </p>
 
     <?php  echo $this->render('_search', ['model' => $searchModel]); ?>

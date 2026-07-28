@@ -16,7 +16,7 @@ class AdminAsset extends AssetBundle
     public $css = [
        // 'css/admin.css', 格式
        //third party css
-       'admin/css/vendor/jquery-jvectormap-1.2.2.css',
+     //  'admin/css/vendor/jquery-jvectormap-1.2.2.css',
        //app css
        'admin/css/app.min.css',
        'admin/css/icons.min.css'
@@ -25,8 +25,8 @@ class AdminAsset extends AssetBundle
       //  'js/admin.js', 格式
       //third party js
       'admin/js/vendor/apexcharts.min.js',
-      'admin/js/vendor/jquery-jvectormap-1.2.2.min.js',
-      'admin/js/vendor/jquery-jvectormap-world-mill-en.js',
+    //   'admin/js/vendor/jquery-jvectormap-1.2.2.min.js',
+    //   'admin/js/vendor/jquery-jvectormap-world-mill-en.js',
       //demo app
       'admin/js/pages/demo.dashboard.js'
 
