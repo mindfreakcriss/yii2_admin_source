@@ -4,8 +4,8 @@ $params = require __DIR__ . '/params.php';
 $db = require __DIR__ . '/db.php';
 
 $config = [
-    'id' => 'basic',
-    'basePath' => dirname(__DIR__),
+    'id' => 'basic', #项目IP
+    'basePath' => dirname(__DIR__), #项目根目录
     'bootstrap' => ['log'],
     'aliases' => [
         '@bower' => '@vendor/bower-asset',
@@ -52,6 +52,8 @@ $config = [
         */
     ],
     'params' => $params,
+    'timeZone' => 'Asia/Shanghai', #设置时区
+    'defaultRoute' => 'site/index', #默认路由
 ];
 
 if (YII_ENV_DEV) {
