@@ -24,9 +24,11 @@ class AdminAsset extends AssetBundle
     public $js = [
       //  'js/admin.js', 格式
       //third party js
+      'admin/js/vendor.min.js',
+      'admin/js/app.min.js',
       'admin/js/vendor/apexcharts.min.js',
-    //   'admin/js/vendor/jquery-jvectormap-1.2.2.min.js',
-    //   'admin/js/vendor/jquery-jvectormap-world-mill-en.js',
+      'admin/js/vendor/jquery-jvectormap-1.2.2.min.js',
+       'admin/js/vendor/jquery-jvectormap-world-mill-en.js',
       //demo app
       'admin/js/pages/demo.dashboard.js'
 
