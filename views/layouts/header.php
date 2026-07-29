@@ -29,7 +29,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
         body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu #leftside-menu-container {
             height: auto !important;
         }
-        body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu .simplebar-wrapper,
+        /* body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu .simplebar-wrapper,
         body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu .simplebar-mask,
         body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu .simplebar-offset,
         body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu .simplebar-content-wrapper,
@@ -49,7 +49,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
             bottom: auto !important;
             left: auto !important;
             margin-left: 70px;
-        }
+        } */
     </style>
 </head>
 
