@@ -1,5 +1,5 @@
 <?php
-$this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\ssets\\AdminAsset']);
+$this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\assets\\AdminAsset']);
 ?>
 
 <!-- start page title -->

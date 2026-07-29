@@ -1,5 +1,5 @@
 <?php
-$this->registerJsFile('/admin/js/pages/demo.apex-heatmap.js', ['depends' => 'app\ssets\\AdminAsset']);
+$this->registerJsFile('/admin/js/pages/demo.apex-heatmap.js', ['depends' => 'app\assets\\AdminAsset']);
 ?>
 
 <!-- start page title -->

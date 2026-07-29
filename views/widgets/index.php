@@ -1,7 +1,7 @@
 <?php
-$this->registerJsFile('/admin/js/pages/demo.widgets.js', ['depends' => 'app\ssets\\AdminAsset']);
-$this->registerJsFile('/admin/js/ui/component.chat.js', ['depends' => 'app\ssets\\AdminAsset']);
-$this->registerJsFile('/admin/js/ui/component.todo.js', ['depends' => 'app\ssets\\AdminAsset']);
+$this->registerJsFile('/admin/js/pages/demo.widgets.js', ['depends' => 'app\assets\\AdminAsset']);
+$this->registerJsFile('/admin/js/ui/component.chat.js', ['depends' => 'app\assets\\AdminAsset']);
+$this->registerJsFile('/admin/js/ui/component.todo.js', ['depends' => 'app\assets\\AdminAsset']);
 ?>
 
 <!-- start page title -->

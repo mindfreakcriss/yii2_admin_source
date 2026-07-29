@@ -1,6 +1,6 @@
 <?php
-$this->registerJsFile('/admin/js/pages/demo.timepicker.js', ['depends' => 'app\ssets\\AdminAsset']);
-$this->registerJsFile('/admin/js/pages/demo.typehead.js', ['depends' => 'app\ssets\\AdminAsset']);
+$this->registerJsFile('/admin/js/pages/demo.timepicker.js', ['depends' => 'app\assets\\AdminAsset']);
+$this->registerJsFile('/admin/js/pages/demo.typehead.js', ['depends' => 'app\assets\\AdminAsset']);
 ?>
 
 <!-- start page title -->

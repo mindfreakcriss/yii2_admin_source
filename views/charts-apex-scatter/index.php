@@ -1,5 +1,5 @@
 <?php
-$this->registerJsFile('/admin/js/pages/demo.apex-scatter.js', ['depends' => 'app\ssets\\AdminAsset']);
+$this->registerJsFile('/admin/js/pages/demo.apex-scatter.js', ['depends' => 'app\aassets\AdminAsset']);
 ?>
 
 <!-- start page title -->
@@ -17,7 +17,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-scatter.js', ['depends' => 'app
                                 </div>
                             </div>
                         </div>
-                        <!-- end page title --> 
+                        <!-- end page title -->
 
                         <div class="row">
                             <div class="col-xl-6">
@@ -33,7 +33,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-scatter.js', ['depends' => 'app
                                 <!-- end card -->
                             </div>
                             <!-- end col-->
-    
+
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
@@ -49,14 +49,14 @@ $this->registerJsFile('/admin/js/pages/demo.apex-scatter.js', ['depends' => 'app
                             <!-- end col-->
                         </div>
                         <!-- end row-->
-                        
+
                         <div class="row">
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">Scatter - Images</h4>
                                         <div dir="ltr">
-                                            <div id="scatter-images" class="apex-charts scatter-images-chart" data-colors="#3b5998,#e1306c"></div>    
+                                            <div id="scatter-images" class="apex-charts scatter-images-chart" data-colors="#3b5998,#e1306c"></div>
                                         </div>
                                     </div>
                                     <!-- end card body-->

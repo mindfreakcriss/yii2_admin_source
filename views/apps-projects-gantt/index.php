@@ -1,5 +1,5 @@
 <?php
-$this->registerJsFile('/admin/js/pages/demo.project-gantt.js', ['depends' => 'app\ssets\\AdminAsset']);
+$this->registerJsFile('/admin/js/pages/demo.project-gantt.js', ['depends' => 'app\assets\\AdminAsset']);
 ?>
 
 <!-- start page title -->
