@@ -20,6 +20,8 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 <html lang="<?= Yii::$app->language ?>" class="h-100">
 <head>
     <title><?= Html::encode($this->title) ?></title>
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="/admin/images/favicon.ico">
     <?php $this->head() ?>
     <style>
         body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu {
