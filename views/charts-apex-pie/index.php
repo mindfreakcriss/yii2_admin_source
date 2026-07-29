@@ -1,5 +1,5 @@
 <?php
-$this->registerJsFile('/admin/js/pages/demo.apex-pie.js', ['depends' => 'app\aassets\AdminAsset']);
+$this->registerJsFile('/admin/js/pages/demo.apex-pie.js', ['depends' => 'app\assets\AdminAsset']);
 ?>
 
 <!-- start page title -->
