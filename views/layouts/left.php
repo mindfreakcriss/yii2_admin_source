@@ -11,7 +11,7 @@
                 </a>
 
                 <!-- LOGO -->
-                <a href="index.html" class="logo text-center logo-dark">
+                <a href="/index/index" class="logo text-center logo-dark">
                     <span class="logo-lg">
                         <img src="/admin/images/logo-dark.png" alt="" height="16">
                     </span>
@@ -36,16 +36,16 @@
                             <div class="collapse" id="sidebarDashboards">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="dashboard-analytics.html">数据分析</a>
+                                        <a href="/dashboard-analytics/index">数据分析</a>
                                     </li>
                                     <li>
-                                        <a href="index.html">电子商务</a>
+                                        <a href="/index/index">电子商务</a>
                                     </li>
                                     <li>
-                                        <a href="dashboard-projects.html">项目分析</a>
+                                        <a href="/dashboard-projects/index">项目分析</a>
                                     </li>
                                     <li>
-                                        <a href="dashboard-wallet.html">其他内容 <span class="badge rounded bg-danger font-10 float-end">New</span></a>
+                                        <a href="/dashboard-wallet/index">其他内容 <span class="badge rounded bg-danger font-10 float-end">New</span></a>
                                     </li>
                                 </ul>
                             </div>
@@ -54,14 +54,14 @@
                         <li class="side-nav-title side-nav-item">Apps</li>
 
                         <li class="side-nav-item">
-                            <a href="apps-calendar.html" class="side-nav-link">
+                            <a href="/apps-calendar/index" class="side-nav-link">
                                 <i class="uil-calender"></i>
                                 <span> Calendar </span>
                             </a>
                         </li>
 
                         <li class="side-nav-item">
-                            <a href="apps-chat.html" class="side-nav-link">
+                            <a href="/apps-chat/index" class="side-nav-link">
                                 <i class="uil-comments-alt"></i>
                                 <span> Chat </span>
                             </a>
@@ -76,19 +76,19 @@
                             <div class="collapse" id="sidebarCrm">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="crm-dashboard.html">Dashboard</a>
+                                        <a href="/crm-dashboard/index">Dashboard</a>
                                     </li>
                                     <li>
-                                        <a href="crm-projects.html">Project</a>
+                                        <a href="/crm-projects/index">Project</a>
                                     </li>
                                     <li>
-                                        <a href="crm-orders-list.html">Orders List</a>
+                                        <a href="/crm-orders-list/index">Orders List</a>
                                     </li>
                                     <li>
-                                        <a href="crm-clients.html">Clients</a>
+                                        <a href="/crm-clients/index">Clients</a>
                                     </li>
                                     <li>
-                                        <a href="crm-management.html">Management</a>
+                                        <a href="/crm-management/index">Management</a>
                                     </li>
                                 </ul>
                             </div>
@@ -103,28 +103,28 @@
                             <div class="collapse" id="sidebarEcommerce">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="apps-ecommerce-products.html">Products</a>
+                                        <a href="/apps-ecommerce-products/index">Products</a>
                                     </li>
                                     <li>
-                                        <a href="apps-ecommerce-products-details.html">Products Details</a>
+                                        <a href="/apps-ecommerce-products-details/index">Products Details</a>
                                     </li>
                                     <li>
-                                        <a href="apps-ecommerce-orders.html">Orders</a>
+                                        <a href="/apps-ecommerce-orders/index">Orders</a>
                                     </li>
                                     <li>
-                                        <a href="apps-ecommerce-orders-details.html">Order Details</a>
+                                        <a href="/apps-ecommerce-orders-details/index">Order Details</a>
                                     </li>
                                     <li>
-                                        <a href="apps-ecommerce-customers.html">Customers</a>
+                                        <a href="/apps-ecommerce-customers/index">Customers</a>
                                     </li>
                                     <li>
-                                        <a href="apps-ecommerce-shopping-cart.html">Shopping Cart</a>
+                                        <a href="/apps-ecommerce-shopping-cart/index">Shopping Cart</a>
                                     </li>
                                     <li>
-                                        <a href="apps-ecommerce-checkout.html">Checkout</a>
+                                        <a href="/apps-ecommerce-checkout/index">Checkout</a>
                                     </li>
                                     <li>
-                                        <a href="apps-ecommerce-sellers.html">Sellers</a>
+                                        <a href="/apps-ecommerce-sellers/index">Sellers</a>
                                     </li>
                                 </ul>
                             </div>
@@ -139,10 +139,10 @@
                             <div class="collapse" id="sidebarEmail">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="apps-email-inbox.html">Inbox</a>
+                                        <a href="/apps-email-inbox/index">Inbox</a>
                                     </li>
                                     <li>
-                                        <a href="apps-email-read.html">Read Email</a>
+                                        <a href="/apps-email-read/index">Read Email</a>
                                     </li>
                                 </ul>
                             </div>
@@ -157,23 +157,23 @@
                             <div class="collapse" id="sidebarProjects">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="apps-projects-list.html">List</a>
+                                        <a href="/apps-projects-list/index">List</a>
                                     </li>
                                     <li>
-                                        <a href="apps-projects-details.html">Details</a>
+                                        <a href="/apps-projects-details/index">Details</a>
                                     </li>
                                     <li>
-                                        <a href="apps-projects-gantt.html">Gantt <span class="badge rounded-pill bg-light text-dark font-10 float-end">New</span></a>
+                                        <a href="/apps-projects-gantt/index">Gantt <span class="badge rounded-pill bg-light text-dark font-10 float-end">New</span></a>
                                     </li>
                                     <li>
-                                        <a href="apps-projects-add.html">Create Project</a>
+                                        <a href="/apps-projects-add/index">Create Project</a>
                                     </li>
                                 </ul>
                             </div>
                         </li>
 
                         <li class="side-nav-item">
-                            <a href="apps-social-feed.html" class="side-nav-link">
+                            <a href="/apps-social-feed/index" class="side-nav-link">
                                 <i class="uil-rss"></i>
                                 <span> Social Feed </span>
                             </a>
@@ -188,20 +188,20 @@
                             <div class="collapse" id="sidebarTasks">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="apps-tasks.html">List</a>
+                                        <a href="/apps-tasks/index">List</a>
                                     </li>
                                     <li>
-                                        <a href="apps-tasks-details.html">Details</a>
+                                        <a href="/apps-tasks-details/index">Details</a>
                                     </li>
                                     <li>
-                                        <a href="apps-kanban.html">Kanban Board</a>
+                                        <a href="/apps-kanban/index">Kanban Board</a>
                                     </li>
                                 </ul>
                             </div>
                         </li>
 
                         <li class="side-nav-item">
-                            <a href="apps-file-manager.html" class="side-nav-link">
+                            <a href="/apps-file-manager/index" class="side-nav-link">
                                 <i class="uil-folder-plus"></i>
                                 <span> File Manager </span>
                             </a>
@@ -218,22 +218,22 @@
                             <div class="collapse" id="sidebarPages">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="pages-profile.html">Profile</a>
+                                        <a href="/pages-profile/index">Profile</a>
                                     </li>
                                     <li>
-                                        <a href="pages-profile-2.html">Profile 2</a>
+                                        <a href="/pages-profile-2/index">Profile 2</a>
                                     </li>
                                     <li>
-                                        <a href="pages-invoice.html">Invoice</a>
+                                        <a href="/pages-invoice/index">Invoice</a>
                                     </li>
                                     <li>
-                                        <a href="pages-faq.html">FAQ</a>
+                                        <a href="/pages-faq/index">FAQ</a>
                                     </li>
                                     <li>
-                                        <a href="pages-pricing.html">Pricing</a>
+                                        <a href="/pages-pricing/index">Pricing</a>
                                     </li>
                                     <li>
-                                        <a href="pages-maintenance.html">Maintenance</a>
+                                        <a href="/pages-maintenance/index">Maintenance</a>
                                     </li>
                                     <li class="side-nav-item">
                                         <a data-bs-toggle="collapse" href="#sidebarPagesAuth" aria-expanded="false" aria-controls="sidebarPagesAuth">
@@ -243,40 +243,40 @@
                                         <div class="collapse" id="sidebarPagesAuth">
                                             <ul class="side-nav-third-level">
                                                 <li>
-                                                    <a href="pages-login.html">Login</a>
+                                                    <a href="/pages-login/index">Login</a>
                                                 </li>
                                                 <li>
-                                                    <a href="pages-login-2.html">Login 2</a>
+                                                    <a href="/pages-login-2/index">Login 2</a>
                                                 </li>
                                                 <li>
-                                                    <a href="pages-register.html">Register</a>
+                                                    <a href="/pages-register/index">Register</a>
                                                 </li>
                                                 <li>
-                                                    <a href="pages-register-2.html">Register 2</a>
+                                                    <a href="/pages-register-2/index">Register 2</a>
                                                 </li>
                                                 <li>
-                                                    <a href="pages-logout.html">Logout</a>
+                                                    <a href="/pages-logout/index">Logout</a>
                                                 </li>
                                                 <li>
-                                                    <a href="pages-logout-2.html">Logout 2</a>
+                                                    <a href="/pages-logout-2/index">Logout 2</a>
                                                 </li>
                                                 <li>
-                                                    <a href="pages-recoverpw.html">Recover Password</a>
+                                                    <a href="/pages-recoverpw/index">Recover Password</a>
                                                 </li>
                                                 <li>
-                                                    <a href="pages-recoverpw-2.html">Recover Password 2</a>
+                                                    <a href="/pages-recoverpw-2/index">Recover Password 2</a>
                                                 </li>
                                                 <li>
-                                                    <a href="pages-lock-screen.html">Lock Screen</a>
+                                                    <a href="/pages-lock-screen/index">Lock Screen</a>
                                                 </li>
                                                 <li>
-                                                    <a href="pages-lock-screen-2.html">Lock Screen 2</a>
+                                                    <a href="/pages-lock-screen-2/index">Lock Screen 2</a>
                                                 </li>
                                                 <li>
-                                                    <a href="pages-confirm-mail.html">Confirm Mail</a>
+                                                    <a href="/pages-confirm-mail/index">Confirm Mail</a>
                                                 </li>
                                                 <li>
-                                                    <a href="pages-confirm-mail-2.html">Confirm Mail 2</a>
+                                                    <a href="/pages-confirm-mail-2/index">Confirm Mail 2</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -289,32 +289,32 @@
                                         <div class="collapse" id="sidebarPagesError">
                                             <ul class="side-nav-third-level">
                                                 <li>
-                                                <a href="pages-404.html">Error 404</a>
+                                                <a href="/pages-404/index">Error 404</a>
                                             </li>
                                             <li>
-                                                <a href="pages-404-alt.html">Error 404-alt</a>
+                                                <a href="/pages-404-alt/index">Error 404-alt</a>
                                             </li>
                                             <li>
-                                                <a href="pages-500.html">Error 500</a>
+                                                <a href="/pages-500/index">Error 500</a>
                                             </li>
                                             </ul>
                                         </div>
                                     </li>
                                     <li>
-                                        <a href="pages-starter.html">Starter Page</a>
+                                        <a href="/pages-starter/index">Starter Page</a>
                                     </li>
                                     <li>
-                                        <a href="pages-preloader.html">With Preloader</a>
+                                        <a href="/pages-preloader/index">With Preloader</a>
                                     </li>
                                     <li>
-                                        <a href="pages-timeline.html">Timeline</a>
+                                        <a href="/pages-timeline/index">Timeline</a>
                                     </li>
                                 </ul>
                             </div>
                         </li>
 
                         <li class="side-nav-item">
-                            <a href="landing.html" target="_blank" class="side-nav-link">
+                            <a href="/landing/index" target="_blank" class="side-nav-link">
                                 <i class="uil-globe"></i>
                                 <span class="badge bg-secondary text-light float-end">New</span>
                                 <span> Landing </span>
@@ -330,13 +330,13 @@
                             <div class="collapse" id="sidebarLayouts">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="layouts-horizontal.html">Horizontal</a>
+                                        <a href="/layouts-horizontal/index">Horizontal</a>
                                     </li>
                                     <li>
-                                        <a href="layouts-detached.html">Detached</a>
+                                        <a href="/layouts-detached/index">Detached</a>
                                     </li>
                                     <li>
-                                        <a href="layouts-full.html">Full</a>
+                                        <a href="/layouts-full/index">Full</a>
                                     </li>
                                 </ul>
                             </div>
@@ -353,76 +353,76 @@
                             <div class="collapse" id="sidebarBaseUI">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="ui-accordions.html">Accordions</a>
+                                        <a href="/ui-accordions/index">Accordions</a>
                                     </li>
                                     <li>
-                                        <a href="ui-alerts.html">Alerts</a>
+                                        <a href="/ui-alerts/index">Alerts</a>
                                     </li>
                                     <li>
-                                        <a href="ui-avatars.html">Avatars</a>
+                                        <a href="/ui-avatars/index">Avatars</a>
                                     </li>
                                     <li>
-                                        <a href="ui-badges.html">Badges</a>
+                                        <a href="/ui-badges/index">Badges</a>
                                     </li>
                                     <li>
-                                        <a href="ui-breadcrumb.html">Breadcrumb</a>
+                                        <a href="/ui-breadcrumb/index">Breadcrumb</a>
                                     </li>
                                     <li>
-                                        <a href="ui-buttons.html">Buttons</a>
+                                        <a href="/ui-buttons/index">Buttons</a>
                                     </li>
                                     <li>
-                                        <a href="ui-cards.html">Cards</a>
+                                        <a href="/ui-cards/index">Cards</a>
                                     </li>
                                     <li>
-                                        <a href="ui-carousel.html">Carousel</a>
+                                        <a href="/ui-carousel/index">Carousel</a>
                                     </li>
                                     <li>
-                                        <a href="ui-dropdowns.html">Dropdowns</a>
+                                        <a href="/ui-dropdowns/index">Dropdowns</a>
                                     </li>
                                     <li>
-                                        <a href="ui-embed-video.html">Embed Video</a>
+                                        <a href="/ui-embed-video/index">Embed Video</a>
                                     </li>
                                     <li>
-                                        <a href="ui-grid.html">Grid</a>
+                                        <a href="/ui-grid/index">Grid</a>
                                     </li>
                                     <li>
-                                        <a href="ui-list-group.html">List Group</a>
+                                        <a href="/ui-list-group/index">List Group</a>
                                     </li>
                                     <li>
-                                        <a href="ui-modals.html">Modals</a>
+                                        <a href="/ui-modals/index">Modals</a>
                                     </li>
                                     <li>
-                                        <a href="ui-notifications.html">Notifications</a>
+                                        <a href="/ui-notifications/index">Notifications</a>
                                     </li>
                                     <li>
-                                        <a href="ui-offcanvas.html">Offcanvas</a>
+                                        <a href="/ui-offcanvas/index">Offcanvas</a>
                                     </li>
                                     <li>
-                                        <a href="ui-placeholders.html">Placeholders</a>
+                                        <a href="/ui-placeholders/index">Placeholders</a>
                                     </li>
                                     <li>
-                                        <a href="ui-pagination.html">Pagination</a>
+                                        <a href="/ui-pagination/index">Pagination</a>
                                     </li>
                                     <li>
-                                        <a href="ui-popovers.html">Popovers</a>
+                                        <a href="/ui-popovers/index">Popovers</a>
                                     </li>
                                     <li>
-                                        <a href="ui-progress.html">Progress</a>
+                                        <a href="/ui-progress/index">Progress</a>
                                     </li>
                                     <li>
-                                        <a href="ui-ribbons.html">Ribbons</a>
+                                        <a href="/ui-ribbons/index">Ribbons</a>
                                     </li>
                                     <li>
-                                        <a href="ui-spinners.html">Spinners</a>
+                                        <a href="/ui-spinners/index">Spinners</a>
                                     </li>
                                     <li>
-                                        <a href="ui-tabs.html">Tabs</a>
+                                        <a href="/ui-tabs/index">Tabs</a>
                                     </li>
                                     <li>
-                                        <a href="ui-tooltips.html">Tooltips</a>
+                                        <a href="/ui-tooltips/index">Tooltips</a>
                                     </li>
                                     <li>
-                                        <a href="ui-typography.html">Typography</a>
+                                        <a href="/ui-typography/index">Typography</a>
                                     </li>
                                 </ul>
                             </div>
@@ -437,29 +437,29 @@
                             <div class="collapse" id="sidebarExtendedUI">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="extended-dragula.html">Dragula</a>
+                                        <a href="/extended-dragula/index">Dragula</a>
                                     </li>
                                     <li>
-                                        <a href="extended-range-slider.html">Range Slider</a>
+                                        <a href="/extended-range-slider/index">Range Slider</a>
                                     </li>
                                     <li>
-                                        <a href="extended-ratings.html">Ratings</a>
+                                        <a href="/extended-ratings/index">Ratings</a>
                                     </li>
                                     <li>
-                                        <a href="extended-scrollbar.html">Scrollbar</a>
+                                        <a href="/extended-scrollbar/index">Scrollbar</a>
                                     </li>
                                     <li>
-                                        <a href="extended-scrollspy.html">Scrollspy</a>
+                                        <a href="/extended-scrollspy/index">Scrollspy</a>
                                     </li>
                                     <li>
-                                        <a href="extended-treeview.html">Treeview</a>
+                                        <a href="/extended-treeview/index">Treeview</a>
                                     </li>
                                 </ul>
                             </div>
                         </li>
 
                         <li class="side-nav-item">
-                            <a href="widgets.html" class="side-nav-link">
+                            <a href="/widgets/index" class="side-nav-link">
                                 <i class="uil-layer-group"></i>
                                 <span> Widgets </span>
                             </a>
@@ -474,13 +474,13 @@
                             <div class="collapse" id="sidebarIcons">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="icons-dripicons.html">Dripicons</a>
+                                        <a href="/icons-dripicons/index">Dripicons</a>
                                     </li>
                                     <li>
-                                        <a href="icons-mdi.html">Material Design</a>
+                                        <a href="/icons-mdi/index">Material Design</a>
                                     </li>
                                     <li>
-                                        <a href="icons-unicons.html">Unicons</a>
+                                        <a href="/icons-unicons/index">Unicons</a>
                                     </li>
                                 </ul>
                             </div>
@@ -495,22 +495,22 @@
                             <div class="collapse" id="sidebarForms">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="form-elements.html">Basic Elements</a>
+                                        <a href="/form-elements/index">Basic Elements</a>
                                     </li>
                                     <li>
-                                        <a href="form-advanced.html">Form Advanced</a>
+                                        <a href="/form-advanced/index">Form Advanced</a>
                                     </li>
                                     <li>
-                                        <a href="form-validation.html">Validation</a>
+                                        <a href="/form-validation/index">Validation</a>
                                     </li>
                                     <li>
-                                        <a href="form-wizard.html">Wizard</a>
+                                        <a href="/form-wizard/index">Wizard</a>
                                     </li>
                                     <li>
-                                        <a href="form-fileuploads.html">File Uploads</a>
+                                        <a href="/form-fileuploads/index">File Uploads</a>
                                     </li>
                                     <li>
-                                        <a href="form-editors.html">Editors</a>
+                                        <a href="/form-editors/index">Editors</a>
                                     </li>
                                 </ul>
                             </div>
@@ -532,55 +532,55 @@
                                         <div class="collapse" id="sidebarApexCharts">
                                             <ul class="side-nav-third-level">
                                                 <li>
-                                                    <a href="charts-apex-area.html">Area</a>
+                                                    <a href="/charts-apex-area/index">Area</a>
                                                 </li>
                                                 <li>
-                                                    <a href="charts-apex-bar.html">Bar</a>
+                                                    <a href="/charts-apex-bar/index">Bar</a>
                                                 </li>
                                                 <li>
-                                                    <a href="charts-apex-bubble.html">Bubble</a>
+                                                    <a href="/charts-apex-bubble/index">Bubble</a>
                                                 </li>
                                                 <li>
-                                                    <a href="charts-apex-candlestick.html">Candlestick</a>
+                                                    <a href="/charts-apex-candlestick/index">Candlestick</a>
                                                 </li>
                                                 <li>
-                                                    <a href="charts-apex-column.html">Column</a>
+                                                    <a href="/charts-apex-column/index">Column</a>
                                                 </li>
                                                 <li>
-                                                    <a href="charts-apex-heatmap.html">Heatmap</a>
+                                                    <a href="/charts-apex-heatmap/index">Heatmap</a>
                                                 </li>
                                                 <li>
-                                                    <a href="charts-apex-line.html">Line</a>
+                                                    <a href="/charts-apex-line/index">Line</a>
                                                 </li>
                                                 <li>
-                                                    <a href="charts-apex-mixed.html">Mixed</a>
+                                                    <a href="/charts-apex-mixed/index">Mixed</a>
                                                 </li>
                                                 <li>
-                                                    <a href="charts-apex-pie.html">Pie</a>
+                                                    <a href="/charts-apex-pie/index">Pie</a>
                                                 </li>
                                                 <li>
-                                                    <a href="charts-apex-radar.html">Radar</a>
+                                                    <a href="/charts-apex-radar/index">Radar</a>
                                                 </li>
                                                 <li>
-                                                    <a href="charts-apex-radialbar.html">RadialBar</a>
+                                                    <a href="/charts-apex-radialbar/index">RadialBar</a>
                                                 </li>
                                                 <li>
-                                                    <a href="charts-apex-scatter.html">Scatter</a>
+                                                    <a href="/charts-apex-scatter/index">Scatter</a>
                                                 </li>
                                                 <li>
-                                                    <a href="charts-apex-sparklines.html">Sparklines</a>
+                                                    <a href="/charts-apex-sparklines/index">Sparklines</a>
                                                 </li>
                                             </ul>
                                         </div>
                                     </li>
                                     <li>
-                                        <a href="charts-brite.html">Britecharts</a>
+                                        <a href="/charts-brite/index">Britecharts</a>
                                     </li>
                                     <li>
-                                        <a href="charts-chartjs.html">Chartjs</a>
+                                        <a href="/charts-chartjs/index">Chartjs</a>
                                     </li>
                                     <li>
-                                        <a href="charts-sparkline.html">Sparklines</a>
+                                        <a href="/charts-sparkline/index">Sparklines</a>
                                     </li>
                                 </ul>
                             </div>
@@ -595,10 +595,10 @@
                             <div class="collapse" id="sidebarTables">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="tables-basic.html">Basic Tables</a>
+                                        <a href="/tables-basic/index">Basic Tables</a>
                                     </li>
                                     <li>
-                                        <a href="tables-datatable.html">Data Tables</a>
+                                        <a href="/tables-datatable/index">Data Tables</a>
                                     </li>
                                 </ul>
                             </div>
@@ -613,10 +613,10 @@
                             <div class="collapse" id="sidebarMaps">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="maps-google.html">Google Maps</a>
+                                        <a href="/maps-google/index">Google Maps</a>
                                     </li>
                                     <li>
-                                        <a href="maps-vector.html">Vector Maps</a>
+                                        <a href="/maps-vector/index">Vector Maps</a>
                                     </li>
                                 </ul>
                             </div>
