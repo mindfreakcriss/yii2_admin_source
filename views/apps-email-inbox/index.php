@@ -1,3 +1,7 @@
+<?php
+$this->registerJsFile('/admin/js/pages/demo.inbox.js', ['depends' => 'app\ssets\\AdminAsset']);
+?>
+
 <!-- start page email-title -->
                         <div class="row">
                             <div class="col-12">

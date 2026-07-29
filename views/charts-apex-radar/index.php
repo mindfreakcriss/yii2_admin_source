@@ -1,3 +1,7 @@
+<?php
+$this->registerJsFile('/admin/js/pages/demo.apex-radar.js', ['depends' => 'app\ssets\\AdminAsset']);
+?>
+
 <!-- start page title -->
                         <div class="row">
                             <div class="col-12">

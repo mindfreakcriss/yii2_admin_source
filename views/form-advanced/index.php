@@ -1,3 +1,8 @@
+<?php
+$this->registerJsFile('/admin/js/pages/demo.timepicker.js', ['depends' => 'app\ssets\\AdminAsset']);
+$this->registerJsFile('/admin/js/pages/demo.typehead.js', ['depends' => 'app\ssets\\AdminAsset']);
+?>
+
 <!-- start page title -->
                         <div class="row">
                             <div class="col-12">

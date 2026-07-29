@@ -1,3 +1,7 @@
+<?php
+$this->registerJsFile('/admin/js/pages/demo.apex-pie.js', ['depends' => 'app\assets\AdminAsset']);
+?>
+
 <!-- start page title -->
                         <div class="row">
                             <div class="col-12">
@@ -13,7 +17,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- end page title --> 
+                        <!-- end page title -->
 
                         <div class="row">
                             <div class="col-xl-6">
@@ -29,7 +33,7 @@
                                 <!-- end card -->
                             </div>
                             <!-- end col-->
-    
+
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
@@ -45,7 +49,7 @@
                             <!-- end col-->
                         </div>
                         <!-- end row-->
-                        
+
                         <div class="row">
                             <div class="col-xl-6">
                                 <div class="card">
@@ -60,7 +64,7 @@
                                 <!-- end card -->
                             </div>
                             <!-- end col-->
-    
+
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
@@ -91,7 +95,7 @@
                                 <!-- end card -->
                             </div>
                             <!-- end col-->
-    
+
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">

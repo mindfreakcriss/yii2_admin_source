@@ -233,7 +233,7 @@
                                         <a href="/pages-pricing/index">Pricing</a>
                                     </li>
                                     <li>
-                                        <a href="/pages-maintenance/index">Maintenance</a>
+                                        <a href="/other/pages-maintenance">Maintenance</a>
                                     </li>
                                     <li class="side-nav-item">
                                         <a data-bs-toggle="collapse" href="#sidebarPagesAuth" aria-expanded="false" aria-controls="sidebarPagesAuth">
@@ -243,40 +243,40 @@
                                         <div class="collapse" id="sidebarPagesAuth">
                                             <ul class="side-nav-third-level">
                                                 <li>
-                                                    <a href="/pages-login/index">Login</a>
+                                                    <a href="/other/pages-login">Login</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/pages-login-2/index">Login 2</a>
+                                                    <a href="/other/pages-login-2">Login 2</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/pages-register/index">Register</a>
+                                                    <a href="/other/pages-register">Register</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/pages-register-2/index">Register 2</a>
+                                                    <a href="/other/pages-register-2">Register 2</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/pages-logout/index">Logout</a>
+                                                    <a href="/other/pages-logout">Logout</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/pages-logout-2/index">Logout 2</a>
+                                                    <a href="/other/pages-logout-2">Logout 2</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/pages-recoverpw/index">Recover Password</a>
+                                                    <a href="/other/pages-recoverpw">Recover Password</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/pages-recoverpw-2/index">Recover Password 2</a>
+                                                    <a href="/other/pages-recoverpw-2">Recover Password 2</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/pages-lock-screen/index">Lock Screen</a>
+                                                    <a href="/other/pages-lock-screen">Lock Screen</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/pages-lock-screen-2/index">Lock Screen 2</a>
+                                                    <a href="/other/pages-lock-screen-2">Lock Screen 2</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/pages-confirm-mail/index">Confirm Mail</a>
+                                                    <a href="/other/pages-confirm-mail">Confirm Mail</a>
                                                 </li>
                                                 <li>
-                                                    <a href="/pages-confirm-mail-2/index">Confirm Mail 2</a>
+                                                    <a href="/other/pages-confirm-mail-2">Confirm Mail 2</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -289,13 +289,13 @@
                                         <div class="collapse" id="sidebarPagesError">
                                             <ul class="side-nav-third-level">
                                                 <li>
-                                                <a href="/pages-404/index">Error 404</a>
+                                                <a href="/other/pages-404">Error 404</a>
                                             </li>
                                             <li>
                                                 <a href="/pages-404-alt/index">Error 404-alt</a>
                                             </li>
                                             <li>
-                                                <a href="/pages-500/index">Error 500</a>
+                                                <a href="/other/pages-500">Error 500</a>
                                             </li>
                                             </ul>
                                         </div>

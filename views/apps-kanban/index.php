@@ -1,3 +1,7 @@
+<?php
+$this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\ssets\\AdminAsset']);
+?>
+
 <!-- start page title -->
                         <div class="row">
                             <div class="col-12">

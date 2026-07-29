@@ -1,3 +1,7 @@
+<?php
+$this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\ssets\\AdminAsset']);
+?>
+
 <div class="row">
                             <div class="col-xxl-8">
                                 <!-- start page title -->
