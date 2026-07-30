@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Extended UI</a></li>
-                                            <li class="breadcrumb-item active">Treeview</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">扩展 UI</a></li>
+                                            <li class="breadcrumb-item active">树形视图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Treeview</h4>
+                                    <h4 class="page-title">树形视图</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-md-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Basic Treeview</h4>
+                                        <h4 class="header-title">基本 树形视图</h4>
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#jstree-1-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
@@ -127,7 +127,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Custom Icons & Clickable Nodes</h4>
+                                        <h4 class="header-title">自定义图标 & Clickable Nodes</h4>
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#jstree-2-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">

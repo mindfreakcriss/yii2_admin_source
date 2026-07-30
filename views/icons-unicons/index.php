@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Icons</a></li>
-                                            <li class="breadcrumb-item active">Unicons</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">图标</a></li>
+                                            <li class="breadcrumb-item active">Unicons 图标</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Unicons</h4>
+                                    <h4 class="page-title">Unicons 图标</h4>
                                 </div>
                             </div>
                         </div>

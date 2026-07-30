@@ -16,10 +16,10 @@
                                     <img src="/admin/images/startman.svg" height="120" alt="File not found Image">
 
                                     <h1 class="text-error mt-4">500</h1>
-                                    <h4 class="text-uppercase text-danger mt-3">Internal Server Error</h4>
-                                    <p class="text-muted mt-3">Why not try refreshing your page? or you can contact <a href="#" class="text-muted"><b>Support</b></a></p>
+                                    <h4 class="text-uppercase text-danger mt-3">服务器内部错误</h4>
+                                    <p class="text-muted mt-3">为什么不尝试刷新页面？或者您可以联系<a href="#" class="text-muted"><b>支持</b></a></p>
 
-                                    <a class="btn btn-info mt-3" href="index.html"><i class="mdi mdi-reply"></i> Return Home</a>
+                                    <a class="btn btn-info mt-3" href="index.html"><i class="mdi mdi-reply"></i> 返回首页</a>
                                 </div>
 
                             </div> <!-- end card-body-->

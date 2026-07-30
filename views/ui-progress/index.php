@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Progress</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">进度条</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Progress</h4>
+                                    <h4 class="page-title">进度条</h4>
                                 </div>
                             </div>
                         </div>
@@ -68,7 +68,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Height</h4>
+                                        <h4 class="header-title">高度</h4>
                                         <p class="text-muted font-14">We only set a <code>height</code> value on the <code>.progress</code>, so if you change that value the inner <code>.progress-bar</code> will automatically resize accordingly.
                                             Use <code>.progress-sm</code>,<code>.progress-md</code>,<code>.progress-lg</code>,<code>.progress-xl</code> classes.
 </p>
@@ -143,7 +143,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Multiple bars</h4>
+                                        <h4 class="header-title">多个进度条</h4>
                                         <p class="text-muted font-14">Include multiple progress bars in a progress component if you need.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -184,7 +184,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Animated stripes</h4>
+                                        <h4 class="header-title">动画条纹</h4>
                                         <p class="text-muted font-14">The striped gradient can also be animated. Add <code>.progress-bar-animated</code> to <code>.progress-bar</code> to animate the stripes right to left via CSS3 animations.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -223,7 +223,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Labels</h4>
+                                        <h4 class="header-title">标签</h4>
                                         <p class="text-muted font-14">Add labels to your progress bars by placing text within the <code>.progress-bar</code>.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -260,7 +260,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Backgrounds</h4>
+                                        <h4 class="header-title">背景</h4>
                                         <p class="text-muted font-14">Use background utility classes to change the appearance of individual progress bars.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -338,7 +338,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Striped</h4>
+                                        <h4 class="header-title">条纹</h4>
                                         <p class="text-muted font-14">Add <code>.progress-bar-striped</code> to any <code>.progress-bar</code> to apply a stripe via CSS gradient over the progress bar’s background color.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">

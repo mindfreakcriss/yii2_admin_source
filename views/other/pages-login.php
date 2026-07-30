@@ -14,22 +14,22 @@
                             <div class="card-body p-4">
                                 
                                 <div class="text-center w-75 m-auto">
-                                    <h4 class="text-dark-50 text-center pb-0 fw-bold">Sign In</h4>
-                                    <p class="text-muted mb-4">Enter your email address and password to access admin panel.</p>
+                                    <h4 class="text-dark-50 text-center pb-0 fw-bold">登录</h4>
+                                    <p class="text-muted mb-4">输入邮箱地址和密码以访问管理面板。</p>
                                 </div>
 
                                 <form action="#">
 
                                     <div class="mb-3">
-                                        <label for="emailaddress" class="form-label">Email address</label>
-                                        <input class="form-control" type="email" id="emailaddress" required="" placeholder="Enter your email">
+                                        <label for="emailaddress" class="form-label">邮箱地址</label>
+                                        <input class="form-control" type="email" id="emailaddress" required="" placeholder="输入邮箱">
                                     </div>
 
                                     <div class="mb-3">
-                                        <a href="pages-recoverpw.html" class="text-muted float-end"><small>Forgot your password?</small></a>
-                                        <label for="password" class="form-label">Password</label>
+                                        <a href="pages-recoverpw.html" class="text-muted float-end"><small>忘记密码？</small></a>
+                                        <label for="password" class="form-label">密码</label>
                                         <div class="input-group input-group-merge">
-                                            <input type="password" id="password" class="form-control" placeholder="Enter your password">
+                                            <input type="password" id="password" class="form-control" placeholder="输入密码">
                                             <div class="input-group-text" data-password="false">
                                                 <span class="password-eye"></span>
                                             </div>
@@ -39,12 +39,12 @@
                                     <div class="mb-3 mb-3">
                                         <div class="form-check">
                                             <input type="checkbox" class="form-check-input" id="checkbox-signin" checked>
-                                            <label class="form-check-label" for="checkbox-signin">Remember me</label>
+                                            <label class="form-check-label" for="checkbox-signin">记住我</label>
                                         </div>
                                     </div>
 
                                     <div class="mb-3 mb-0 text-center">
-                                        <button class="btn btn-primary" type="submit"> Log In </button>
+                                        <button class="btn btn-primary" type="submit"> 登录 </button>
                                     </div>
 
                                 </form>
@@ -54,7 +54,7 @@
 
                         <div class="row mt-3">
                             <div class="col-12 text-center">
-                                <p class="text-muted">Don't have an account? <a href="pages-register.html" class="text-muted ms-1"><b>Sign Up</b></a></p>
+                                <p class="text-muted">没有账户？<a href="pages-register.html" class="text-muted ms-1"><b>注册</b></a></p>
                             </div> <!-- end col -->
                         </div>
                         <!-- end row -->

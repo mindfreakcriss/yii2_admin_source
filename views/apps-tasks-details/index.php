@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/ui/component.fileupload.js', ['depends' => 'app
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Tasks</a></li>
-                                            <li class="breadcrumb-item active">Task Detail</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">任务</a></li>
+                                            <li class="breadcrumb-item active">任务详情</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Task Detail</h4>
+                                    <h4 class="page-title">任务详情</h4>
                                 </div>
                             </div>
                         </div>
@@ -31,20 +31,20 @@ $this->registerJsFile('/admin/js/ui/component.fileupload.js', ['depends' => 'app
                                             <div class="dropdown-menu dropdown-menu-end">
                                                 <!-- item-->
                                                 <a href="javascript:void(0);" class="dropdown-item">
-                                                    <i class='uil uil-file-upload me-1'></i>Attachment
+                                                    <i class='uil uil-file-upload me-1'></i>附件
                                                 </a>
                                                 <!-- item-->
                                                 <a href="javascript:void(0);" class="dropdown-item">
-                                                    <i class='uil uil-edit me-1'></i>Edit
+                                                    <i class='uil uil-edit me-1'></i>编辑
                                                 </a>
                                                 <!-- item-->
                                                 <a href="javascript:void(0);" class="dropdown-item">
-                                                    <i class='uil uil-file-copy-alt me-1'></i>Mark as Duplicate
+                                                    <i class='uil uil-file-copy-alt me-1'></i>标记为重复
                                                 </a>
                                                 <div class="dropdown-divider"></div>
                                                 <!-- item-->
                                                 <a href="javascript:void(0);" class="dropdown-item text-danger">
-                                                    <i class='uil uil-trash-alt me-1'></i>Delete
+                                                    <i class='uil uil-trash-alt me-1'></i>删除
                                                 </a>
                                             </div> <!-- end dropdown menu-->
                                         </div> <!-- end dropdown-->
@@ -52,7 +52,7 @@ $this->registerJsFile('/admin/js/ui/component.fileupload.js', ['depends' => 'app
                                         <div class="form-check float-start">
                                             <input type="checkbox" class="form-check-input" id="completedCheck">
                                             <label class="form-check-label" for="completedCheck">
-                                                Mark as completed
+                                                标记为已完成
                                             </label>
                                         </div> <!-- end form-check-->
                                         
@@ -63,7 +63,7 @@ $this->registerJsFile('/admin/js/ui/component.fileupload.js', ['depends' => 'app
                                         <div class="row">
                                             <div class="col-6">
                                                 <!-- assignee -->
-                                                <p class="mt-2 mb-1 text-muted fw-bold font-12 text-uppercase">Assigned To</p>
+                                                <p class="mt-2 mb-1 text-muted fw-bold font-12 text-uppercase">负责人</p>
                                                 <div class="d-flex">
                                                     <img src="/admin/images/users/avatar-9.jpg" alt="Arya S" class="rounded-circle me-2" height="24" />
                                                     <div>
@@ -77,7 +77,7 @@ $this->registerJsFile('/admin/js/ui/component.fileupload.js', ['depends' => 'app
 
                                             <div class="col-6">
                                                 <!-- start due date -->
-                                                <p class="mt-2 mb-1 text-muted fw-bold font-12 text-uppercase">Due Date</p>
+                                                <p class="mt-2 mb-1 text-muted fw-bold font-12 text-uppercase">截止日期</p>
                                                 <div class="d-flex">
                                                     <i class='uil uil-schedule font-18 text-success me-1'></i>
                                                     <div>
@@ -91,14 +91,14 @@ $this->registerJsFile('/admin/js/ui/component.fileupload.js', ['depends' => 'app
                                         </div> <!-- end row -->
 
 
-                                        <h5 class="mt-3">Overview:</h5>
+                                        <h5 class="mt-3">概述：</h5>
 
                                         <p class="text-muted mb-4">
                                             This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Some quick example text to build on the card title and make up the bulk of the card's content. Some quick example text to build on the card title and make up.
                                         </p>
 
                                         <!-- start sub tasks/checklists -->
-                                        <h5 class="mt-4 mb-2 font-16">Checklists/Sub-tasks</h5>
+                                        <h5 class="mt-4 mb-2 font-16">检查清单/子任务</h5>
                                         <div class="form-check mt-1">
                                             <input type="checkbox" class="form-check-input" id="checklist1">
                                             <label class="form-check-label strikethrough" for="checklist1">
@@ -127,7 +127,7 @@ $this->registerJsFile('/admin/js/ui/component.fileupload.js', ['depends' => 'app
 
                                 <div class="card">
                                     <div class="card-header">
-                                        <h4 class="my-1">Comments (51)</h4>
+                                        <h4 class="my-1">评论 (51)</h4>
                                     </div>
                                     <div class="card-body">
                                         
@@ -140,7 +140,7 @@ $this->registerJsFile('/admin/js/ui/component.fileupload.js', ['depends' => 'app
 
                                                 <br/>
                                                 <a href="javascript: void(0);" class="text-muted font-13 d-inline-block mt-2"><i
-                                                    class="mdi mdi-reply"></i> Reply</a>
+                                                    class="mdi mdi-reply"></i> 回复</a>
 
                                                 <div class="d-flex mt-3">
                                                     <a class="pe-2" href="#">
@@ -169,23 +169,23 @@ $this->registerJsFile('/admin/js/ui/component.fileupload.js', ['depends' => 'app
 
                                                 <br/>
                                                 <a href="javascript: void(0);" class="text-muted font-13 d-inline-block mt-2"><i
-                                                    class="mdi mdi-reply"></i> Reply</a>
+                                                    class="mdi mdi-reply"></i> 回复</a>
                                             </div>
                                         </div>
 
                                         <div class="text-center mt-2">
-                                            <a href="javascript:void(0);" class="text-danger"><i class="mdi mdi-spin mdi-loading me-1"></i> Load more </a>
+                                            <a href="javascript:void(0);" class="text-danger"><i class="mdi mdi-spin mdi-loading me-1"></i> 加载更多 </a>
                                         </div>
 
                                         <div class="border rounded mt-4">
                                             <form action="#" class="comment-area-box">
-                                                <textarea rows="3" class="form-control border-0 resize-none" placeholder="Your comment..."></textarea>
+                                                <textarea rows="3" class="form-control border-0 resize-none" placeholder="输入评论..."></textarea>
                                                 <div class="p-2 bg-light d-flex justify-content-between align-items-center">
                                                     <div>
                                                         <a href="#" class="btn btn-sm px-1 btn-light"><i class='mdi mdi-upload'></i></a>
                                                         <a href="#" class="btn btn-sm px-1 btn-light"><i class='mdi mdi-at'></i></a>
                                                     </div>
-                                                    <button type="submit" class="btn btn-sm btn-success"><i class='uil uil-message me-1'></i>Submit</button>
+                                                    <button type="submit" class="btn btn-sm btn-success"><i class='uil uil-message me-1'></i>提交</button>
                                                 </div>
                                             </form>
                                         </div> <!-- end .border-->
@@ -199,7 +199,7 @@ $this->registerJsFile('/admin/js/ui/component.fileupload.js', ['depends' => 'app
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h5 class="card-title mb-3">Attachments</h5>
+                                        <h5 class="card-title mb-3">附件</h5>
 
                                         <form action="https://coderthemes.com/" method="post" class="dropzone" id="myAwesomeDropzone" data-plugin="dropzone" data-previews-container="#file-previews"
                                             data-upload-preview-template="#uploadPreviewTemplate">
@@ -209,7 +209,7 @@ $this->registerJsFile('/admin/js/ui/component.fileupload.js', ['depends' => 'app
 
                                             <div class="dz-message needsclick">
                                                 <i class="h3 text-muted dripicons-cloud-upload"></i>
-                                                <h4>Drop files here or click to upload.</h4>
+                                                <h4>拖放文件或点击上传</h4>
                                             </div>
                                         </form>
 

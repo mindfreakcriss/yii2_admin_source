@@ -10,10 +10,10 @@ $this->registerJsFile('/admin/js/pages/demo.apex-mixed.js', ['depends' => 'app\a
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Apex</a></li>
-                                            <li class="breadcrumb-item active">Mixed Charts</li>
+                                            <li class="breadcrumb-item active">混合图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Mixed Charts</h4>
+                                    <h4 class="page-title">混合图</h4>
                                 </div>
                             </div>
                         </div>
@@ -23,7 +23,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-mixed.js', ['depends' => 'app\a
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Line & Column Chart</h4>
+                                        <h4 class="header-title">折线和柱形图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="line-column-mixed" class="apex-charts" data-colors="#727cf5,#0acf97"></div>
                                         </div>
@@ -37,7 +37,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-mixed.js', ['depends' => 'app\a
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Multiple Y-Axis Chart</h4>
+                                        <h4 class="header-title">多 Y 轴 Chart</h4>
                                         <div dir="ltr">
                                             <div id="multiple-yaxis-mixed" class="apex-charts" data-colors="#727cf5,#39afd1,#fa5c7c"></div>
                                         </div>
@@ -54,7 +54,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-mixed.js', ['depends' => 'app\a
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Line & Area Chart</h4>
+                                        <h4 class="header-title">折线和面积图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="line-area-mixed" class="apex-charts" data-colors="#0acf97,#fa5c7c"></div>
                                         </div>
@@ -68,7 +68,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-mixed.js', ['depends' => 'app\a
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Line, Column & Area Chart</h4>
+                                        <h4 class="header-title">折线、柱形和面积图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="all-mixed" class="apex-charts" data-colors="#727cf5,#39afd1,#fa5c7c"></div>
                                         </div>

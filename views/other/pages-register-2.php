@@ -15,35 +15,35 @@
                         </div>
 
                         <!-- title-->
-                        <h4 class="mt-0">Free Sign Up</h4>
-                        <p class="text-muted mb-4">Don't have an account? Create your account, it takes less than a minute</p>
+                        <h4 class="mt-0">免费注册</h4>
+                        <p class="text-muted mb-4">没有账户？创建您的账户，只需不到一分钟</p>
 
                         <!-- form -->
                         <form action="#">
                             <div class="mb-3">
-                                <label for="fullname" class="form-label">Full Name</label>
-                                <input class="form-control" type="text" id="fullname" placeholder="Enter your name" required>
+                                <label for="fullname" class="form-label">全名</label>
+                                <input class="form-control" type="text" id="fullname" placeholder="输入姓名" required>
                             </div>
                             <div class="mb-3">
-                                <label for="emailaddress" class="form-label">Email address</label>
-                                <input class="form-control" type="email" id="emailaddress" required placeholder="Enter your email">
+                                <label for="emailaddress" class="form-label">邮箱地址</label>
+                                <input class="form-control" type="email" id="emailaddress" required placeholder="输入邮箱">
                             </div>
                             <div class="mb-3">
-                                <label for="password" class="form-label">Password</label>
-                                <input class="form-control" type="password" required id="password" placeholder="Enter your password">
+                                <label for="password" class="form-label">密码</label>
+                                <input class="form-control" type="password" required id="password" placeholder="输入密码">
                             </div>
                             <div class="mb-3">
                                 <div class="form-check">
                                     <input type="checkbox" class="form-check-input" id="checkbox-signup">
-                                    <label class="form-check-label" for="checkbox-signup">I accept <a href="javascript: void(0);" class="text-muted">Terms and Conditions</a></label>
+                                    <label class="form-check-label" for="checkbox-signup">我接受 <a href="javascript: void(0);" class="text-muted">条款和条件</a></label>
                                 </div>
                             </div>
                             <div class="mb-0 d-grid text-center">
-                                <button class="btn btn-primary" type="submit"><i class="mdi mdi-account-circle"></i> Sign Up </button>
+                                <button class="btn btn-primary" type="submit"><i class="mdi mdi-account-circle"></i> 注册 </button>
                             </div>
                             <!-- social-->
                             <div class="text-center mt-4">
-                                <p class="text-muted font-16">Sign up using</p>
+                                <p class="text-muted font-16">使用以下方式注册</p>
                                 <ul class="social-list list-inline mt-3">
                                     <li class="list-inline-item">
                                         <a href="javascript: void(0);" class="social-list-item border-primary text-primary"><i class="mdi mdi-facebook"></i></a>
@@ -64,7 +64,7 @@
 
                         <!-- Footer-->
                         <footer class="footer footer-alt">
-                            <p class="text-muted">Already have account? <a href="pages-login-2.html" class="text-muted ms-1"><b>Log In</b></a></p>
+                            <p class="text-muted">已有账户？<a href="pages-login-2.html" class="text-muted ms-1"><b>登录</b></a></p>
                         </footer>
 
                     </div> <!-- end .card-body -->
@@ -75,11 +75,11 @@
             <!-- Auth fluid right content -->
             <div class="auth-fluid-right text-center">
                 <div class="auth-user-testimonial">
-                    <h2 class="mb-3">I love the color!</h2>
-                    <p class="lead"><i class="mdi mdi-format-quote-open"></i> It's a elegent templete. I love it very much! . <i class="mdi mdi-format-quote-close"></i>
+                    <h2 class="mb-3">我喜欢的颜色！</h2>
+                    <p class="lead"><i class="mdi mdi-format-quote-open"></i> 这是一个优雅的模板。我非常喜欢它！<i class="mdi mdi-format-quote-close"></i>
                     </p>
                     <p>
-                        - Hyper Admin User
+                        - Hyper 管理员用户
                     </p>
                 </div> <!-- end auth-user-testimonial-->
             </div>

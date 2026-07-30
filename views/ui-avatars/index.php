@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Avatars</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">头像</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Avatars</h4>
+                                    <h4 class="page-title">头像</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-xxl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Sizing - Images</h4>
+                                        <h4 class="header-title">图片尺寸</h4>
                                         <p class="text-muted font-14 mb-3">
                                             Create and group avatars of different sizes and shapes with the css classes.
                                             Using Bootstrap's naming convention, you can control size of avatar including standard avatar, or scale it up to different sizes.
@@ -29,13 +29,13 @@
                                             <li class="nav-item">
                                                 <a href="#sizing-images-preview" data-bs-toggle="tab" aria-expanded="false"
                                                     class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#sizing-images-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -107,7 +107,7 @@
                             <div class="col-xxl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Rounded Circle</h4>
+                                        <h4 class="header-title">圆形头像</h4>
                                         <p class="text-muted font-14 mb-3">
                                             Using an additional class <code>.rounded-circle</code> in <code>&lt;img&gt;</code> element creates the rounded avatar.
                                         </p>
@@ -116,13 +116,13 @@
                                             <li class="nav-item">
                                                 <a href="#rounded-images-preview" data-bs-toggle="tab" aria-expanded="false"
                                                     class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#rounded-images-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -183,7 +183,7 @@
                             <div class="col-xxl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Sizing - Background Color</h4>
+                                        <h4 class="header-title">背景颜色尺寸</h4>
                                         <p class="text-muted font-14 mb-3">
                                             Using utilities classes of background e.g. <code>bg-*</code> allows you to have any background color as well.
                                         </p>
@@ -192,13 +192,13 @@
                                             <li class="nav-item">
                                                 <a href="#sizing-bg-preview" data-bs-toggle="tab" aria-expanded="false"
                                                     class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#sizing-bg-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -312,7 +312,7 @@
                             <div class="col-xxl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Rounded Circle Background</h4>
+                                        <h4 class="header-title">圆形背景</h4>
                                         <p class="text-muted font-14 mb-3">
                                             Using an additional class <code>.rounded-circle</code> in <code>&lt;img&gt;</code> element creates the rounded avatar.
                                         </p>
@@ -321,13 +321,13 @@
                                             <li class="nav-item">
                                                 <a href="#rounded-bg-preview" data-bs-toggle="tab" aria-expanded="false"
                                                     class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#rounded-bg-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -412,7 +412,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Images shapes</h4>
+                                        <h4 class="header-title">图片形状</h4>
                                         <p class="text-muted font-14 mb-3">
                                             Avatars with different sizes and shapes.
                                         </p>
@@ -421,13 +421,13 @@
                                             <li class="nav-item">
                                                 <a href="#images-shape-preview" data-bs-toggle="tab" aria-expanded="false"
                                                     class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#images-shape-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->

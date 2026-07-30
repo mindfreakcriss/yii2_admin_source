@@ -10,11 +10,11 @@ $this->registerJsFile('/admin/js/pages/demo.typehead.js', ['depends' => 'app\ass
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Forms</a></li>
-                                            <li class="breadcrumb-item active">Form Advanced</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">表单</a></li>
+                                            <li class="breadcrumb-item active">高级表单</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Form Advanced</h4>
+                                    <h4 class="page-title">高级表单</h4>
                                 </div>
                             </div>
                         </div>
@@ -25,8 +25,8 @@ $this->registerJsFile('/admin/js/pages/demo.typehead.js', ['depends' => 'app\ass
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Select2</h4>
-                                        <p class="text-muted font-14">Select2 gives you a customizable select box with support for searching, tagging, remote data sets, infinite scrolling, and many other highly used options.</p>
+                                        <h4 class="header-title">选择2</h4>
+                                        <p class="text-muted font-14">选择2 gives you a customizable select box with support for searching, tagging, remote data sets, infinite scrolling, and many other highly used options.</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -46,7 +46,7 @@ $this->registerJsFile('/admin/js/pages/demo.typehead.js', ['depends' => 'app\ass
                                                     <div class="col-lg-6">
                                                         <p class="mb-1 fw-bold text-muted">Single Select</p>
                                                         <p class="text-muted font-14">
-                                                            Select2 can take a regular select box like this...
+                                                            选择2 can take a regular select box like this...
                                                         </p>
                     
                                                         <select class="form-control select2" data-toggle="select2">
@@ -117,7 +117,7 @@ $this->registerJsFile('/admin/js/pages/demo.typehead.js', ['depends' => 'app\ass
                                                     <div class="col-lg-6">
                                                         <p class="mb-1 fw-bold text-muted">Multiple Select</p>
                                                         <p class="text-muted font-14">
-                                                            Select2 can take a regular select box like this...
+                                                            选择2 can take a regular select box like this...
                                                         </p>
                     
                                                         <select class="select2 form-control select2-multiple" data-toggle="select2" multiple="multiple" data-placeholder="Choose ...">
@@ -594,7 +594,7 @@ $this->registerJsFile('/admin/js/pages/demo.typehead.js', ['depends' => 'app\ass
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Input Masks</h4>
+                                        <h4 class="header-title">输入掩码</h4>
                                         <p class="text-muted font-14">
                                             A jQuery Plugin to make masks on form fields and HTML elements.
                                         </p>

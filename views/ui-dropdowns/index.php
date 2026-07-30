@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Dropdowns</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">下拉菜单</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Dropdowns</h4>
+                                    <h4 class="page-title">下拉菜单</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Single button dropdowns</h4>
+                                        <h4 class="header-title">单按钮下拉菜单</h4>
                                         <p class="text-muted font-14">
                                             Any single <code
                                                 >.btn</code> can be turned into a dropdown
@@ -31,12 +31,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#single-button-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#single-button-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -46,12 +46,12 @@
                                                     <div class="col-auto">
                                                         <div class="dropdown">
                                                             <button class="btn btn-light dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                                Dropdown button
+                                                                下拉按钮
                                                             </button>
                                                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                                                <a class="dropdown-item" href="#">Action</a>
-                                                                <a class="dropdown-item" href="#">Another action</a>
-                                                                <a class="dropdown-item" href="#">Something else here</a>
+                                                                <a class="dropdown-item" href="#">操作</a>
+                                                                <a class="dropdown-item" href="#">其他操作</a>
+                                                                <a class="dropdown-item" href="#">其他选项</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -59,12 +59,12 @@
                                                     <div class="col-auto">
                                                         <div class="dropdown">
                                                             <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                                Dropdown link
+                                                                下拉链接
                                                             </a>
                                                             <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                                                <a class="dropdown-item" href="#">Action</a>
-                                                                <a class="dropdown-item" href="#">Another action</a>
-                                                                <a class="dropdown-item" href="#">Something else here</a>
+                                                                <a class="dropdown-item" href="#">操作</a>
+                                                                <a class="dropdown-item" href="#">其他操作</a>
+                                                                <a class="dropdown-item" href="#">其他选项</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -78,25 +78,25 @@
                                                         &lt;!-- Default Drodown --&gt;
                                                         &lt;div class=&quot;dropdown&quot;&gt;
                                                             &lt;button class=&quot;btn btn-light dropdown-toggle&quot; type=&quot;button&quot; id=&quot;dropdownMenuButton&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                Dropdown button
+                                                                下拉按钮
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;dropdownMenuButton&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                         
                                                         &lt;!-- Link with Dropdown --&gt;
                                                         &lt;div class=&quot;dropdown&quot;&gt;
                                                             &lt;a class=&quot;btn btn-secondary dropdown-toggle&quot; href=&quot;#&quot; role=&quot;button&quot; id=&quot;dropdownMenuLink&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                Dropdown link
+                                                                下拉链接
                                                             &lt;/a&gt;
                                                             
                                                             &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;dropdownMenuLink&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                     </span>
@@ -108,81 +108,81 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Variant</h4>
+                                        <h4 class="header-title">变体</h4>
                                         <p class="text-muted font-14">The best part is you can do this with any button variant, too:</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#variant-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#variant-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="variant-preview">
                                                 <div class="btn-group mb-2">
-                                                    <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Primary</button>
+                                                    <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">主要</button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div><!-- /btn-group -->
                                                 <div class="btn-group mb-2">
-                                                    <button type="button" class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Secondary</button>
+                                                    <button type="button" class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">次要</button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div><!-- /btn-group -->
                                                 <div class="btn-group mb-2">
-                                                    <button type="button" class="btn btn-success dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Success</button>
+                                                    <button type="button" class="btn btn-success dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">成功</button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div><!-- /btn-group -->
                                                 <div class="btn-group mb-2">
-                                                    <button type="button" class="btn btn-info dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Info</button>
+                                                    <button type="button" class="btn btn-info dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">信息</button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div><!-- /btn-group -->
                                                 <div class="btn-group mb-2">
-                                                    <button type="button" class="btn btn-warning dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Warning</button>
+                                                    <button type="button" class="btn btn-warning dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">警告</button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div><!-- /btn-group -->
                                                 <div class="btn-group mb-2">
-                                                    <button type="button" class="btn btn-danger dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Danger</button>
+                                                    <button type="button" class="btn btn-danger dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">危险</button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div><!-- /btn-group -->
         
@@ -194,50 +194,50 @@
                                                         &lt;!-- Light --&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-light dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Light&lt;/button&gt;
                                                         &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
+                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
                                                         &lt;/div&gt;
                                                         
                                                         &lt;!-- Secondary --&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Secondary&lt;/button&gt;
                                                         &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
+                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
                                                         &lt;/div&gt;
                                                         
                                                         
                                                         &lt;!-- Primary --&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-primary dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Primary&lt;/button&gt;
                                                         &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
+                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
                                                         &lt;/div&gt;
                                                         
                                                         &lt;!-- Success --&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-success dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Success&lt;/button&gt;
                                                         &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
+                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
                                                         &lt;/div&gt;
                                                         
                                                         &lt;!-- Info --&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-info dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Info&lt;/button&gt;
                                                         &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
+                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
                                                         &lt;/div&gt;
                                                         
                                                         &lt;!-- Warning --&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-warning dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Warning&lt;/button&gt;
                                                         &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
+                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
                                                         &lt;/div&gt;
                                                         
                                                         &lt;!-- Danger --&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-danger dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Danger&lt;/button&gt;
                                                         &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
+                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
                                                         &lt;/div&gt;
                                                         
                                                         &lt;!-- Dark --&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-dark dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Dark&lt;/button&gt;
                                                         &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
+                                                            &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
                                                         &lt;/div&gt;
                                                     </span>
                                                 </pre> <!-- end highlight-->
@@ -248,7 +248,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Animated Dropdown</h4>
+                                        <h4 class="header-title">动画下拉菜单</h4>
                                         <p class="text-muted font-14">
                                                 Add <code>.dropdown-menu-animated</code>
                                                 to a <code>.dropdown-menu</code> to have animated dropdown menu.</p>
@@ -256,12 +256,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#animated-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#animated-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -269,12 +269,12 @@
                                             <div class="tab-pane show active">
                                                 <div class="dropdown btn-group">
                                                     <button class="btn btn-light dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="animated-preview">
-                                                        Animated Dropdown
+                                                        动画下拉菜单
                                                     </button>
                                                     <div class="dropdown-menu dropdown-menu-animated">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                     </div>
                                                 </div>
 
@@ -285,12 +285,12 @@
                                                     <span class="html escape">
                                                         &lt;div class=&quot;dropdown btn-group&quot;&gt;
                                                             &lt;button class=&quot;btn btn-light dropdown-toggle&quot; type=&quot;button&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                Animated Dropdown
+                                                                动画下拉菜单
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu dropdown-menu-animated&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                     </span>
@@ -302,7 +302,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Dropup variation</h4>
+                                        <h4 class="header-title">向上弹出变体</h4>
                                         <p class="text-muted font-14">Trigger dropdown menus above elements
                                                 by adding <code>.dropup</code> to the parent
                                                 element.</p>
@@ -310,12 +310,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#dropup-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#dropup-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -323,30 +323,30 @@
                                             <div class="tab-pane show active" id="dropup-preview">
                                                 <!-- Default dropup button -->
                                                 <div class="btn-group dropup">
-                                                    <button type="button" class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropup</button>
+                                                    <button type="button" class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">向上弹出</button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div>
     
-                                                <!-- Split dropup button -->
+                                                <!-- 分割向上弹出 button -->
                                                 <div class="btn-group dropup">
                                                     <button type="button" class="btn btn-light">
-                                                        Split dropup
+                                                        分割向上弹出
                                                     </button>
                                                     <button type="button" class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        <span class="visually-hidden">Toggle Dropdown</span>
+                                                        <span class="visually-hidden">切换下拉</span>
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div>
                                            
@@ -357,30 +357,30 @@
                                                     <span class="html escape">
                                                         &lt;!-- Default dropup button --&gt;
                                                         &lt;div class=&quot;btn-group dropup&quot;&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Dropup&lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;向上弹出&lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                                 &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;分离链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
             
-                                                        &lt;!-- Split dropup button --&gt;
+                                                        &lt;!-- 分割向上弹出 button --&gt;
                                                         &lt;div class=&quot;btn-group dropup&quot;&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;
-                                                                Split dropup
+                                                                分割向上弹出
                                                             &lt;/button&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-light dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                &lt;span class=&quot;visually-hidden&quot;&gt;Toggle Dropdown&lt;/span&gt;
+                                                                &lt;span class=&quot;visually-hidden&quot;&gt;切换下拉&lt;/span&gt;
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                                 &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;分离链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                     </span>
@@ -392,18 +392,18 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Dropend variation</h4>
+                                        <h4 class="header-title">向右弹出变体</h4>
                                         <p class="text-muted font-14">Trigger dropdown menus at the right of the elements by adding <code>.dropend</code> to the parent element.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#dropend-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#dropend-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -412,31 +412,31 @@
                                                 <!-- Default dropend button -->
                                                 <div class="btn-group mb-2 dropend">
                                                     <button type="button" class="btn btn-primary   dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        Dropend
+                                                        向右弹出
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div>
     
                                                 <!-- Split dropend button -->
                                                 <div class="btn-group mb-2 dropend">
                                                     <button type="button" class="btn btn-primary">
-                                                        Split Dropend
+                                                        Split 向右弹出
                                                     </button>
                                                     <button type="button" class="btn btn-primary dropdown-toggle-split dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        <span class="visually-hidden">Toggle Dropright</span>
+                                                        <span class="visually-hidden">切换右弹</span>
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div>
                                           
@@ -448,31 +448,31 @@
                                                         &lt;!-- Default dropend button --&gt;
                                                         &lt;div class=&quot;btn-group mb-2 dropend&quot;&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-primary   dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                Dropend
+                                                                向右弹出
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                                 &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;分离链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
             
                                                         &lt;!-- Split dropend button --&gt;
                                                         &lt;div class=&quot;btn-group mb-2 dropend&quot;&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-primary &quot;&gt;
-                                                                Split Dropend
+                                                                Split 向右弹出
                                                             &lt;/button&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-primary dropdown-toggle-split dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                &lt;span class=&quot;visually-hidden&quot;&gt;Toggle Dropright&lt;/span&gt;
+                                                                &lt;span class=&quot;visually-hidden&quot;&gt;切换右弹&lt;/span&gt;
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                                 &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;分离链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                     </span>
@@ -484,32 +484,32 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Disabled Item</h4>
+                                        <h4 class="header-title">禁用项</h4>
                                         <p class="text-muted font-14">Add <code>.disabled</code> to items in the dropdown to <strong>style them as disabled</strong>.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#disabled-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#disabled-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="disabled-preview">
-                                                <!-- Disabled -->
+                                                <!-- 已禁用 -->
                                                 <div class="btn-group">
                                                     <button type="button" class="btn btn-primary   dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        Disabled
+                                                        已禁用
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Regular link</a>
-                                                        <a class="dropdown-item disabled" href="#" tabindex="-1" aria-disabled="true">Disabled link</a>
-                                                        <a class="dropdown-item" href="#">Another link</a>
+                                                        <a class="dropdown-item" href="#">常规链接</a>
+                                                        <a class="dropdown-item disabled" href="#" tabindex="-1" aria-disabled="true">已禁用 link</a>
+                                                        <a class="dropdown-item" href="#">另一个链接</a>
                                                     </div>
                                                 </div>
                                           
@@ -518,15 +518,15 @@
                                             <div class="tab-pane" id="disabled-code">
                                                 <pre class="mb-0">
                                                     <span class="html escape">
-                                                        &lt;!-- Disabled --&gt;
+                                                        &lt;!-- 已禁用 --&gt;
                                                         &lt;div class=&quot;btn-group&quot;&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-primary   dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                Disabled
+                                                                已禁用
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Regular link&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item disabled&quot; href=&quot;#&quot; tabindex=&quot;-1&quot; aria-disabled=&quot;true&quot;&gt;Disabled link&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;常规链接&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item disabled&quot; href=&quot;#&quot; tabindex=&quot;-1&quot; aria-disabled=&quot;true&quot;&gt;已禁用 link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;另一个链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                     </span>
@@ -538,18 +538,18 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Text</h4>
+                                        <h4 class="header-title">文本</h4>
                                         <p class="text-muted font-14">Place any freeform text within a dropdown menu with text and use spacing utilities. Note that you’ll likely need additional sizing styles to constrain the menu width.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#text-dropdown-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#text-dropdown-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -558,7 +558,7 @@
                                                 <!-- Text Example -->
                                                 <div class="btn-group">
                                                     <button type="button" class="btn btn-primary   dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        Text Dropdown
+                                                        文本下拉
                                                     </button>
                                                     <div class="dropdown-menu p-3 text-muted" style="max-width: 200px;">
                                                         <p>
@@ -578,7 +578,7 @@
                                                         &lt;!-- Text Example --&gt;
                                                         &lt;div class=&quot;btn-group&quot;&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-primary   dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                Text Dropdown
+                                                                文本下拉
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu p-3 text-muted&quot; style=&quot;max-width: 200px;&quot;&gt;
                                                                 &lt;p&gt;
@@ -601,7 +601,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Menu alignment</h4>
+                                        <h4 class="header-title">菜单对齐</h4>
                                         <p class="text-muted font-14">
                                             Add <code>.dropdown-menu-end</code>
                                             to a <code>.dropdown-menu</code> to right
@@ -611,12 +611,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#menu-alignment-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#menu-alignment-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -624,12 +624,12 @@
                                             <div class="tab-pane show active" id="menu-alignment-preview">
                                                 <div class="dropdown">
                                                     <button type="button" class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        Right-aligned menu
+                                                        右对齐菜单
                                                     </button>
                                                     <div class="dropdown-menu dropdown-menu-end">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                     </div>
                                                 </div>
                                             </div> <!-- end preview-->
@@ -639,12 +639,12 @@
                                                     <span class="html escape">
                                                         &lt;div class=&quot;dropdown&quot;&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-light dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                Right-aligned menu
+                                                                右对齐菜单
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu dropdown-menu-end&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                     </span>
@@ -656,7 +656,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Split button dropdowns</h4>
+                                        <h4 class="header-title">分割按钮下拉菜单</h4>
                                         <p class="text-muted font-14">
                                             Similarly, create split button dropdowns with virtually the same markup as single button dropdowns, but with the addition of <code>.dropdown-toggle-split</code> for proper spacing around the dropdown caret.
                                         </p>
@@ -664,12 +664,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#split-button-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#split-button-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -678,79 +678,79 @@
                                                 <div class="btn-group mb-2">
                                                     <button type="button" class="btn btn-primary">Primary</button>
                                                     <button type="button" class="btn btn-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        <span class="visually-hidden">Toggle Dropdown</span>
+                                                        <span class="visually-hidden">切换下拉</span>
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div><!-- /btn-group -->
                                                 <div class="btn-group mb-2">
                                                     <button type="button" class="btn btn-light">Secondary</button>
                                                     <button type="button" class="btn btn-light dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        <span class="visually-hidden">Toggle Dropdown</span>
+                                                        <span class="visually-hidden">切换下拉</span>
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div><!-- /btn-group -->
                                                 <div class="btn-group mb-2">
                                                     <button type="button" class="btn btn-success">Success</button>
                                                     <button type="button" class="btn btn-success dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        <span class="visually-hidden">Toggle Dropdown</span>
+                                                        <span class="visually-hidden">切换下拉</span>
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div><!-- /btn-group -->
                                                 <div class="btn-group mb-2">
                                                     <button type="button" class="btn btn-info">Info</button>
                                                     <button type="button" class="btn btn-info dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        <span class="visually-hidden">Toggle Dropdown</span>
+                                                        <span class="visually-hidden">切换下拉</span>
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div><!-- /btn-group -->
                                                 <div class="btn-group mb-2">
                                                     <button type="button" class="btn btn-warning">Warning</button>
                                                     <button type="button" class="btn btn-warning dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        <span class="visually-hidden">Toggle Dropdown</span>
+                                                        <span class="visually-hidden">切换下拉</span>
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div><!-- /btn-group -->
                                                 <div class="btn-group mb-2">
                                                     <button type="button" class="btn btn-danger">Danger</button>
                                                     <button type="button" class="btn btn-danger dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        <span class="visually-hidden">Toggle Dropdown</span>
+                                                        <span class="visually-hidden">切换下拉</span>
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div><!-- /btn-group -->
                                            
@@ -762,14 +762,14 @@
                                                         &lt;div class=&quot;btn-group&quot;&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Primary&lt;/button&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-primary dropdown-toggle dropdown-toggle-split&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                &lt;span class=&quot;visually-hidden&quot;&gt;Toggle Dropdown&lt;/span&gt;
+                                                                &lt;span class=&quot;visually-hidden&quot;&gt;切换下拉&lt;/span&gt;
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                                 &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;分离链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;&lt;!-- /btn-group --&gt;
                                                     </span>
@@ -781,78 +781,78 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Sizing</h4>
+                                        <h4 class="header-title">尺寸</h4>
                                         <p class="text-muted font-14">Button dropdowns work with buttons of all sizes, including default and split dropdown buttons.</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#sizing-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#sizing-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="sizing-preview">
-                                                <!-- Large button groups (default and split) -->
+                                                <!-- 大按钮 groups (default and split) -->
                                                 <div class="btn-group">
                                                     <button class="btn btn-light btn-lg dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        Large button
+                                                        大按钮
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div>
                                                 <div class="btn-group">
                                                     <button class="btn btn-light btn-lg" type="button">
-                                                        Large button
+                                                        大按钮
                                                     </button>
                                                     <button type="button" class="btn btn-lg btn-light dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        <span class="visually-hidden">Toggle Dropdown</span>
+                                                        <span class="visually-hidden">切换下拉</span>
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div>
     
-                                                <!-- Small button groups (default and split) -->
+                                                <!-- 小按钮 groups (default and split) -->
                                                 <div class="btn-group">
                                                     <button class="btn btn-light btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        Small button
+                                                        小按钮
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div>
                                                 <div class="btn-group">
                                                     <button class="btn btn-light btn-sm" type="button">
-                                                        Small button
+                                                        小按钮
                                                     </button>
                                                     <button type="button" class="btn btn-sm btn-light dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                        <span class="visually-hidden">Toggle Dropdown</span>
+                                                        <span class="visually-hidden">切换下拉</span>
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div>
                                        
@@ -861,61 +861,61 @@
                                             <div class="tab-pane" id="sizing-code">
                                                 <pre class="mb-0">
                                                     <span class="html escape">
-                                                        &lt;!-- Large button groups (default and split) --&gt;
+                                                        &lt;!-- 大按钮 groups (default and split) --&gt;
                                                         &lt;div class=&quot;btn-group&quot;&gt;
                                                             &lt;button class=&quot;btn btn-light btn-lg dropdown-toggle&quot; type=&quot;button&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                Large button
+                                                                大按钮
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                                 &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;分离链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                         &lt;div class=&quot;btn-group&quot;&gt;
                                                             &lt;button class=&quot;btn btn-light btn-lg&quot; type=&quot;button&quot;&gt;
-                                                                Large button
+                                                                大按钮
                                                             &lt;/button&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-lg btn-light dropdown-toggle dropdown-toggle-split&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                &lt;span class=&quot;visually-hidden&quot;&gt;Toggle Dropdown&lt;/span&gt;
+                                                                &lt;span class=&quot;visually-hidden&quot;&gt;切换下拉&lt;/span&gt;
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                                 &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;分离链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
             
-                                                        &lt;!-- Small button groups (default and split) --&gt;
+                                                        &lt;!-- 小按钮 groups (default and split) --&gt;
                                                         &lt;div class=&quot;btn-group&quot;&gt;
                                                             &lt;button class=&quot;btn btn-light btn-sm dropdown-toggle&quot; type=&quot;button&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                Small button
+                                                                小按钮
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                                 &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;分离链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                         &lt;div class=&quot;btn-group&quot;&gt;
                                                             &lt;button class=&quot;btn btn-light btn-sm&quot; type=&quot;button&quot;&gt;
-                                                                Small button
+                                                                小按钮
                                                             &lt;/button&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-sm btn-light dropdown-toggle dropdown-toggle-split&quot; data-bs-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;
-                                                                &lt;span class=&quot;visually-hidden&quot;&gt;Toggle Dropdown&lt;/span&gt;
+                                                                &lt;span class=&quot;visually-hidden&quot;&gt;切换下拉&lt;/span&gt;
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                                 &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;分离链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                     </span>
@@ -927,18 +927,18 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Dropstart variation</h4>
+                                        <h4 class="header-title">向左弹出变体</h4>
                                         <p class="text-muted font-14">Trigger dropdown menus at the right of the elements by adding <code>.dropleft</code> to the parent element.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#dropstart-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#dropstart-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -950,11 +950,11 @@
                                                         Dropstart 
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
-                                                        <a class="dropdown-item" href="#">Something else here</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
+                                                        <a class="dropdown-item" href="#">其他选项</a>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">Separated link</a>
+                                                        <a class="dropdown-item" href="#">分离链接</a>
                                                     </div>
                                                 </div>
                                                 
@@ -966,11 +966,11 @@
                                                             <span class="visually-hidden">Toggle Dropstart</span>
                                                         </button>
                                                         <div class="dropdown-menu">
-                                                            <a class="dropdown-item" href="#">Action</a>
-                                                            <a class="dropdown-item" href="#">Another action</a>
-                                                            <a class="dropdown-item" href="#">Something else here</a>
+                                                            <a class="dropdown-item" href="#">操作</a>
+                                                            <a class="dropdown-item" href="#">其他操作</a>
+                                                            <a class="dropdown-item" href="#">其他选项</a>
                                                             <div class="dropdown-divider"></div>
-                                                            <a class="dropdown-item" href="#">Separated link</a>
+                                                            <a class="dropdown-item" href="#">分离链接</a>
                                                         </div>
                                                     </div>
                                                     <button type="button" class="btn btn-secondary">
@@ -988,11 +988,11 @@
                                                                 Dropstart
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                                 &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;分离链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                         
@@ -1004,11 +1004,11 @@
                                                                     &lt;span class=&quot;visually-hidden&quot;&gt;Toggle Dropstart&lt;/span&gt;
                                                                 &lt;/button&gt;
                                                                 &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
-                                                                    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Something else here&lt;/a&gt;
+                                                                    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
+                                                                    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他选项&lt;/a&gt;
                                                                     &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;
-                                                                    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Separated link&lt;/a&gt;
+                                                                    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;分离链接&lt;/a&gt;
                                                                 &lt;/div&gt;
                                                             &lt;/div&gt;
                                                             &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot;&gt;
@@ -1030,12 +1030,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#active-item-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#active-item-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -1047,9 +1047,9 @@
                                                         Active Item
                                                     </button>
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Regular link</a>
+                                                        <a class="dropdown-item" href="#">常规链接</a>
                                                         <a class="dropdown-item active" href="#">Active link</a>
-                                                        <a class="dropdown-item" href="#">Another link</a>
+                                                        <a class="dropdown-item" href="#">另一个链接</a>
                                                     </div>
                                                 </div>
                                             </div> <!-- end preview-->
@@ -1063,9 +1063,9 @@
                                                                 Active Menu
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Regular link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;常规链接&lt;/a&gt;
                                                                 &lt;a class=&quot;dropdown-item active&quot; href=&quot;#&quot;&gt;Active link&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;另一个链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                     </span>
@@ -1083,12 +1083,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#headers-item-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#headers-item-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -1101,8 +1101,8 @@
                                                     </button>
                                                     <div class="dropdown-menu">
                                                         <h6 class="dropdown-header">Dropdown header</h6>
-                                                        <a class="dropdown-item" href="#">Action</a>
-                                                        <a class="dropdown-item" href="#">Another action</a>
+                                                        <a class="dropdown-item" href="#">操作</a>
+                                                        <a class="dropdown-item" href="#">其他操作</a>
                                                     </div>
                                                 </div>
                                             </div> <!-- end preview-->
@@ -1117,8 +1117,8 @@
                                                             &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
                                                                 &lt;h6 class=&quot;dropdown-header&quot;&gt;Dropdown header&lt;/h6&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Action&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Another action&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;操作&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;其他操作&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                     </span>
@@ -1136,12 +1136,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#dropdown-form-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#dropdown-form-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->

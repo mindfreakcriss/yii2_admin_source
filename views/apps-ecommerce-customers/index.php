@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">eCommerce</a></li>
-                                            <li class="breadcrumb-item active">Customers</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">电子商务</a></li>
+                                            <li class="breadcrumb-item active">客户</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Customers</h4>
+                                    <h4 class="page-title">客户</h4>
                                 </div>
                             </div>
                         </div>
@@ -25,13 +25,13 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                     <div class="card-body">
                                         <div class="row mb-2">
                                             <div class="col-sm-5">
-                                                <a href="javascript:void(0);" class="btn btn-danger mb-2"><i class="mdi mdi-plus-circle me-2"></i> Add Customers</a>
+                                                <a href="javascript:void(0);" class="btn btn-danger mb-2"><i class="mdi mdi-plus-circle me-2"></i> 新增客户</a>
                                             </div>
                                             <div class="col-sm-7">
                                                 <div class="text-sm-end">
                                                     <button type="button" class="btn btn-success mb-2 me-1"><i class="mdi mdi-cog"></i></button>
-                                                    <button type="button" class="btn btn-light mb-2 me-1">Import</button>
-                                                    <button type="button" class="btn btn-light mb-2">Export</button>
+                                                    <button type="button" class="btn btn-light mb-2 me-1">导入</button>
+                                                    <button type="button" class="btn btn-light mb-2">导出</button>
                                                 </div>
                                             </div><!-- end col-->
                                         </div>
@@ -46,13 +46,13 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                                 <label class="form-check-label" for="customCheck1">&nbsp;</label>
                                                             </div>
                                                         </th>
-                                                        <th>Customer</th>
-                                                        <th>Phone</th>
-                                                        <th>Email</th>
-                                                        <th>Location</th>
-                                                        <th>Create Date</th>
-                                                        <th>Status</th>
-                                                        <th style="width: 75px;">Action</th>
+                                                        <th>客户</th>
+                                                        <th>电话</th>
+                                                        <th>邮箱</th>
+                                                        <th>地区</th>
+                                                        <th>创建日期</th>
+                                                        <th>状态</th>
+                                                        <th style="width: 75px;">操作</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
@@ -80,7 +80,7 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                             07/07/2018
                                                         </td>
                                                         <td>
-                                                            <span class="badge badge-success-lighten">Active</span>
+                                                            <span class="badge badge-success-lighten">启用</span>
                                                         </td>
                     
                                                         <td>
@@ -113,7 +113,7 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                             09/12/2018
                                                         </td>
                                                         <td>
-                                                            <span class="badge badge-success-lighten">Active</span>
+                                                            <span class="badge badge-success-lighten">启用</span>
                                                         </td>
                     
                                                         <td>
@@ -145,7 +145,7 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                             06/30/2018
                                                         </td>
                                                         <td>
-                                                            <span class="badge badge-danger-lighten">Blocked</span>
+                                                            <span class="badge badge-danger-lighten">已禁用</span>
                                                         </td>
                     
                                                         <td>
@@ -177,7 +177,7 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                             09/08/2018
                                                         </td>
                                                         <td>
-                                                            <span class="badge badge-danger-lighten">Blocked</span>
+                                                            <span class="badge badge-danger-lighten">已禁用</span>
                                                         </td>
                     
                                                         <td>
@@ -209,7 +209,7 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                             07/15/2018
                                                         </td>
                                                         <td>
-                                                            <span class="badge badge-success-lighten">Active</span>
+                                                            <span class="badge badge-success-lighten">启用</span>
                                                         </td>
                     
                                                         <td>
@@ -241,7 +241,7 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                             09/05/2018
                                                         </td>
                                                         <td>
-                                                            <span class="badge badge-success-lighten">Active</span>
+                                                            <span class="badge badge-success-lighten">启用</span>
                                                         </td>
                     
                                                         <td>
@@ -273,7 +273,7 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                             08/02/2018
                                                         </td>
                                                         <td>
-                                                            <span class="badge badge-danger-lighten">Blocked</span>
+                                                            <span class="badge badge-danger-lighten">已禁用</span>
                                                         </td>
                     
                                                         <td>
@@ -305,7 +305,7 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                             08/23/2018
                                                         </td>
                                                         <td>
-                                                            <span class="badge badge-success-lighten">Active</span>
+                                                            <span class="badge badge-success-lighten">启用</span>
                                                         </td>
                     
                                                         <td>
@@ -337,7 +337,7 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                             05/06/2018
                                                         </td>
                                                         <td>
-                                                            <span class="badge badge-success-lighten">Active</span>
+                                                            <span class="badge badge-success-lighten">启用</span>
                                                         </td>
                     
                                                         <td>
@@ -369,7 +369,7 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                             04/09/2018
                                                         </td>
                                                         <td>
-                                                            <span class="badge badge-success-lighten">Active</span>
+                                                            <span class="badge badge-success-lighten">启用</span>
                                                         </td>
                     
                                                         <td>
@@ -401,7 +401,7 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                             06/19/2018
                                                         </td>
                                                         <td>
-                                                            <span class="badge badge-success-lighten">Active</span>
+                                                            <span class="badge badge-success-lighten">启用</span>
                                                         </td>
                     
                                                         <td>
@@ -433,7 +433,7 @@ $this->registerJsFile('/admin/js/pages/demo.customers.js', ['depends' => 'app\as
                                                             03/24/2018
                                                         </td>
                                                         <td>
-                                                            <span class="badge badge-danger-lighten">Blocked</span>
+                                                            <span class="badge badge-danger-lighten">已禁用</span>
                                                         </td>
                     
                                                         <td>

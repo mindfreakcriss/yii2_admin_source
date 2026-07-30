@@ -10,10 +10,10 @@ $this->registerJsFile('/admin/js/pages/demo.apex-scatter.js', ['depends' => 'app
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Apex</a></li>
-                                            <li class="breadcrumb-item active">Scatter Charts</li>
+                                            <li class="breadcrumb-item active">散点图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Scatter Charts</h4>
+                                    <h4 class="page-title">散点图</h4>
                                 </div>
                             </div>
                         </div>

@@ -10,10 +10,10 @@ $this->registerJsFile('/admin/js/pages/demo.apex-column.js', ['depends' => 'app\
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Apex</a></li>
-                                            <li class="breadcrumb-item active">Column Charts</li>
+                                            <li class="breadcrumb-item active">柱形图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Column Charts</h4>
+                                    <h4 class="page-title">柱形图</h4>
                                 </div>
                             </div>
                         </div>
@@ -23,7 +23,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-column.js', ['depends' => 'app\
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Basic Column Chart</h4>
+                                        <h4 class="header-title">基本柱形图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="basic-column" class="apex-charts" data-colors="#727cf5,#0acf97,#fa5c7c"></div>
                                         </div>
@@ -54,7 +54,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-column.js', ['depends' => 'app\
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Stacked Column Chart</h4>
+                                        <h4 class="header-title">堆叠柱形图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="stacked-column" class="apex-charts" data-colors="#39afd1,#ffbc00,#e3eaef"></div>
                                         </div>
@@ -68,7 +68,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-column.js', ['depends' => 'app\
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">100% Stacked Column Chart</h4>
+                                        <h4 class="header-title">100% 堆叠柱形图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="full-stacked-column" class="apex-charts" data-colors="#39afd1,#0acf97,#e3eaef"></div>
                                         </div>
@@ -130,7 +130,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-column.js', ['depends' => 'app\
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Range Column Chart</h4>
+                                        <h4 class="header-title">范围柱形图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="range-column" class="apex-charts" data-colors="#0acf97,#39afd1"></div>
                                         </div>

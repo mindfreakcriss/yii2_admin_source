@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Embed Video</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">嵌入视频</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Embed Video</h4>
+                                    <h4 class="page-title">嵌入视频</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,18 +19,18 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Responsive embed video 21:9</h4>
+                                        <h4 class="header-title">自适应嵌入视频 21:9</h4>
                                         <p class="text-muted font-14">Use class <code>.ratio-21x9</code></p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#embed-1-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#embed-1-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -58,18 +58,18 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Responsive embed video 1:1</h4>
+                                        <h4 class="header-title">自适应嵌入视频 1:1</h4>
                                         <p class="text-muted font-14">Use class <code>.ratio-1x1</code></p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#embed-2-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#embed-2-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -99,18 +99,18 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Responsive embed video 16:9</h4>
+                                        <h4 class="header-title">自适应嵌入视频 16:9</h4>
                                         <p class="text-muted font-14">Use class <code>.ratio-16x9</code></p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#embed-3-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#embed-3-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -138,18 +138,18 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Responsive embed video 4:3</h4>
+                                        <h4 class="header-title">自适应嵌入视频 4:3</h4>
                                         <p class="text-muted font-14">Use class <code>.ratio-4x3</code></p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#embed-4-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#embed-4-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->

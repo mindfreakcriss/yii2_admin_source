@@ -10,10 +10,10 @@ $this->registerJsFile('/admin/js/pages/demo.apex-radar.js', ['depends' => 'app\a
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Apex</a></li>
-                                            <li class="breadcrumb-item active">Radar Charts</li>
+                                            <li class="breadcrumb-item active">雷达图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Radar Charts</h4>
+                                    <h4 class="page-title">雷达图</h4>
                                 </div>
                             </div>
                         </div>
@@ -24,7 +24,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-radar.js', ['depends' => 'app\a
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Basic Radar Chart</h4>
+                                        <h4 class="header-title mb-3">基本雷达图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="basic-radar" class="apex-charts" data-colors="#727cf5"></div>
                                         </div>
@@ -54,7 +54,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-radar.js', ['depends' => 'app\a
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Radar – Multiple Series</h4>
+                                        <h4 class="header-title mb-3">Radar – 多系列</h4>
                                         <div dir="ltr">
                                             <div id="radar-multiple-series" class="apex-charts" data-colors="#727cf5,#02a8b5,#fd7e14"></div>
                                             <div class="text-center mt-2">

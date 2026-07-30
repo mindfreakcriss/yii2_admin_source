@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Pages</a></li>
-                                            <li class="breadcrumb-item active">FAQ</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">页面</a></li>
+                                            <li class="breadcrumb-item active">常见问题</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">FAQ</h4>
+                                    <h4 class="page-title">常见问题</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,13 +19,13 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="text-center">
-                                    <h3 class="">Frequently Asked Questions</h3>
+                                    <h3 class="">常见问题</h3>
                                     <p class="text-muted mt-3"> Nisi praesentium similique totam odio obcaecati, reprehenderit,
                                         dignissimos rem temporibus ea inventore alias!<br/> Beatae animi nemo ea
                                         tempora, temporibus laborum facilis ut!</p>
         
-                                    <button type="button" class="btn btn-success btn-sm mt-2"><i class="mdi mdi-email-outline me-1"></i> Email us your question</button>
-                                    <button type="button" class="btn btn-info btn-sm mt-2 ms-1"><i class="mdi mdi-twitter me-1"></i> Send us a tweet</button>
+                                    <button type="button" class="btn btn-success btn-sm mt-2"><i class="mdi mdi-email-outline me-1"></i> 邮件提问</button>
+                                    <button type="button" class="btn btn-info btn-sm mt-2 ms-1"><i class="mdi mdi-twitter me-1"></i> 发送推文</button>
                                 </div>
                             </div><!-- end col -->
                         </div><!-- end row -->

@@ -10,10 +10,10 @@ $this->registerJsFile('/admin/js/pages/demo.apex-sparklines.js', ['depends' => '
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Apex</a></li>
-                                            <li class="breadcrumb-item active">Sparklines Charts</li>
+                                            <li class="breadcrumb-item active">迷你图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Sparklines Charts</h4>
+                                    <h4 class="page-title">迷你图</h4>
                                 </div>
                             </div>
                         </div>
@@ -43,9 +43,9 @@ $this->registerJsFile('/admin/js/pages/demo.apex-sparklines.js', ['depends' => '
                                                     <table class="table table-centered mb-0">
                                                         <thead class="table-light">
                                                             <tr>
-                                                                <th>Total Value</th>
+                                                                <th>总值</th>
                                                                 <th>Percentage of Portfolio</th>
-                                                                <th>Last 10 days</th>
+                                                                <th>最近 10 天</th>
                                                                 <th>Volume</th>
                                                             </tr>
                                                         </thead>

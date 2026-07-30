@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">List Group</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">列表组</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">List Group</h4>
+                                    <h4 class="page-title">列表组</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Basic example</h4>
+                                        <h4 class="header-title">基本示例</h4>
                                         
                                         <p class="text-muted font-14">The most basic list group is an unordered list with list items and the proper classes.
                                             Build upon it with the options that follow, or with your own CSS as needed.
@@ -69,7 +69,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Active items</h4>
+                                        <h4 class="header-title">激活项</h4>
                                         <p class="text-muted font-14">Add <code>.active</code> to a <code>.list-group-item</code> to indicate the current active selection.</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -116,7 +116,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Disabled items</h4>
+                                        <h4 class="header-title">禁用项</h4>
                                         <p>Add <code>.disabled</code> to a <code>.list-group-item</code> to make it <em>appear</em> disabled.</p>
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -165,7 +165,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Links and Buttons</h4>
+                                        <h4 class="header-title">链接和按钮</h4>
                                         <p class="text-muted font-14">Use <code>&lt;a&gt;</code>s or <code>&lt;button&gt;</code>s to create <em>actionable</em> list group items with hover, disabled, and active states by adding <code>.list-group-item-action</code>.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -216,7 +216,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Flush</h4>
+                                        <h4 class="header-title">无边框</h4>
                                         <p class="text-muted font-14">Add <code>.list-group-flush</code> to remove some borders and rounded corners to render list group items edge-to-edge in a parent container (e.g., cards).</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -263,7 +263,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Horizontal</h4>
+                                        <h4 class="header-title">水平排列</h4>
                                         <p class="text-muted font-14">Add <code>.list-group-horizontal</code> to change the layout of list group items from vertical to horizontal across all breakpoints. Alternatively, choose a responsive variant <code>.list-group-horizontal-{sm|md|lg|xl}</code> to make a list group horizontal starting at that breakpoint’s <code>min-width</code>.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -344,7 +344,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Contextual classes</h4>
+                                        <h4 class="header-title">情景类</h4>
                                         <p class="text-muted font-14">Use contextual classes to style list items with a stateful background and color.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -399,7 +399,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Contextual classes with Link</h4>
+                                        <h4 class="header-title">带链接的情景类</h4>
                                         <p class="text-muted font-14">Use contextual classes to style list items with a stateful background and color.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -454,7 +454,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Custom content</h4>
+                                        <h4 class="header-title">自定义内容</h4>
                                         <p class="text-muted font-14">Add nearly any HTML within, even for linked list groups like the one below, with the help of flexbox utilities.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -543,7 +543,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">With badges</h4>
+                                        <h4 class="header-title">带徽章</h4>
                                         <p class="text-muted font-14">Add badges to any list group item to show unread counts, activity, and more with the help of some utilities.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -612,7 +612,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Checkboxes and radios</h4>
+                                        <h4 class="header-title">复选框和单选按钮</h4>
                                         <p class="text-muted font-14">Place Bootstrap’s checkboxes and radios within list group items and customize as needed. You can use them without <code>&lt;label&gt;</code>s, but please remember to include an <code>aria-label</code> attribute and value for accessibility.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -680,7 +680,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Numbered</h4>
+                                        <h4 class="header-title">编号列表</h4>
                                         <p class="text-muted font-14">Numbers are generated by <code>counter-reset</code> on the <code>&lt;ol&gt;</code>, and then styled and placed with a <code>::before</code> psuedo-element on the <code>&lt;li&gt;</code> with <code>counter-increment</code> and <code>content</code>.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">

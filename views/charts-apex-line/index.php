@@ -10,10 +10,10 @@ $this->registerJsFile('/admin/js/pages/demo.apex-line.js', ['depends' => 'app\as
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Apex</a></li>
-                                            <li class="breadcrumb-item active">Line Charts</li>
+                                            <li class="breadcrumb-item active">折线图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Line Charts</h4>
+                                    <h4 class="page-title">折线图</h4>
                                 </div>
                             </div>
                         </div>
@@ -37,7 +37,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-line.js', ['depends' => 'app\as
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Line with Data Labels</h4>
+                                        <h4 class="header-title mb-4">带数据标签的折线图</h4>
                                         <div dir="ltr">
                                             <div id="line-chart-datalabel" class="apex-charts" data-colors="#6c757d,#727cf5"></div>
                                         </div>
@@ -54,7 +54,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-line.js', ['depends' => 'app\as
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Zoomable Timeseries</h4>
+                                        <h4 class="header-title mb-4">可缩放时间序列</h4>
                                         <div dir="ltr">
                                             <div id="line-chart-zoomable" class="apex-charts" data-colors="#fa5c7c"></div>
                                         </div>
@@ -100,7 +100,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-line.js', ['depends' => 'app\as
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Gradient Line Chart</h4>
+                                        <h4 class="header-title mb-4">渐变折线图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="line-chart-gradient" class="apex-charts"></div>
                                         </div>
@@ -131,7 +131,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-line.js', ['depends' => 'app\as
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Dashed Line Chart</h4>
+                                        <h4 class="header-title mb-4">虚线折线图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="line-chart-dashed" class="apex-charts" data-colors="#6c757d,#0acf97,#39afd1"></div>
                                         </div>

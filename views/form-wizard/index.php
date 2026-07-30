@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Forms</a></li>
-                                            <li class="breadcrumb-item active">Form Wizard</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">表单</a></li>
+                                            <li class="breadcrumb-item active">表单向导</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Form Wizard</h4>
+                                    <h4 class="page-title">表单向导</h4>
                                 </div>
                             </div>
                         </div>
@@ -24,7 +24,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                 <div class="card">
                                     <div class="card-body">
 
-                                        <h4 class="header-title mb-3"> Basic Wizard</h4>
+                                        <h4 class="header-title mb-3"> 基本向导</h4>
 
                                         <form>
                                             <div id="basicwizard">
@@ -33,19 +33,19 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                     <li class="nav-item">
                                                         <a href="#basictab1" data-bs-toggle="tab" data-toggle="tab"  class="nav-link rounded-0 pt-2 pb-2"> 
                                                             <i class="mdi mdi-account-circle me-1"></i>
-                                                            <span class="d-none d-sm-inline">Account</span>
+                                                            <span class="d-none d-sm-inline">账户</span>
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a href="#basictab2" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2">
                                                             <i class="mdi mdi-face-profile me-1"></i>
-                                                            <span class="d-none d-sm-inline">Profile</span>
+                                                            <span class="d-none d-sm-inline">个人资料</span>
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a href="#basictab3" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2">
                                                             <i class="mdi mdi-checkbox-marked-circle-outline me-1"></i>
-                                                            <span class="d-none d-sm-inline">Finish</span>
+                                                            <span class="d-none d-sm-inline">完成</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -55,7 +55,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                         <div class="row">
                                                             <div class="col-12">
                                                                 <div class="row mb-3">
-                                                                    <label class="col-md-3 col-form-label" for="userName">User name</label>
+                                                                    <label class="col-md-3 col-form-label" for="userName">用户名</label>
                                                                     <div class="col-md-9">
                                                                         <input type="text" class="form-control" id="userName" name="userName" value="hyper">
                                                                     </div>
@@ -68,7 +68,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                                 </div>
                                                                 
                                                                 <div class="row mb-3">
-                                                                    <label class="col-md-3 col-form-label" for="confirm">Re Password</label>
+                                                                    <label class="col-md-3 col-form-label" for="confirm">确认密码</label>
                                                                     <div class="col-md-9">
                                                                         <input type="password" id="confirm" name="confirm" class="form-control" value="123456789">
                                                                     </div>
@@ -87,14 +87,14 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                                     </div>
                                                                 </div>
                                                                 <div class="row mb-3">
-                                                                    <label class="col-md-3 col-form-label" for="surname"> Last name</label>
+                                                                    <label class="col-md-3 col-form-label" for="surname"> 姓</label>
                                                                     <div class="col-md-9">
                                                                         <input type="text" id="surname" name="surname" class="form-control" value="Brinkman">
                                                                     </div>
                                                                 </div>
                                         
                                                                 <div class="row mb-3">
-                                                                    <label class="col-md-3 col-form-label" for="email">Email</label>
+                                                                    <label class="col-md-3 col-form-label" for="email">邮箱</label>
                                                                     <div class="col-md-9">
                                                                         <input type="email" id="email" name="email" class="form-control" value="cory1979@hotmail.com">
                                                                     </div>
@@ -108,7 +108,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                             <div class="col-12">
                                                                 <div class="text-center">
                                                                     <h2 class="mt-0"><i class="mdi mdi-check-all"></i></h2>
-                                                                    <h3 class="mt-0">Thank you !</h3>
+                                                                    <h3 class="mt-0">谢谢！</h3>
 
                                                                     <p class="w-75 mb-2 mx-auto">Quisque nec turpis at urna dictum luctus. Suspendisse convallis dignissim eros at volutpat. In egestas mattis dui. Aliquam
                                                                         mattis dictum aliquet.</p>
@@ -116,7 +116,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                                     <div class="mb-3">
                                                                         <div class="form-check d-inline-block">
                                                                             <input type="checkbox" class="form-check-input" id="customCheck1">
-                                                                            <label class="form-check-label" for="customCheck1">I agree with the Terms and Conditions</label>
+                                                                            <label class="form-check-label" for="customCheck1">我同意条款和条件</label>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -126,10 +126,10 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
 
                                                     <ul class="list-inline wizard mb-0">
                                                         <li class="previous list-inline-item">
-                                                            <a href="javascript:void(0);" class="btn btn-info">Previous</a>
+                                                            <a href="javascript:void(0);" class="btn btn-info">上一页</a>
                                                         </li>
                                                         <li class="next list-inline-item float-end">
-                                                            <a href="javascript:void(0);" class="btn btn-info">Next</a>
+                                                            <a href="javascript:void(0);" class="btn btn-info">下一页</a>
                                                         </li>
                                                     </ul>
 
@@ -145,26 +145,26 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                 <div class="card">
                                     <div class="card-body">
 
-                                        <h4 class="header-title mb-3"> Button Wizard</h4>
+                                        <h4 class="header-title mb-3"> 按钮向导</h4>
 
                                         <div id="btnwizard">
                                             <ul class="nav nav-pills nav-justified form-wizard-header mb-4">
                                                 <li class="nav-item">
                                                     <a href="#tab12" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2">
                                                         <i class="mdi mdi-account-circle me-1"></i>
-                                                        <span class="d-none d-sm-inline">Account</span>
+                                                        <span class="d-none d-sm-inline">账户</span>
                                                     </a>
                                                 </li>
                                                 <li class="nav-item">
                                                     <a href="#tab22" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2">
                                                         <i class="mdi mdi-face-profile me-1"></i>
-                                                        <span class="d-none d-sm-inline">Profile</span>
+                                                        <span class="d-none d-sm-inline">个人资料</span>
                                                     </a>
                                                 </li>
                                                 <li class="nav-item">
                                                     <a href="#tab32" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2">
                                                         <i class="mdi mdi-checkbox-marked-circle-outline me-1"></i>
-                                                        <span class="d-none d-sm-inline">Finish</span>
+                                                        <span class="d-none d-sm-inline">完成</span>
                                                     </a>
                                                 </li>
                                             </ul>
@@ -175,7 +175,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                     <div class="row">
                                                         <div class="col-12">
                                                             <div class="row mb-3">
-                                                                <label class="col-md-3 col-form-label" for="userName2">User name</label>
+                                                                <label class="col-md-3 col-form-label" for="userName2">用户名</label>
                                                                 <div class="col-md-9">
                                                                     <input type="text" class="form-control" id="userName2" name="userName2" value="hyper">
                                                                 </div>
@@ -188,7 +188,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                             </div>
                                                             
                                                             <div class="row mb-3">
-                                                                <label class="col-md-3 col-form-label" for="confirm2">Re Password</label>
+                                                                <label class="col-md-3 col-form-label" for="confirm2">确认密码</label>
                                                                 <div class="col-md-9">
                                                                     <input type="password" id="confirm2" name="confirm2" class="form-control" value="123456789">
                                                                 </div>
@@ -207,14 +207,14 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                                 </div>
                                                             </div>
                                                             <div class="row mb-3">
-                                                                <label class="col-md-3 col-form-label" for="surname2"> Last name</label>
+                                                                <label class="col-md-3 col-form-label" for="surname2"> 姓</label>
                                                                 <div class="col-md-9">
                                                                     <input type="text" id="surname2" name="surname2" class="form-control" value="Brinkman">
                                                                 </div>
                                                             </div>
                                     
                                                             <div class="row mb-3">
-                                                                <label class="col-md-3 col-form-label" for="email2">Email</label>
+                                                                <label class="col-md-3 col-form-label" for="email2">邮箱</label>
                                                                 <div class="col-md-9">
                                                                     <input type="email" id="email2" name="email2" class="form-control" value="cory1979@hotmail.com">
                                                                 </div>
@@ -228,7 +228,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                         <div class="col-12">
                                                             <div class="text-center">
                                                                 <h2 class="mt-0"><i class="mdi mdi-check-all"></i></h2>
-                                                                <h3 class="mt-0">Thank you !</h3>
+                                                                <h3 class="mt-0">谢谢！</h3>
 
                                                                 <p class="w-75 mb-2 mx-auto">Quisque nec turpis at urna dictum luctus. Suspendisse convallis dignissim eros at volutpat. In egestas mattis dui. Aliquam
                                                                     mattis dictum aliquet.</p>
@@ -236,7 +236,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                                 <div class="mb-3">
                                                                     <div class="form-check d-inline-block">
                                                                         <input type="checkbox" class="form-check-input" id="customCheck2">
-                                                                        <label class="form-check-label" for="customCheck2">I agree with the Terms and Conditions</label>
+                                                                        <label class="form-check-label" for="customCheck2">我同意条款和条件</label>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -245,12 +245,12 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                 </div>
                                             
                                                 <div class="float-end">
-                                                    <input type='button' class='btn btn-info button-next' name='next' value='Next' />
+                                                    <input type='button' class='btn btn-info button-next' name='next' value='下一页' />
                                                     <input type='button' class='btn btn-info button-last' name='last' value='Last' />
                                                 </div>
                                                 <div class="float-start">
                                                     <input type='button' class='btn btn-info button-first' name='first' value='First' />
-                                                    <input type='button' class='btn btn-info button-previous' name='previous' value='Previous' />
+                                                    <input type='button' class='btn btn-info button-previous' name='previous' value='上一页' />
                                                 </div>
 
                                                 <div class="clearfix"></div>
@@ -279,19 +279,19 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                     <li class="nav-item">
                                                         <a href="#account-2" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2">
                                                             <i class="mdi mdi-account-circle me-1"></i>
-                                                            <span class="d-none d-sm-inline">Account</span>
+                                                            <span class="d-none d-sm-inline">账户</span>
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a href="#profile-tab-2" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2">
                                                             <i class="mdi mdi-face-profile me-1"></i>
-                                                            <span class="d-none d-sm-inline">Profile</span>
+                                                            <span class="d-none d-sm-inline">个人资料</span>
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a href="#finish-2" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2">
                                                             <i class="mdi mdi-checkbox-marked-circle-outline me-1"></i>
-                                                            <span class="d-none d-sm-inline">Finish</span>
+                                                            <span class="d-none d-sm-inline">完成</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -306,7 +306,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                         <div class="row">
                                                             <div class="col-12">
                                                                 <div class="row mb-3">
-                                                                    <label class="col-md-3 col-form-label" for="userName1">User name</label>
+                                                                    <label class="col-md-3 col-form-label" for="userName1">用户名</label>
                                                                     <div class="col-md-9">
                                                                         <input type="text" class="form-control" id="userName1" name="userName1" value="hyper">
                                                                     </div>
@@ -319,7 +319,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                                 </div>
                                                                 
                                                                 <div class="row mb-3">
-                                                                    <label class="col-md-3 col-form-label" for="confirm1">Re Password</label>
+                                                                    <label class="col-md-3 col-form-label" for="confirm1">确认密码</label>
                                                                     <div class="col-md-9">
                                                                         <input type="password" id="confirm1" name="confirm1" class="form-control" value="123456789">
                                                                     </div>
@@ -338,14 +338,14 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                                     </div>
                                                                 </div>
                                                                 <div class="row mb-3">
-                                                                    <label class="col-md-3 col-form-label" for="surname1"> Last name</label>
+                                                                    <label class="col-md-3 col-form-label" for="surname1"> 姓</label>
                                                                     <div class="col-md-9">
                                                                         <input type="text" id="surname1" name="surname1" class="form-control" value="Brinkman">
                                                                     </div>
                                                                 </div>
                                         
                                                                 <div class="row mb-3">
-                                                                    <label class="col-md-3 col-form-label" for="email1">Email</label>
+                                                                    <label class="col-md-3 col-form-label" for="email1">邮箱</label>
                                                                     <div class="col-md-9">
                                                                         <input type="email" id="email1" name="email1" class="form-control" value="cory1979@hotmail.com">
                                                                     </div>
@@ -359,7 +359,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                             <div class="col-12">
                                                                 <div class="text-center">
                                                                     <h2 class="mt-0"><i class="mdi mdi-check-all"></i></h2>
-                                                                    <h3 class="mt-0">Thank you !</h3>
+                                                                    <h3 class="mt-0">谢谢！</h3>
 
                                                                     <p class="w-75 mb-2 mx-auto">Quisque nec turpis at urna dictum luctus. Suspendisse convallis dignissim eros at volutpat. In egestas mattis dui. Aliquam
                                                                         mattis dictum aliquet.</p>
@@ -367,7 +367,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                                     <div class="mb-3">
                                                                         <div class="form-check d-inline-block">
                                                                             <input type="checkbox" class="form-check-input" id="customCheck3">
-                                                                            <label class="form-check-label" for="customCheck3">I agree with the Terms and Conditions</label>
+                                                                            <label class="form-check-label" for="customCheck3">我同意条款和条件</label>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -377,10 +377,10 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
 
                                                     <ul class="list-inline mb-0 wizard">
                                                         <li class="previous list-inline-item">
-                                                            <a href="javascript:void(0);" class="btn btn-info">Previous</a>
+                                                            <a href="javascript:void(0);" class="btn btn-info">上一页</a>
                                                         </li>
                                                         <li class="next list-inline-item float-end">
-                                                            <a href="javascript:void(0);" class="btn btn-info">Next</a>
+                                                            <a href="javascript:void(0);" class="btn btn-info">下一页</a>
                                                         </li>
                                                     </ul>
 
@@ -403,19 +403,19 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                     <li class="nav-item" data-target-form="#accountForm">
                                                         <a href="#first" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2">
                                                             <i class="mdi mdi-account-circle me-1"></i>
-                                                            <span class="d-none d-sm-inline">Account</span>
+                                                            <span class="d-none d-sm-inline">账户</span>
                                                         </a>
                                                     </li>
                                                     <li class="nav-item" data-target-form="#profileForm">
                                                         <a href="#second" data-bs-toggle="tab" data-toggle="tab"  class="nav-link rounded-0 pt-2 pb-2">
                                                             <i class="mdi mdi-face-profile me-1"></i>
-                                                            <span class="d-none d-sm-inline">Profile</span>
+                                                            <span class="d-none d-sm-inline">个人资料</span>
                                                         </a>
                                                     </li>
                                                     <li class="nav-item" data-target-form="#otherForm">
                                                         <a href="#third" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2">
                                                             <i class="mdi mdi-checkbox-marked-circle-outline me-1"></i>
-                                                            <span class="d-none d-sm-inline">Finish</span>
+                                                            <span class="d-none d-sm-inline">完成</span>
                                                         </a>
                                                     </li>
                                                 </ul>
@@ -427,7 +427,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                             <div class="row">
                                                                 <div class="col-12">
                                                                     <div class="row mb-3">
-                                                                        <label class="col-md-3 col-form-label" for="userName3">User name</label>
+                                                                        <label class="col-md-3 col-form-label" for="userName3">用户名</label>
                                                                         <div class="col-md-9">
                                                                             <input type="text" class="form-control" id="userName3" name="userName3" required>
                                                                         </div>
@@ -440,7 +440,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                                     </div>
                                                                     
                                                                     <div class="row mb-3">
-                                                                        <label class="col-md-3 col-form-label" for="confirm3">Re Password</label>
+                                                                        <label class="col-md-3 col-form-label" for="confirm3">确认密码</label>
                                                                         <div class="col-md-9">
                                                                             <input type="password" id="confirm3" name="confirm3" class="form-control" required>
                                                                         </div>
@@ -461,14 +461,14 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                                         </div>
                                                                     </div>
                                                                     <div class="row mb-3">
-                                                                        <label class="col-md-3 col-form-label" for="surname3"> Last name</label>
+                                                                        <label class="col-md-3 col-form-label" for="surname3"> 姓</label>
                                                                         <div class="col-md-9">
                                                                             <input type="text" id="surname3" name="surname3" class="form-control" required>
                                                                         </div>
                                                                     </div>
                                                         
                                                                     <div class="row mb-3">
-                                                                        <label class="col-md-3 col-form-label" for="email3">Email</label>
+                                                                        <label class="col-md-3 col-form-label" for="email3">邮箱</label>
                                                                         <div class="col-md-9">
                                                                             <input type="email" id="email3" name="email3" class="form-control" required>
                                                                         </div>
@@ -488,7 +488,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                                         <h2 class="mt-0">
                                                                             <i class="mdi mdi-check-all"></i>
                                                                         </h2>
-                                                                        <h3 class="mt-0">Thank you !</h3>
+                                                                        <h3 class="mt-0">谢谢！</h3>
                                                         
                                                                         <p class="w-75 mb-2 mx-auto">Quisque nec turpis at urna dictum luctus. Suspendisse convallis dignissim eros at volutpat. In egestas mattis
                                                                             dui. Aliquam mattis dictum aliquet.</p>
@@ -496,7 +496,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                                         <div class="mb-3">
                                                                             <div class="form-check d-inline-block">
                                                                                 <input type="checkbox" class="form-check-input" id="customCheck4" required>
-                                                                                <label class="form-check-label" for="customCheck4">I agree with the Terms and Conditions</label>
+                                                                                <label class="form-check-label" for="customCheck4">我同意条款和条件</label>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -508,9 +508,9 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                                     </div>
 
                                                     <ul class="list-inline wizard mb-0">
-                                                        <li class="previous list-inline-item"><a href="javascript:void(0);" class="btn btn-info">Previous</a>
+                                                        <li class="previous list-inline-item"><a href="javascript:void(0);" class="btn btn-info">上一页</a>
                                                         </li>
-                                                        <li class="next list-inline-item float-end"><a href="javascript:void(0);" class="btn btn-info">Next</a></li>
+                                                        <li class="next list-inline-item float-end"><a href="javascript:void(0);" class="btn btn-info">下一页</a></li>
                                                     </ul>
 
                                                 </div> <!-- tab-content -->

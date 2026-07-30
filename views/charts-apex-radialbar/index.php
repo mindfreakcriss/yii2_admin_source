@@ -10,10 +10,10 @@ $this->registerJsFile('/admin/js/pages/demo.apex-radialbar.js', ['depends' => 'a
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Apex</a></li>
-                                            <li class="breadcrumb-item active">RadialBar Charts</li>
+                                            <li class="breadcrumb-item active">径向柱图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">RadialBar Charts</h4>
+                                    <h4 class="page-title">径向柱图</h4>
                                 </div>
                             </div>
                         </div>
@@ -23,7 +23,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-radialbar.js', ['depends' => 'a
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Basic RadialBar Chart</h4>
+                                        <h4 class="header-title mb-4">基本径向柱图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="basic-radialbar" class="apex-charts" data-colors="#39afd1"></div>
                                         </div>
@@ -37,7 +37,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-radialbar.js', ['depends' => 'a
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Multiple RadialBars</h4>
+                                        <h4 class="header-title mb-4">多径向柱图s</h4>
                                         <div dir="ltr">
                                             <div id="multiple-radialbar" class="apex-charts" data-colors="#6c757d,#ffbc00,#727cf5,#0acf97"></div>
                                         </div>

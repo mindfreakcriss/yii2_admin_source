@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Ribbons</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">彩带</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Ribbons</h4>
+                                    <h4 class="page-title">彩带</h4>
                                 </div>
                             </div>
                         </div>
@@ -235,7 +235,7 @@
                                     <div class="tab-pane" id="ribbons-code">
                                         <pre class="mb-0">
                                                 <span class="html escape">
-                                                    &lt;!-- Ribbons style 1 --&gt;
+                                                    &lt;!-- 彩带 style 1 --&gt;
 
                                                     &lt;!-- Left --&gt;
                                                     &lt;div class=&quot;card ribbon-box&quot;&gt;
@@ -260,7 +260,7 @@
                                                     &lt;/div&gt; &lt;!-- end card--&gt;
                                                     
                                                     
-                                                    &lt;!-- Ribbons style 2 --&gt;
+                                                    &lt;!-- 彩带 style 2 --&gt;
                                                     
                                                     &lt;div class=&quot;card ribbon-box&quot;&gt;
                                                         &lt;div class=&quot;card-body&quot;&gt;

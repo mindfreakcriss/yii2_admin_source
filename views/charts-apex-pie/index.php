@@ -10,10 +10,10 @@ $this->registerJsFile('/admin/js/pages/demo.apex-pie.js', ['depends' => 'app\ass
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Apex</a></li>
-                                            <li class="breadcrumb-item active">Pie Charts</li>
+                                            <li class="breadcrumb-item active">饼图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Pie Charts</h4>
+                                    <h4 class="page-title">饼图</h4>
                                 </div>
                             </div>
                         </div>
@@ -23,7 +23,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-pie.js', ['depends' => 'app\ass
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Simple Pie Chart</h4>
+                                        <h4 class="header-title">简单饼图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="simple-pie" class="apex-charts" data-colors="#727cf5,#6c757d,#0acf97,#fa5c7c,#e3eaef"></div>
                                         </div>
@@ -37,7 +37,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-pie.js', ['depends' => 'app\ass
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Simple Donut Chart</h4>
+                                        <h4 class="header-title">简单环形图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="simple-donut" class="apex-charts" data-colors="#39afd1,#ffbc00,#313a46,#fa5c7c,#0acf97"></div>
                                         </div>
@@ -54,7 +54,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-pie.js', ['depends' => 'app\ass
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Monochrome Pie Chart</h4>
+                                        <h4 class="header-title mb-4">单色饼图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="monochrome-pie" class="apex-charts"></div>
                                         </div>
@@ -68,7 +68,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-pie.js', ['depends' => 'app\ass
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Gradient Donut Chart</h4>
+                                        <h4 class="header-title mb-4">渐变环形图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="gradient-donut" class="apex-charts" data-colors="#727cf5,#6c757d,#0acf97,#fa5c7c,#e3eaef"></div>
                                         </div>

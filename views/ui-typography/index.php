@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Typography</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">排版</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Typography</h4>
+                                    <h4 class="page-title">排版</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Display headings</h4>
+                                        <h4 class="header-title">展示标题</h4>
                                         <p class="text-muted font-14">Traditional heading elements are designed to work best in the meat of your page content. When you need a heading to stand out, consider using a display heading—a larger, slightly more opinionated heading style.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -118,7 +118,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Headings</h4>
+                                        <h4 class="header-title">标题</h4>
                                         <p class="text-muted font-14">All HTML headings, <code>&lt;h1&gt;</code> through
                                             <code>&lt;h6&gt;</code>, are available. <code>.h1</code> through <code>.h6</code>
                                             classes are also available, for when you want to match the font styling of a heading
@@ -231,7 +231,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Inline text elements</h4>
+                                        <h4 class="header-title">内联文本元素</h4>
                                         <p class="text-muted font-14">Styling for common inline HTML5 elements.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -582,7 +582,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Unstyled</h4>
+                                        <h4 class="header-title">无样式</h4>
                                         <p class="text-muted font-14"><strong>This only applies to immediate children
                                                 list items</strong>, meaning you will need to add the class for any nested lists as well.</p>
                         
@@ -620,7 +620,7 @@
                                                     </li>
                                                 </ul>    
                                                 
-                                                <h5>Inline</h5>
+                                                <h5>内联</h5>
                                                 <p class="text-muted m-b-15">
                                                     Place all list items on a single line with <code>
                                                     display: inline-block;</code>
@@ -663,7 +663,7 @@
                                                             &lt;/li&gt;
                                                         &lt;/ul&gt;    
                                                         
-                                                        &lt;!-- Inline --&gt;
+                                                        &lt;!-- 内联 --&gt;
                                                         
                                                         &lt;ul class=&quot;list-inline&quot;&gt;
                                                             &lt;li class=&quot;list-inline-item&quot;&gt;
@@ -690,7 +690,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Blockquotes</h4>
+                                        <h4 class="header-title">块引用</h4>
                                         <p class="text-muted font-14">For quoting blocks of content from another source within your document. Wrap <code>&lt;blockquote class="blockquote"&gt;</code> around any <abbr title="HyperText Markup Language">HTML</abbr> as the quote.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -758,7 +758,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Description list alignment</h4>
+                                        <h4 class="header-title">描述列表对齐</h4>
                                         <p class="text-muted font-14">Align terms and descriptions horizontally by using our grid system’s predefined classes (or semantic mixins). For longer terms, you can optionally add a <code>.text-truncate</code> class to truncate the text with an ellipsis.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">

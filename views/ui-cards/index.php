@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Cards</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">卡片</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Cards</h4>
+                                    <h4 class="page-title">卡片</h4>
                                 </div>
                             </div>
                         </div>
@@ -22,10 +22,9 @@
                                 <div class="card d-block">
                                     <img class="card-img-top" src="/admin/images/small/small-1.jpg" alt="Card image cap">
                                     <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text">Some quick example text to build on the card title and make
-                                            up the bulk of the card's content. Some quick example text to build on the card title and make up.</p>
-                                        <a href="javascript: void(0);" class="btn btn-primary">Button</a>
+                                        <h5 class="card-title">卡片标题</h5>
+                                        <p class="card-text">一些快速示例文本，用于构建卡片标题并填充卡片内容的大部分内容。</p>
+                                        <a href="javascript: void(0);" class="btn btn-primary">按钮</a>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
                             </div><!-- end col -->
@@ -34,15 +33,15 @@
                                 <div class="card d-block">
                                     <img class="card-img-top" src="/admin/images/small/small-2.jpg" alt="Card image cap">
                                     <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <p class="card-text">Some quick example text to build on the card..</p>
+                                        <h5 class="card-title">卡片标题</h5>
+                                        <p class="card-text">一些快速示例文本，用于构建卡片。。</p>
                                     </div>
                                     <ul class="list-group list-group-flush">
                                         <li class="list-group-item">Cras justo odio</li>
                                     </ul>
                                     <div class="card-body">
-                                        <a href="javascript: void(0);" class="card-link text-custom">Card link</a>
-                                        <a href="javascript: void(0);" class="card-link text-custom">Another link</a>
+                                        <a href="javascript: void(0);" class="card-link text-custom">卡片链接</a>
+                                        <a href="javascript: void(0);" class="card-link text-custom">另一个链接</a>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
                             </div><!-- end col -->
@@ -51,9 +50,8 @@
                                 <div class="card d-block">
                                     <img class="card-img-top" src="/admin/images/small/small-3.jpg" alt="Card image cap">
                                     <div class="card-body">
-                                        <p class="card-text">Some quick example text to build on the card title and make
-                                            up the bulk of the card's content. Some quick example text to build on the card title and make up.</p>
-                                        <a href="javascript: void(0);" class="btn btn-primary">Button</a>
+                                        <p class="card-text">一些快速示例文本，用于构建卡片标题并填充卡片内容的大部分内容。</p>
+                                        <a href="javascript: void(0);" class="btn btn-primary">按钮</a>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
                             </div><!-- end col -->
@@ -62,15 +60,15 @@
                             <div class="col-sm-6 col-lg-3">
                                 <div class="card d-block">
                                     <div class="card-body">
-                                        <h5 class="card-title">Card title</h5>
-                                        <h6 class="card-subtitle text-muted">Support card subtitle</h6>
+                                        <h5 class="card-title">卡片标题</h5>
+                                        <h6 class="card-subtitle text-muted">支持卡片副标题</h6>
                                     </div>
                                     <img class="img-fluid" src="/admin/images/small/small-4.jpg" alt="Card image cap">
                                     <div class="card-body">
                                         <p class="card-text">Some quick example text to build on the card title and make
                                             up the bulk of the card's content.</p>
-                                        <a href="javascript: void(0);" class="card-link text-custom">Card link</a>
-                                        <a href="javascript: void(0);" class="card-link text-custom">Another link</a>
+                                        <a href="javascript: void(0);" class="card-link text-custom">卡片链接</a>
+                                        <a href="javascript: void(0);" class="card-link text-custom">另一个链接</a>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
                             </div><!-- end col -->
@@ -80,18 +78,16 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="card card-body">
-                                    <h5 class="card-title">Special title treatment</h5>
-                                    <p class="card-text">With supporting text below as a natural lead-in to additional
-                                        content.</p>
-                                    <a href="javascript: void(0);" class="btn btn-primary">Go somewhere</a>
+                                    <h5 class="card-title">特殊标题处理</h5>
+                                    <p class="card-text">下方有支持文本作为附加内容的自然引导。</p>
+                                    <a href="javascript: void(0);" class="btn btn-primary">前往</a>
                                 </div> <!-- end card-->
                             </div> <!-- end col-->
                             <div class="col-sm-6">
                                 <div class="card card-body">
-                                    <h5 class="card-title">Special title treatment</h5>
-                                    <p class="card-text">With supporting text below as a natural lead-in to additional
-                                        content.</p>
-                                    <a href="javascript: void(0);" class="btn btn-primary">Go somewhere</a>
+                                    <h5 class="card-title">特殊标题处理</h5>
+                                    <p class="card-text">下方有支持文本作为附加内容的自然引导。</p>
+                                    <a href="javascript: void(0);" class="btn btn-primary">前往</a>
                                 </div> <!-- end card-->
                             </div> <!-- end col-->
                         </div>
@@ -100,12 +96,11 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="card">
-                                    <h6 class="card-header">Featured</h6>
+                                    <h6 class="card-header">精选</h6>
                                     <div class="card-body">
-                                        <h5 class="card-title">Special title treatment</h5>
-                                        <p class="card-text">With supporting text below as a natural lead-in to
-                                            additional content.</p>
-                                        <a href="javascript: void(0);" class="btn btn-primary">Go somewhere</a>
+                                        <h5 class="card-title">特殊标题处理</h5>
+                                        <p class="card-text">下方有支持文本作为附加内容的自然引导。</p>
+                                        <a href="javascript: void(0);" class="btn btn-primary">前往</a>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
                             </div> <!-- end col-->
@@ -113,7 +108,7 @@
                             <div class="col-md-4">
                                 <div class="card">
                                     <div class="card-header">
-                                        Quote
+                                        引用
                                     </div>
                                     <div class="card-body">
                                         <blockquote class="card-bodyquote">
@@ -129,13 +124,13 @@
                             <div class="col-md-4">
                                 <div class="card">
                                     <div class="card-header">
-                                        Featured
+                                        精选
                                     </div>
                                     <div class="card-body">
-                                        <a href="javascript: void(0);" class="btn btn-primary">Go somewhere</a>
+                                        <a href="javascript: void(0);" class="btn btn-primary">按钮</a>
                                     </div>
                                     <div class="card-footer text-muted">
-                                        2 days ago
+                                        2 天前
                                     </div>
                                 </div> <!-- end card-->
                             </div> <!-- end col-->
@@ -144,7 +139,7 @@
 
                         <div class="row">
                             <div class="col-12">
-                                <h4 class="mb-4">Card Colored</h4>
+                                <h4 class="mb-4">卡片颜色</h4>
                             </div> <!-- end col -->
                         </div>
                         <!-- end row -->
@@ -153,10 +148,9 @@
                             <div class="col-lg-4 col-sm-6">
                                 <div class="card bg-secondary text-white">
                                     <div class="card-body">
-                                        <h5 class="card-title">Special title treatment</h5>
-                                        <p class="card-text">With supporting text below as a natural lead-in to
-                                            additional content.</p>
-                                        <a href="javascript: void(0);" class="btn btn-primary btn-sm">Button</a>
+                                        <h5 class="card-title">特殊标题处理</h5>
+                                        <p class="card-text">下方有支持文本作为附加内容的自然引导。</p>
+                                        <a href="javascript: void(0);" class="btn btn-primary btn-sm">按钮</a>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
                             </div> <!-- end col-->
@@ -230,7 +224,7 @@
 
                         <div class="row">
                             <div class="col-12">
-                                <h4 class="mb-4">Card Bordered</h4>
+                                <h4 class="mb-4">卡片边框</h4>
                             </div> <!-- end col -->
                         </div>
                         <!-- end row -->
@@ -239,10 +233,9 @@
                             <div class="col-md-4">
                                 <div class="card border-secondary border">
                                     <div class="card-body">
-                                        <h5 class="card-title">Special title treatment</h5>
-                                        <p class="card-text">With supporting text below as a natural lead-in to
-                                            additional content.</p>
-                                        <a href="javascript: void(0);" class="btn btn-secondary btn-sm">Button</a>
+                                        <h5 class="card-title text-secondary">特殊标题处理</h5>
+                                        <p class="card-text">下方有支持文本作为附加内容的自然引导。</p>
+                                        <a href="javascript: void(0);" class="btn btn-secondary btn-sm">按钮</a>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
                             </div> <!-- end col-->
@@ -250,10 +243,9 @@
                             <div class="col-md-4">
                                 <div class="card border-primary border">
                                     <div class="card-body">
-                                        <h5 class="card-title text-primary">Special title treatment</h5>
-                                        <p class="card-text">With supporting text below as a natural lead-in to
-                                            additional content.</p>
-                                        <a href="javascript: void(0);" class="btn btn-primary btn-sm">Button</a>
+                                        <h5 class="card-title text-primary">特殊标题处理</h5>
+                                        <p class="card-text">下方有支持文本作为附加内容的自然引导。</p>
+                                        <a href="javascript: void(0);" class="btn btn-primary btn-sm">按钮</a>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
                             </div> <!-- end col-->
@@ -261,10 +253,9 @@
                             <div class="col-md-4">
                                 <div class="card border-success border">
                                     <div class="card-body">
-                                        <h5 class="card-title text-success">Special title treatment</h5>
-                                        <p class="card-text">With supporting text below as a natural lead-in to
-                                            additional content.</p>
-                                        <a href="javascript: void(0);" class="btn btn-success btn-sm">Button</a>
+                                        <h5 class="card-title text-success">特殊标题处理</h5>
+                                        <p class="card-text">下方有支持文本作为附加内容的自然引导。</p>
+                                        <a href="javascript: void(0);" class="btn btn-success btn-sm">按钮</a>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
                             </div> <!-- end col-->
@@ -274,7 +265,7 @@
                         
                         <div class="row">
                             <div class="col-12">
-                                <h4 class="mb-4">Horizontal Card</h4>
+                                <h4 class="mb-4">水平卡片</h4>
                             </div> <!-- end col -->
                         </div>
                         <!-- end row -->
@@ -288,9 +279,9 @@
                                         </div>
                                         <div class="col-md-8">
                                             <div class="card-body">
-                                                <h5 class="card-title">Card title</h5>
-                                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                                <h5 class="card-title">卡片标题</h5>
+                                                <p class="card-text">这是一张更宽的卡片，下方有支持文本作为附加内容的自然引导。此内容略长。</p>
+                                                <p class="card-text"><small class="text-muted">上次更新 3 分钟前</small></p>
                                             </div> <!-- end card-body-->
                                         </div> <!-- end col -->
                                     </div> <!-- end row-->
@@ -301,9 +292,9 @@
                                     <div class="row g-0 align-items-center">
                                         <div class="col-md-8">
                                             <div class="card-body">
-                                                <h5 class="card-title">Card title</h5>
-                                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                                <h5 class="card-title">卡片标题</h5>
+                                                <p class="card-text">这是一张更宽的卡片，下方有支持文本作为附加内容的自然引导。此内容略长。</p>
+                                                <p class="card-text"><small class="text-muted">上次更新 3 分钟前</small></p>
                                             </div> <!-- end card-body -->
                                         </div> <!-- end col -->
                                         <div class="col-md-4">
@@ -317,7 +308,7 @@
 
                         <div class="row">
                             <div class="col-12">
-                                <h4 class="mb-4">Stretched link</h4>
+                                <h4 class="mb-4">拉伸链接</h4>
                             </div> <!-- end col -->
                         </div>
                         <!-- end row -->
@@ -327,8 +318,8 @@
                                 <div class="card">
                                     <img src="/admin/images/small/small-2.jpg" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-title">Card with stretched link</h5>
-                                        <a href="#" class="btn btn-primary mt-2 stretched-link">Go somewhere</a>
+                                        <h5 class="card-title">带拉伸链接的卡片</h5>
+                                        <a href="#" class="btn btn-primary mt-2 stretched-link">前往</a>
                                     </div> <!-- end card-body -->
                                 </div> <!-- end card -->
                             </div> <!-- end col-->
@@ -336,9 +327,9 @@
                                 <div class="card">
                                     <img src="/admin/images/small/small-3.jpg" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-title"><a href="#" class="text-success stretched-link">Card with stretched link</a></h5>
+                                        <h5 class="card-title"><a href="#" class="text-success stretched-link">带拉伸链接的卡片</a></h5>
                                         <p class="card-text">
-                                            Some quick example text to build on the card up the bulk of the card's content.
+                                            一些快速示例文本，用于构建卡片内容的大部分内容。
                                         </p>
                                     </div> <!-- end card-body -->
                                 </div> <!-- end card -->
@@ -347,8 +338,8 @@
                                 <div class="card">
                                     <img src="/admin/images/small/small-4.jpg" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-title">Card with stretched link</h5>
-                                        <a href="#" class="btn btn-info mt-2 stretched-link">Go somewhere</a>
+                                        <h5 class="card-title">带拉伸链接的卡片</h5>
+                                        <a href="#" class="btn btn-info mt-2 stretched-link">前往</a>
                                     </div> <!-- end card-body -->
                                 </div> <!-- end card -->
                             </div> <!-- end col-->
@@ -356,9 +347,9 @@
                                 <div class="card">
                                     <img src="/admin/images/small/small-1.jpg" class="card-img-top" alt="...">
                                     <div class="card-body">
-                                        <h5 class="card-title"><a href="#" class="stretched-link">Card with stretched link</a></h5>
+                                        <h5 class="card-title"><a href="#" class="stretched-link">带拉伸链接的卡片</a></h5>
                                         <p class="card-text">
-                                            Some quick example text to build on the card up the bulk of the card's content.
+                                            一些快速示例文本，用于构建卡片内容的大部分内容。
                                         </p>
                                     </div> <!-- end card-body -->
                                 </div> <!-- end card -->
@@ -368,7 +359,7 @@
 
                         <div class="row">
                             <div class="col-12">
-                                <h4 class="mb-4">Card Group</h4>
+                                <h4 class="mb-4">卡片组</h4>
                             </div> <!-- end col -->
                         </div>
                         <!-- end row -->
@@ -418,7 +409,7 @@
 
                         <div class="row">
                             <div class="col-12">
-                                <h4 class="mb-4 mt-4">Card Decks</h4>
+                                <h4 class="mb-4 mt-4">卡片列</h4>
                             </div> <!-- end col -->
                         </div>
                         <!-- end row -->
@@ -474,7 +465,7 @@
 
                         <div class="row">
                             <div class="col-12">
-                                <h4 class="mb-4 mt-4">Custom Card Portlets</h4>
+                                <h4 class="mb-4 mt-4">自定义卡片</h4>
                             </div> <!-- end col -->
                         </div>
                         <!-- end row -->

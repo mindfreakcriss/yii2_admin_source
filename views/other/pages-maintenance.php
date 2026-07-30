@@ -5,28 +5,28 @@
 
                         <div class="text-center">
                             <img src="/admin/images/maintenance.svg" height="140" alt="File not found Image">
-                            <h3 class="mt-4">Site is Under Maintenance</h3>
-                            <p class="text-muted">We're making the system more awesome. We'll be back shortly.</p>
+                            <h3 class="mt-4">系统正在维护中</h3>
+                            <p class="text-muted">我们正在让系统变得更棒。很快就会回来。</p>
 
                             <div class="row mt-5">
                                 <div class="col-md-4">
                                     <div class="text-center mt-3 ps-1 pe-1">
                                         <i class="dripicons-jewel bg-primary maintenance-icon text-white mb-2"></i>
-                                        <h5 class="text-uppercase">Why is the Site Down?</h5>
+                                        <h5 class="text-uppercase">为什么网站下线？</h5>
                                         <p class="text-muted">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
                                     </div>
                                 </div> <!-- end col-->
                                 <div class="col-md-4">
                                     <div class="text-center mt-3 ps-1 pe-1">
                                         <i class="dripicons-clock bg-primary maintenance-icon text-white mb-2"></i>
-                                        <h5 class="text-uppercase">What is the Downtime?</h5>
+                                        <h5 class="text-uppercase">预计恢复时间？</h5>
                                         <p class="text-muted">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical but the majority.</p>
                                     </div>
                                 </div> <!-- end col-->
                                 <div class="col-md-4">
                                     <div class="text-center mt-3 ps-1 pe-1">
                                         <i class="dripicons-question bg-primary maintenance-icon text-white mb-2"></i>
-                                        <h5 class="text-uppercase">Do you need Support?</h5>
+                                        <h5 class="text-uppercase">需要支持吗？</h5>
                                         <p class="text-muted">If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embar.. <a href="mailto:#" class="text-muted fw-bold">no-reply@domain.com</a></p>
                                     </div>
                                 </div> <!-- end col-->

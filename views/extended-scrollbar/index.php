@@ -5,11 +5,11 @@
                                 <div class="page-title-right">
                                     <ol class="breadcrumb m-0">
                                         <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                        <li class="breadcrumb-item"><a href="javascript: void(0);">Extended UI</a></li>
-                                        <li class="breadcrumb-item active">Scrollbar</li>
+                                        <li class="breadcrumb-item"><a href="javascript: void(0);">扩展 UI</a></li>
+                                        <li class="breadcrumb-item active">滚动条</li>
                                     </ol>
                                 </div>
-                                <h4 class="page-title">Scrollbar</h4>
+                                <h4 class="page-title">滚动条</h4>
                             </div>
                         </div>
                     </div>
@@ -19,7 +19,7 @@
                         <div class="col-xl-6">
                             <div class="card">
                                 <div class="card-body pb-0">
-                                    <h4 class="header-title">Default Scroll</h4>
+                                    <h4 class="header-title">默认 Scroll</h4>
                                     <p class="text-muted font-14">Just use data attribute <code>data-simplebar</code>
                                         and add <code>max-height: **px</code> oh fix height</p>
 
@@ -56,7 +56,7 @@
                                                 customize it as you want! Or even have multiple style on the same
                                                 page...or just keep the default style ("Mac OS" scrollbar style).
                                             </p>
-                                            <h5>Lightweight and performant</h5>
+                                            <h5>轻量 and performant</h5>
                                             <p>Only 6kb minified. SimpleBar doesn't use Javascript to handle
                                                 scrolling. You keep the performances/behaviours of the native
                                                 scroll.</p>
@@ -82,7 +82,7 @@
                         <div class="col-xl-6">
                             <div class="card">
                                 <div class="card-body pb-0">
-                                    <h4 class="header-title">RTL Position</h4>
+                                    <h4 class="header-title">从右到左 Position</h4>
                                     <p class="text-muted font-14">Just use data attribute <code>data-simplebar data-simplebar-direction='rtl'</code>
                                         and add <code>max-height: **px</code> oh fix height</p>
 
@@ -119,7 +119,7 @@
                                                 customize it as you want! Or even have multiple style on the same
                                                 page...or just keep the default style ("Mac OS" scrollbar style).
                                             </p>
-                                            <h5>Lightweight and performant</h5>
+                                            <h5>轻量 and performant</h5>
                                             <p>Only 6kb minified. SimpleBar doesn't use Javascript to handle
                                                 scrolling. You keep the performances/behaviours of the native
                                                 scroll.</p>
@@ -186,7 +186,7 @@
                                                 customize it as you want! Or even have multiple style on the same
                                                 page...or just keep the default style ("Mac OS" scrollbar style).
                                             </p>
-                                            <h5>Lightweight and performant</h5>
+                                            <h5>轻量 and performant</h5>
                                             <p>Only 6kb minified. SimpleBar doesn't use Javascript to handle
                                                 scrolling. You keep the performances/behaviours of the native
                                                 scroll.</p>
@@ -248,7 +248,7 @@
                                                 customize it as you want! Or even have multiple style on the same
                                                 page...or just keep the default style ("Mac OS" scrollbar style).
                                             </p>
-                                            <h5>Lightweight and performant</h5>
+                                            <h5>轻量 and performant</h5>
                                             <p>Only 6kb minified. SimpleBar doesn't use Javascript to handle
                                                 scrolling. You keep the performances/behaviours of the native
                                                 scroll.</p>

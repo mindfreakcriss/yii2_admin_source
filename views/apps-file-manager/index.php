@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Apps</a></li>
-                                            <li class="breadcrumb-item active">File Manager</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">应用</a></li>
+                                            <li class="breadcrumb-item active">文件管理</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">File Manager</h4>
+                                    <h4 class="page-title">文件管理</h4>
                                 </div>
                             </div>
                         </div>
@@ -25,27 +25,27 @@
                                         <div class="page-aside-left">
 
                                             <div class="btn-group d-block mb-2">
-                                                <button type="button" class="btn btn-success dropdown-toggle w-100" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="mdi mdi-plus"></i> Create New </button>
+                                                <button type="button" class="btn btn-success dropdown-toggle w-100" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="mdi mdi-plus"></i> 新建 </button>
                                                 <div class="dropdown-menu">
-                                                    <a class="dropdown-item" href="#"><i class="mdi mdi-folder-plus-outline me-1"></i> Folder</a>
-                                                    <a class="dropdown-item" href="#"><i class="mdi mdi-file-plus-outline me-1"></i> File</a>
-                                                    <a class="dropdown-item" href="#"><i class="mdi mdi-file-document me-1"></i> Document</a>
-                                                    <a class="dropdown-item" href="#"><i class="mdi mdi-upload me-1"></i> Choose File</a>
+                                                    <a class="dropdown-item" href="#"><i class="mdi mdi-folder-plus-outline me-1"></i> 文件夹</a>
+                                                    <a class="dropdown-item" href="#"><i class="mdi mdi-file-plus-outline me-1"></i> 文件</a>
+                                                    <a class="dropdown-item" href="#"><i class="mdi mdi-file-document me-1"></i> 文档</a>
+                                                    <a class="dropdown-item" href="#"><i class="mdi mdi-upload me-1"></i> 选择文件</a>
                                                 </div>
                                             </div>
                                             <div class="email-menu-list mt-3">
-                                                <a href="#" class="list-group-item border-0"><i class="mdi mdi-folder-outline font-18 align-middle me-2"></i>My Files</a>
+                                                <a href="#" class="list-group-item border-0"><i class="mdi mdi-folder-outline font-18 align-middle me-2"></i>我的文件</a>
                                                 <a href="#" class="list-group-item border-0"><i class="mdi mdi-google-drive font-18 align-middle me-2"></i>Google Drive</a>
                                                 <a href="#" class="list-group-item border-0"><i class="mdi mdi-dropbox font-18 align-middle me-2"></i>Dropbox</a>
-                                                <a href="#" class="list-group-item border-0"><i class="mdi mdi-share-variant font-18 align-middle me-2"></i>Share with me</a>
-                                                <a href="#" class="list-group-item border-0"><i class="mdi mdi-clock-outline font-18 align-middle me-2"></i>Recent</a>
-                                                <a href="#" class="list-group-item border-0"><i class="mdi mdi-star-outline font-18 align-middle me-2"></i>Starred</a>
-                                                <a href="#" class="list-group-item border-0"><i class="mdi mdi-delete font-18 align-middle me-2"></i>Deleted Files</a>
+                                                <a href="#" class="list-group-item border-0"><i class="mdi mdi-share-variant font-18 align-middle me-2"></i>与我分享</a>
+                                                <a href="#" class="list-group-item border-0"><i class="mdi mdi-clock-outline font-18 align-middle me-2"></i>最近</a>
+                                                <a href="#" class="list-group-item border-0"><i class="mdi mdi-star-outline font-18 align-middle me-2"></i>星标</a>
+                                                <a href="#" class="list-group-item border-0"><i class="mdi mdi-delete font-18 align-middle me-2"></i>已删除</a>
                                             </div>
     
                                             <div class="mt-5">
                                                 <h4><span class="badge rounded-pill p-1 px-2 badge-secondary-lighten">FREE</span></h4>
-                                                <h6 class="text-uppercase mt-3">Storage</h6>
+                                                <h6 class="text-uppercase mt-3">存储</h6>
                                                 <div class="progress my-2 progress-sm">
                                                     <div class="progress-bar progress-lg bg-success" role="progressbar" style="width: 46%" aria-valuenow="46" aria-valuemin="0" aria-valuemax="100"></div>
                                                 </div>
@@ -61,7 +61,7 @@
                                                 <div class="app-search">
                                                     <form>
                                                         <div class="mb-2 position-relative">
-                                                            <input type="text" class="form-control" placeholder="Search files...">
+                                                            <input type="text" class="form-control" placeholder="搜索文件...">
                                                             <span class="mdi mdi-magnify search-icon"></span>
                                                         </div>
                                                     </form>
@@ -74,7 +74,7 @@
                                             </div>
     
                                             <div class="mt-3">
-                                                <h5 class="mb-2">Quick Access</h5>
+                                                <h5 class="mb-2">快速访问</h5>
     
                                                 <div class="row mx-n1 g-0">
                                                     <div class="col-xxl-3 col-lg-6">
@@ -221,18 +221,18 @@
     
     
                                             <div class="mt-3">
-                                                <h5 class="mb-3">Recent</h5>
-    
+                                                <h5 class="mb-3">最近</h5>
+
                                                 <div class="table-responsive">
                                                     <table class="table table-centered table-nowrap mb-0">
                                                         <thead class="table-light">
                                                             <tr>
-                                                                <th class="border-0">Name</th>
-                                                                <th class="border-0">Last Modified</th>
-                                                                <th class="border-0">Size</th>
-                                                                <th class="border-0">Owner</th>
-                                                                <th class="border-0">Members</th>
-                                                                <th class="border-0" style="width: 80px;">Action</th>
+                                                                <th class="border-0">名称</th>
+                                                                <th class="border-0">修改时间</th>
+                                                                <th class="border-0">大小</th>
+                                                                <th class="border-0">所有者</th>
+                                                                <th class="border-0">成员</th>
+                                                                <th class="border-0" style="width: 80px;">操作</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -271,11 +271,11 @@
                                                                     <div class="btn-group dropdown">
                                                                         <a href="#" class="table-action-btn dropdown-toggle arrow-none btn btn-light btn-xs" data-bs-toggle="dropdown" aria-expanded="false"><i class="mdi mdi-dots-horizontal"></i></a>
                                                                         <div class="dropdown-menu dropdown-menu-end">
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-share-variant me-2 text-muted vertical-middle"></i>Share</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-link me-2 text-muted vertical-middle"></i>Get Sharable Link</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-pencil me-2 text-muted vertical-middle"></i>Rename</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-download me-2 text-muted vertical-middle"></i>Download</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-delete me-2 text-muted vertical-middle"></i>Remove</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-share-variant me-2 text-muted vertical-middle"></i>分享</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-link me-2 text-muted vertical-middle"></i>获取分享链接</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-pencil me-2 text-muted vertical-middle"></i>重命名</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-download me-2 text-muted vertical-middle"></i>下载</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-delete me-2 text-muted vertical-middle"></i>删除</a>
                                                                         </div>
                                                                     </div>
                                                                 </td>
@@ -312,11 +312,11 @@
                                                                     <div class="btn-group dropdown">
                                                                         <a href="#" class="table-action-btn dropdown-toggle arrow-none btn btn-light btn-xs" data-bs-toggle="dropdown" aria-expanded="false"><i class="mdi mdi-dots-horizontal"></i></a>
                                                                         <div class="dropdown-menu dropdown-menu-end">
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-share-variant me-2 text-muted vertical-middle"></i>Share</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-link me-2 text-muted vertical-middle"></i>Get Sharable Link</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-pencil me-2 text-muted vertical-middle"></i>Rename</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-download me-2 text-muted vertical-middle"></i>Download</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-delete me-2 text-muted vertical-middle"></i>Remove</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-share-variant me-2 text-muted vertical-middle"></i>分享</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-link me-2 text-muted vertical-middle"></i>获取分享链接</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-pencil me-2 text-muted vertical-middle"></i>重命名</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-download me-2 text-muted vertical-middle"></i>下载</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-delete me-2 text-muted vertical-middle"></i>删除</a>
                                                                         </div>
                                                                     </div>
                                                                 </td>
@@ -353,11 +353,11 @@
                                                                     <div class="btn-group dropdown">
                                                                         <a href="#" class="table-action-btn dropdown-toggle arrow-none btn btn-light btn-xs" data-bs-toggle="dropdown" aria-expanded="false"><i class="mdi mdi-dots-horizontal"></i></a>
                                                                         <div class="dropdown-menu dropdown-menu-end">
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-share-variant me-2 text-muted vertical-middle"></i>Share</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-link me-2 text-muted vertical-middle"></i>Get Sharable Link</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-pencil me-2 text-muted vertical-middle"></i>Rename</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-download me-2 text-muted vertical-middle"></i>Download</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-delete me-2 text-muted vertical-middle"></i>Remove</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-share-variant me-2 text-muted vertical-middle"></i>分享</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-link me-2 text-muted vertical-middle"></i>获取分享链接</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-pencil me-2 text-muted vertical-middle"></i>重命名</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-download me-2 text-muted vertical-middle"></i>下载</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-delete me-2 text-muted vertical-middle"></i>删除</a>
                                                                         </div>
                                                                     </div>
                                                                 </td>
@@ -398,11 +398,11 @@
                                                                     <div class="btn-group dropdown">
                                                                         <a href="#" class="table-action-btn dropdown-toggle arrow-none btn btn-light btn-xs" data-bs-toggle="dropdown" aria-expanded="false"><i class="mdi mdi-dots-horizontal"></i></a>
                                                                         <div class="dropdown-menu dropdown-menu-end">
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-share-variant me-2 text-muted vertical-middle"></i>Share</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-link me-2 text-muted vertical-middle"></i>Get Sharable Link</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-pencil me-2 text-muted vertical-middle"></i>Rename</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-download me-2 text-muted vertical-middle"></i>Download</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-delete me-2 text-muted vertical-middle"></i>Remove</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-share-variant me-2 text-muted vertical-middle"></i>分享</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-link me-2 text-muted vertical-middle"></i>获取分享链接</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-pencil me-2 text-muted vertical-middle"></i>重命名</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-download me-2 text-muted vertical-middle"></i>下载</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-delete me-2 text-muted vertical-middle"></i>删除</a>
                                                                         </div>
                                                                     </div>
                                                                 </td>
@@ -435,11 +435,11 @@
                                                                     <div class="btn-group dropdown">
                                                                         <a href="#" class="table-action-btn dropdown-toggle arrow-none btn btn-light btn-xs" data-bs-toggle="dropdown" aria-expanded="false"><i class="mdi mdi-dots-horizontal"></i></a>
                                                                         <div class="dropdown-menu dropdown-menu-end">
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-share-variant me-2 text-muted vertical-middle"></i>Share</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-link me-2 text-muted vertical-middle"></i>Get Sharable Link</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-pencil me-2 text-muted vertical-middle"></i>Rename</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-download me-2 text-muted vertical-middle"></i>Download</a>
-                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-delete me-2 text-muted vertical-middle"></i>Remove</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-share-variant me-2 text-muted vertical-middle"></i>分享</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-link me-2 text-muted vertical-middle"></i>获取分享链接</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-pencil me-2 text-muted vertical-middle"></i>重命名</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-download me-2 text-muted vertical-middle"></i>下载</a>
+                                                                            <a class="dropdown-item" href="#"><i class="mdi mdi-delete me-2 text-muted vertical-middle"></i>删除</a>
                                                                         </div>
                                                                     </div>
                                                                 </td>

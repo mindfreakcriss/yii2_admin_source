@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Extended UI</a></li>
-                                            <li class="breadcrumb-item active">Dragula</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">扩展 UI</a></li>
+                                            <li class="breadcrumb-item active">拖拽</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Dragula</h4>
+                                    <h4 class="page-title">拖拽</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Simple Drag and Drop Example</h4>
+                                        <h4 class="header-title">简单拖拽 Example</h4>
                                         <p class="text-muted font-14">
                                             Just specify the data attribute <code>data-plugin='dragula'</code> to have drag and drop support in your container.
                                         </p>
@@ -228,7 +228,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Move stuff between containers</h4>
+                                        <h4 class="header-title">移动 stuff between containers</h4>
                                         <p class="text-muted font-14 mb-3"> 
                                              Just specify the data attribute
                                             <code>data-plugin='dragula'</code> and
@@ -497,7 +497,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Move stuff between containers using handle</h4>
+                                        <h4 class="header-title">移动 stuff between containers using handle</h4>
                                         <p class="text-muted font-14 mb-3">
                                                  Just specify the data attribute
                                                 <code>data-plugin='dragula'</code>, 

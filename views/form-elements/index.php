@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Forms</a></li>
-                                            <li class="breadcrumb-item active">Form Elements</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">表单</a></li>
+                                            <li class="breadcrumb-item active">表单元素</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Form Elements</h4>
+                                    <h4 class="page-title">表单元素</h4>
                                 </div>
                             </div>
                         </div>
@@ -105,7 +105,7 @@
                                                         <form>
                 
                                                             <div class="mb-3">
-                                                                <label for="example-select" class="form-label">Input Select</label>
+                                                                <label for="example-select" class="form-label">Input 选择</label>
                                                                 <select class="form-select" id="example-select">
                                                                     <option>1</option>
                                                                     <option>2</option>
@@ -116,7 +116,7 @@
                                                             </div>
         
                                                             <div class="mb-3">
-                                                                <label for="example-multiselect" class="form-label">Multiple Select</label>
+                                                                <label for="example-multiselect" class="form-label">Multiple 选择</label>
                                                                 <select id="example-multiselect" multiple class="form-control">
                                                                     <option>1</option>
                                                                     <option>2</option>
@@ -162,7 +162,7 @@
                                                             </div>
                 
                                                             <div class="mb-0">
-                                                                <label for="example-range" class="form-label">Range</label>
+                                                                <label for="example-range" class="form-label">范围</label>
                                                                 <input class="form-range" id="example-range" type="range" name="range" min="0" max="100">
                                                             </div>
                 
@@ -232,7 +232,7 @@
                                                         &lt;/div&gt;
                                                         
                                                         &lt;div class=&quot;mb-3&quot;&gt;
-                                                            &lt;label for=&quot;example-select&quot; class=&quot;form-label&quot;&gt;Input Select&lt;/label&gt;
+                                                            &lt;label for=&quot;example-select&quot; class=&quot;form-label&quot;&gt;Input 选择&lt;/label&gt;
                                                             &lt;select class=&quot;form-select&quot; id=&quot;example-select&quot;&gt;
                                                                 &lt;option&gt;1&lt;/option&gt;
                                                                 &lt;option&gt;2&lt;/option&gt;
@@ -243,7 +243,7 @@
                                                         &lt;/div&gt;
                                                         
                                                         &lt;div class=&quot;mb-3&quot;&gt;
-                                                            &lt;label for=&quot;example-multiselect&quot; class=&quot;form-label&quot;&gt;Multiple Select&lt;/label&gt;
+                                                            &lt;label for=&quot;example-multiselect&quot; class=&quot;form-label&quot;&gt;Multiple 选择&lt;/label&gt;
                                                             &lt;select id=&quot;example-multiselect&quot; multiple class=&quot;form-control&quot;&gt;
                                                                 &lt;option&gt;1&lt;/option&gt;
                                                                 &lt;option&gt;2&lt;/option&gt;
@@ -289,7 +289,7 @@
                                                         &lt;/div&gt;
                                                         
                                                         &lt;div class=&quot;mb-0&quot;&gt;
-                                                            &lt;label for=&quot;example-range&quot; class=&quot;form-label&quot;&gt;Range&lt;/label&gt;
+                                                            &lt;label for=&quot;example-range&quot; class=&quot;form-label&quot;&gt;范围&lt;/label&gt;
                                                             &lt;input class=&quot;form-range&quot; id=&quot;example-range&quot; type=&quot;range&quot; name=&quot;range&quot; min=&quot;0&quot; max=&quot;100&quot;&gt;
                                                         &lt;/div&gt;
                                                     </span>
@@ -305,7 +305,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Floating labels</h4>
+                                        <h4 class="header-title">浮动标签</h4>
                                         <p class="text-muted font-14">
                                             Wrap a pair of <code>&lt;input class="form-control"&gt;</code> and <code>&lt;label&gt;</code> elements in <code>.form-floating</code> to enable floating labels with Bootstrap’s textual form fields. A <code>placeholder</code> is required on each <code>&lt;input&gt;</code> as our method of CSS-only floating labels uses the <code>:placeholder-shown</code> pseudo-element. Also note that the <code>&lt;input&gt;</code> must come first so we can utilize a sibling selector (e.g., <code>~</code>).
                                         </p>
@@ -345,18 +345,18 @@
                                                     </div>
                                                 
                                                     <div class="col-lg-6">
-                                                        <h5 class="mb-3">Selects</h5>
+                                                        <h5 class="mb-3">选择s</h5>
                                                         <div class="form-floating">
-                                                            <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                                            <select class="form-select" id="floating选择" aria-label="Floating label select example">
                                                                 <option selected>Open this select menu</option>
                                                                 <option value="1">One</option>
                                                                 <option value="2">Two</option>
                                                                 <option value="3">Three</option>
                                                             </select>
-                                                            <label for="floatingSelect">Works with selects</label>
+                                                            <label for="floating选择">Works with selects</label>
                                                         </div>
                                                 
-                                                        <h5 class="mb-3 mt-4">Layout</h5>
+                                                        <h5 class="mb-3 mt-4">布局</h5>
                                                         <div class="row g-2">
                                                             <div class="col-md">
                                                                 <div class="form-floating">
@@ -367,13 +367,13 @@
                                                             </div>
                                                             <div class="col-md">
                                                                 <div class="form-floating">
-                                                                    <select class="form-select" id="floatingSelectGrid" aria-label="Floating label select example">
+                                                                    <select class="form-select" id="floating选择Grid" aria-label="Floating label select example">
                                                                         <option selected>Open this select menu</option>
                                                                         <option value="1">One</option>
                                                                         <option value="2">Two</option>
                                                                         <option value="3">Three</option>
                                                                     </select>
-                                                                    <label for="floatingSelectGrid">Works with selects</label>
+                                                                    <label for="floating选择Grid">Works with selects</label>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -400,13 +400,13 @@
                                                     &lt;/div&gt;
 
                                                     &lt;div class=&quot;form-floating&quot;&gt;
-                                                        &lt;select class=&quot;form-select&quot; id=&quot;floatingSelect&quot; aria-label=&quot;Floating label select example&quot;&gt;
+                                                        &lt;select class=&quot;form-select&quot; id=&quot;floating选择&quot; aria-label=&quot;Floating label select example&quot;&gt;
                                                             &lt;option selected&gt;Open this select menu&lt;/option&gt;
                                                             &lt;option value=&quot;1&quot;&gt;One&lt;/option&gt;
                                                             &lt;option value=&quot;2&quot;&gt;Two&lt;/option&gt;
                                                             &lt;option value=&quot;3&quot;&gt;Three&lt;/option&gt;
                                                         &lt;/select&gt;
-                                                        &lt;label for=&quot;floatingSelect&quot;&gt;Works with selects&lt;/label&gt;
+                                                        &lt;label for=&quot;floating选择&quot;&gt;Works with selects&lt;/label&gt;
                                                     &lt;/div&gt;
 
                                                     &lt;div class=&quot;row g-2&quot;&gt;
@@ -418,13 +418,13 @@
                                                         &lt;/div&gt;
                                                         &lt;div class=&quot;col-md&quot;&gt;
                                                             &lt;div class=&quot;form-floating&quot;&gt;
-                                                                &lt;select class=&quot;form-select&quot; id=&quot;floatingSelectGrid&quot; aria-label=&quot;Floating label select example&quot;&gt;
+                                                                &lt;select class=&quot;form-select&quot; id=&quot;floating选择Grid&quot; aria-label=&quot;Floating label select example&quot;&gt;
                                                                     &lt;option selected&gt;Open this select menu&lt;/option&gt;
                                                                     &lt;option value=&quot;1&quot;&gt;One&lt;/option&gt;
                                                                     &lt;option value=&quot;2&quot;&gt;Two&lt;/option&gt;
                                                                     &lt;option value=&quot;3&quot;&gt;Three&lt;/option&gt;
                                                                 &lt;/select&gt;
-                                                                &lt;label for=&quot;floatingSelectGrid&quot;&gt;Works with selects&lt;/label&gt;
+                                                                &lt;label for=&quot;floating选择Grid&quot;&gt;Works with selects&lt;/label&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                     &lt;/div&gt;
@@ -443,7 +443,7 @@
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col-lg-6">
-                                                <h4 class="header-title">Select</h4>
+                                                <h4 class="header-title">选择</h4>
                                                 <p class="text-muted font-14">
                                                     <code>&lt;select&gt;</code> menus need only a custom class, <code>.form-select</code> to trigger the custom styles.
                                                 </p>
@@ -481,8 +481,8 @@
                                                             <option value="3">Three</option>
                                                         </select> 
                                                         <div class="input-group mb-3">
-                                                            <label class="input-group-text" for="inputGroupSelect01">Options</label>
-                                                            <select class="form-select" id="inputGroupSelect01">
+                                                            <label class="input-group-text" for="inputGroup选择01">Options</label>
+                                                            <select class="form-select" id="inputGroup选择01">
                                                               <option selected>Choose...</option>
                                                               <option value="1">One</option>
                                                               <option value="2">Two</option>
@@ -490,7 +490,7 @@
                                                             </select>
                                                         </div>   
                                                         <div class="input-group">
-                                                            <select class="form-select" id="inputGroupSelect04" aria-label="Example select with button addon">
+                                                            <select class="form-select" id="inputGroup选择04" aria-label="Example select with button addon">
                                                               <option selected>Choose...</option>
                                                               <option value="1">One</option>
                                                               <option value="2">Two</option>
@@ -522,8 +522,8 @@
                                                                     &lt;option value=&quot;3&quot;&gt;Three&lt;/option&gt;
                                                                 &lt;/select&gt; 
                                                                 &lt;div class=&quot;input-group mb-3&quot;&gt;
-                                                                    &lt;label class=&quot;input-group-text&quot; for=&quot;inputGroupSelect01&quot;&gt;Options&lt;/label&gt;
-                                                                    &lt;select class=&quot;form-select&quot; id=&quot;inputGroupSelect01&quot;&gt;
+                                                                    &lt;label class=&quot;input-group-text&quot; for=&quot;inputGroup选择01&quot;&gt;Options&lt;/label&gt;
+                                                                    &lt;select class=&quot;form-select&quot; id=&quot;inputGroup选择01&quot;&gt;
                                                                     &lt;option selected&gt;Choose...&lt;/option&gt;
                                                                     &lt;option value=&quot;1&quot;&gt;One&lt;/option&gt;
                                                                     &lt;option value=&quot;2&quot;&gt;Two&lt;/option&gt;
@@ -531,7 +531,7 @@
                                                                     &lt;/select&gt;
                                                                 &lt;/div&gt;   
                                                                 &lt;div class=&quot;input-group&quot;&gt;
-                                                                    &lt;select class=&quot;form-select&quot; id=&quot;inputGroupSelect04&quot; aria-label=&quot;Example select with button addon&quot;&gt;
+                                                                    &lt;select class=&quot;form-select&quot; id=&quot;inputGroup选择04&quot; aria-label=&quot;Example select with button addon&quot;&gt;
                                                                     &lt;option selected&gt;Choose...&lt;/option&gt;
                                                                     &lt;option value=&quot;1&quot;&gt;One&lt;/option&gt;
                                                                     &lt;option value=&quot;2&quot;&gt;Two&lt;/option&gt;
@@ -547,9 +547,9 @@
                                             </div> <!-- end col -->
     
                                             <div class="col-lg-6">
-                                                <h4 class="header-title mt-5 mt-lg-0">Switches</h4>
+                                                <h4 class="header-title mt-5 mt-lg-0">开关</h4>
                                                 <p class="text-muted font-14">
-                                                    A switch has the markup of a custom checkbox but uses the <code>.form-switch</code> class to render a toggle switch. Switches also support the <code>disabled</code> attribute.
+                                                    A switch has the markup of a custom checkbox but uses the <code>.form-switch</code> class to render a toggle switch. 开关 also support the <code>disabled</code> attribute.
                                                 </p>
 
                                                 <ul class="nav nav-tabs nav-bordered mb-3">
@@ -608,7 +608,7 @@
                                 <div class="card">
                                     <div class="card-body">
 
-                                        <h4 class="header-title mt-5 mt-lg-0">Checkboxes </h4>
+                                        <h4 class="header-title mt-5 mt-lg-0">复选框 </h4>
                                         <p class="text-muted font-14">
                                             Each checkbox and radio <code>&lt;input&gt;</code> and <code>&lt;label&gt;</code> pairing is wrapped in a <code>&lt;div&gt;</code> to create our custom control. Structurally, this is the same approach as our default <code>.form-check</code>.
                                         </p>
@@ -627,7 +627,7 @@
                                         </ul> <!-- end nav-->
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="checkbox-preview">
-                                                <h6 class="font-15">Checkboxes</h6>
+                                                <h6 class="font-15">复选框</h6>
                                                 <div class="mt-3">
                                                     <div class="form-check">
                                                         <input type="checkbox" class="form-check-input" id="customCheck1">
@@ -639,7 +639,7 @@
                                                     </div>
                                                 </div>
 
-                                                <h6 class="font-15 mt-3">Inline</h6>
+                                                <h6 class="font-15 mt-3">内联</h6>
 
                                                 <div class="mt-2">
                                                     <div class="form-check form-check-inline">
@@ -701,7 +701,7 @@
                                             <div class="tab-pane" id="checkbox-code">
                                                 <pre class="mb-0">
                                                     <span class="html escape">
-                                                        &lt;!-- Checkboxes--&gt; 
+                                                        &lt;!-- 复选框--&gt; 
                                                         &lt;div class=&quot;mt-3&quot;&gt;
                                                             &lt;div class=&quot;form-check&quot;&gt;
                                                                 &lt;input type=&quot;checkbox&quot; class=&quot;form-check-input&quot; id=&quot;customCheck1&quot;&gt;
@@ -713,7 +713,7 @@
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
 
-                                                        &lt;!-- Inline--&gt; 
+                                                        &lt;!-- 内联--&gt; 
 
                                                         &lt;div class=&quot;mt-2&quot;&gt;
                                                             &lt;div class=&quot;form-check form-check-inline&quot;&gt;
@@ -801,7 +801,7 @@
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="radio-preview">
                                                 
-                                                <h6 class="font-15 mt-3">Radios</h6>
+                                                <h6 class="font-15 mt-3">单选按钮</h6>
 
                                                 <div class="mt-3">
                                                     <div class="form-check">
@@ -814,7 +814,7 @@
                                                     </div>
                                                 </div> 
                                                 
-                                                <h6 class="font-15 mt-3">Inline</h6>
+                                                <h6 class="font-15 mt-3">内联</h6>
 
                                                 <div class="mt-2">
                                                     <div class="form-check form-check-inline">
@@ -876,7 +876,7 @@
                                             <div class="tab-pane" id="radio-code">
                                                 <pre class="mb-0">
                                                     <span class="html escape">
-                                                        &lt;!-- Radios--&gt; 
+                                                        &lt;!-- 单选按钮--&gt; 
 
                                                         &lt;div class=&quot;mt-3&quot;&gt;
                                                             &lt;div class=&quot;form-check&quot;&gt;
@@ -889,7 +889,7 @@
                                                             &lt;/div&gt;
                                                         &lt;/div&gt; 
 
-                                                        &lt;!-- Inline--&gt;
+                                                        &lt;!-- 内联--&gt;
 
                                                         &lt;div class=&quot;mt-2&quot;&gt;
                                                             &lt;div class=&quot;form-check form-check-inline&quot;&gt;
@@ -1339,13 +1339,13 @@
                         <!-- end row -->
 
 
-                        <!-- Inline Form -->
+                        <!-- 内联 Form -->
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="card">
                                     <div class="card-body">
 
-                                        <h4 class="header-title">Inline Form</h4>
+                                        <h4 class="header-title">内联 Form</h4>
                                         <p class="text-muted font-14">
                                             Use the <code>.row-cols-lg-auto</code>, <code>.g-3</code> & <code>.align-items-center</code> class to display a series of labels, form controls, and buttons on a single horizontal row. Form controls within inline forms vary slightly from their default states. Controls only appear inline in viewports that are at least 576px wide to account for narrow viewports on mobile devices.
                                         </p>
@@ -1378,7 +1378,7 @@
                                                     </div>
                                                 </form>
             
-                                                <h6 class="font-13 mt-3">Auto-sizing</h6>
+                                                <h6 class="font-13 mt-3">自动尺寸</h6>
                                                 <form>
                                                     <div class="row gy-2 gx-2 align-items-center">
                                                         <div class="col-auto">
@@ -1422,7 +1422,7 @@
                                                             &lt;/div&gt;
                                                         &lt;/form&gt;
                     
-                                                        &lt;h6 class=&quot;font-13 mt-3&quot;&gt;Auto-sizing&lt;/h6&gt;
+                                                        &lt;h6 class=&quot;font-13 mt-3&quot;&gt;自动尺寸&lt;/h6&gt;
                                                         &lt;form&gt;
                                                             &lt;div class=&quot;row gy-2 gx-2 align-items-center&quot;&gt;
                                                                 &lt;div class=&quot;col-auto&quot;&gt;
@@ -1462,7 +1462,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Horizontal form label sizing</h4>
+                                        <h4 class="header-title">水平表单标签尺寸</h4>
                                         <p class="text-muted font-14">Be sure to use <code>.col-form-label-sm</code> or <code>.col-form-label-lg</code> to your <code>&lt;label&gt;</code>s or <code>&lt;legend&gt;</code>s to correctly follow the size of <code>.form-control-lg</code> and <code>.form-control-sm</code>.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">

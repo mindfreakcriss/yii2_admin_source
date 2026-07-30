@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.sparkline.js', ['depends' => 'app\as
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Charts</a></li>
-                                            <li class="breadcrumb-item active">Sparkline Charts</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">图表</a></li>
+                                            <li class="breadcrumb-item active">Sparkline 图表</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Sparkline Charts</h4>
+                                    <h4 class="page-title">Sparkline 图表</h4>
                                 </div>
                             </div>
                         </div>
@@ -24,7 +24,7 @@ $this->registerJsFile('/admin/js/pages/demo.sparkline.js', ['depends' => 'app\as
                             <div class="col-md-6 col-xxl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Line Charts</h4>
+                                        <h4 class="header-title">Line 图表</h4>
     
                                         <div class="mt-4" dir="ltr">
                                             <div id="sparkline1" data-colors="#727cf5,#0acf97"></div>
@@ -36,7 +36,7 @@ $this->registerJsFile('/admin/js/pages/demo.sparkline.js', ['depends' => 'app\as
                             <div class="col-md-6 col-xxl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Bar Chart</h4>
+                                        <h4 class="header-title">柱状图</h4>
     
                                         <div class="mt-4" dir="ltr">
                                             <div id="sparkline2" class="text-center" data-colors="#39afd1"></div>
@@ -48,7 +48,7 @@ $this->registerJsFile('/admin/js/pages/demo.sparkline.js', ['depends' => 'app\as
                             <div class="col-md-6 col-xxl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Pie Chart</h4>
+                                        <h4 class="header-title">饼图</h4>
     
                                         <div class="mt-4" dir="ltr">
                                             <div id="sparkline3" class="text-center" data-colors="#39afd1,#ffbc00,#e3eaef,#fa5c7c"></div>
@@ -60,7 +60,7 @@ $this->registerJsFile('/admin/js/pages/demo.sparkline.js', ['depends' => 'app\as
                             <div class="col-md-6 col-xxl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Custom Line Chart</h4>
+                                        <h4 class="header-title">Custom 折线图</h4>
     
                                         <div class="mt-4" dir="ltr">
                                             <div id="sparkline4" class="text-center" data-colors="#ffbc00,#4eb7eb"></div>
@@ -84,7 +84,7 @@ $this->registerJsFile('/admin/js/pages/demo.sparkline.js', ['depends' => 'app\as
                             <div class="col-md-6 col-xxl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Composite bar Chart</h4>
+                                        <h4 class="header-title">组合 bar Chart</h4>
     
                                         <div class="text-center mt-4" dir="ltr">
                                             <div id="sparkline6" class="text-center"></div>
@@ -96,7 +96,7 @@ $this->registerJsFile('/admin/js/pages/demo.sparkline.js', ['depends' => 'app\as
                             <div class="col-md-6 col-xxl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Discrete Chart</h4>
+                                        <h4 class="header-title">离散 Chart</h4>
     
                                         <div class="text-center mt-4" dir="ltr">
                                             <div id="sparkline7" class="text-center" data-colors="#6c757d"></div>

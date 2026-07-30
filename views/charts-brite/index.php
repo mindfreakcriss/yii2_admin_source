@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.britechart.js', ['depends' => 'app\a
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Charts</a></li>
-                                            <li class="breadcrumb-item active">Brite Charts</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">图表</a></li>
+                                            <li class="breadcrumb-item active">Brite 图表</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Brite Charts</h4>
+                                    <h4 class="page-title">Brite 图表</h4>
                                 </div>
                             </div>
                         </div>

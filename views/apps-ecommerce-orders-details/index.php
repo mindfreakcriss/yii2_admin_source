@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">eCommerce</a></li>
-                                            <li class="breadcrumb-item active">Order Details</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">电子商务</a></li>
+                                            <li class="breadcrumb-item active">订单详情</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Order Details</h4>
+                                    <h4 class="page-title">订单详情</h4>
                                 </div>
                             </div>
                         </div>
@@ -21,16 +21,16 @@
                                 <div class="horizontal-steps mt-4 mb-4 pb-5" id="tooltip-container">
                                     <div class="horizontal-steps-content">
                                         <div class="step-item">
-                                            <span data-bs-container="#tooltip-container" data-bs-toggle="tooltip" data-bs-placement="bottom" title="20/08/2018 07:24 PM">Order Placed</span>
+                                            <span data-bs-container="#tooltip-container" data-bs-toggle="tooltip" data-bs-placement="bottom" title="20/08/2018 07:24 PM">已下单</span>
                                         </div>
                                         <div class="step-item current">
-                                            <span data-bs-container="#tooltip-container" data-bs-toggle="tooltip" data-bs-placement="bottom" title="21/08/2018 11:32 AM">Packed</span>
+                                            <span data-bs-container="#tooltip-container" data-bs-toggle="tooltip" data-bs-placement="bottom" title="21/08/2018 11:32 AM">已打包</span>
                                         </div>
                                         <div class="step-item">
-                                            <span>Shipped</span>
+                                            <span>已发货</span>
                                         </div>
                                         <div class="step-item">
-                                            <span>Delivered</span>
+                                            <span>已送达</span>
                                         </div>
                                     </div>
         
@@ -45,16 +45,16 @@
                             <div class="col-lg-8">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Items from Order #12537</h4>
+                                        <h4 class="header-title mb-3">订单 #12537 商品</h4>
             
                                         <div class="table-responsive">
                                             <table class="table mb-0">
                                                 <thead class="table-light">
                                                 <tr>
-                                                    <th>Item</th>
-                                                    <th>Quantity</th>
-                                                    <th>Price</th>
-                                                    <th>Total</th>
+                                                    <th>商品</th>
+                                                    <th>数量</th>
+                                                    <th>价格</th>
+                                                    <th>合计</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
@@ -94,31 +94,31 @@
                             <div class="col-lg-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Order Summary</h4>
+                                        <h4 class="header-title mb-3">订单摘要</h4>
             
                                         <div class="table-responsive">
                                             <table class="table mb-0">
                                                 <thead class="table-light">
                                                 <tr>
-                                                    <th>Description</th>
-                                                    <th>Price</th>
+                                                    <th>描述</th>
+                                                    <th>价格</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
                                                 <tr>
-                                                    <td>Grand Total :</td>
+                                                    <td>总计：</td>
                                                     <td>$1641</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Shipping Charge :</td>
+                                                    <td>运费：</td>
                                                     <td>$23</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>Estimated Tax : </td>
+                                                    <td>预估税费：</td>
                                                     <td>$19.22</td>
                                                 </tr>
                                                 <tr>
-                                                    <th>Total :</th>
+                                                    <th>合计：</th>
                                                     <th>$1683.22</th>
                                                 </tr>
                                                 </tbody>
@@ -137,7 +137,7 @@
                             <div class="col-lg-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Shipping Information</h4>
+                                        <h4 class="header-title mb-3">配送信息</h4>
 
                                         <h5>Stanley Jones</h5>
                                         
@@ -155,14 +155,14 @@
                             <div class="col-lg-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Billing Information</h4>
+                                        <h4 class="header-title mb-3">账单信息</h4>
 
                                         <ul class="list-unstyled mb-0">
                                             <li>
-                                                <p class="mb-2"><span class="fw-bold me-2">Payment Type:</span> Credit Card</p>
-                                                <p class="mb-2"><span class="fw-bold me-2">Provider:</span> Visa ending in 2851</p>
-                                                <p class="mb-2"><span class="fw-bold me-2">Valid Date:</span> 02/2020</p>
-                                                <p class="mb-0"><span class="fw-bold me-2">CVV:</span> xxx</p>
+                                                <p class="mb-2"><span class="fw-bold me-2">支付方式：</span> 信用卡</p>
+                                                <p class="mb-2"><span class="fw-bold me-2">提供商：</span> Visa尾号2851</p>
+                                                <p class="mb-2"><span class="fw-bold me-2">有效期：</span> 02/2020</p>
+                                                <p class="mb-0"><span class="fw-bold me-2">CVV：</span> xxx</p>
                                             </li>
                                         </ul>
             
@@ -173,13 +173,13 @@
                             <div class="col-lg-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Delivery Info</h4>
+                                        <h4 class="header-title mb-3">配送信息</h4>
             
                                         <div class="text-center">
                                             <i class="mdi mdi-truck-fast h2 text-muted"></i>
-                                            <h5><b>UPS Delivery</b></h5>
-                                            <p class="mb-1"><b>Order ID :</b> xxxx235</p>
-                                            <p class="mb-0"><b>Payment Mode :</b> COD</p>
+                                            <h5><b>UPS配送</b></h5>
+                                            <p class="mb-1"><b>订单编号：</b> xxxx235</p>
+                                            <p class="mb-0"><b>支付方式：</b> 货到付款</p>
                                         </div>
                                     </div>
                                 </div>

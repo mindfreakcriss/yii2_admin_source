@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">eCommerce</a></li>
-                                            <li class="breadcrumb-item active">Products</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">电子商务</a></li>
+                                            <li class="breadcrumb-item active">产品</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Products</h4>
+                                    <h4 class="page-title">产品</h4>
                                 </div>
                             </div>
                         </div>
@@ -25,13 +25,13 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                     <div class="card-body">
                                         <div class="row mb-2">
                                             <div class="col-sm-5">
-                                                <a href="javascript:void(0);" class="btn btn-danger mb-2"><i class="mdi mdi-plus-circle me-2"></i> Add Products</a>
+                                                <a href="javascript:void(0);" class="btn btn-danger mb-2"><i class="mdi mdi-plus-circle me-2"></i> 新增产品</a>
                                             </div>
                                             <div class="col-sm-7">
                                                 <div class="text-sm-end">
                                                     <button type="button" class="btn btn-success mb-2 me-1"><i class="mdi mdi-cog-outline"></i></button>
-                                                    <button type="button" class="btn btn-light mb-2 me-1">Import</button>
-                                                    <button type="button" class="btn btn-light mb-2">Export</button>
+                                                    <button type="button" class="btn btn-light mb-2 me-1">导入</button>
+                                                    <button type="button" class="btn btn-light mb-2">导出</button>
                                                 </div>
                                             </div><!-- end col-->
                                         </div>
@@ -46,13 +46,13 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                                 <label class="form-check-label" for="customCheck1">&nbsp;</label>
                                                             </div>
                                                         </th>
-                                                        <th class="all">Product</th>
-                                                        <th>Category</th>
-                                                        <th>Added Date</th>
-                                                        <th>Price</th>
-                                                        <th>Quantity</th>
-                                                        <th>Status</th>
-                                                        <th style="width: 85px;">Action</th>
+                                                        <th class="all">产品</th>
+                                                        <th>分类</th>
+                                                        <th>添加日期</th>
+                                                        <th>价格</th>
+                                                        <th>数量</th>
+                                                        <th>状态</th>
+                                                        <th style="width: 85px;">操作</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
@@ -89,7 +89,7 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                             254
                                                         </td>
                                                         <td>
-                                                            <span class="badge bg-success">Active</span>
+                                                            <span class="badge bg-success">启用</span>
                                                         </td>
                     
                                                         <td class="table-action">
@@ -132,7 +132,7 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                             1,874
                                                         </td>
                                                         <td>
-                                                            <span class="badge bg-success">Active</span>
+                                                            <span class="badge bg-success">启用</span>
                                                         </td>
                                                         <td class="table-action">
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-eye"></i></a>
@@ -173,7 +173,7 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                             2,541
                                                         </td>
                                                         <td>
-                                                            <span class="badge bg-success">Active</span>
+                                                            <span class="badge bg-success">启用</span>
                                                         </td>
                     
                                                         <td class="table-action">
@@ -215,7 +215,7 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                             3,540
                                                         </td>
                                                         <td>
-                                                            <span class="badge bg-success">Active</span>
+                                                            <span class="badge bg-success">启用</span>
                                                         </td>
                     
                                                         <td class="table-action">
@@ -257,7 +257,7 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                             26
                                                         </td>
                                                         <td>
-                                                            <span class="badge bg-success">Active</span>
+                                                            <span class="badge bg-success">启用</span>
                                                         </td>
                     
                                                         <td class="table-action">
@@ -299,7 +299,7 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                             485
                                                         </td>
                                                         <td>
-                                                            <span class="badge bg-danger">Deactive</span>
+                                                            <span class="badge bg-danger">禁用</span>
                                                         </td>
                     
                                                         <td class="table-action">
@@ -342,7 +342,7 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                             652
                                                         </td>
                                                         <td>
-                                                            <span class="badge bg-success">Active</span>
+                                                            <span class="badge bg-success">启用</span>
                                                         </td>
                     
                                                         <td class="table-action">
@@ -385,7 +385,7 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                             1,021
                                                         </td>
                                                         <td>
-                                                            <span class="badge bg-danger">Deactive</span>
+                                                            <span class="badge bg-danger">禁用</span>
                                                         </td>
                                                         <td class="table-action">
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-eye"></i></a>
@@ -426,7 +426,7 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                             874
                                                         </td>
                                                         <td>
-                                                            <span class="badge bg-success">Active</span>
+                                                            <span class="badge bg-success">启用</span>
                                                         </td>
                     
                                                         <td class="table-action">
@@ -468,7 +468,7 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                             1,254
                                                         </td>
                                                         <td>
-                                                            <span class="badge bg-success">Active</span>
+                                                            <span class="badge bg-success">启用</span>
                                                         </td>
                     
                                                         <td class="table-action">
@@ -510,7 +510,7 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                             524
                                                         </td>
                                                         <td>
-                                                            <span class="badge bg-danger">Deactive</span>
+                                                            <span class="badge bg-danger">禁用</span>
                                                         </td>
                     
                                                         <td class="table-action">
@@ -552,7 +552,7 @@ $this->registerJsFile('/admin/js/pages/demo.products.js', ['depends' => 'app\ass
                                                             204
                                                         </td>
                                                         <td>
-                                                            <span class="badge bg-danger">Deactive</span>
+                                                            <span class="badge bg-danger">禁用</span>
                                                         </td>
                     
                                                         <td class="table-action">

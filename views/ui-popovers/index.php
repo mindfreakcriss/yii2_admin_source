@@ -5,11 +5,11 @@
                                 <div class="page-title-right">
                                     <ol class="breadcrumb m-0">
                                         <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                        <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                        <li class="breadcrumb-item active">Popovers</li>
+                                        <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                        <li class="breadcrumb-item active">弹出框</li>
                                     </ol>
                                 </div>
-                                <h4 class="page-title">Popovers</h4>
+                                <h4 class="page-title">弹出框</h4>
                             </div>
                         </div>
                     </div>
@@ -84,17 +84,17 @@
                                             <button type="button" tabindex="0" class="btn btn-success"
                                                 data-bs-toggle="popover" data-bs-trigger="focus"
                                                 data-bs-content="And here's some amazing content. It's very engaging. Right?"
-                                                title="Dismissible popover"
+                                                title="可关闭弹出框"
                                                 data-bs-container="#dismiss-popover-preview">
-                                                Dismissible popover
+                                                可关闭弹出框
                                             </button>
                                         </div> <!-- end preview-->
 
                                         <div class="tab-pane" id="dismiss-popover-code">
                                             <pre class="mb-0">
                                                     <span class="html escape">
-                                                        &lt;button type=&quot;button&quot; tabindex=&quot;0&quot; class=&quot;btn btn-success&quot; data-bs-toggle=&quot;popover&quot; data-bs-trigger=&quot;focus&quot; data-bs-content=&quot;And here's some amazing content. It's very engaging. Right?&quot; title=&quot;Dismissible popover&quot;&gt;
-                                                            Dismissible popover
+                                                        &lt;button type=&quot;button&quot; tabindex=&quot;0&quot; class=&quot;btn btn-success&quot; data-bs-toggle=&quot;popover&quot; data-bs-trigger=&quot;focus&quot; data-bs-content=&quot;And here's some amazing content. It's very engaging. Right?&quot; title=&quot;可关闭弹出框&quot;&gt;
+                                                            可关闭弹出框
                                                         &lt;/button&gt;
                                                     </span>
                                                 </pre> <!-- end highlight-->
@@ -175,7 +175,7 @@
                                                     data-bs-placement="top"
                                                     data-bs-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."
                                                     title="" data-bs-container="#extras-popover-preview">
-                                                    Popover on top
+                                                    上方弹出
                                                 </button>
 
                                                 <button type="button" class="btn btn-primary"
@@ -183,7 +183,7 @@
                                                     data-bs-placement="bottom"
                                                     data-bs-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."
                                                     title="">
-                                                    Popover on bottom
+                                                    下方弹出
                                                 </button>
 
                                                 <button type="button" class="btn btn-primary"
@@ -191,7 +191,7 @@
                                                     data-bs-placement="right"
                                                     data-bs-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."
                                                     title="">
-                                                    Popover on right
+                                                    右侧弹出
                                                 </button>
 
                                                 <button type="button" class="btn btn-primary"
@@ -199,7 +199,7 @@
                                                     data-bs-placement="left"
                                                     data-bs-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."
                                                     title="Popover title">
-                                                    Popover on left
+                                                    左侧弹出
                                                 </button>
                                             </div>
                                         </div> <!-- end preview-->
@@ -209,23 +209,23 @@
                                                     <span class="html escape">
                                                         &lt;!-- Top Position --&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot; data-bs-container=&quot;body&quot; data-bs-toggle=&quot;popover&quot; data-bs-placement=&quot;top&quot; data-bs-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot; title=&quot;&quot;&gt;
-                                                            Popover on top
+                                                            上方弹出
                                                         &lt;/button&gt;
                                                         
                                                         &lt;!-- Bottom Position --&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot; data-bs-container=&quot;body&quot; data-bs-toggle=&quot;popover&quot; data-bs-placement=&quot;bottom&quot; data-bs-content=&quot;Vivamus
                                                         sagittis lacus vel augue laoreet rutrum faucibus.&quot; title=&quot;&quot;&gt;
-                                                            Popover on bottom
+                                                            下方弹出
                                                         &lt;/button&gt;
                                                         
                                                         &lt;!-- Right Position --&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot; data-bs-container=&quot;body&quot; data-bs-toggle=&quot;popover&quot; data-bs-placement=&quot;right&quot; data-bs-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot; title=&quot;&quot;&gt;
-                                                            Popover on right
+                                                            右侧弹出
                                                         &lt;/button&gt;
                                                         
                                                         &lt;!-- Left Position --&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot; data-bs-container=&quot;body&quot; data-bs-toggle=&quot;popover&quot; data-bs-placement=&quot;left&quot; data-bs-content=&quot;Vivamus sagittis lacus vel augue laoreet rutrum faucibus.&quot; title=&quot;Popover title&quot;&gt;
-                                                            Popover on left
+                                                            左侧弹出
                                                         &lt;/button&gt;
                                                     </span>
                                                 </pre> <!-- end highlight-->

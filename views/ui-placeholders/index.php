@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Placeholders</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">占位符</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Placeholders</h4>
+                                    <h4 class="page-title">占位符</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Placeholders</h4>
+                                        <h4 class="header-title">占位符</h4>
                                         <p class="text-muted font-13">
                                             In the example below, we take a typical card component and recreate it with placeholders applied to create a “loading card”. Size and proportions are the same between the two.
                                         </p>
@@ -178,7 +178,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Width</h4>
+                                        <h4 class="header-title">宽度</h4>
                                         <p class="text-muted font-13">
                                             You can change the <code>width</code> through grid column classes, width utilities, or inline styles.
                                         </p>
@@ -222,7 +222,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Sizing</h4>
+                                        <h4 class="header-title">尺寸</h4>
                                         <p class="text-muted font-13">
                                             The size of <code>.placeholder</code>s are based on the typographic style of the parent element. Customize them with sizing modifiers: <code>.placeholder-lg</code>, <code>.placeholder-sm</code>, or <code>.placeholder-xs</code>.
                                         </p>

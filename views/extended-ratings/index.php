@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Extended UI</a></li>
-                                            <li class="breadcrumb-item active">Ratings</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">扩展 UI</a></li>
+                                            <li class="breadcrumb-item active">评分</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Ratings</h4>
+                                    <h4 class="page-title">评分</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Default Ratings</h4>
+                                        <h4 class="header-title">Default 评分</h4>
                                         <p class="text-muted font-14"></p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -319,7 +319,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Readonly and preset value</h4>
+                                        <h4 class="header-title">只读 and preset value</h4>
                                         <p class="text-muted font-14"></p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">

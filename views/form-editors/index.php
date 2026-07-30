@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Forms</a></li>
-                                            <li class="breadcrumb-item active">Editors</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">表单</a></li>
+                                            <li class="breadcrumb-item active">编辑器</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Editors</h4>
+                                    <h4 class="page-title">编辑器</h4>
                                 </div>
                             </div>
                         </div>
@@ -21,7 +21,7 @@
                                     <ul class="list-group list-group-flush">
                                         <li class="list-group-item">
                                             <div class="mb-2">
-                                                <h4 class="header-title mt-2">Quill Editor</h4>
+                                                <h4 class="header-title mt-2">Quill 编辑器</h4>
                                                 <p class="text-muted font-14">Snow is a clean, flat toolbar theme.</p>
 
                                                 <ul class="nav nav-tabs nav-bordered mb-3">

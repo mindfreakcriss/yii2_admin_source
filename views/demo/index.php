@@ -10,7 +10,7 @@ use yii\grid\GridView;
 /** @var app\models\search\SearchDemoModel $searchModel */
 /** @var yii\data\ActiveDataProvider $dataProvider */
 
-$this->title = 'Demo Models';
+$this->title = '数据模型';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="demo-model-index">
@@ -29,10 +29,22 @@ $this->params['breadcrumbs'][] = $this->title;
         'columns' => [
             ['class' => 'yii\grid\SerialColumn'],
 
-            'id',
-            'demo_name',
-            'created_at',
-            'updated_at',
+            [
+                'attribute' => 'id',
+                'label' => '编号',
+            ],
+            [
+                'attribute' => 'demo_name',
+                'label' => '名称',
+            ],
+            [
+                'attribute' => 'created_at',
+                'label' => '创建时间',
+            ],
+            [
+                'attribute' => 'updated_at',
+                'label' => '更新时间',
+            ],
             [
                 'class' => ActionColumn::className(),
                 'urlCreator' => function ($action, DemoModel $model, $key, $index, $column) {

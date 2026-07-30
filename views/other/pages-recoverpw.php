@@ -13,18 +13,18 @@
                             <div class="card-body p-4">
                                 
                                 <div class="text-center w-75 m-auto">
-                                    <h4 class="text-dark-50 text-center mt-0 fw-bold">Reset Password</h4>
-                                    <p class="text-muted mb-4">Enter your email address and we'll send you an email with instructions to reset your password.</p>
+                                    <h4 class="text-dark-50 text-center mt-0 fw-bold">重置密码</h4>
+                                    <p class="text-muted mb-4">输入邮箱地址，我们将发送一封包含重置密码说明的邮件。</p>
                                 </div>
 
                                 <form action="#">
                                     <div class="mb-3">
-                                        <label for="emailaddress" class="form-label">Email address</label>
-                                        <input class="form-control" type="email" id="emailaddress" required="" placeholder="Enter your email">
+                                        <label for="emailaddress" class="form-label">邮箱地址</label>
+                                        <input class="form-control" type="email" id="emailaddress" required="" placeholder="输入邮箱">
                                     </div>
 
                                     <div class="mb-0 text-center">
-                                        <button class="btn btn-primary" type="submit">Reset Password</button>
+                                        <button class="btn btn-primary" type="submit">重置密码</button>
                                     </div>
                                 </form>
                             </div> <!-- end card-body-->
@@ -33,7 +33,7 @@
 
                         <div class="row mt-3">
                             <div class="col-12 text-center">
-                                <p class="text-muted">Back to <a href="pages-login.html" class="text-muted ms-1"><b>Log In</b></a></p>
+                                <p class="text-muted">返回 <a href="pages-login.html" class="text-muted ms-1"><b>登录</b></a></p>
                             </div> <!-- end col -->
                         </div>
                         <!-- end row -->

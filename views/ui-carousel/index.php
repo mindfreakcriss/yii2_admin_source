@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Carousel</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">轮播</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Carousel</h4>
+                                    <h4 class="page-title">轮播</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,8 +19,8 @@
                             <div class="col-lg-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Slides only</h4>
-                                        <p class="text-muted font-14">Here’s a carousel with slides only.
+                                        <h4 class="header-title">仅幻灯片</h4>
+                                        <p class="text-muted font-14">这里是一个仅包含幻灯片的轮播。
                                             Note the presence of the <code>.d-block</code>
                                             and <code>.img-fluid</code> on carousel images
                                             to prevent browser default image alignment.</p>
@@ -28,12 +28,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#slides-only-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#slides-only-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -82,18 +82,18 @@
                             <div class="col-lg-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">With controls</h4>
-                                        <p class="text-muted font-14">Adding in the previous and next controls:</p>
+                                        <h4 class="header-title">带控制按钮</h4>
+                                        <p class="text-muted font-14">添加上一页和下一页控制按钮：</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#with-controls-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#with-controls-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -114,11 +114,11 @@
                                                     </div>
                                                     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
                                                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                                        <span class="visually-hidden">Previous</span>
+                                                        <span class="visually-hidden">上一页</span>
                                                       </a>
                                                       <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-bs-slide="next">
                                                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                                        <span class="visually-hidden">Next</span>
+                                                        <span class="visually-hidden">下一页</span>
                                                       </a>
                                                 </div>
                                             </div> <!-- end preview-->
@@ -163,19 +163,19 @@
                             <div class="col-lg-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">With indicators</h4>
+                                        <h4 class="header-title">带指示器</h4>
                                         <p class="text-muted font-14">You can also add the indicators to the
                                             carousel, alongside the controls, too.</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#with-indicators-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#with-indicators-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -200,11 +200,11 @@
                                                     </div>
                                                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-bs-slide="prev">
                                                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                                        <span class="visually-hidden">Previous</span>
+                                                        <span class="visually-hidden">上一页</span>
                                                     </a>
                                                     <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-bs-slide="next">
                                                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                                        <span class="visually-hidden">Next</span>
+                                                        <span class="visually-hidden">下一页</span>
                                                     </a>
                                                 </div>
                                             </div> <!-- end preview-->
@@ -250,18 +250,18 @@
                             <div class="col-lg-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">With captions</h4>
+                                        <h4 class="header-title">带说明文字</h4>
                                         <p class="text-muted font-14">Add captions to your slides easily with the <code>.carousel-caption</code> element within any <code>.carousel-item</code>.</p>
                                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#with-captions-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#with-captions-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -272,32 +272,32 @@
                                                         <div class="carousel-item active">
                                                             <img src="/admin/images/small/small-1.jpg" alt="..." class="d-block img-fluid">
                                                             <div class="carousel-caption d-none d-md-block">
-                                                                <h3 class="text-white">First slide label</h3>
+                                                                <h3 class="text-white">第一张幻灯片</h3>
                                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                                             </div>
                                                         </div>
                                                         <div class="carousel-item">
                                                             <img src="/admin/images/small/small-3.jpg" alt="..." class="d-block img-fluid">
                                                             <div class="carousel-caption d-none d-md-block">
-                                                                <h3 class="text-white">Second slide label</h3>
+                                                                <h3 class="text-white">第二张幻灯片</h3>
                                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                                             </div>
                                                         </div>
                                                         <div class="carousel-item">
                                                             <img src="/admin/images/small/small-2.jpg" alt="..." class="d-block img-fluid">
                                                             <div class="carousel-caption d-none d-md-block">
-                                                                <h3 class="text-white">Third slide label</h3>
+                                                                <h3 class="text-white">第三张幻灯片</h3>
                                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <a class="carousel-control-prev" href="#carouselExampleCaption" role="button" data-bs-slide="prev">
                                                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                                        <span class="visually-hidden">Previous</span>
+                                                        <span class="visually-hidden">上一页</span>
                                                     </a>
                                                     <a class="carousel-control-next" href="#carouselExampleCaption" role="button" data-bs-slide="next">
                                                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                                        <span class="visually-hidden">Next</span>
+                                                        <span class="visually-hidden">下一页</span>
                                                     </a>
                                                 </div>
                                             </div> <!-- end preview-->
@@ -354,18 +354,18 @@
                             <div class="col-lg-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Crossfade</h4>
+                                        <h4 class="header-title">淡入淡出</h4>
                                         <p class="text-muted font-14">Add <code>.carousel-fade</code> to your carousel to animate slides with a fade transition instead of a slide.</p>
                                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#crossfade-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#crossfade-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -385,11 +385,11 @@
                                                     </div>
                                                     <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-bs-slide="prev">
                                                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                                        <span class="visually-hidden">Previous</span>
+                                                        <span class="visually-hidden">上一页</span>
                                                     </a>
                                                     <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-bs-slide="next">
                                                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                                        <span class="visually-hidden">Next</span>
+                                                        <span class="visually-hidden">下一页</span>
                                                     </a>
                                                 </div>
                                             </div> <!-- end preview-->
@@ -430,18 +430,18 @@
                             <div class="col-lg-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Individual interval</h4>
+                                        <h4 class="header-title">自定义间隔</h4>
                                         <p class="text-muted font-14">Add <code>data-bs-interval=""</code> to a <code>.carousel-item</code> to change the amount of time to delay between automatically cycling to the next item.</p>
                                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#individual-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#individual-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -461,11 +461,11 @@
                                                     </div>
                                                     <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-bs-slide="prev">
                                                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                                        <span class="visually-hidden">Previous</span>
+                                                        <span class="visually-hidden">上一页</span>
                                                     </a>
                                                     <a class="carousel-control-next" href="#carouselExampleInterval" role="button" data-bs-slide="next">
                                                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                                        <span class="visually-hidden">Next</span>
+                                                        <span class="visually-hidden">下一页</span>
                                                     </a>
                                                 </div>
                                             </div> <!-- end preview-->

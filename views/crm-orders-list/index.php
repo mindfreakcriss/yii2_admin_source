@@ -6,10 +6,10 @@
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">CRM</a></li>
-                                            <li class="breadcrumb-item active">Order List</li>
+                                            <li class="breadcrumb-item active">订单列表</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Order List</h4>
+                                    <h4 class="page-title">订单列表</h4>
                                 </div>
                             </div>
                         </div>
@@ -23,20 +23,20 @@
                                             <div class="col-xl-8">
                                                 <form class="row gy-2 gx-2 align-items-center justify-content-xl-start justify-content-between">
                                                     <div class="col-auto">
-                                                        <label for="inputPassword2" class="visually-hidden">Search</label>
-                                                        <input type="search" class="form-control" id="inputPassword2" placeholder="Search...">
+                                                        <label for="inputPassword2" class="visually-hidden">搜索</label>
+                                                        <input type="search" class="form-control" id="inputPassword2" placeholder="搜索...">
                                                     </div>
                                                     <div class="col-auto">
                                                         <div class="d-flex align-items-center">
-                                                            <label for="status-select" class="me-2">Status</label>
+                                                            <label for="status-select" class="me-2">状态</label>
                                                             <select class="form-select" id="status-select">
-                                                                <option selected>Choose...</option>
-                                                                <option value="1">Paid</option>
-                                                                <option value="2">Awaiting Authorization</option>
-                                                                <option value="3">Payment failed</option>
-                                                                <option value="4">Cash On Delivery</option>
-                                                                <option value="5">Fulfilled</option>
-                                                                <option value="6">Unfulfilled</option>
+                                                                <option selected>请选择...</option>
+                                                                <option value="1">已支付</option>
+                                                                <option value="2">待授权</option>
+                                                                <option value="3">支付失败</option>
+                                                                <option value="4">货到付款</option>
+                                                                <option value="5">已履行</option>
+                                                                <option value="6">未履行</option>
                                                             </select>
                                                         </div>
                                                     </div>
@@ -44,8 +44,8 @@
                                             </div>
                                             <div class="col-xl-4">
                                                 <div class="text-xl-end mt-xl-0 mt-2">
-                                                    <button type="button" class="btn btn-danger mb-2 me-2"><i class="mdi mdi-basket me-1"></i> Add New Order</button>
-                                                    <button type="button" class="btn btn-light mb-2">Export</button>
+                                                    <button type="button" class="btn btn-danger mb-2 me-2"><i class="mdi mdi-basket me-1"></i> 添加新订单</button>
+                                                    <button type="button" class="btn btn-light mb-2">导出</button>
                                                 </div>
                                             </div><!-- end col-->
                                         </div>
@@ -60,13 +60,13 @@
                                                                 <label class="form-check-label" for="customCheck1">&nbsp;</label>
                                                             </div>
                                                         </th>
-                                                        <th>Order ID</th>
-                                                        <th>Customers</th>
-                                                        <th>Project</th>
-                                                        <th>Address</th>
-                                                        <th>Date Order</th>
-                                                        <th>Order Status</th>
-                                                        <th style="width: 125px;">Action</th>
+                                                        <th>订单编号</th>
+                                                        <th>客户</th>
+                                                        <th>项目</th>
+                                                        <th>地址</th>
+                                                        <th>订单日期</th>
+                                                        <th>订单状态</th>
+                                                        <th style="width: 125px;">操作</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
@@ -94,7 +94,7 @@
                                                             <p class="mb-0 txt-muted">Meadow Lane Oakland</p>
                                                         </td>
                                                         <td>01 January 2022</td>
-                                                        <td><h5 class="my-0"><span class="badge badge-info-lighten">In Progress</span></h5></td>
+                                                        <td><h5 class="my-0"><span class="badge badge-info-lighten">处理中</span></h5></td>
                                                         <td>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-square-edit-outline"></i></a>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-delete"></i></a>
@@ -125,7 +125,7 @@
                                                             <p class="mb-0 txt-muted">Bagwell Avenue Ocala</p>
                                                         </td>
                                                         <td>02 January 2022</td>
-                                                        <td><h5 class="my-0"><span class="badge badge-success-lighten">Complete</span></h5></td>
+                                                        <td><h5 class="my-0"><span class="badge badge-success-lighten">已完成</span></h5></td>
                                                         <td>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-square-edit-outline"></i></a>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-delete"></i></a>
@@ -155,7 +155,7 @@
                                                             <p class="mb-0 txt-muted">Washburn Baton Rouge</p>
                                                         </td>
                                                         <td>03 January 2022</td>
-                                                        <td><h5 class="my-0"><span class="badge badge-warning-lighten">Pending</span></h5></td>
+                                                        <td><h5 class="my-0"><span class="badge badge-warning-lighten">待处理</span></h5></td>
                                                         <td>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-square-edit-outline"></i></a>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-delete"></i></a>
@@ -185,7 +185,7 @@
                                                             <p class="mb-0 txt-muted">Nest Lane Olivette</p>
                                                         </td>
                                                         <td>04 January 2022</td>
-                                                        <td><h5 class="my-0"><span class="badge badge-primary-lighten">Delivered</span></h5></td>
+                                                        <td><h5 class="my-0"><span class="badge badge-primary-lighten">已送达</span></h5></td>
                                                         <td>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-square-edit-outline"></i></a>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-delete"></i></a>
@@ -215,7 +215,7 @@
                                                             <p class="mb-0 txt-muted">Larry San Francisco</p>
                                                         </td>
                                                         <td>05 January 2022</td>
-                                                        <td><h5 class="my-0"><span class="badge badge-info-lighten">In Progress</span></h5></td>
+                                                        <td><h5 class="my-0"><span class="badge badge-info-lighten">处理中</span></h5></td>
                                                         <td>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-square-edit-outline"></i></a>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-delete"></i></a>
@@ -245,7 +245,7 @@
                                                             <p class="mb-0 txt-muted">Oak Drive Mobile</p>
                                                         </td>
                                                         <td>06 January 2022</td>
-                                                        <td><h5 class="my-0"><span class="badge badge-success-lighten">Complete</span></h5></td>
+                                                        <td><h5 class="my-0"><span class="badge badge-success-lighten">已完成</span></h5></td>
                                                         <td>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-square-edit-outline"></i></a>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-delete"></i></a>
@@ -276,7 +276,7 @@
                                                             <p class="mb-0 txt-muted">Oxford Court Amory</p>
                                                         </td>
                                                         <td>07 January 2022</td>
-                                                        <td><h5 class="my-0"><span class="badge badge-primary-lighten">Delivered</span></h5></td>
+                                                        <td><h5 class="my-0"><span class="badge badge-primary-lighten">已送达</span></h5></td>
                                                         <td>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-square-edit-outline"></i></a>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-delete"></i></a>
@@ -307,7 +307,7 @@
                                                             <p class="mb-0 txt-muted">Lane New Market</p>
                                                         </td>
                                                         <td>08 January 2022</td>
-                                                        <td><h5 class="my-0"><span class="badge badge-warning-lighten">Pending</span></h5></td>
+                                                        <td><h5 class="my-0"><span class="badge badge-warning-lighten">待处理</span></h5></td>
                                                         <td>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-square-edit-outline"></i></a>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-delete"></i></a>
@@ -337,7 +337,7 @@
                                                             <p class="mb-0 txt-muted">Wilson Avenue Dallas</p>
                                                         </td>
                                                         <td>09 January 2022</td>
-                                                        <td><h5 class="my-0"><span class="badge badge-primary-lighten">Delivered</span></h5></td>
+                                                        <td><h5 class="my-0"><span class="badge badge-primary-lighten">已送达</span></h5></td>
                                                         <td>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-square-edit-outline"></i></a>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-delete"></i></a>
@@ -367,7 +367,7 @@
                                                             <p class="mb-0 txt-muted">Avenue Johnson City</p>
                                                         </td>
                                                         <td>10 January 2022</td>
-                                                        <td><h5 class="my-0"><span class="badge badge-success-lighten">Complete</span></h5></td>
+                                                        <td><h5 class="my-0"><span class="badge badge-success-lighten">已完成</span></h5></td>
                                                         <td>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-square-edit-outline"></i></a>
                                                             <a href="javascript:void(0);" class="action-icon"> <i class="mdi mdi-delete"></i></a>

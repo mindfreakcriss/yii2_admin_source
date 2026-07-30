@@ -10,10 +10,10 @@ $this->registerJsFile('/admin/js/pages/demo.apex-area.js', ['depends' => 'app\as
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Apex</a></li>
-                                            <li class="breadcrumb-item active">Area Charts</li>
+                                            <li class="breadcrumb-item active">面积图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Area Charts</h4>
+                                    <h4 class="page-title">面积图</h4>
                                 </div>
                             </div>
                         </div>
@@ -23,7 +23,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-area.js', ['depends' => 'app\as
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Basic Area Chart</h4>
+                                        <h4 class="header-title mb-4">基本面积图 Chart</h4>
                                         <div dir="ltr">
                                             <div id="basic-area" class="apex-charts" data-colors="#fa6767"></div>
                                         </div>
@@ -37,7 +37,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-area.js', ['depends' => 'app\as
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Spline Area</h4>
+                                        <h4 class="header-title mb-4">样条面积图</h4>
                                         <div dir="ltr">
                                             <div id="spline-area" class="apex-charts" data-colors="#727cf5,#6c757d"></div>
                                         </div>
@@ -75,7 +75,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-area.js', ['depends' => 'app\as
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Area with Negative Values</h4>
+                                        <h4 class="header-title mb-4">Area with 负值</h4>
                                         <div dir="ltr">
                                             <div id="area-chart-negative" class="apex-charts" data-colors="#0acf97,#ffbc00"></div>
                                         </div>

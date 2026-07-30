@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Badges</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">徽章</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Badges</h4>
+                                    <h4 class="page-title">徽章</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Default</h4>
+                                        <h4 class="header-title">默认</h4>
                                         <p class="text-muted font-14 mb-3">
                                             A simple labeling component. Badges scale to match the size of the immediate parent element by using relative font sizing and <code>em</code> units.
                                         </p>
@@ -28,25 +28,25 @@
                                             <li class="nav-item">
                                                 <a href="#default-sizes-preview" data-bs-toggle="tab" aria-expanded="false"
                                                     class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#default-sizes-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
 
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="default-sizes-preview">
-                                                <h1>h1.Example heading <span class="badge bg-secondary text-light">New</span></h1>
-                                                <h2>h2.Example heading <span class="badge badge-success-lighten">New</span></h2>
-                                                <h3>h2.Example heading <span class="badge bg-primary">New</span></h3>
-                                                <h4>h4.Example heading <a href="#" class="badge badge-info-lighten">Info Link</a></h4>
-                                                <h5>h5.Example heading <span class="badge badge-outline-warning">New</span></h5>
-                                                <h6>h6.Example heading <span class="badge bg-danger">New</span></h6>
+                                                <h1>h1.Example heading <span class="badge bg-secondary text-light">新</span></h1>
+                                                <h2>h2.Example heading <span class="badge badge-success-lighten">新</span></h2>
+                                                <h3>h2.Example heading <span class="badge bg-primary">新</span></h3>
+                                                <h4>h4.Example heading <a href="#" class="badge badge-info-lighten">信息链接</a></h4>
+                                                <h5>h5.Example heading <span class="badge badge-outline-warning">新</span></h5>
+                                                <h6>h6.Example heading <span class="badge bg-danger">新</span></h6>
                                             </div> <!-- end preview-->
 
                                             <div class="tab-pane" id="default-sizes-code">
@@ -68,7 +68,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Pill Badges</h4>
+                                        <h4 class="header-title">药丸徽章</h4>
                                         <p class="text-muted font-14 mb-3">
                                             Use the <code>.rounded-pill</code> modifier class to make badges more rounded.
                                         </p>
@@ -77,13 +77,13 @@
                                             <li class="nav-item">
                                                 <a href="#pill-badges-preview" data-bs-toggle="tab" aria-expanded="false"
                                                     class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#pill-badges-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -91,42 +91,42 @@
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="pill-badges-preview">
                                                 
-                                                <span class="badge bg-primary rounded-pill">Primary</span>
-                                                <span class="badge bg-secondary text-light rounded-pill">Secondary</span>
-                                                <span class="badge bg-success rounded-pill">Success</span>
-                                                <span class="badge bg-danger rounded-pill">Danger</span>
-                                                <span class="badge bg-warning rounded-pill">Warning</span>
-                                                <span class="badge bg-info rounded-pill">Info</span>
-                                                <span class="badge bg-light text-dark rounded-pill">Light</span>
-                                                <span class="badge bg-dark text-light rounded-pill">Dark</span>
+                                                <span class="badge bg-primary rounded-pill">主要</span>
+                                                <span class="badge bg-secondary text-light rounded-pill">次要</span>
+                                                <span class="badge bg-success rounded-pill">成功</span>
+                                                <span class="badge bg-danger rounded-pill">危险</span>
+                                                <span class="badge bg-warning rounded-pill">警告</span>
+                                                <span class="badge bg-info rounded-pill">信息</span>
+                                                <span class="badge bg-light text-dark rounded-pill">浅色</span>
+                                                <span class="badge bg-dark text-light rounded-pill">深色</span>
 
-                                                <h5 class="mt-4">Lighten Badges</h5>
+                                                <h5 class="mt-4">浅色徽章</h5>
                                                 <p class="text-muted font-14 mb-3">
                                                     Use the <code>.badge-*-lighten</code> modifier class to make badges lighten.
                                                 </p>
 
-                                                <span class="badge badge-primary-lighten rounded-pill">Primary</span>
-                                                <span class="badge badge-secondary-lighten rounded-pill">Secondary</span>
-                                                <span class="badge badge-success-lighten rounded-pill">Success</span>
-                                                <span class="badge badge-danger-lighten rounded-pill">Danger</span>
-                                                <span class="badge badge-warning-lighten rounded-pill">Warning</span>
-                                                <span class="badge badge-info-lighten rounded-pill">Info</span>
-                                                <span class="badge badge-light-lighten rounded-pill">Light</span>
-                                                <span class="badge badge-dark-lighten rounded-pill">Dark</span>
+                                                <span class="badge badge-primary-lighten rounded-pill">主要</span>
+                                                <span class="badge badge-secondary-lighten rounded-pill">次要</span>
+                                                <span class="badge badge-success-lighten rounded-pill">成功</span>
+                                                <span class="badge badge-danger-lighten rounded-pill">危险</span>
+                                                <span class="badge badge-warning-lighten rounded-pill">警告</span>
+                                                <span class="badge badge-info-lighten rounded-pill">信息</span>
+                                                <span class="badge badge-light-lighten rounded-pill">浅色</span>
+                                                <span class="badge badge-dark-lighten rounded-pill">深色</span>
 
-                                                <h5 class="mt-4">Outline Badges</h5>
+                                                <h5 class="mt-4">轮廓徽章</h5>
                                                 <p class="text-muted font-14 mb-3">
                                                     Using the <code>.badge-outline-*</code> to quickly create a bordered badges.
                                                 </p>
         
-                                                <span class="badge badge-outline-primary rounded-pill">Primary</span>
-                                                <span class="badge badge-outline-secondary rounded-pill">Secondary</span>
-                                                <span class="badge badge-outline-success rounded-pill">Success</span>
-                                                <span class="badge badge-outline-danger rounded-pill">Danger</span>
-                                                <span class="badge badge-outline-warning rounded-pill">Warning</span>
-                                                <span class="badge badge-outline-info rounded-pill">Info</span>
-                                                <span class="badge badge-outline-light rounded-pill">Light</span>
-                                                <span class="badge badge-outline-dark rounded-pill">Dark</span>
+                                                <span class="badge badge-outline-primary rounded-pill">主要</span>
+                                                <span class="badge badge-outline-secondary rounded-pill">次要</span>
+                                                <span class="badge badge-outline-success rounded-pill">成功</span>
+                                                <span class="badge badge-outline-danger rounded-pill">危险</span>
+                                                <span class="badge badge-outline-warning rounded-pill">警告</span>
+                                                <span class="badge badge-outline-info rounded-pill">信息</span>
+                                                <span class="badge badge-outline-light rounded-pill">浅色</span>
+                                                <span class="badge badge-outline-dark rounded-pill">深色</span>
 
                                             </div> <!-- end preview-->
 
@@ -173,7 +173,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Contextual variations</h4>
+                                        <h4 class="header-title">情景变体</h4>
                                         <p class="text-muted font-14 mb-3">
                                             Add any of the below mentioned modifier classes to change the appearance of a badge.
                                             Badge can be more contextual as well. Just use regular convention e.g. <code>badge-*color</code>, <code>bg-primary</code>
@@ -184,13 +184,13 @@
                                             <li class="nav-item">
                                                 <a href="#contextual-badges-preview" data-bs-toggle="tab" aria-expanded="false"
                                                     class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#contextual-badges-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -206,7 +206,7 @@
                                                 <span class="badge bg-light text-dark">Light</span>
                                                 <span class="badge bg-dark text-light">Dark</span>
         
-                                                <h5 class="mt-4">Lighten Badges</h5>
+                                                <h5 class="mt-4">浅色徽章</h5>
                                                 <p class="text-muted font-14 mb-3">
                                                     Using the <code>.badge-*-lighten</code> modifier class, you can have more soften variation.
                                                 </p>
@@ -220,7 +220,7 @@
                                                 <span class="badge badge-light-lighten">Light</span>
                                                 <span class="badge badge-dark-lighten">Dark</span>
 
-                                                <h5 class="mt-4">Outline Badges</h5>
+                                                <h5 class="mt-4">轮廓徽章</h5>
                                                 <p class="text-muted font-14 mb-3">
                                                     Using the <code>.badge-outline-*</code> to quickly create a bordered badges.
                                                 </p>
@@ -278,7 +278,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Badge Positioned</h4>
+                                        <h4 class="header-title">徽章定位</h4>
                                         <p class="text-muted font-14 mb-3">
                                             Use utilities to modify a <code>.badge</code> and position it in the corner of a
                                             link or button.
@@ -288,13 +288,13 @@
                                             <li class="nav-item">
                                                 <a href="#contextual-badges-positioned-preview" data-bs-toggle="tab" aria-expanded="false"
                                                     class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#contextual-badges-positioned-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -304,25 +304,25 @@
                                                 <div class="row">
                                                     <div class="col-6">
                                                         <button type="button" class="btn btn-primary position-relative">
-                                                            Inbox
+                                                            收件箱
                                                             <span
                                                                 class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
                                                                 99+
-                                                                <span class="visually-hidden">unread messages</span>
+                                                                <span class="visually-hidden">未读消息</span>
                                                             </span>
                                                         </button>
                                                     </div>
                                                     <div class="col-6">
                                                         <button type="button" class="btn btn-primary position-relative">
-                                                            Profile
+                                                            个人资料
                                                             <span class="position-absolute top-0 start-100 translate-middle p-1 bg-danger border border-light rounded-circle">
-                                                              <span class="visually-hidden">New alerts</span>
+                                                              <span class="visually-hidden">新警告</span>
                                                             </span>
                                                         </button>
                                                     </div>
                                                     <div class="col-6">
                                                         <button type="button" class="btn btn-success mt-4">
-                                                            Notifications <span class="badge bg-light text-dark ms-1">4</span>
+                                                            通知 <span class="badge bg-light text-dark ms-1">4</span>
                                                         </button>
                                                     </div>
                                                 </div>
@@ -332,23 +332,23 @@
                                                 <pre class="mb-0">
                                                     <span class="html escape">
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-primary position-relative&quot;&gt;
-                                                            Inbox
+                                                            收件箱
                                                             &lt;span
                                                                 class=&quot;position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger&quot;&gt;
                                                                 99+
-                                                                &lt;span class=&quot;visually-hidden&quot;&gt;unread messages&lt;/span&gt;
+                                                                &lt;span class=&quot;visually-hidden&quot;&gt;未读消息&lt;/span&gt;
                                                             &lt;/span&gt;
                                                         &lt;/button&gt;
 
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-primary position-relative&quot;&gt;
-                                                            Profile
+                                                            个人资料
                                                             &lt;span class=&quot;position-absolute top-0 start-100 translate-middle p-1 bg-danger border border-light rounded-circle&quot;&gt;
-                                                            &lt;span class=&quot;visually-hidden&quot;&gt;New alerts&lt;/span&gt;
+                                                            &lt;span class=&quot;visually-hidden&quot;&gt;新警告&lt;/span&gt;
                                                             &lt;/span&gt;
                                                         &lt;/button&gt;
 
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-success mt-4&quot;&gt;
-                                                            Notifications &lt;span class=&quot;badge bg-light text-dark ms-1&quot;&gt;4&lt;/span&gt;
+                                                            通知 &lt;span class=&quot;badge bg-light text-dark ms-1&quot;&gt;4&lt;/span&gt;
                                                         &lt;/button&gt;
                                                     </span>
                                                 </pre>

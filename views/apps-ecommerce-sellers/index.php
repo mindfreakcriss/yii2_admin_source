@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.sellers.js', ['depends' => 'app\asse
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">eCommerce</a></li>
-                                            <li class="breadcrumb-item active">Sellers</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">电子商务</a></li>
+                                            <li class="breadcrumb-item active">卖家</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Sellers</h4>
+                                    <h4 class="page-title">卖家</h4>
                                 </div>
                             </div>
                         </div>
@@ -25,13 +25,13 @@ $this->registerJsFile('/admin/js/pages/demo.sellers.js', ['depends' => 'app\asse
                                     <div class="card-body">
                                         <div class="row mb-2">
                                             <div class="col-sm-5">
-                                                <a href="javascript:void(0);" class="btn btn-danger mb-2"><i class="mdi mdi-plus-circle me-2"></i> Add Sellers</a>
+                                                <a href="javascript:void(0);" class="btn btn-danger mb-2"><i class="mdi mdi-plus-circle me-2"></i> 新增卖家</a>
                                             </div>
                                             <div class="col-sm-7">
                                                 <div class="text-sm-end">
                                                     <button type="button" class="btn btn-success mb-2 me-1"><i class="mdi mdi-cog"></i></button>
-                                                    <button type="button" class="btn btn-light mb-2 me-1">Import</button>
-                                                    <button type="button" class="btn btn-light mb-2">Export</button>
+                                                    <button type="button" class="btn btn-light mb-2 me-1">导入</button>
+                                                    <button type="button" class="btn btn-light mb-2">导出</button>
                                                 </div>
                                             </div><!-- end col-->
                                         </div>
@@ -46,13 +46,13 @@ $this->registerJsFile('/admin/js/pages/demo.sellers.js', ['depends' => 'app\asse
                                                                 <label class="form-check-label" for="customCheck1">&nbsp;</label>
                                                             </div>
                                                         </th>
-                                                        <th>Seller</th>
-                                                        <th>Store Name</th>
-                                                        <th>Products</th>
-                                                        <th>Wallet Balance</th>
-                                                        <th>Create Date</th>
-                                                        <th>Revenue</th>
-                                                        <th style="width: 75px;">Action</th>
+                                                        <th>卖家</th>
+                                                        <th>店铺名称</th>
+                                                        <th>产品</th>
+                                                        <th>钱包余额</th>
+                                                        <th>创建日期</th>
+                                                        <th>收入</th>
+                                                        <th style="width: 75px;">操作</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>

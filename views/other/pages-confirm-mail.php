@@ -14,17 +14,16 @@
                                 
                                 <div class="text-center m-auto">
                                     <img src="/admin/images/mail_sent.svg" alt="mail sent image" height="64" />
-                                    <h4 class="text-dark-50 text-center mt-4 fw-bold">Please check your email</h4>
+                                    <h4 class="text-dark-50 text-center mt-4 fw-bold">请检查您的邮箱</h4>
                                     <p class="text-muted mb-4">
-                                        A email has been send to <b>youremail@domain.com</b>.
-                                        Please check for an email from company and click on the included link to
-                                        reset your password. 
+                                        一封邮件已发送至 <b>youremail@domain.com</b>。
+                                        请查收公司发送的邮件，并点击邮件中的链接以重置密码。
                                     </p>
                                 </div>
 
                                 <form action="https://coderthemes.com/hyper/saas/index.html">
                                     <div class="mb-0 text-center">
-                                        <button class="btn btn-primary" type="submit"><i class="mdi mdi-home me-1"></i> Back to Home</button>
+                                        <button class="btn btn-primary" type="submit"><i class="mdi mdi-home me-1"></i> 返回首页</button>
                                     </div>
                                 </form>
 

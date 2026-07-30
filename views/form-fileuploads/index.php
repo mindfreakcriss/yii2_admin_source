@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Forms</a></li>
-                                            <li class="breadcrumb-item active">File Uploads</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">表单</a></li>
+                                            <li class="breadcrumb-item active">文件上传</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">File Uploads</h4>
+                                    <h4 class="page-title">文件上传</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title m-t-0">Dropzone File Upload</h4>
+                                        <h4 class="header-title m-t-0">Dropzone 文件上传</h4>
                                         <p class="text-muted font-14">
                                             DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
                                         </p>

@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Buttons</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">按钮</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Buttons</h4>
+                                    <h4 class="page-title">按钮</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,33 +19,33 @@
                             <div class="col-xl-6">  
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Default Buttons</h4>
+                                        <h4 class="header-title">默认按钮</h4>
                                         <p class="text-muted font-14">Use the button classes on an <code>&lt;a&gt;</code>, <code>&lt;button&gt;</code>, or <code>&lt;input&gt;</code> element.</p>
                                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#default-buttons-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#default-buttons-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="default-buttons-preview">
                                                 <div class="button-list">
-                                                    <button type="button" class="btn btn-primary">Primary</button>
-                                                    <button type="button" class="btn btn-secondary">Secondary</button>
-                                                    <button type="button" class="btn btn-success">Success</button>
-                                                    <button type="button" class="btn btn-danger">Danger</button>
-                                                    <button type="button" class="btn btn-warning">Warning</button>
-                                                    <button type="button" class="btn btn-info">Info</button>
-                                                    <button type="button" class="btn btn-light">Light</button>
-                                                    <button type="button" class="btn btn-dark">Dark</button>
-                                                    <button type="button" class="btn btn-link">Link</button>
+                                                    <button type="button" class="btn btn-primary">主要</button>
+                                                    <button type="button" class="btn btn-secondary">次要</button>
+                                                    <button type="button" class="btn btn-success">成功</button>
+                                                    <button type="button" class="btn btn-danger">危险</button>
+                                                    <button type="button" class="btn btn-warning">警告</button>
+                                                    <button type="button" class="btn btn-info">信息</button>
+                                                    <button type="button" class="btn btn-light">浅色</button>
+                                                    <button type="button" class="btn btn-dark">深色</button>
+                                                    <button type="button" class="btn btn-link">链接</button>
                                                 </div>
                                             </div> <!-- end preview-->
                                         
@@ -73,32 +73,32 @@
                             <div class="col-xl-6">  
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Button Outline</h4>
+                                        <h4 class="header-title">轮廓按钮</h4>
                                         <p class="text-muted font-14">Use a classes <code>.btn-outline-**</code> to quickly create a bordered buttons.</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#outline-buttons-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#outline-buttons-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="outline-buttons-preview">
                                                 <div class="button-list">
-                                                    <button type="button" class="btn btn-outline-primary">Primary</button>
-                                                    <button type="button" class="btn btn-outline-secondary">Secondary</button>
-                                                    <button type="button" class="btn btn-outline-success"><i class="uil-cloud-computing"></i> Success</button>
-                                                    <button type="button" class="btn btn-outline-danger">Danger</button>
-                                                    <button type="button" class="btn btn-outline-warning">Warning</button>
-                                                    <button type="button" class="btn btn-outline-info"><i class="uil-circuit"></i> Info</button>
-                                                    <button type="button" class="btn btn-outline-light">Light</button>
-                                                    <button type="button" class="btn btn-outline-dark">Dark</button>
+                                                    <button type="button" class="btn btn-outline-primary">主要</button>
+                                                    <button type="button" class="btn btn-outline-secondary">次要</button>
+                                                    <button type="button" class="btn btn-outline-success"> 成功</button>
+                                                    <button type="button" class="btn btn-outline-danger">危险</button>
+                                                    <button type="button" class="btn btn-outline-warning">警告</button>
+                                                    <button type="button" class="btn btn-outline-info"> 信息</button>
+                                                    <button type="button" class="btn btn-outline-light">浅色</button>
+                                                    <button type="button" class="btn btn-outline-dark">深色</button>
                                                 </div>
                                             </div> <!-- end preview-->
                                         
@@ -128,18 +128,18 @@
                             <div class="col-xl-6">  
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Button-Rounded</h4>
+                                        <h4 class="header-title">圆角按钮</h4>
                                         <p class="text-muted font-14">Add <code>.rounded-pill</code> to default button to get rounded corners.</p>
                                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#rounded-buttons-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#rounded-buttons-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -182,18 +182,18 @@
                             <div class="col-xl-6">  
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Button Outline Rounded</h4>
+                                        <h4 class="header-title">轮廓圆角按钮</h4>
                                         <p class="text-muted font-14">Use a classes <code>.btn-outline-**</code> to quickly create a bordered buttons.</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#outline-rounded-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#outline-rounded-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -237,7 +237,7 @@
                             <div class="col-xl-6">  
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Button-Sizes</h4>
+                                        <h4 class="header-title">按钮尺寸</h4>
                                         <p class="text-muted font-14">
                                             Add <code>.btn-lg</code>, <code>.btn-sm</code> for additional sizes.
                                         </p>
@@ -245,21 +245,21 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#button-sizes-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#button-sizes-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="button-sizes-preview">
                                                 <div class="button-list">
-                                                    <button type="button" class="btn btn-primary btn-lg">Large</button>
-                                                    <button type="button" class="btn btn-info">Normal</button>
-                                                    <button type="button" class="btn btn-success btn-sm">Small</button>
+                                                    <button type="button" class="btn btn-primary btn-lg">大</button>
+                                                    <button type="button" class="btn btn-info">标准</button>
+                                                    <button type="button" class="btn btn-success btn-sm">小</button>
                                                 </div>
                                             </div> <!-- end preview-->
                                         
@@ -281,7 +281,7 @@
                             <div class="col-xl-6">  
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Button-Disabled</h4>
+                                        <h4 class="header-title">禁用按钮</h4>
                                         <p class="text-muted font-14">
                                             Add the <code>disabled</code> attribute to <code>&lt;button&gt;</code> buttons.
                                         </p>
@@ -289,12 +289,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#button-disabled-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#button-disabled-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -330,7 +330,7 @@
                             <div class="col-xl-6">  
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Icon Buttons</h4>
+                                        <h4 class="header-title">图标按钮</h4>
                                         <p class="text-muted font-14">
                                             Icon only button.
                                         </p>
@@ -338,12 +338,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#icon-buttons-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#icon-buttons-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -358,13 +358,13 @@
                                                     <button type="button" class="btn btn-info"><i class="mdi mdi-keyboard"></i> </button>
                                                     <button type="button" class="btn btn-warning"><i class="mdi mdi-wrench"></i> </button>
                                                     <br>
-                                                    <button type="button" class="btn btn-light"><i class="mdi mdi-heart me-1"></i> <span>Like</span> </button>
-                                                    <button type="button" class="btn btn-warning"><i class="mdi mdi-rocket me-1"></i> <span>Launch</span> </button>
-                                                    <button type="button" class="btn btn-info"><i class="mdi mdi-cloud me-1"></i> <span>Cloud Hosting</span> </button>
+                                                    <button type="button" class="btn btn-light"><i class="mdi mdi-heart me-1"></i> <span>喜欢</span> </button>
+                                                    <button type="button" class="btn btn-warning"><i class="mdi mdi-rocket me-1"></i> <span>启动</span> </button>
+                                                    <button type="button" class="btn btn-info"><i class="mdi mdi-cloud me-1"></i> <span>云主机</span> </button>
                                                     <br>
-                                                    <button type="button" class="btn btn-outline-success"><i class="uil-money-withdrawal"></i> Money</button>
+                                                    <button type="button" class="btn btn-outline-success"><i class="uil-money-withdrawal"></i> 资金</button>
                                                     <button type="button" class="btn btn-outline-primary"><i class="uil-paypal"></i> PayPal</button>
-                                                    <button type="button" class="btn btn-outline-danger"><i class="uil-cog"></i> Settings</button>
+                                                    <button type="button" class="btn btn-outline-danger"><i class="uil-cog"></i> 设置</button>
                                                 </div>
                                             </div> <!-- end preview-->
                                         
@@ -383,9 +383,9 @@
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-warning&quot;&gt;&lt;i class=&quot;mdi mdi-rocket me-1&quot;&gt;&lt;/i&gt; &lt;span&gt;Launch&lt;/span&gt; &lt;/button&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-info&quot;&gt;&lt;i class=&quot;mdi mdi-cloud me-1&quot;&gt;&lt;/i&gt; &lt;span&gt;Cloud Hosting&lt;/span&gt; &lt;/button&gt;
                                                         
-                                                        &lt;button type=&quot;button&quot; class=&quot;btn btn-outline-success&quot;&gt;&lt;i class=&quot;uil-money-withdrawal&quot;&gt;&lt;/i&gt; Money&lt;/button&gt;
+                                                        &lt;button type=&quot;button&quot; class=&quot;btn btn-outline-success&quot;&gt;&lt;i class=&quot;uil-money-withdrawal&quot;&gt;&lt;/i&gt; 资金&lt;/button&gt;
                                                         &lt;button type=&quot;button&quot; class=&quot;btn btn-outline-primary&quot;&gt;&lt;i class=&quot;uil-paypal&quot;&gt;&lt;/i&gt; PayPal&lt;/button&gt;
-                                                        &lt;button type=&quot;button&quot; class=&quot;btn btn-outline-danger&quot;&gt;&lt;i class=&quot;uil-cog&quot;&gt;&lt;/i&gt; Settings&lt;/button&gt;
+                                                        &lt;button type=&quot;button&quot; class=&quot;btn btn-outline-danger&quot;&gt;&lt;i class=&quot;uil-cog&quot;&gt;&lt;/i&gt; 设置&lt;/button&gt;
                                                     </span>
                                                 </pre> <!-- end highlight-->
                                             </div> <!-- end preview code-->
@@ -398,7 +398,7 @@
                             <div class="col-xl-6">  
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Block Button</h4>
+                                        <h4 class="header-title">块级按钮</h4>
 
                                         <p class="text-muted font-14">
                                             Create block level buttons by adding class <code>.d-grid</code> to parent div.
@@ -407,21 +407,21 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#block-buttons-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#block-buttons-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
                                         <div class="tab-content">
                                             <div class="tab-pane show button-list active" id="block-buttons-preview">
                                                 <div class="d-grid">
-                                                    <button type="button" class="btn btn-primary">Block Button</button>
-                                                    <button type="button" class="btn btn-sm btn-info">Block Button</button>
-                                                    <button type="button" class="btn btn-xs btn-success">Block Button</button>
+                                                    <button type="button" class="btn btn-primary">块级按钮</button>
+                                                    <button type="button" class="btn btn-sm btn-info">块级按钮</button>
+                                                    <button type="button" class="btn btn-xs btn-success">块级按钮</button>
                                                 </div>
                                             </div> <!-- end preview-->
                                         
@@ -429,9 +429,9 @@
                                                 <pre class="mb-0">
                                                     <span class="html escape">
                                                         &lt;div class=&quot;d-grid&quot;&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Block Button&lt;/button&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-sm btn-info&quot;&gt;Block Button&lt;/button&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-xs btn-success&quot;&gt;Block Button&lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;块级按钮&lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-sm btn-info&quot;&gt;块级按钮&lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-xs btn-success&quot;&gt;块级按钮&lt;/button&gt;
                                                         &lt;/div&gt;
                                                         &lt;!-- end d-grid --&gt;  
                                                     </span>
@@ -449,7 +449,7 @@
                             <div class="col-xl-6">  
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Button Group</h4>
+                                        <h4 class="header-title">按钮组</h4>
 
                                         <p class="text-muted font-14">
                                             Wrap a series of buttons with <code>.btn</code> in <code>.btn-group</code>.
@@ -458,21 +458,21 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#button-group-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#button-group-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="button-group-preview">
                                                 <div class="btn-group mb-2">
-                                                    <button type="button" class="btn btn-light">Left</button>
-                                                    <button type="button" class="btn btn-light">Middle</button>
-                                                    <button type="button" class="btn btn-light">Right</button>
+                                                    <button type="button" class="btn btn-light">左</button>
+                                                    <button type="button" class="btn btn-light">中</button>
+                                                    <button type="button" class="btn btn-light">右</button>
                                                 </div>
 
                                                 <br>
@@ -503,8 +503,8 @@
                                                     <div class="btn-group">
                                                         <button type="button" class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"> Dropdown <span class="caret"></span> </button>
                                                         <div class="dropdown-menu">
-                                                            <a class="dropdown-item" href="#">Dropdown link</a>
-                                                            <a class="dropdown-item" href="#">Dropdown link</a>
+                                                            <a class="dropdown-item" href="#">下拉链接</a>
+                                                            <a class="dropdown-item" href="#">下拉链接</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -512,19 +512,19 @@
                                                 <div class="row">
                                                     <div class="col-md-3">
                                                         <div class="btn-group-vertical mb-2">
-                                                            <button type="button" class="btn btn-light">Top</button>
-                                                            <button type="button" class="btn btn-light">Middle</button>
-                                                            <button type="button" class="btn btn-light">Bottom</button>
+                                                            <button type="button" class="btn btn-light">上</button>
+                                                            <button type="button" class="btn btn-light">中</button>
+                                                            <button type="button" class="btn btn-light">下</button>
                                                         </div>
                                                     </div>
                                                     <div class="col-md-3">
                                                         <div class="btn-group-vertical mb-2">
-                                                            <button type="button" class="btn btn-light">Button 1</button>
-                                                            <button type="button" class="btn btn-light">Button 2</button>
-                                                            <button type="button" class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"> Button 3 <span class="caret"></span> </button>
+                                                            <button type="button" class="btn btn-light">按钮 1</button>
+                                                            <button type="button" class="btn btn-light">按钮 2</button>
+                                                            <button type="button" class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"> 按钮 3 <span class="caret"></span> </button>
                                                             <div class="dropdown-menu">
-                                                                <a class="dropdown-item" href="#">Dropdown link</a>
-                                                                <a class="dropdown-item" href="#">Dropdown link</a>
+                                                                <a class="dropdown-item" href="#">下拉链接</a>
+                                                                <a class="dropdown-item" href="#">下拉链接</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -536,9 +536,9 @@
                                                     <span class="html escape">
                                                         &lt;!-- Button Group --&gt;
                                                         &lt;div class=&quot;btn-group mb-2&quot;&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;Left&lt;/button&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;Middle&lt;/button&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;Right&lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;左&lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;中&lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;右&lt;/button&gt;
                                                         &lt;/div&gt;
                                                         
                                                         &lt;!-- Button Group with Dropdowns--&gt;
@@ -549,27 +549,27 @@
                                                             &lt;div class=&quot;btn-group&quot;&gt;
                                                                 &lt;button type=&quot;button&quot; class=&quot;btn btn-light dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-expanded=&quot;false&quot;&gt; Dropdown &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt; &lt;/button&gt;
                                                                 &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
-                                                                    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
+                                                                    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;下拉链接&lt;/a&gt;
+                                                                    &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;下拉链接&lt;/a&gt;
                                                                 &lt;/div&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                         
                                                         &lt;!-- Button Group Vertical--&gt;
                                                         &lt;div class=&quot;btn-group-vertical mb-2&quot;&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;Top&lt;/button&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;Middle&lt;/button&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;Bottom&lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;上&lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;中&lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;下&lt;/button&gt;
                                                         &lt;/div&gt;
                                                         
                                                         &lt;!-- Button Group Vertical with Dropdowns--&gt;
                                                         &lt;div class=&quot;btn-group-vertical mb-2&quot;&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;Button 1&lt;/button&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;Button 2&lt;/button&gt;
-                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-expanded=&quot;false&quot;&gt; Button 3 &lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;按钮 1&lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light&quot;&gt;按钮 2&lt;/button&gt;
+                                                            &lt;button type=&quot;button&quot; class=&quot;btn btn-light dropdown-toggle&quot; data-bs-toggle=&quot;dropdown&quot; aria-expanded=&quot;false&quot;&gt; 按钮 3 &lt;/button&gt;
                                                             &lt;div class=&quot;dropdown-menu&quot;&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
-                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;Dropdown link&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;下拉链接&lt;/a&gt;
+                                                                &lt;a class=&quot;dropdown-item&quot; href=&quot;#&quot;&gt;下拉链接&lt;/a&gt;
                                                             &lt;/div&gt;
                                                         &lt;/div&gt;
                                                     </span>

@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Grid System</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">网格系统</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Grid System</h4>
+                                    <h4 class="page-title">网格系统</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Grid options</h4>
+                                        <h4 class="header-title">网格选项</h4>
                                         <p class="text-muted font-13">
                                             See how aspects of the Bootstrap grid system work across multiple devices with a handy table.
                                         </p>
@@ -30,34 +30,34 @@
                                                 <tr>
                                                     <th></th>
                                                     <th class="text-center">
-                                                        Extra small<br>
+                                                        超小<br>
                                                         <small>&lt;576px</small>
                                                     </th>
                                                     <th class="text-center">
-                                                        Small<br>
+                                                        小<br>
                                                         <small>≥576px</small>
                                                     </th>
                                                     <th class="text-center">
-                                                        Medium<br>
+                                                        中<br>
                                                         <small>≥768px</small>
                                                     </th>
                                                     <th class="text-center">
-                                                        Large<br>
+                                                        大<br>
                                                         <small>≥992px</small>
                                                     </th>
                                                     <th class="text-center">
-                                                        Extra large<br>
+                                                        超大<br>
                                                         <small>≥1200px</small>
                                                     </th>
                                                     <th class="text-center">
-                                                        Extra large<br>
+                                                        特大<br>
                                                         <small>≥1400px</small>
                                                     </th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
                                                 <tr>
-                                                    <th class="text-nowrap" scope="row">Max container width</th>
+                                                    <th class="text-nowrap" scope="row">最大容器宽度</th>
                                                     <td>None (auto)</td>
                                                     <td>540px</td>
                                                     <td>720px</td>
@@ -66,7 +66,7 @@
                                                     <td>1320px</td>
                                                 </tr>
                                                 <tr>
-                                                    <th class="text-nowrap" scope="row">Class prefix</th>
+                                                    <th class="text-nowrap" scope="row">类前缀</th>
                                                     <td><code>.col-</code></td>
                                                     <td><code>.col-sm-</code></td>
                                                     <td><code>.col-md-</code></td>
@@ -75,23 +75,23 @@
                                                     <td><code>.col-xxl-</code></td>
                                                 </tr>
                                                 <tr>
-                                                    <th class="text-nowrap" scope="row"># of columns</th>
+                                                    <th class="text-nowrap" scope="row">列数</th>
                                                     <td colspan="6">12</td>
                                                 </tr>
                                                 <tr>
-                                                    <th class="text-nowrap" scope="row">Gutter width</th>
+                                                    <th class="text-nowrap" scope="row">间距宽度</th>
                                                     <td colspan="6">24px (12px on each side of a column)</td>
                                                 </tr>
                                                 <tr>
-                                                    <th class="text-nowrap" scope="row">Custom gutters</th>
+                                                    <th class="text-nowrap" scope="row">自定义间距</th>
                                                     <td colspan="6">Yes</td>
                                                 </tr>
                                                 <tr>
-                                                    <th class="text-nowrap" scope="row">Nestable</th>
+                                                    <th class="text-nowrap" scope="row">可嵌套</th>
                                                     <td colspan="6">Yes</td>
                                                 </tr>
                                                 <tr>
-                                                    <th class="text-nowrap" scope="row">Column ordering</th>
+                                                    <th class="text-nowrap" scope="row">列排序</th>
                                                     <td colspan="6">Yes</td>
                                                 </tr>
                                                 </tbody>
@@ -109,7 +109,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Grid Example</h4>
+                                        <h4 class="header-title mb-3">网格示例</h4>
     
                                         <div class="grid-structure">
                                             <div class="row">

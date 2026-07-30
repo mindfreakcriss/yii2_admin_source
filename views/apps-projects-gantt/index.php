@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.project-gantt.js', ['depends' => 'ap
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Projects</a></li>
-                                            <li class="breadcrumb-item active">Gantt</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">项目</a></li>
+                                            <li class="breadcrumb-item active">甘特图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Gantt</h4>
+                                    <h4 class="page-title">甘特图</h4>
                                 </div>
                             </div>
                         </div>
@@ -25,13 +25,13 @@ $this->registerJsFile('/admin/js/pages/demo.project-gantt.js', ['depends' => 'ap
                                     <!-- start projects-->
                                     <div class="col-xxl-3 col-lg-4">
                                         <div class="pe-xl-3">
-                                            <h5 class="mt-0 mb-3">Projects</h5>
+                                            <h5 class="mt-0 mb-3">项目</h5>
                                             <!-- start search box -->
                                             <div class="app-search">
                                                 <form>
                                                     <div class="mb-2 position-relative">
                                                         <input type="text" class="form-control"
-                                                            placeholder="search by name..." />
+                                                            placeholder="按名称搜索..." />
                                                         <span class="mdi mdi-magnify search-icon"></span>
                                                     </div>
                                                 </form>
@@ -52,7 +52,7 @@ $this->registerJsFile('/admin/js/pages/demo.project-gantt.js', ['depends' => 'ap
                                                             <div class="ms-2">
                                                                 <h5 class="mt-0 mb-0">
                                                                     Lunar
-                                                                    <span class="badge badge-success-lighten ms-1">On Track</span>
+                                                                    <span class="badge badge-success-lighten ms-1">正常</span>
                                                                 </h5>
                                                                 <p class="mt-1 mb-0 text-muted">
                                                                     ID: proj101
@@ -93,7 +93,7 @@ $this->registerJsFile('/admin/js/pages/demo.project-gantt.js', ['depends' => 'ap
                                                             <div class="ms-2">
                                                                 <h5 class="mt-0 mb-0">
                                                                     Aurora
-                                                                    <span class="badge badge-warning-lighten ms-1">Locked</span>
+                                                                    <span class="badge badge-warning-lighten ms-1">锁定</span>
                                                                 </h5>
                                                                 <p class="mt-1 mb-0 text-muted">
                                                                     ID: proj103
@@ -176,7 +176,7 @@ $this->registerJsFile('/admin/js/pages/demo.project-gantt.js', ['depends' => 'ap
                                                             <div class="ms-2">
                                                                 <h5 class="mt-0 mb-0">
                                                                     Eagle
-                                                                    <span class="badge badge-danger-lighten ms-1">Delayed</span>
+                                                                    <span class="badge badge-danger-lighten ms-1">延迟</span>
                                                                 </h5>
                                                                 <p class="mt-1 mb-0 text-muted">
                                                                     ID: proj108
@@ -195,24 +195,24 @@ $this->registerJsFile('/admin/js/pages/demo.project-gantt.js', ['depends' => 'ap
                                         <div class="ps-xl-3">
                                             <div class="row">
                                                 <div class="col-auto">
-                                                    <a href="javascript: void(0);" class="btn btn-success btn-sm mb-2">Add New Task</a>
+                                                    <a href="javascript: void(0);" class="btn btn-success btn-sm mb-2">添加新任务</a>
                                                 </div>
                                                 <div class="col text-sm-end">
                                                     <div class="btn-group btn-group-sm mb-2" data-bs-toggle="buttons" id="modes-filter">
                                                         <label class="btn btn-primary d-none d-sm-inline-block">
-                                                            <input  class="btn-check" type="radio" name="modes" id="qday" value="Quarter Day"> Quarter Day
+                                                            <input  class="btn-check" type="radio" name="modes" id="qday" value="Quarter Day"> 四分之一天
                                                         </label>
                                                         <label class="btn btn-primary">
-                                                            <input  class="btn-check" type="radio" name="modes" id="hday" value="Half Day"> Half Day
+                                                            <input  class="btn-check" type="radio" name="modes" id="hday" value="Half Day"> 半天
                                                         </label>
                                                         <label class="btn btn-primary">
-                                                            <input  class="btn-check" type="radio" name="modes" id="day" value="Day"> Day
+                                                            <input  class="btn-check" type="radio" name="modes" id="day" value="Day"> 天
                                                         </label>
                                                         <label class="btn btn-primary active">
-                                                            <input  class="btn-check" type="radio" name="modes" id="week" value="Week" checked> Week
+                                                            <input  class="btn-check" type="radio" name="modes" id="week" value="Week" checked> 周
                                                         </label>
                                                         <label class="btn btn-primary">
-                                                            <input  class="btn-check" type="radio" name="modes" id="month" value="Month"> Month
+                                                            <input  class="btn-check" type="radio" name="modes" id="month" value="Month"> 月
                                                         </label>
                                                     </div>
                                                 </div>

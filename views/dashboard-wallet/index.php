@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Dashboard</a></li>
-                                            <li class="breadcrumb-item active">E-Wallet</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">仪表盘</a></li>
+                                            <li class="breadcrumb-item active">电子钱包</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">E-Wallet</h4>
+                                    <h4 class="page-title">电子钱包</h4>
                                 </div>
                             </div>
                         </div>
@@ -31,11 +31,11 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                                     </a>
                                                     <div class="dropdown-menu dropdown-menu-end">
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-cached me-1"></i>Refresh</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-cached me-1"></i>刷新</a>
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-circle-edit-outline me-1"></i>Edit</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-circle-edit-outline me-1"></i>编辑</a>
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item text-danger"><i class="mdi mdi-delete-outline me-1"></i>Remove</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item text-danger"><i class="mdi mdi-delete-outline me-1"></i>移除</a>
                                                     </div>
                                                 </div>
                                                 <div class="d-flex">
@@ -48,13 +48,13 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                                     </div>
                                                     <div class="flex-grow-1 ms-3">
                                                         <h4 class="mt-0 mb-1 font-20">$12,500</h4>
-                                                        <p class="mb-0 text-muted"><i class="mdi mdi-arrow-up-bold text-success"></i> 45% This Week</p>
+                                                        <p class="mb-0 text-muted"><i class="mdi mdi-arrow-up-bold text-success"></i> 45% 本周</p>
                                                     </div>
                                                 </div>
         
                                                 <div class="row align-items-end justify-content-between mt-3">
                                                     <div class="col-sm-6">
-                                                        <h4 class="mt-0 text-muted fw-semibold mb-1">Rate</h4>
+                                                        <h4 class="mt-0 text-muted fw-semibold mb-1">汇率</h4>
                                                         <p class="text-muted mb-0">1.00 BTC = $48,781.20</p>
                                                         
                                                     </div> <!-- end col -->
@@ -78,11 +78,11 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                                     </a>
                                                     <div class="dropdown-menu dropdown-menu-end">
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-cached me-1"></i>Refresh</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-cached me-1"></i>刷新</a>
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-circle-edit-outline me-1"></i>Edit</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-circle-edit-outline me-1"></i>编辑</a>
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item text-danger"><i class="mdi mdi-delete-outline me-1"></i>Remove</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item text-danger"><i class="mdi mdi-delete-outline me-1"></i>移除</a>
                                                     </div>
                                                 </div>
                                                 <div class="d-flex">
@@ -95,13 +95,13 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                                     </div>
                                                     <div class="flex-grow-1 ms-3">
                                                         <h4 class="mt-0 mb-1 font-20">$9,250</h4>
-                                                        <p class="mb-0 text-muted"><i class="mdi mdi-arrow-up-bold text-success"></i> 32% This Week</p>
+                                                        <p class="mb-0 text-muted"><i class="mdi mdi-arrow-up-bold text-success"></i> 32% 本周</p>
                                                     </div>
                                                 </div>
         
                                                 <div class="row align-items-end justify-content-between mt-3">
                                                     <div class="col-sm-6">
-                                                        <h4 class="mt-0 text-muted fw-semibold mb-1">Rate</h4>
+                                                        <h4 class="mt-0 text-muted fw-semibold mb-1">汇率</h4>
                                                         <p class="text-muted mb-0">1.00 CNY = $0.6</p>
                                                         
                                                     </div> <!-- end col -->
@@ -125,11 +125,11 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                                     </a>
                                                     <div class="dropdown-menu dropdown-menu-end">
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-cached me-1"></i>Refresh</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-cached me-1"></i>刷新</a>
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-circle-edit-outline me-1"></i>Edit</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-circle-edit-outline me-1"></i>编辑</a>
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item text-danger"><i class="mdi mdi-delete-outline me-1"></i>Remove</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item text-danger"><i class="mdi mdi-delete-outline me-1"></i>移除</a>
                                                     </div>
                                                 </div>
                                                 <div class="d-flex">
@@ -142,13 +142,13 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                                     </div>
                                                     <div class="flex-grow-1 ms-3">
                                                         <h4 class="mt-0 mb-1 font-20">$12,500</h4>
-                                                        <p class="mb-0 text-muted"><i class="mdi mdi-arrow-up-bold text-success"></i> 60% This Week</p>
+                                                        <p class="mb-0 text-muted"><i class="mdi mdi-arrow-up-bold text-success"></i> 60% 本周</p>
                                                     </div>
                                                 </div>
         
                                                 <div class="row align-items-end justify-content-between mt-3">
                                                     <div class="col-sm-6">
-                                                        <h4 class="mt-0 text-muted fw-semibold mb-1">Rate</h4>
+                                                        <h4 class="mt-0 text-muted fw-semibold mb-1">汇率</h4>
                                                         <p class="text-muted mb-0">1.00 ETH = $3,783.68</p>
                                                         
                                                     </div> <!-- end col -->
@@ -169,27 +169,27 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                         <div class="card">
                                             <div class="card-body">
                                                 <div class="align-items-center d-sm-flex justify-content-sm-between mb-3">
-                                                    <h4 class="header-title mb-0">Balance Status</h4>
+                                                    <h4 class="header-title mb-0">余额状态</h4>
 
                                                     <ul class="nav nav-pills bg-nav-pills p-1 rounded" id="pills-tab" role="tablist">
                                                         <li class="nav-item" role="presentation">
                                                             <a href="#day-status" data-bs-toggle="tab" aria-expanded="false" class="nav-link py-1 active">
-                                                                <span class="">Day</span>
+                                                                <span class="">日</span>
                                                             </a>
                                                         </li>
                                                         <li class="nav-item" role="presentation">
                                                             <a href="#week-status" data-bs-toggle="tab" aria-expanded="false" class="nav-link py-1">
-                                                                <span class="">Week</span>
+                                                                <span class="">周</span>
                                                             </a>
                                                         </li>
                                                         <li class="nav-item" role="presentation">
                                                             <a href="#month-status" data-bs-toggle="tab" aria-expanded="false" class="nav-link py-1">
-                                                                <span class="">Month</span>
+                                                                <span class="">月</span>
                                                             </a>
                                                         </li>
                                                         <li class="nav-item" role="presentation">
                                                             <a href="#year-status" data-bs-toggle="tab" aria-expanded="false" class="nav-link py-1">
-                                                                <span class="">Year</span>
+                                                                <span class="">年</span>
                                                             </a>
                                                         </li>
                                                     </ul>
@@ -260,7 +260,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
         
                                                 <div class="row mt-4">
                                                     <div class="col-4">
-                                                        <p class="text-white-50 font-16 mb-1">Expiry Date</p>
+                                                        <p class="text-white-50 font-16 mb-1">到期日期</p>
                                                         <h4 class="text-white my-0">10/26</h4>
                                                     </div>
         
@@ -283,18 +283,18 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                         <div class="card">
                                             <div class="card-body pb-0">
                                                 <div class="d-flex justify-content-between align-items-center mb-3">
-                                                    <h4 class="header-title">My Watchlist</h4>
+                                                    <h4 class="header-title">我的关注列表</h4>
                                                     <div class="dropdown">
                                                         <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                             <i class="mdi mdi-dots-vertical"></i>
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-cached me-1"></i>Refresh</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-cached me-1"></i>刷新</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-circle-edit-outline me-1"></i>Edit</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-circle-edit-outline me-1"></i>编辑</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item text-danger"><i class="mdi mdi-delete-outline me-1"></i>Remove</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item text-danger"><i class="mdi mdi-delete-outline me-1"></i>移除</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -414,18 +414,18 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-2">
-                                            <h4 class="header-title">Money History</h4>
+                                            <h4 class="header-title">资金历史</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-cached me-1"></i>Refresh</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-cached me-1"></i>刷新</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-circle-edit-outline me-1"></i>Edit</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-circle-edit-outline me-1"></i>编辑</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item text-danger"><i class="mdi mdi-delete-outline me-1"></i>Remove</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item text-danger"><i class="mdi mdi-delete-outline me-1"></i>移除</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -433,7 +433,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                         <div class="border border-light p-3 rounded mb-3">
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <div>
-                                                    <p class="font-18 mb-1">Income</p>
+                                                    <p class="font-18 mb-1">收入</p>
                                                     <h3 class="text-primary my-0">$2,76,548</h3>
                                                 </div>  
                                                 <div class="avatar-sm">
@@ -447,7 +447,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                         <div class="border border-light p-3 rounded mb-3">
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <div>
-                                                    <p class="font-18 mb-1">Expenses</p>
+                                                    <p class="font-18 mb-1">支出</p>
                                                     <h3 class="text-danger my-0">$50,216</h3>
                                                 </div>  
                                                 <div class="avatar-sm">
@@ -461,7 +461,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                         <div class="border border-light p-3 rounded">
                                             <div class="d-flex justify-content-between align-items-center">
                                                 <div>
-                                                    <p class="font-18 mb-1">Transfar</p>
+                                                    <p class="font-18 mb-1">转账</p>
                                                     <h3 class="text-success my-0">$98,100</h3>
                                                 </div>  
                                                 <div class="avatar-sm">
@@ -479,7 +479,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                 <div class="card">
                                     <div class="card-body pb-0">
                                         <div class="d-flex justify-content-between align-items-center mb-3">
-                                            <h4 class="header-title mb-0">Merchant list</h4>
+                                            <h4 class="header-title mb-0">商户列表</h4>
                                             <a href="javascript:void(0);" class="btn btn-sm btn-light">
                                                 <i class="mdi mdi-plus"></i>
                                             </a>
@@ -606,12 +606,12 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-2">
-                                            <h4 class="header-title mb-0">Transaction List</h4>
+                                            <h4 class="header-title mb-0">交易列表</h4>
                                             <div>
                                                 <select class="form-select form-select-sm" aria-label=".form-select-sm example">
-                                                    <option selected>Today</option>
-                                                    <option value="1">Yesterday</option>
-                                                    <option value="2">Tomorrow</option>
+                                                    <option selected>今天</option>
+                                                    <option value="1">昨天</option>
+                                                    <option value="2">明天</option>
                                                 </select>
                                             </div>
                                         </div>
@@ -622,11 +622,11 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                             <table class="table table-centered table-nowrap mb-0">
                                                 <thead>
                                                     <tr>
-                                                        <th scope="col">Name</th>
-                                                        <th scope="col">Date</th>
-                                                        <th scope="col">Status</th>
-                                                        <th scope="col">Amount</th>
-                                                        <th scope="col" class="text-end">Action</th>
+                                                        <th scope="col">名称</th>
+                                                        <th scope="col">日期</th>
+                                                        <th scope="col">状态</th>
+                                                        <th scope="col">金额</th>
+                                                        <th scope="col" class="text-end">操作</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
@@ -643,7 +643,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                                         </td>
                                                         <td><i class="uil uil-calender me-1"></i>Jan 01, 2022</td>
                                                         <td>
-                                                            <span class="badge bg-success-lighten text-success">Incoming</span>
+                                                            <span class="badge bg-success-lighten text-success">收入</span>
                                                         </td>
                                                         <td>
                                                             <span class="text-success fw-semibold">+ $2,586.60</span>
@@ -667,7 +667,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                                         </td>
                                                         <td><i class="uil uil-calender me-1"></i>Jan 18, 2022</td>
                                                         <td>
-                                                            <span class="badge bg-danger-lighten text-danger">Outgoing</span>
+                                                            <span class="badge bg-danger-lighten text-danger">支出</span>
                                                         </td>
                                                         <td>
                                                             <span class="text-danger fw-semibold">- $1,250.48</span>
@@ -691,7 +691,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                                         </td>
                                                         <td><i class="uil uil-calender me-1"></i>Feb 05, 2022</td>
                                                         <td>
-                                                            <span class="badge bg-success-lighten text-success">Incoming</span>
+                                                            <span class="badge bg-success-lighten text-success">收入</span>
                                                         </td>
                                                         <td>
                                                             <span class="text-success fw-semibold">+ $18,400.00</span>
@@ -715,7 +715,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                                         </td>
                                                         <td><i class="uil uil-calender me-1"></i>Feb 13, 2022</td>
                                                         <td>
-                                                            <span class="badge bg-warning-lighten text-warning">In Progress</span>
+                                                            <span class="badge bg-warning-lighten text-warning">处理中</span>
                                                         </td>
                                                         <td>
                                                             <span class="text-warning fw-semibold">+ $9,646.20</span>
@@ -739,7 +739,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-wallet.js', ['depends' => 
                                                         </td>
                                                         <td><i class="uil uil-calender me-1"></i>Mar 02, 2022</td>
                                                         <td>
-                                                            <span class="badge bg-danger-lighten text-danger">Outgoing</span>
+                                                            <span class="badge bg-danger-lighten text-danger">支出</span>
                                                         </td>
                                                         <td>
                                                             <span class="text-danger fw-semibold">+ $10,285.80</span>

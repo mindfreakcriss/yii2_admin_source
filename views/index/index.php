@@ -18,7 +18,7 @@
                                             </a>
                                         </form>
                                     </div>
-                                    <h4 class="page-title">Dashboard</h4>
+                                    <h4 class="page-title">仪表盘</h4>
                                 </div>
                             </div>
                         </div>
@@ -34,11 +34,11 @@
                                                 <div class="float-end">
                                                     <i class="mdi mdi-account-multiple widget-icon"></i>
                                                 </div>
-                                                <h5 class="text-muted fw-normal mt-0" title="Number of Customers">顾客量</h5>
+                                                <h5 class="text-muted fw-normal mt-0" title="客户数量">客户数</h5>
                                                 <h3 class="mt-3 mb-3">36,254</h3>
                                                 <p class="mb-0 text-muted">
                                                     <span class="text-success me-2"><i class="mdi mdi-arrow-up-bold"></i> 5.27%</span>
-                                                    <span class="text-nowrap">Since last month</span>  
+                                                    <span class="text-nowrap">较上月</span>  
                                                 </p>
                                             </div> <!-- end card-body-->
                                         </div> <!-- end card-->
@@ -50,11 +50,11 @@
                                                 <div class="float-end">
                                                     <i class="mdi mdi-cart-plus widget-icon"></i>
                                                 </div>
-                                                <h5 class="text-muted fw-normal mt-0" title="Number of Orders">Orders</h5>
+                                                <h5 class="text-muted fw-normal mt-0" title="订单数量">订单</h5>
                                                 <h3 class="mt-3 mb-3">5,543</h3>
                                                 <p class="mb-0 text-muted">
                                                     <span class="text-danger me-2"><i class="mdi mdi-arrow-down-bold"></i> 1.08%</span>
-                                                    <span class="text-nowrap">Since last month</span>
+                                                    <span class="text-nowrap">较上月</span>
                                                 </p>
                                             </div> <!-- end card-body-->
                                         </div> <!-- end card-->
@@ -68,11 +68,11 @@
                                                 <div class="float-end">
                                                     <i class="mdi mdi-currency-usd widget-icon"></i>
                                                 </div>
-                                                <h5 class="text-muted fw-normal mt-0" title="Average Revenue">Revenue</h5>
+                                                <h5 class="text-muted fw-normal mt-0" title="平均收入">收入</h5>
                                                 <h3 class="mt-3 mb-3">$6,254</h3>
                                                 <p class="mb-0 text-muted">
                                                     <span class="text-danger me-2"><i class="mdi mdi-arrow-down-bold"></i> 7.00%</span>
-                                                    <span class="text-nowrap">Since last month</span>
+                                                    <span class="text-nowrap">较上月</span>
                                                 </p>
                                             </div> <!-- end card-body-->
                                         </div> <!-- end card-->
@@ -84,11 +84,11 @@
                                                 <div class="float-end">
                                                     <i class="mdi mdi-pulse widget-icon"></i>
                                                 </div>
-                                                <h5 class="text-muted fw-normal mt-0" title="Growth">Growth</h5>
+                                                <h5 class="text-muted fw-normal mt-0" title="增长">增长</h5>
                                                 <h3 class="mt-3 mb-3">+ 30.56%</h3>
                                                 <p class="mb-0 text-muted">
                                                     <span class="text-success me-2"><i class="mdi mdi-arrow-up-bold"></i> 4.87%</span>
-                                                    <span class="text-nowrap">Since last month</span>
+                                                    <span class="text-nowrap">较上月</span>
                                                 </p>
                                             </div> <!-- end card-body-->
                                         </div> <!-- end card-->
@@ -101,20 +101,20 @@
                                 <div class="card card-h-100">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-2">
-                                            <h4 class="header-title">Projections Vs Actuals</h4>
+                                            <h4 class="header-title">预测与实际对比</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Sales Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">销售报告</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Export Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">导出报表</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Profit</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">利润</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Action</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">操作</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -135,20 +135,20 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-2">
-                                            <h4 class="header-title">Revenue</h4>
+                                            <h4 class="header-title">收入</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Sales Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">销售报告</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Export Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">导出报表</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Profit</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">利润</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Action</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">操作</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -156,14 +156,14 @@
                                         <div class="chart-content-bg">
                                             <div class="row text-center">
                                                 <div class="col-sm-6">
-                                                    <p class="text-muted mb-0 mt-3">Current Week</p>
+                                                    <p class="text-muted mb-0 mt-3">本周</p>
                                                     <h2 class="fw-normal mb-3">
                                                         <small class="mdi mdi-checkbox-blank-circle text-primary align-middle me-1"></small>
                                                         <span>$58,254</span>
                                                     </h2>
                                                 </div>
                                                 <div class="col-sm-6">
-                                                    <p class="text-muted mb-0 mt-3">Previous Week</p>
+                                                    <p class="text-muted mb-0 mt-3">上周</p>
                                                     <h2 class="fw-normal mb-3">
                                                         <small class="mdi mdi-checkbox-blank-circle text-success align-middle me-1"></small>
                                                         <span>$69,524</span>
@@ -173,10 +173,10 @@
                                         </div>
 
                                         <div class="dash-item-overlay d-none d-md-block" dir="ltr">
-                                            <h5>Today's Earning: $2,562.30</h5>
+                                            <h5>今日收入: $2,562.30</h5>
                                             <p class="text-muted font-13 mb-3 mt-2">Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.
                                                 Etiam rhoncus...</p>
-                                            <a href="javascript: void(0);" class="btn btn-outline-primary">View Statements
+                                            <a href="javascript: void(0);" class="btn btn-outline-primary">查看报表
                                                 <i class="mdi mdi-arrow-right ms-2"></i>
                                             </a>
                                         </div>
@@ -191,20 +191,20 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center">
-                                            <h4 class="header-title">Revenue By Location</h4>
+                                            <h4 class="header-title">按地区收入</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Sales Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">销售报告</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Export Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">导出报表</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Profit</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">利润</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Action</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">操作</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -254,8 +254,8 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-2">
-                                            <h4 class="header-title">Top Selling Products</h4>
-                                            <a href="javascript:void(0);" class="btn btn-sm btn-link">Export <i class="mdi mdi-download ms-1"></i></a>
+                                            <h4 class="header-title">热销产品</h4>
+                                            <a href="javascript:void(0);" class="btn btn-sm btn-link">导出 <i class="mdi mdi-download ms-1"></i></a>
                                         </div>
 
                                         <div class="table-responsive">
@@ -268,15 +268,15 @@
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">$79.49</h5>
-                                                            <span class="text-muted font-13">Price</span>
+                                                            <span class="text-muted font-13">价格</span>
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">82</h5>
-                                                            <span class="text-muted font-13">Quantity</span>
+                                                            <span class="text-muted font-13">数量</span>
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">$6,518.18</h5>
-                                                            <span class="text-muted font-13">Amount</span>
+                                                            <span class="text-muted font-13">金额</span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -286,15 +286,15 @@
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">$128.50</h5>
-                                                            <span class="text-muted font-13">Price</span>
+                                                            <span class="text-muted font-13">价格</span>
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">37</h5>
-                                                            <span class="text-muted font-13">Quantity</span>
+                                                            <span class="text-muted font-13">数量</span>
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">$4,754.50</h5>
-                                                            <span class="text-muted font-13">Amount</span>
+                                                            <span class="text-muted font-13">金额</span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -304,15 +304,15 @@
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">$39.99</h5>
-                                                            <span class="text-muted font-13">Price</span>
+                                                            <span class="text-muted font-13">价格</span>
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">64</h5>
-                                                            <span class="text-muted font-13">Quantity</span>
+                                                            <span class="text-muted font-13">数量</span>
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">$2,559.36</h5>
-                                                            <span class="text-muted font-13">Amount</span>
+                                                            <span class="text-muted font-13">金额</span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -322,15 +322,15 @@
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">$20.00</h5>
-                                                            <span class="text-muted font-13">Price</span>
+                                                            <span class="text-muted font-13">价格</span>
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">184</h5>
-                                                            <span class="text-muted font-13">Quantity</span>
+                                                            <span class="text-muted font-13">数量</span>
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">$3,680.00</h5>
-                                                            <span class="text-muted font-13">Amount</span>
+                                                            <span class="text-muted font-13">金额</span>
                                                         </td>
                                                     </tr>
                                                     <tr>
@@ -340,15 +340,15 @@
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">$28.49</h5>
-                                                            <span class="text-muted font-13">Price</span>
+                                                            <span class="text-muted font-13">价格</span>
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">69</h5>
-                                                            <span class="text-muted font-13">Quantity</span>
+                                                            <span class="text-muted font-13">数量</span>
                                                         </td>
                                                         <td>
                                                             <h5 class="font-14 my-1 fw-normal">$1,965.81</h5>
-                                                            <span class="text-muted font-13">Amount</span>
+                                                            <span class="text-muted font-13">金额</span>
                                                         </td>
                                                     </tr>
 
@@ -363,20 +363,20 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center">
-                                            <h4 class="header-title">Total Sales</h4>
+                                            <h4 class="header-title">总销售额</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Sales Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">销售报告</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Export Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">导出报表</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Profit</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">利润</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Action</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">操作</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -387,19 +387,19 @@
 
                                         <div class="chart-widget-list">
                                             <p>
-                                                <i class="mdi mdi-square text-primary"></i> Direct
+                                                <i class="mdi mdi-square text-primary"></i> 直接
                                                 <span class="float-end">$300.56</span>
                                             </p>
                                             <p>
-                                                <i class="mdi mdi-square text-danger"></i> Affilliate
+                                                <i class="mdi mdi-square text-danger"></i> 联盟
                                                 <span class="float-end">$135.18</span>
                                             </p>
                                             <p>
-                                                <i class="mdi mdi-square text-success"></i> Sponsored
+                                                <i class="mdi mdi-square text-success"></i> 赞助
                                                 <span class="float-end">$48.96</span>
                                             </p>
                                             <p class="mb-0">
-                                                <i class="mdi mdi-square text-warning"></i> E-mail
+                                                <i class="mdi mdi-square text-warning"></i> 邮件
                                                 <span class="float-end">$154.02</span>
                                             </p>
                                         </div>
@@ -411,20 +411,20 @@
                                 <div class="card">
                                     <div class="card-body pb-0">
                                         <div class="d-flex justify-content-between align-items-center mb-2">
-                                            <h4 class="header-title">Recent Activity</h4>
+                                            <h4 class="header-title">最近动态</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Sales Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">销售报告</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Export Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">导出报表</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Profit</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">利润</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Action</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">操作</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -435,7 +435,7 @@
                                             <div class="timeline-item">
                                                 <i class="mdi mdi-upload bg-info-lighten text-info timeline-icon"></i>
                                                 <div class="timeline-item-info">
-                                                    <a href="javascript:void(0);" class="text-info fw-bold mb-1 d-block">You sold an item</a>
+                                                    <a href="javascript:void(0);" class="text-info fw-bold mb-1 d-block">您售出了一件商品</a>
                                                     <small>Paul Burgess just purchased “Hyper - Admin Dashboard”!</small>
                                                     <p class="mb-0 pb-2">
                                                         <small class="text-muted">5 minutes ago</small>
@@ -446,7 +446,7 @@
                                             <div class="timeline-item">
                                                 <i class="mdi mdi-airplane bg-primary-lighten text-primary timeline-icon"></i>
                                                 <div class="timeline-item-info">
-                                                    <a href="javascript:void(0);" class="text-primary fw-bold mb-1 d-block">Product on the Bootstrap Market</a>
+                                                    <a href="javascript:void(0);" class="text-primary fw-bold mb-1 d-block">Bootstrap市场上的产品</a>
                                                     <small>Dave Gamache added
                                                         <span class="fw-bold">Admin Dashboard</span>
                                                     </small>
@@ -460,8 +460,8 @@
                                                 <i class="mdi mdi-microphone bg-info-lighten text-info timeline-icon"></i>
                                                 <div class="timeline-item-info">
                                                     <a href="javascript:void(0);" class="text-info fw-bold mb-1 d-block">Robert Delaney</a>
-                                                    <small>Send you message
-                                                        <span class="fw-bold">"Are you there?"</span>
+                                                    <small>向您发送消息
+                                                        <span class="fw-bold">"你在吗？"</span>
                                                     </small>
                                                     <p class="mb-0 pb-2">
                                                         <small class="text-muted">2 hours ago</small>
@@ -473,7 +473,7 @@
                                                 <i class="mdi mdi-upload bg-primary-lighten text-primary timeline-icon"></i>
                                                 <div class="timeline-item-info">
                                                     <a href="javascript:void(0);" class="text-primary fw-bold mb-1 d-block">Audrey Tobey</a>
-                                                    <small>Uploaded a photo
+                                                    <small>上传了一张照片
                                                         <span class="fw-bold">"Error.jpg"</span>
                                                     </small>
                                                     <p class="mb-0 pb-2">
@@ -485,7 +485,7 @@
                                             <div class="timeline-item">
                                                 <i class="mdi mdi-upload bg-info-lighten text-info timeline-icon"></i>
                                                 <div class="timeline-item-info">
-                                                    <a href="javascript:void(0);" class="text-info fw-bold mb-1 d-block">You sold an item</a>
+                                                    <a href="javascript:void(0);" class="text-info fw-bold mb-1 d-block">您售出了一件商品</a>
                                                     <small>Paul Burgess just purchased “Hyper - Admin Dashboard”!</small>
                                                     <p class="mb-0 pb-2">
                                                         <small class="text-muted">16 hours ago</small>
@@ -496,7 +496,7 @@
                                             <div class="timeline-item">
                                                 <i class="mdi mdi-airplane bg-primary-lighten text-primary timeline-icon"></i>
                                                 <div class="timeline-item-info">
-                                                    <a href="javascript:void(0);" class="text-primary fw-bold mb-1 d-block">Product on the Bootstrap Market</a>
+                                                    <a href="javascript:void(0);" class="text-primary fw-bold mb-1 d-block">Bootstrap市场上的产品</a>
                                                     <small>Dave Gamache added
                                                         <span class="fw-bold">Admin Dashboard</span>
                                                     </small>
@@ -510,8 +510,8 @@
                                                 <i class="mdi mdi-microphone bg-info-lighten text-info timeline-icon"></i>
                                                 <div class="timeline-item-info">
                                                     <a href="javascript:void(0);" class="text-info fw-bold mb-1 d-block">Robert Delaney</a>
-                                                    <small>Send you message
-                                                        <span class="fw-bold">"Are you there?"</span>
+                                                    <small>向您发送消息
+                                                        <span class="fw-bold">"你在吗？"</span>
                                                     </small>
                                                     <p class="mb-0 pb-2">
                                                         <small class="text-muted">2 days ago</small>

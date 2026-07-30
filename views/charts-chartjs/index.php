@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.chartjs.js', ['depends' => 'app\asse
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Charts</a></li>
-                                            <li class="breadcrumb-item active">Chartjs</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">图表</a></li>
+                                            <li class="breadcrumb-item active">Chart.js 图表</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Chartjs</h4>
+                                    <h4 class="page-title">Chart.js 图表</h4>
                                 </div>
                             </div>
                         </div>
@@ -24,7 +24,7 @@ $this->registerJsFile('/admin/js/pages/demo.chartjs.js', ['depends' => 'app\asse
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Line Chart</h4>
+                                        <h4 class="header-title mb-4">折线图</h4>
 
                                         <div dir="ltr">
                                             <div class="mt-3 chartjs-chart" style="height: 320px;">
@@ -38,7 +38,7 @@ $this->registerJsFile('/admin/js/pages/demo.chartjs.js', ['depends' => 'app\asse
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Bar Chart</h4>
+                                        <h4 class="header-title mb-4">柱状图</h4>
 
                                         <div dir="ltr">
                                             <div class="mt-3 chartjs-chart" style="height: 320px;">
@@ -57,7 +57,7 @@ $this->registerJsFile('/admin/js/pages/demo.chartjs.js', ['depends' => 'app\asse
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-4">Donut Chart</h4>
+                                        <h4 class="header-title mb-4">环形图</h4>
 
                                         <div dir="ltr">
                                             <div class="mt-3 chartjs-chart" style="height: 320px;">

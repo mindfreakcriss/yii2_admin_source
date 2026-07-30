@@ -9,12 +9,12 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Tasks</a></li>
-                                            <li class="breadcrumb-item active">Kanban Board</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">任务</a></li>
+                                            <li class="breadcrumb-item active">看板</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Kanban Board 
-                                        <a href="#" data-bs-toggle="modal" data-bs-target="#add-new-task-modal" class="btn btn-success btn-sm ms-3">Add New</a></h4>
+                                    <h4 class="page-title">看板
+                                        <a href="#" data-bs-toggle="modal" data-bs-target="#add-new-task-modal" class="btn btn-success btn-sm ms-3">新增</a></h4>
                                 </div>
                             </div>
                         </div>     
@@ -24,7 +24,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                             <div class="col-12">
                                 <div class="board">
                                     <div class="tasks" data-plugin="dragula" data-containers='["task-list-one", "task-list-two", "task-list-three", "task-list-four"]'>
-                                        <h5 class="mt-0 task-header">TODO (3)</h5>
+                                        <h5 class="mt-0 task-header">待办 (3)</h5>
                                         
                                         <div id="task-list-one" class="task-list-items">
 
@@ -32,7 +32,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                             <div class="card mb-0">
                                                 <div class="card-body p-3">
                                                     <small class="float-end text-muted">18 Jul 2018</small>
-                                                    <span class="badge bg-danger">High</span>
+                                                    <span class="badge bg-danger">高</span>
 
                                                     <h5 class="mt-2 mb-2">
                                                         <a href="#" data-bs-toggle="modal" data-bs-target="#task-detail-modal" class="text-body">iOS App home page</a>
@@ -45,7 +45,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>
-                                                            <b>74</b> Comments
+                                                            <b>74</b> 条评论
                                                         </span>
                                                     </p>
 
@@ -55,13 +55,13 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>Edit</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>编辑</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>Delete</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>删除</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>Add People</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>添加成员</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>Leave</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>退出</a>
                                                         </div>
                                                     </div>
 
@@ -77,7 +77,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                             <div class="card mb-0">
                                                 <div class="card-body p-3">
                                                     <small class="float-end text-muted">18 Jul 2018</small>
-                                                    <span class="badge bg-secondary text-light">Medium</span>
+                                                    <span class="badge bg-secondary text-light">中</span>
 
                                                     <h5 class="mt-2 mb-2">
                                                         <a href="#" data-bs-toggle="modal" data-bs-target="#task-detail-modal" class="text-body">Topnav layout design</a>
@@ -90,7 +90,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>
-                                                            <b>28</b> Comments
+                                                            <b>28</b> 条评论
                                                         </span>
                                                     </p>
 
@@ -100,13 +100,13 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>Edit</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>编辑</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>Delete</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>删除</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>Add People</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>添加成员</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>Leave</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>退出</a>
                                                         </div>
                                                     </div>
 
@@ -122,7 +122,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                             <div class="card mb-0">
                                                 <div class="card-body p-3">
                                                     <small class="float-end text-muted">11 Jul 2018</small>
-                                                    <span class="badge bg-success">Low</span>
+                                                    <span class="badge bg-success">低</span>
 
                                                     <h5 class="mt-2 mb-2">
                                                         <a href="#" data-bs-toggle="modal" data-bs-target="#task-detail-modal" class="text-body">Invite user to a project</a>
@@ -135,7 +135,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>
-                                                            <b>68</b> Comments
+                                                            <b>68</b> 条评论
                                                         </span>
                                                     </p>
 
@@ -145,13 +145,13 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>Edit</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>编辑</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>Delete</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>删除</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>Add People</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>添加成员</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>Leave</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>退出</a>
                                                         </div>
                                                     </div>
 
@@ -167,7 +167,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                     </div>
 
                                     <div class="tasks">
-                                        <h5 class="mt-0 task-header text-uppercase">In Progress (2)</h5>
+                                        <h5 class="mt-0 task-header text-uppercase">进行中 (2)</h5>
                                         
                                         <div id="task-list-two" class="task-list-items">
 
@@ -175,7 +175,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                             <div class="card mb-0">
                                                 <div class="card-body p-3">
                                                     <small class="float-end text-muted">22 Jun 2018</small>
-                                                    <span class="badge bg-secondary text-light">Medium</span>
+                                                    <span class="badge bg-secondary text-light">中</span>
 
                                                     <h5 class="mt-2 mb-2">
                                                         <a href="#" data-bs-toggle="modal" data-bs-target="#task-detail-modal" class="text-body">Write a release note</a>
@@ -188,7 +188,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>
-                                                            <b>17</b> Comments
+                                                            <b>17</b> 条评论
                                                         </span>
                                                     </p>
 
@@ -198,13 +198,13 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>Edit</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>编辑</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>Delete</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>删除</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>Add People</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>添加成员</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>Leave</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>退出</a>
                                                         </div>
                                                     </div>
 
@@ -220,7 +220,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                             <div class="card mb-0">
                                                 <div class="card-body p-3">
                                                     <small class="float-end text-muted">19 Jun 2018</small>
-                                                    <span class="badge bg-success">Low</span>
+                                                    <span class="badge bg-success">低</span>
 
                                                     <h5 class="mt-2 mb-2">
                                                         <a href="#" data-bs-toggle="modal" data-bs-target="#task-detail-modal" class="text-body">Enable analytics tracking</a>
@@ -233,7 +233,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>
-                                                            <b>48</b> Comments
+                                                            <b>48</b> 条评论
                                                         </span>
                                                     </p>
 
@@ -243,13 +243,13 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>Edit</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>编辑</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>Delete</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>删除</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>Add People</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>添加成员</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>Leave</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>退出</a>
                                                         </div>
                                                     </div>
 
@@ -266,14 +266,14 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
 
 
                                     <div class="tasks">
-                                        <h5 class="mt-0 task-header text-uppercase">Review (4)</h5>
+                                        <h5 class="mt-0 task-header text-uppercase">评审 (4)</h5>
                                         <div id="task-list-three" class="task-list-items">
 
                                             <!-- Task Item -->
                                             <div class="card mb-0">
                                                 <div class="card-body p-3">
                                                     <small class="float-end text-muted">2 May 2018</small>
-                                                    <span class="badge bg-danger">High</span>
+                                                    <span class="badge bg-danger">高</span>
 
                                                     <h5 class="mt-2 mb-2">
                                                         <a href="#" data-bs-toggle="modal" data-bs-target="#task-detail-modal" class="text-body">Kanban board design</a>
@@ -286,7 +286,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>
-                                                            <b>65</b> Comments
+                                                            <b>65</b> 条评论
                                                         </span>
                                                     </p>
 
@@ -296,13 +296,13 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>Edit</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>编辑</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>Delete</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>删除</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>Add People</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>添加成员</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>Leave</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>退出</a>
                                                         </div>
                                                     </div>
 
@@ -318,7 +318,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                             <div class="card mb-0">
                                                 <div class="card-body p-3">
                                                     <small class="float-end text-muted">7 May 2018</small>
-                                                    <span class="badge bg-secondary text-light">Medium</span>
+                                                    <span class="badge bg-secondary text-light">中</span>
 
                                                     <h5 class="mt-2 mb-2">
                                                         <a href="#" data-bs-toggle="modal" data-bs-target="#task-detail-modal" class="text-body">Code HTML email template</a>
@@ -331,7 +331,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>
-                                                            <b>106</b> Comments
+                                                            <b>106</b> 条评论
                                                         </span>
                                                     </p>
 
@@ -341,13 +341,13 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>Edit</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>编辑</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>Delete</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>删除</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>Add People</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>添加成员</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>Leave</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>退出</a>
                                                         </div>
                                                     </div>
 
@@ -363,7 +363,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                             <div class="card mb-0">
                                                 <div class="card-body p-3">
                                                     <small class="float-end text-muted">8 Jul 2018</small>
-                                                    <span class="badge bg-secondary text-light">Medium</span>
+                                                    <span class="badge bg-secondary text-light">中</span>
 
                                                     <h5 class="mt-2 mb-2">
                                                         <a href="#" data-bs-toggle="modal" data-bs-target="#task-detail-modal" class="text-body">Brand logo design</a>
@@ -376,7 +376,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>
-                                                            <b>95</b> Comments
+                                                            <b>95</b> 条评论
                                                         </span>
                                                     </p>
 
@@ -386,13 +386,13 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>Edit</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>编辑</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>Delete</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>删除</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>Add People</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>添加成员</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>Leave</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>退出</a>
                                                         </div>
                                                     </div>
 
@@ -408,7 +408,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                             <div class="card mb-0">
                                                 <div class="card-body p-3">
                                                     <small class="float-end text-muted">22 Jul 2018</small>
-                                                    <span class="badge bg-danger">High</span>
+                                                    <span class="badge bg-danger">高</span>
 
                                                     <h5 class="mt-2 mb-2">
                                                         <a href="#" data-bs-toggle="modal" data-bs-target="#task-detail-modal" class="text-body">Improve animation loader</a>
@@ -421,7 +421,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>
-                                                            <b>39</b> Comments
+                                                            <b>39</b> 条评论
                                                         </span>
                                                     </p>
 
@@ -431,13 +431,13 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>Edit</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>编辑</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>Delete</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>删除</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>Add People</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>添加成员</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>Leave</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>退出</a>
                                                         </div>
                                                     </div>
 
@@ -453,14 +453,14 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                     </div>
 
                                     <div class="tasks">
-                                        <h5 class="mt-0 task-header text-uppercase">Done (1)</h5>
+                                        <h5 class="mt-0 task-header text-uppercase">已完成 (1)</h5>
                                         <div id="task-list-four" class="task-list-items">
 
                                             <!-- Task Item -->
                                             <div class="card mb-0">
                                                 <div class="card-body p-3">
                                                     <small class="float-end text-muted">16 Jul 2018</small>
-                                                    <span class="badge bg-success">Low</span>
+                                                    <span class="badge bg-success">低</span>
 
                                                     <h5 class="mt-2 mb-2">
                                                         <a href="#" data-bs-toggle="modal" data-bs-target="#task-detail-modal" class="text-body">Dashboard design</a>
@@ -473,7 +473,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>
-                                                            <b>287</b> Comments
+                                                            <b>287</b> 条评论
                                                         </span>
                                                     </p>
 
@@ -483,13 +483,13 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                         </a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>Edit</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>编辑</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>Delete</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>删除</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>Add People</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-plus-circle-outline me-1"></i>添加成员</a>
                                                             <!-- item-->
-                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>Leave</a>
+                                                            <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>退出</a>
                                                         </div>
                                                     </div>
 

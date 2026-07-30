@@ -6,10 +6,10 @@
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">CRM</a></li>
-                                            <li class="breadcrumb-item active">Clients List</li>
+                                            <li class="breadcrumb-item active">客户列表</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Clients List</h4>
+                                    <h4 class="page-title">客户列表</h4>
                                 </div>
                             </div>
                         </div>
@@ -25,9 +25,9 @@
                                             </a>
                                             <div class="dropdown-menu dropdown-menu-end">
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">View Profile</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">查看资料</a>
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">Project Info</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">项目信息</a>
                                             </div>
                                         </div>
 
@@ -36,17 +36,17 @@
                                             <h4 class="mt-3 my-1">Louise Coleman <i class="mdi mdi-check-decagram text-primary"></i></h4>
                                             <p class="mb-0 text-muted"><i class="mdi mdi-email-outline me-1"></i>LouiseMColeman@dayrep.com</p>
                                             <hr class="bg-dark-lighten my-3">
-                                            <h5 class="mt-3 fw-semibold text-muted">Complate Total <b>18</b> Project</h5>
+                                            <h5 class="mt-3 fw-semibold text-muted">已完成 <b>18</b> 个项目</h5>
                                         
                                             <div class="row mt-3">
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Message"><i class="mdi mdi-message-processing-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="消息"><i class="mdi mdi-message-processing-outline"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Call"><i class="mdi mdi-phone"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="电话"><i class="mdi mdi-phone"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Email"><i class="mdi mdi-email-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="邮箱"><i class="mdi mdi-email-outline"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -63,9 +63,9 @@
                                             </a>
                                             <div class="dropdown-menu dropdown-menu-end">
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">View Profile</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">查看资料</a>
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">Project Info</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">项目信息</a>
                                             </div>
                                         </div>
 
@@ -74,17 +74,17 @@
                                             <h4 class="mt-3 my-1">Robert Kent <i class="mdi mdi-check-decagram text-primary"></i></h4>
                                             <p class="mb-0 text-muted"><i class="mdi mdi-email-outline me-1"></i>RobertSKent@jourrapide.com</p>
                                             <hr class="bg-dark-lighten my-3">
-                                            <h5 class="mt-3 fw-semibold text-muted">Complate Total <b>24</b> Project</h5>
+                                            <h5 class="mt-3 fw-semibold text-muted">已完成 <b>24</b> 个项目</h5>
                                         
                                             <div class="row mt-3">
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Message"><i class="mdi mdi-message-processing-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="消息"><i class="mdi mdi-message-processing-outline"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Call"><i class="mdi mdi-phone"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="电话"><i class="mdi mdi-phone"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Email"><i class="mdi mdi-email-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="邮箱"><i class="mdi mdi-email-outline"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -101,9 +101,9 @@
                                             </a>
                                             <div class="dropdown-menu dropdown-menu-end">
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">View Profile</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">查看资料</a>
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">Project Info</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">项目信息</a>
                                             </div>
                                         </div>
 
@@ -112,17 +112,17 @@
                                             <h4 class="mt-3 my-1">Arthur Childress</h4>
                                             <p class="mb-0 text-muted"><i class="mdi mdi-email-outline me-1"></i>ArthurEChildress@teleworm.us</p>
                                             <hr class="bg-dark-lighten my-3">
-                                            <h5 class="mt-3 fw-semibold text-muted">Complate Total <b>11</b> Project</h5>
+                                            <h5 class="mt-3 fw-semibold text-muted">已完成 <b>11</b> 个项目</h5>
                                         
                                             <div class="row mt-3">
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Message"><i class="mdi mdi-message-processing-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="消息"><i class="mdi mdi-message-processing-outline"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Call"><i class="mdi mdi-phone"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="电话"><i class="mdi mdi-phone"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Email"><i class="mdi mdi-email-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="邮箱"><i class="mdi mdi-email-outline"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -139,9 +139,9 @@
                                             </a>
                                             <div class="dropdown-menu dropdown-menu-end">
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">View Profile</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">查看资料</a>
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">Project Info</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">项目信息</a>
                                             </div>
                                         </div>
 
@@ -150,17 +150,17 @@
                                             <h4 class="mt-3 my-1">Ronald McGehee <i class="mdi mdi-check-decagram text-primary"></i></h4>
                                             <p class="mb-0 text-muted"><i class="mdi mdi-email-outline me-1"></i>RonaldHMcGehee@jourrapide.com</p>
                                             <hr class="bg-dark-lighten my-3">
-                                            <h5 class="mt-3 fw-semibold text-muted">Complate Total <b>06</b> Project</h5>
+                                            <h5 class="mt-3 fw-semibold text-muted">已完成 <b>06</b> 个项目</h5>
                                         
                                             <div class="row mt-3">
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Message"><i class="mdi mdi-message-processing-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="消息"><i class="mdi mdi-message-processing-outline"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Call"><i class="mdi mdi-phone"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="电话"><i class="mdi mdi-phone"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Email"><i class="mdi mdi-email-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="邮箱"><i class="mdi mdi-email-outline"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -177,9 +177,9 @@
                                             </a>
                                             <div class="dropdown-menu dropdown-menu-end">
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">View Profile</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">查看资料</a>
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">Project Info</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">项目信息</a>
                                             </div>
                                         </div>
 
@@ -188,17 +188,17 @@
                                             <h4 class="mt-3 my-1">Martin Jordan <i class="mdi mdi-check-decagram text-primary"></i></h4>
                                             <p class="mb-0 text-muted"><i class="mdi mdi-email-outline me-1"></i>MartinDJordan@armyspy.com</p>
                                             <hr class="bg-dark-lighten my-3">
-                                            <h5 class="mt-3 fw-semibold text-muted">Complate Total <b>12</b> Project</h5>
+                                            <h5 class="mt-3 fw-semibold text-muted">已完成 <b>12</b> 个项目</h5>
                                         
                                             <div class="row mt-3">
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Message"><i class="mdi mdi-message-processing-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="消息"><i class="mdi mdi-message-processing-outline"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Call"><i class="mdi mdi-phone"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="电话"><i class="mdi mdi-phone"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Email"><i class="mdi mdi-email-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="邮箱"><i class="mdi mdi-email-outline"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -215,9 +215,9 @@
                                             </a>
                                             <div class="dropdown-menu dropdown-menu-end">
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">View Profile</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">查看资料</a>
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">Project Info</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">项目信息</a>
                                             </div>
                                         </div>
 
@@ -226,17 +226,17 @@
                                             <h4 class="mt-3 my-1">Dewayne Murphy</h4>
                                             <p class="mb-0 text-muted"><i class="mdi mdi-email-outline me-1"></i>DewayneBMurphy@armyspy.com</p>
                                             <hr class="bg-dark-lighten my-3">
-                                            <h5 class="mt-3 fw-semibold text-muted">Complate Total <b>15</b> Project</h5>
+                                            <h5 class="mt-3 fw-semibold text-muted">已完成 <b>15</b> 个项目</h5>
                                         
                                             <div class="row mt-3">
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Message"><i class="mdi mdi-message-processing-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="消息"><i class="mdi mdi-message-processing-outline"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Call"><i class="mdi mdi-phone"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="电话"><i class="mdi mdi-phone"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Email"><i class="mdi mdi-email-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="邮箱"><i class="mdi mdi-email-outline"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -253,9 +253,9 @@
                                             </a>
                                             <div class="dropdown-menu dropdown-menu-end">
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">View Profile</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">查看资料</a>
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">Project Info</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">项目信息</a>
                                             </div>
                                         </div>
 
@@ -264,17 +264,17 @@
                                             <h4 class="mt-3 my-1">Russel Sanchez <i class="mdi mdi-check-decagram text-primary"></i></h4>
                                             <p class="mb-0 text-muted"><i class="mdi mdi-email-outline me-1"></i>RusselHSanchez@rhyta.com</p>
                                             <hr class="bg-dark-lighten my-3">
-                                            <h5 class="mt-3 fw-semibold text-muted">Complate Total <b>22</b> Project</h5>
+                                            <h5 class="mt-3 fw-semibold text-muted">已完成 <b>22</b> 个项目</h5>
                                         
                                             <div class="row mt-3">
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Message"><i class="mdi mdi-message-processing-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="消息"><i class="mdi mdi-message-processing-outline"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Call"><i class="mdi mdi-phone"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="电话"><i class="mdi mdi-phone"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Email"><i class="mdi mdi-email-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="邮箱"><i class="mdi mdi-email-outline"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -291,9 +291,9 @@
                                             </a>
                                             <div class="dropdown-menu dropdown-menu-end">
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">View Profile</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">查看资料</a>
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">Project Info</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">项目信息</a>
                                             </div>
                                         </div>
 
@@ -302,17 +302,17 @@
                                             <h4 class="mt-3 my-1">Alvin Middleton</h4>
                                             <p class="mb-0 text-muted"><i class="mdi mdi-email-outline me-1"></i>AlvinSMiddleton@armyspy.com</p>
                                             <hr class="bg-dark-lighten my-3">
-                                            <h5 class="mt-3 fw-semibold text-muted">Complate Total <b>07</b> Project</h5>
+                                            <h5 class="mt-3 fw-semibold text-muted">已完成 <b>07</b> 个项目</h5>
                                         
                                             <div class="row mt-3">
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Message"><i class="mdi mdi-message-processing-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="消息"><i class="mdi mdi-message-processing-outline"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Call"><i class="mdi mdi-phone"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="电话"><i class="mdi mdi-phone"></i></a>
                                                 </div>
                                                 <div class="col-4">
-                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="Email"><i class="mdi mdi-email-outline"></i></a>
+                                                    <a href="javascript:void(0);" class="btn w-100 btn-light" data-bs-toggle="tooltip" data-bs-placement="top" title="邮箱"><i class="mdi mdi-email-outline"></i></a>
                                                 </div>
                                             </div>
                                         </div>

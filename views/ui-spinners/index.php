@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Spinners</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">加载动画</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Spinners</h4>
+                                    <h4 class="page-title">加载动画</h4>
                                 </div>
                             </div>
                         </div>
@@ -20,7 +20,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Border spinner</h4>
+                                        <h4 class="header-title">边框加载动画</h4>
                                         <p class="text-muted font-14">Use the border spinners for a lightweight loading indicator.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -57,7 +57,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Colors</h4>
+                                        <h4 class="header-title">颜色</h4>
                                         <p class="text-muted font-14">You can use any 
                                                 of our text color utilities on the standard spinner.</p>
                         
@@ -105,7 +105,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Alignment</h4>
+                                        <h4 class="header-title">对齐</h4>
                                         <p class="text-muted font-14">Use flexbox utilities, float utilities, or text alignment utilities to place spinners exactly where you need them in any situation.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -212,7 +212,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Growing spinner</h4>
+                                        <h4 class="header-title">增长加载动画</h4>
                                         <p class="text-muted font-14">If you don’t fancy a border spinner, switch to the grow spinner. While it doesn’t technically spin, it does repeatedly grow!</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -249,7 +249,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Color Growing spinner</h4>
+                                        <h4 class="header-title">Color 增长加载动画</h4>
                                         <p class="text-muted font-14">You can use any of our text color utilities on the standard spinner.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -335,7 +335,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Buttons spinner</h4>
+                                        <h4 class="header-title">按钮 spinner</h4>
                                         <p class="text-muted font-14">Use spinners within buttons to indicate an action is currently processing or taking place. 
                                                 You may also swap the text out of the spinner element and utilize button text as needed.</p>
                         

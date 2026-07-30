@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Apps</a></li>
-                                            <li class="breadcrumb-item active">Chat</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">应用</a></li>
+                                            <li class="breadcrumb-item active">聊天</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Chat</h4>
+                                    <h4 class="page-title">聊天</h4>
                                 </div>
                             </div>
                         </div>
@@ -23,17 +23,17 @@
                                         <ul class="nav nav-tabs nav-bordered">
                                             <li class="nav-item">
                                                 <a href="#allUsers" data-bs-toggle="tab" aria-expanded="false" class="nav-link active py-2">
-                                                    All
+                                                    全部
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#favUsers" data-bs-toggle="tab" aria-expanded="true" class="nav-link py-2">
-                                                    Favourties
+                                                    收藏
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#friendUsers" data-bs-toggle="tab" aria-expanded="true" class="nav-link py-2">
-                                                    Friends
+                                                    好友
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -45,7 +45,7 @@
                                                     <form>
                                                         <div class="mb-2 position-relative">
                                                             <input type="text" class="form-control"
-                                                                placeholder="People, groups & messages..." />
+                                                                placeholder="搜索联系人、群组和消息..." />
                                                             <span class="mdi mdi-magnify search-icon"></span>
                                                         </div>
                                                     </form>
@@ -213,9 +213,9 @@
                                                         aria-expanded="false"><i class='uil uil-ellipsis-v'></i></button>
 
                                                     <div class="dropdown-menu dropdown-menu-end">
-                                                        <a class="dropdown-item" href="#">Copy Message</a>
-                                                        <a class="dropdown-item" href="#">Edit</a>
-                                                        <a class="dropdown-item" href="#">Delete</a>
+                                                        <a class="dropdown-item" href="#">复制消息</a>
+                                                        <a class="dropdown-item" href="#">编辑</a>
+                                                        <a class="dropdown-item" href="#">删除</a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -237,9 +237,9 @@
                                                         aria-expanded="false"><i class='uil uil-ellipsis-v'></i></button>
 
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Copy Message</a>
-                                                        <a class="dropdown-item" href="#">Edit</a>
-                                                        <a class="dropdown-item" href="#">Delete</a>
+                                                        <a class="dropdown-item" href="#">复制消息</a>
+                                                        <a class="dropdown-item" href="#">编辑</a>
+                                                        <a class="dropdown-item" href="#">删除</a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -261,9 +261,9 @@
                                                         aria-expanded="false"><i class='uil uil-ellipsis-v'></i></button>
 
                                                     <div class="dropdown-menu dropdown-menu-end">
-                                                        <a class="dropdown-item" href="#">Copy Message</a>
-                                                        <a class="dropdown-item" href="#">Edit</a>
-                                                        <a class="dropdown-item" href="#">Delete</a>
+                                                        <a class="dropdown-item" href="#">复制消息</a>
+                                                        <a class="dropdown-item" href="#">编辑</a>
+                                                        <a class="dropdown-item" href="#">删除</a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -285,9 +285,9 @@
                                                         aria-expanded="false"><i class='uil uil-ellipsis-v'></i></button>
 
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Copy Message</a>
-                                                        <a class="dropdown-item" href="#">Edit</a>
-                                                        <a class="dropdown-item" href="#">Delete</a>
+                                                        <a class="dropdown-item" href="#">复制消息</a>
+                                                        <a class="dropdown-item" href="#">编辑</a>
+                                                        <a class="dropdown-item" href="#">删除</a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -309,9 +309,9 @@
                                                         aria-expanded="false"><i class='uil uil-ellipsis-v'></i></button>
 
                                                     <div class="dropdown-menu dropdown-menu-end">
-                                                        <a class="dropdown-item" href="#">Copy Message</a>
-                                                        <a class="dropdown-item" href="#">Edit</a>
-                                                        <a class="dropdown-item" href="#">Delete</a>
+                                                        <a class="dropdown-item" href="#">复制消息</a>
+                                                        <a class="dropdown-item" href="#">编辑</a>
+                                                        <a class="dropdown-item" href="#">删除</a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -333,9 +333,9 @@
                                                         aria-expanded="false"><i class='uil uil-ellipsis-v'></i></button>
 
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Copy Message</a>
-                                                        <a class="dropdown-item" href="#">Edit</a>
-                                                        <a class="dropdown-item" href="#">Delete</a>
+                                                        <a class="dropdown-item" href="#">复制消息</a>
+                                                        <a class="dropdown-item" href="#">编辑</a>
+                                                        <a class="dropdown-item" href="#">删除</a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -358,9 +358,9 @@
                                                         aria-expanded="false"><i class='uil uil-ellipsis-v'></i></button>
 
                                                     <div class="dropdown-menu dropdown-menu-end">
-                                                        <a class="dropdown-item" href="#">Copy Message</a>
-                                                        <a class="dropdown-item" href="#">Edit</a>
-                                                        <a class="dropdown-item" href="#">Delete</a>
+                                                        <a class="dropdown-item" href="#">复制消息</a>
+                                                        <a class="dropdown-item" href="#">编辑</a>
+                                                        <a class="dropdown-item" href="#">删除</a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -382,9 +382,9 @@
                                                         aria-expanded="false"><i class='uil uil-ellipsis-v'></i></button>
 
                                                     <div class="dropdown-menu dropdown-menu-end">
-                                                        <a class="dropdown-item" href="#">Copy Message</a>
-                                                        <a class="dropdown-item" href="#">Edit</a>
-                                                        <a class="dropdown-item" href="#">Delete</a>
+                                                        <a class="dropdown-item" href="#">复制消息</a>
+                                                        <a class="dropdown-item" href="#">编辑</a>
+                                                        <a class="dropdown-item" href="#">删除</a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -432,9 +432,9 @@
                                                         aria-expanded="false"><i class='uil uil-ellipsis-v'></i></button>
 
                                                     <div class="dropdown-menu">
-                                                        <a class="dropdown-item" href="#">Copy Message</a>
-                                                        <a class="dropdown-item" href="#">Edit</a>
-                                                        <a class="dropdown-item" href="#">Delete</a>
+                                                        <a class="dropdown-item" href="#">复制消息</a>
+                                                        <a class="dropdown-item" href="#">编辑</a>
+                                                        <a class="dropdown-item" href="#">删除</a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -447,9 +447,9 @@
                                                         id="chat-form">
                                                         <div class="row">
                                                             <div class="col mb-2 mb-sm-0">
-                                                                <input type="text" class="form-control border-0" placeholder="Enter your text" required="">
+                                                                <input type="text" class="form-control border-0" placeholder="输入消息" required="">
                                                                 <div class="invalid-feedback">
-                                                                    Please enter your messsage
+                                                                    请输入消息
                                                                 </div>
                                                             </div>
                                                             <div class="col-sm-auto">
@@ -482,11 +482,11 @@
                                             </a>
                                             <div class="dropdown-menu dropdown-menu-end">
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">View full</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">查看完整资料</a>
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">Edit Contact Info</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">编辑联系人信息</a>
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">Remove</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">移除</a>
                                             </div>
                                         </div>
 
@@ -494,29 +494,29 @@
                                             <img src="/admin/images/users/avatar-5.jpg" alt="shreyu"
                                                 class="img-thumbnail avatar-lg rounded-circle" />
                                             <h4>Shreyu N</h4>
-                                            <button class="btn btn-primary btn-sm mt-1"><i class='uil uil-envelope-add me-1'></i>Send Email</button>
-                                            <p class="text-muted mt-2 font-14">Last Interacted: <strong>Few hours back</strong></p>
+                                            <button class="btn btn-primary btn-sm mt-1"><i class='uil uil-envelope-add me-1'></i>发送邮件</button>
+                                            <p class="text-muted mt-2 font-14">最后互动：<strong>几小时前</strong></p>
                                         </div>
 
                                         <div class="mt-3">
                                             <hr class="" />
 
-                                            <p class="mt-4 mb-1"><strong><i class='uil uil-at'></i> Email:</strong></p>
+                                            <p class="mt-4 mb-1"><strong><i class='uil uil-at'></i> 邮箱：</strong></p>
                                             <p>support@coderthemes.com</p>
 
-                                            <p class="mt-3 mb-1"><strong><i class='uil uil-phone'></i> Phone Number:</strong></p>
+                                            <p class="mt-3 mb-1"><strong><i class='uil uil-phone'></i> 电话：</strong></p>
                                             <p>+1 456 9595 9594</p>
 
-                                            <p class="mt-3 mb-1"><strong><i class='uil uil-location'></i> Location:</strong></p>
+                                            <p class="mt-3 mb-1"><strong><i class='uil uil-location'></i> 位置：</strong></p>
                                             <p>California, USA</p>
 
-                                            <p class="mt-3 mb-1"><strong><i class='uil uil-globe'></i> Languages:</strong></p>
+                                            <p class="mt-3 mb-1"><strong><i class='uil uil-globe'></i> 语言：</strong></p>
                                             <p>English, German, Spanish</p>
 
-                                            <p class="mt-3 mb-2"><strong><i class='uil uil-users-alt'></i> Groups:</strong></p>
+                                            <p class="mt-3 mb-2"><strong><i class='uil uil-users-alt'></i> 群组：</strong></p>
                                             <p>
-                                                <span class="badge badge-success-lighten p-1 font-14">Work</span>
-                                                <span class="badge badge-primary-lighten p-1 font-14">Friends</span>
+                                                <span class="badge badge-success-lighten p-1 font-14">工作</span>
+                                                <span class="badge badge-primary-lighten p-1 font-14">好友</span>
                                             </p>
                                         </div>
                                     </div> <!-- end card-body -->

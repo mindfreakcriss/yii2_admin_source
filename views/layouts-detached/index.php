@@ -16,35 +16,35 @@
                         </a>
                         <div class="dropdown-menu dropdown-menu-animated dropdown-lg p-0">
                             <form class="p-3">
-                                <input type="text" class="form-control" placeholder="Search ..." aria-label="Recipient's username">
+                                <input type="text" class="form-control" placeholder="搜索..." aria-label="Recipient's username">
                             </form>
                         </div>
                     </li>
             
                     <li class="dropdown notification-list topbar-dropdown d-none d-lg-block">
                         <a class="nav-link dropdown-toggle arrow-none" data-bs-toggle="dropdown" id="topbar-languagedrop" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                            <img src="/admin/images/flags/us.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">English</span> <i class="mdi mdi-chevron-down"></i>
+                            <img src="/admin/images/flags/us.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">英语</span> <i class="mdi mdi-chevron-down"></i>
                         </a>
                         <div class="dropdown-menu dropdown-menu-end dropdown-menu-animated topbar-dropdown-menu" aria-labelledby="topbar-languagedrop">
     
                             <!-- item-->
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                <img src="/admin/images/flags/germany.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">German</span>
+                                <img src="/admin/images/flags/germany.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">德语</span>
                             </a>
     
                             <!-- item-->
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                <img src="/admin/images/flags/italy.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">Italian</span>
+                                <img src="/admin/images/flags/italy.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">意大利语</span>
                             </a>
                     
                             <!-- item-->
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                <img src="/admin/images/flags/spain.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">Spanish</span>
+                                <img src="/admin/images/flags/spain.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">西班牙语</span>
                             </a>
     
                             <!-- item-->
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                <img src="/admin/images/flags/russia.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">Russian</span>
+                                <img src="/admin/images/flags/russia.jpg" alt="user-image" class="me-1" height="12"> <span class="align-middle">俄语</span>
                             </a>
     
                         </div>
@@ -62,15 +62,15 @@
                             <h5 class="m-0">
                                 <span class="float-end">
                                     <a href="javascript: void(0);" class="text-dark">
-                                        <small>Clear All</small>
+                                        <small>清除全部</small>
                                     </a>
-                                </span>Notification
+                                </span>通知
                             </h5>
                         </div>
 
                         <div class="px-3" style="max-height: 300px;" data-simplebar>
 
-                            <h5 class="text-muted font-13 fw-normal mt-0">Today</h5>
+                            <h5 class="text-muted font-13 fw-normal mt-0">今天</h5>
                             <!-- item-->
                             <a href="javascript:void(0);" class="dropdown-item p-0 notify-item card unread-noti shadow-none mb-2">
                                 <div class="card-body">
@@ -101,13 +101,13 @@
                                         </div>
                                         <div class="flex-grow-1 text-truncate ms-2">
                                             <h5 class="noti-item-title fw-semibold font-14">Admin <small class="fw-normal text-muted ms-1">1 hours ago</small></h5>
-                                            <small class="noti-item-subtitle text-muted">New user registered</small>
+                                            <small class="noti-item-subtitle text-muted">新用户注册</small>
                                         </div>
                                       </div>
                                 </div>
                             </a>
 
-                            <h5 class="text-muted font-13 fw-normal mt-0">Yesterday</h5>
+                            <h5 class="text-muted font-13 fw-normal mt-0">昨天</h5>
 
                             <!-- item-->
                             <a href="javascript:void(0);" class="dropdown-item p-0 notify-item card read-noti shadow-none mb-2">
@@ -172,7 +172,7 @@
 
                         <!-- All-->
                         <a href="javascript:void(0);" class="dropdown-item text-center text-primary notify-item border-top border-light py-2">
-                            View All
+                            查看全部
                         </a>
     
                         </div>
@@ -246,43 +246,43 @@
                             </span>
                             <span>
                                 <span class="account-user-name">Dominic Keller</span>
-                                <span class="account-position">Founder</span>
+                                <span class="account-position">创始人</span>
                             </span>
                         </a>
                         <div class="dropdown-menu dropdown-menu-end dropdown-menu-animated topbar-dropdown-menu profile-dropdown" aria-labelledby="topbar-userdrop">
                             <!-- item-->
                             <div class=" dropdown-header noti-title">
-                                <h6 class="text-overflow m-0">Welcome !</h6>
+                                <h6 class="text-overflow m-0">欢迎！</h6>
                             </div>
     
                             <!-- item-->
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
                                 <i class="mdi mdi-account-circle me-1"></i>
-                                <span>My Account</span>
+                                <span>我的账户</span>
                             </a>
     
                             <!-- item-->
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
                                 <i class="mdi mdi-account-edit me-1"></i>
-                                <span>Settings</span>
+                                <span>设置</span>
                             </a>
     
                             <!-- item-->
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
                                 <i class="mdi mdi-lifebuoy me-1"></i>
-                                <span>Support</span>
+                                <span>支持</span>
                             </a>
     
                             <!-- item-->
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
                                 <i class="mdi mdi-lock-outline me-1"></i>
-                                <span>Lock Screen</span>
+                                <span>锁屏</span>
                             </a>
     
                             <!-- item-->
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
                                 <i class="mdi mdi-logout me-1"></i>
-                                <span>Logout</span>
+                                <span>退出</span>
                             </a>
     
                         </div>
@@ -299,38 +299,38 @@
                 <div class="app-search dropdown">
                     <form>
                         <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Search..." id="top-search">
+                            <input type="text" class="form-control" placeholder="搜索..." id="top-search">
                             <span class="mdi mdi-magnify search-icon"></span>
-                            <button class="input-group-text btn-primary" type="submit">Search</button>
+                            <button class="input-group-text btn-primary" type="submit">搜索</button>
                         </div>
                     </form>
                     <div class="dropdown-menu dropdown-menu-animated dropdown-lg" id="search-dropdown">
                         <!-- item-->
                         <div class="dropdown-header noti-title">
-                            <h5 class="text-overflow mb-2">Found <span class="text-danger">17</span> results</h5>
+                            <h5 class="text-overflow mb-2">找到 <span class="text-danger">17</span> 条结果</h5>
                         </div>
     
                         <!-- item-->
                         <a href="javascript:void(0);" class="dropdown-item notify-item">
                             <i class="uil-notes font-16 me-1"></i>
-                            <span>Analytics Report</span>
+                            <span>分析报告</span>
                         </a>
     
                         <!-- item-->
                         <a href="javascript:void(0);" class="dropdown-item notify-item">
                             <i class="uil-life-ring font-16 me-1"></i>
-                            <span>How can I help you?</span>
+                            <span>我能帮您什么？</span>
                         </a>
     
                         <!-- item-->
                         <a href="javascript:void(0);" class="dropdown-item notify-item">
                             <i class="uil-cog font-16 me-1"></i>
-                            <span>User profile settings</span>
+                            <span>用户个人资料设置</span>
                         </a>
     
                         <!-- item-->
                         <div class="dropdown-header noti-title">
-                            <h6 class="text-overflow mb-2 text-uppercase">Users</h6>
+                            <h6 class="text-overflow mb-2 text-uppercase">用户</h6>
                         </div>
     
                         <div class="notification-list">

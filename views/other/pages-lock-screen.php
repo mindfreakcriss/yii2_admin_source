@@ -14,18 +14,18 @@
                                 
                                 <div class="text-center w-75 m-auto">
                                     <img src="/admin/images/users/avatar-1.jpg" height="64" alt="user-image" class="rounded-circle shadow">
-                                    <h4 class="text-dark-50 text-center mt-3 fw-bold">Hi ! Michael </h4>
-                                    <p class="text-muted mb-4">Enter your password to access the admin.</p>
+                                    <h4 class="text-dark-50 text-center mt-3 fw-bold">您好！Michael </h4>
+                                    <p class="text-muted mb-4">输入密码以访问管理后台。</p>
                                 </div>
 
                                 <form action="#">
                                     <div class="mb-3">
-                                        <label for="password" class="form-label">Password</label>
-                                        <input class="form-control" type="password" required="" id="password" placeholder="Enter your password">
+                                        <label for="password" class="form-label">密码</label>
+                                        <input class="form-control" type="password" required="" id="password" placeholder="输入密码">
                                     </div>
 
                                     <div class="mb-0 text-center">
-                                        <button class="btn btn-primary" type="submit">Log In</button>
+                                        <button class="btn btn-primary" type="submit">登录</button>
                                     </div>
                                 </form>
                                 
@@ -35,7 +35,7 @@
 
                         <div class="row mt-3">
                             <div class="col-12 text-center">
-                                <p class="text-muted">Not you? return <a href="pages-login.html" class="text-muted ms-1"><b>Sign In</b></a></p>
+                                <p class="text-muted">不是您？返回 <a href="pages-login.html" class="text-muted ms-1"><b>登录</b></a></p>
                             </div> <!-- end col -->
                         </div>
                         <!-- end row -->

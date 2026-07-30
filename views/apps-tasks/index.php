@@ -10,22 +10,22 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                         <div class="app-search">
                                             <form>
                                                 <div class="input-group">
-                                                    <input type="text" class="form-control" placeholder="Search..." />
+                                                    <input type="text" class="form-control" placeholder="搜索..." />
                                                     <span class="mdi mdi-magnify search-icon"></span>
                                                     <button class="input-group-text btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
                                                         aria-haspopup="true" aria-expanded="false">
                                                         <i class='uil uil-sort-amount-down'></i>
                                                     </button>
                                                     <div class="dropdown-menu dropdown-menu-end">
-                                                        <a class="dropdown-item" href="#">Due Date</a>
-                                                        <a class="dropdown-item" href="#">Added Date</a>
-                                                        <a class="dropdown-item" href="#">Assignee</a>
+                                                        <a class="dropdown-item" href="#">截止日期</a>
+                                                        <a class="dropdown-item" href="#">添加日期</a>
+                                                        <a class="dropdown-item" href="#">负责人</a>
                                                     </div>
                                                 </div>
                                             </form>
                                         </div>
                                     </div>
-                                    <h4 class="page-title">Tasks <a href="#" class="btn btn-success btn-sm ms-3">Add New</a></h4>
+                                    <h4 class="page-title">任务 <a href="#" class="btn btn-success btn-sm ms-3">新增</a></h4>
                                 </div>
                                 <!-- end page title -->
 
@@ -33,7 +33,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                 <div class="mt-2">
                                     <h5 class="m-0 pb-2">
                                         <a class="text-dark" data-bs-toggle="collapse" href="#todayTasks" role="button" aria-expanded="false" aria-controls="todayTasks">
-                                            <i class='uil uil-angle-down font-18'></i>Today <span class="text-muted">(10)</span>
+                                            <i class='uil uil-angle-down font-18'></i>今天 <span class="text-muted">(10)</span>
                                         </a>
                                     </h5>
 
@@ -68,7 +68,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                                         <i class='uil uil-comment-message font-16 me-1'></i> 21
                                                                     </li>
                                                                     <li class="list-inline-item ms-2">
-                                                                        <span class="badge badge-danger-lighten p-1">High</span>
+                                                                        <span class="badge badge-danger-lighten p-1">高</span>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -105,7 +105,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                                         <i class='uil uil-comment-message font-16 me-1'></i> 48
                                                                     </li>
                                                                     <li class="list-inline-item ms-2">
-                                                                        <span class="badge badge-danger-lighten p-1">High</span>
+                                                                        <span class="badge badge-danger-lighten p-1">高</span>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -142,7 +142,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                                         <i class='uil uil-comment-message font-16 me-1'></i> 73
                                                                     </li>
                                                                     <li class="list-inline-item ms-2">
-                                                                        <span class="badge badge-info-lighten p-1">Medium</span>
+                                                                        <span class="badge badge-info-lighten p-1">中</span>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -160,7 +160,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
 
                                     <h5 class="m-0 pb-2">
                                         <a class="text-dark" data-bs-toggle="collapse" href="#upcomingTasks" role="button" aria-expanded="false" aria-controls="upcomingTasks">
-                                            <i class='uil uil-angle-down font-18'></i>Upcoming <span class="text-muted">(5)</span>
+                                            <i class='uil uil-angle-down font-18'></i>即将到来 <span class="text-muted">(5)</span>
                                         </a>
                                     </h5>
 
@@ -195,7 +195,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                                         <i class='uil uil-comment-message font-16 me-1'></i> 36
                                                                     </li>
                                                                     <li class="list-inline-item ms-2">
-                                                                        <span class="badge badge-danger-lighten p-1">High</span>
+                                                                        <span class="badge badge-danger-lighten p-1">高</span>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -232,7 +232,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                                         <i class='uil uil-comment-message font-16 me-1'></i> 211
                                                                     </li>
                                                                     <li class="list-inline-item ms-2">
-                                                                        <span class="badge badge-success-lighten p-1">Low</span>
+                                                                        <span class="badge badge-success-lighten p-1">低</span>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -260,7 +260,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                             <div>
                                                                 <ul class="list-inline font-13 text-end mb-0">
                                                                     <li class="list-inline-item">
-                                                                        <i class='uil uil-schedule font-16 me-1'></i> No Due Date
+                                                                        <i class='uil uil-schedule font-16 me-1'></i> 无截止日期
                                                                     </li>
                                                                     <li class="list-inline-item ms-1">
                                                                         <i class='uil uil-align-alt font-16 me-1'></i> 0/7
@@ -269,7 +269,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                                         <i class='uil uil-comment-message font-16 me-1'></i> 0
                                                                     </li>
                                                                     <li class="list-inline-item ms-2">
-                                                                        <span class="badge badge-info-lighten p-1">Medium</span>
+                                                                        <span class="badge badge-info-lighten p-1">中</span>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -287,7 +287,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                 <div class="mt-4 mb-4">
                                     <h5 class="m-0 pb-2">
                                         <a class="text-dark" data-bs-toggle="collapse" href="#otherTasks" role="button" aria-expanded="false" aria-controls="otherTasks">
-                                            <i class='uil uil-angle-down font-18'></i>Other <span class="text-muted">(3)</span>
+                                            <i class='uil uil-angle-down font-18'></i>其他 <span class="text-muted">(3)</span>
                                         </a>
                                     </h5>
 
@@ -322,7 +322,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                                         <i class='uil uil-comment-message font-16 me-1'></i> 71
                                                                     </li>
                                                                     <li class="list-inline-item ms-2">
-                                                                        <span class="badge badge-info-lighten p-1">Medium</span>
+                                                                        <span class="badge badge-info-lighten p-1">中</span>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -350,7 +350,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                             <div>
                                                                 <ul class="list-inline font-13 text-end">
                                                                     <li class="list-inline-item">
-                                                                        <i class='uil uil-schedule font-16 me-1'></i> No Due Date
+                                                                        <i class='uil uil-schedule font-16 me-1'></i> 无截止日期
                                                                     </li>
                                                                     <li class="list-inline-item ms-1">
                                                                         <i class='uil uil-align-alt font-16 me-1'></i> 0/8
@@ -359,7 +359,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                                         <i class='uil uil-comment-message font-16 me-1'></i> 0
                                                                     </li>
                                                                     <li class="list-inline-item ms-2">
-                                                                        <span class="badge badge-info-lighten p-1">Medium</span>
+                                                                        <span class="badge badge-info-lighten p-1">中</span>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -396,7 +396,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                                         <i class='uil uil-comment-message font-16 me-1'></i> 9
                                                                     </li>
                                                                     <li class="list-inline-item ms-2">
-                                                                        <span class="badge badge-success-lighten p-1">Low</span>
+                                                                        <span class="badge badge-success-lighten p-1">低</span>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -421,20 +421,20 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                             <div class="dropdown-menu dropdown-menu-end">
                                                 <!-- item-->
                                                 <a href="javascript:void(0);" class="dropdown-item">
-                                                    <i class='uil uil-file-upload me-1'></i>Attachment
+                                                    <i class='uil uil-file-upload me-1'></i>附件
                                                 </a>
                                                 <!-- item-->
                                                 <a href="javascript:void(0);" class="dropdown-item">
-                                                    <i class='uil uil-edit me-1'></i>Edit
+                                                    <i class='uil uil-edit me-1'></i>编辑
                                                 </a>
                                                 <!-- item-->
                                                 <a href="javascript:void(0);" class="dropdown-item">
-                                                    <i class='uil uil-file-copy-alt me-1'></i>Mark as Duplicate
+                                                    <i class='uil uil-file-copy-alt me-1'></i>标记为重复
                                                 </a>
                                                 <div class="dropdown-divider"></div>
                                                 <!-- item-->
                                                 <a href="javascript:void(0);" class="dropdown-item text-danger">
-                                                    <i class='uil uil-trash-alt me-1'></i>Delete
+                                                    <i class='uil uil-trash-alt me-1'></i>删除
                                                 </a>
                                             </div> <!-- end dropdown menu-->
                                         </div> <!-- end dropdown-->
@@ -442,7 +442,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                         <div class="form-check float-start">
                                             <input type="checkbox" class="form-check-input" id="completedCheck">
                                             <label class="form-check-label" for="completedCheck">
-                                                Mark as completed
+                                                标记为已完成
                                             </label>
                                         </div> <!-- end form-check-->
 
@@ -456,7 +456,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                 <div class="row">
                                                     <div class="col-6">
                                                         <!-- assignee -->
-                                                        <p class="mt-2 mb-1 text-muted">Assigned To</p>
+                                                        <p class="mt-2 mb-1 text-muted">负责人</p>
                                                         <div class="d-flex">
                                                             <img src="/admin/images/users/avatar-9.jpg" alt="Arya S" class="rounded-circle me-2" height="24" />
                                                             <div>
@@ -470,7 +470,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
 
                                                     <div class="col-6">
                                                         <!-- start due date -->
-                                                        <p class="mt-2 mb-1 text-muted">Due Date</p>
+                                                        <p class="mt-2 mb-1 text-muted">截止日期</p>
                                                         <div class="d-flex">
                                                             <i class='uil uil-schedule font-18 text-success me-1'></i>
                                                             <div>
@@ -509,7 +509,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                 <!-- end task description -->
 
                                                 <!-- start sub tasks/checklists -->
-                                                <h5 class="mt-4 mb-2 font-16">Checklists/Sub-tasks</h5>
+                                                <h5 class="mt-4 mb-2 font-16">检查清单/子任务</h5>
                                                 <div class="form-check mt-1">
                                                     <input type="checkbox" class="form-check-input" id="checklist1">
                                                     <label class="form-check-label strikethrough" for="checklist1">
@@ -533,7 +533,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                 <!-- end sub tasks/checklists -->
 
                                                 <!-- start attachments -->
-                                                <h5 class="mt-4 mb-2 font-16">Attachments</h5>
+                                                <h5 class="mt-4 mb-2 font-16">附件</h5>
                                                 <div class="card mb-2 shadow-none border">
                                                     <div class="p-1">
                                                         <div class="row align-items-center">
@@ -550,11 +550,11 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                             </div>
                                                             <div class="col-auto" id="tooltip-container9">
                                                                 <!-- Button -->
-                                                                <a href="javascript:void(0);" data-bs-container="#tooltip-container9" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Download"
+                                                                <a href="javascript:void(0);" data-bs-container="#tooltip-container9" data-bs-toggle="tooltip" data-bs-placement="bottom" title="下载"
                                                                     class="btn btn-link text-muted btn-lg p-0">
                                                                     <i class='uil uil-cloud-download'></i>
                                                                 </a>
-                                                                <a href="javascript:void(0);" data-bs-container="#tooltip-container9" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Delete"
+                                                                <a href="javascript:void(0);" data-bs-container="#tooltip-container9" data-bs-toggle="tooltip" data-bs-placement="bottom" title="删除"
                                                                     class="btn btn-link text-danger btn-lg p-0">
                                                                     <i class='uil uil-multiply'></i>
                                                                 </a>
@@ -575,11 +575,11 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                             </div>
                                                             <div class="col-auto" id="tooltip-container10">
                                                                 <!-- Button -->
-                                                                <a href="javascript:void(0);" data-bs-container="#tooltip-container10" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Download"
+                                                                <a href="javascript:void(0);" data-bs-container="#tooltip-container10" data-bs-toggle="tooltip" data-bs-placement="bottom" title="下载"
                                                                     class="btn btn-link text-muted btn-lg p-0">
                                                                     <i class='uil uil-cloud-download'></i>
                                                                 </a>
-                                                                <a href="javascript:void(0);" data-bs-container="#tooltip-container10" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Delete"
+                                                                <a href="javascript:void(0);" data-bs-container="#tooltip-container10" data-bs-toggle="tooltip" data-bs-placement="bottom" title="删除"
                                                                     class="btn btn-link text-danger btn-lg p-0">
                                                                     <i class='uil uil-multiply'></i>
                                                                 </a>
@@ -592,7 +592,7 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                 <!-- comments -->
                                                 <div class="row mt-3">
                                                     <div class="col">
-                                                        <h5 class="mb-2 font-16">Comments</h5>
+                                                        <h5 class="mb-2 font-16">评论</h5>
 
                                                         <div class="d-flex mt-3 p-1">
                                                             <img src="/admin/images/users/avatar-9.jpg" class="me-2 rounded-circle"
@@ -634,10 +634,10 @@ $this->registerJsFile('/admin/js/pages/demo.tasks.js', ['depends' => 'app\assets
                                                         <div class="border rounded">
                                                             <form action="#" class="comment-area-box">
                                                                 <textarea rows="3" class="form-control border-0 resize-none"
-                                                                placeholder="Your comment..."></textarea>
+                                                                placeholder="输入评论..."></textarea>
                                                                 <div class="p-2 bg-light">
                                                                     <div class="float-end">
-                                                                        <button type="submit" class="btn btn-sm btn-success"><i class='uil uil-message me-1'></i>Submit</button>
+                                                                        <button type="submit" class="btn btn-sm btn-success"><i class='uil uil-message me-1'></i>提交</button>
                                                                     </div>
                                                                     <div>
                                                                         <a href="#" class="btn btn-sm px-1 btn-light"><i class='uil uil-cloud-upload'></i></a>

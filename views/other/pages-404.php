@@ -13,12 +13,11 @@
                             <div class="card-body p-4">
                                 <div class="text-center">
                                     <h1 class="text-error">4<i class="mdi mdi-emoticon-sad"></i>4</h1>
-                                    <h4 class="text-uppercase text-danger mt-3">Page Not Found</h4>
-                                    <p class="text-muted mt-3">It's looking like you may have taken a wrong turn. Don't worry... it
-                                        happens to the best of us. Here's a
-                                        little tip that might help you get back on track.</p>
+                                    <h4 class="text-uppercase text-danger mt-3">页面未找到</h4>
+                                    <p class="text-muted mt-3">看起来您可能走错了方向。别担心... 这种情况谁都有可能遇到。
+                                        这里有个小提示，或许能帮您找回正轨。</p>
 
-                                    <a class="btn btn-info mt-3" href="index.html"><i class="mdi mdi-reply"></i> Return Home</a>
+                                    <a class="btn btn-info mt-3" href="index.html"><i class="mdi mdi-reply"></i> 返回首页</a>
                                 </div>
                             </div> <!-- end card-body-->
                         </div>

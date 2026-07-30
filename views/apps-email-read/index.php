@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.inbox.js', ['depends' => 'app\assets
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Email</a></li>
-                                            <li class="breadcrumb-item active">Email Read</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">邮件</a></li>
+                                            <li class="breadcrumb-item active">阅读邮件</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Email Read</h4>
+                                    <h4 class="page-title">阅读邮件</h4>
                                 </div>
                             </div>
                         </div>
@@ -29,35 +29,35 @@ $this->registerJsFile('/admin/js/pages/demo.inbox.js', ['depends' => 'app\assets
                                         <div class="page-aside-left">
 
                                             <div class="d-grid">
-                                                <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#compose-modal">Compose</button>
+                                                <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#compose-modal">写邮件</button>
                                             </div>
 
                                             <div class="email-menu-list mt-3">
-                                                <a href="javascript: void(0);" class="text-danger fw-bold"><i class="dripicons-inbox me-2"></i>Inbox<span class="badge badge-danger-lighten float-end ms-2">7</span></a>
-                                                <a href="javascript: void(0);"><i class="dripicons-star me-2"></i>Starred</a>
-                                                <a href="javascript: void(0);"><i class="dripicons-clock me-2"></i>Snoozed</a>
-                                                <a href="javascript: void(0);"><i class="dripicons-document me-2"></i>Draft<span class="badge badge-info-lighten float-end ms-2">32</span></a>
-                                                <a href="javascript: void(0);"><i class="dripicons-exit me-2"></i>Sent Mail</a>
-                                                <a href="javascript: void(0);"><i class="dripicons-trash me-2"></i>Trash</a>
-                                                <a href="javascript: void(0);"><i class="dripicons-tag me-2"></i>Important</a>
-                                                <a href="javascript: void(0);"><i class="dripicons-warning me-2"></i>Spam</a>
+                                                <a href="javascript: void(0);" class="text-danger fw-bold"><i class="dripicons-inbox me-2"></i>收件箱<span class="badge badge-danger-lighten float-end ms-2">7</span></a>
+                                                <a href="javascript: void(0);"><i class="dripicons-star me-2"></i>星标</a>
+                                                <a href="javascript: void(0);"><i class="dripicons-clock me-2"></i>稍后处理</a>
+                                                <a href="javascript: void(0);"><i class="dripicons-document me-2"></i>草稿<span class="badge badge-info-lighten float-end ms-2">32</span></a>
+                                                <a href="javascript: void(0);"><i class="dripicons-exit me-2"></i>已发送</a>
+                                                <a href="javascript: void(0);"><i class="dripicons-trash me-2"></i>垃圾箱</a>
+                                                <a href="javascript: void(0);"><i class="dripicons-tag me-2"></i>重要</a>
+                                                <a href="javascript: void(0);"><i class="dripicons-warning me-2"></i>垃圾邮件</a>
                                             </div>
 
                                             <div class="mt-4">
-                                                <h6 class="text-uppercase">Labels</h6>
+                                                <h6 class="text-uppercase">标签</h6>
                                                 <div class="email-menu-list labels-list mt-2">
-                                                    <a href="javascript: void(0);"><i class="mdi mdi-circle font-13 text-info me-2"></i>Updates</a>
-                                                    <a href="javascript: void(0);"><i class="mdi mdi-circle font-13 text-warning me-2"></i>Friends</a>
-                                                    <a href="javascript: void(0);"><i class="mdi mdi-circle font-13 text-success me-2"></i>Family</a>
-                                                    <a href="javascript: void(0);"><i class="mdi mdi-circle font-13 text-primary me-2"></i>Social</a>
-                                                    <a href="javascript: void(0);"><i class="mdi mdi-circle font-13 text-danger me-2"></i>Important</a>
-                                                    <a href="javascript: void(0);"><i class="mdi mdi-circle font-13 text-secondary me-2"></i>Promotions</a>
+                                                    <a href="javascript: void(0);"><i class="mdi mdi-circle font-13 text-info me-2"></i>更新</a>
+                                                    <a href="javascript: void(0);"><i class="mdi mdi-circle font-13 text-warning me-2"></i>好友</a>
+                                                    <a href="javascript: void(0);"><i class="mdi mdi-circle font-13 text-success me-2"></i>家人</a>
+                                                    <a href="javascript: void(0);"><i class="mdi mdi-circle font-13 text-primary me-2"></i>社交</a>
+                                                    <a href="javascript: void(0);"><i class="mdi mdi-circle font-13 text-danger me-2"></i>重要</a>
+                                                    <a href="javascript: void(0);"><i class="mdi mdi-circle font-13 text-secondary me-2"></i>推广</a>
                                                 </div>
                                             </div>
 
                                             <div class="mt-5">
                                                 <h4><span class="badge rounded-pill p-1 px-2 badge-secondary-lighten">FREE</span></h4>
-                                                <h6 class="text-uppercase mt-3">Storage</h6>
+                                                <h6 class="text-uppercase mt-3">存储</h6>
                                                 <div class="progress my-2 progress-sm">
                                                     <div class="progress-bar progress-lg bg-success" role="progressbar" style="width: 46%" aria-valuenow="46" aria-valuemin="0" aria-valuemax="100"></div>
                                                 </div>
@@ -80,11 +80,11 @@ $this->registerJsFile('/admin/js/pages/demo.inbox.js', ['depends' => 'app\assets
                                                     <i class="mdi mdi-chevron-down"></i>
                                                 </button>
                                                 <div class="dropdown-menu">
-                                                    <span class="dropdown-header">Move to:</span>
-                                                    <a class="dropdown-item" href="javascript: void(0);">Social</a>
-                                                    <a class="dropdown-item" href="javascript: void(0);">Promotions</a>
-                                                    <a class="dropdown-item" href="javascript: void(0);">Updates</a>
-                                                    <a class="dropdown-item" href="javascript: void(0);">Forums</a>
+                                                    <span class="dropdown-header">移动到：</span>
+                                                    <a class="dropdown-item" href="javascript: void(0);">社交</a>
+                                                    <a class="dropdown-item" href="javascript: void(0);">推广</a>
+                                                    <a class="dropdown-item" href="javascript: void(0);">更新</a>
+                                                    <a class="dropdown-item" href="javascript: void(0);">论坛</a>
                                                 </div>
                                             </div>
                                             <div class="btn-group">
@@ -93,25 +93,25 @@ $this->registerJsFile('/admin/js/pages/demo.inbox.js', ['depends' => 'app\assets
                                                     <i class="mdi mdi-chevron-down"></i>
                                                 </button>
                                                 <div class="dropdown-menu">
-                                                    <span class="dropdown-header">Label as:</span>
-                                                    <a class="dropdown-item" href="javascript: void(0);">Updates</a>
-                                                    <a class="dropdown-item" href="javascript: void(0);">Social</a>
-                                                    <a class="dropdown-item" href="javascript: void(0);">Promotions</a>
-                                                    <a class="dropdown-item" href="javascript: void(0);">Forums</a>
+                                                    <span class="dropdown-header">标记为：</span>
+                                                    <a class="dropdown-item" href="javascript: void(0);">更新</a>
+                                                    <a class="dropdown-item" href="javascript: void(0);">社交</a>
+                                                    <a class="dropdown-item" href="javascript: void(0);">推广</a>
+                                                    <a class="dropdown-item" href="javascript: void(0);">论坛</a>
                                                 </div>
                                             </div>
 
                                             <div class="btn-group">
                                                 <button type="button" class="btn btn-secondary dropdown-toggle arrow-none" data-bs-toggle="dropdown" aria-expanded="false">
-                                                    <i class="mdi mdi-dots-horizontal font-16"></i> More
+                                                    <i class="mdi mdi-dots-horizontal font-16"></i> 更多
                                                     <i class="mdi mdi-chevron-down"></i>
                                                 </button>
                                                 <div class="dropdown-menu">
-                                                    <span class="dropdown-header">More Options :</span>
-                                                    <a class="dropdown-item" href="javascript: void(0);">Mark as Unread</a>
-                                                    <a class="dropdown-item" href="javascript: void(0);">Add to Tasks</a>
-                                                    <a class="dropdown-item" href="javascript: void(0);">Add Star</a>
-                                                    <a class="dropdown-item" href="javascript: void(0);">Mute</a>
+                                                    <span class="dropdown-header">更多选项：</span>
+                                                    <a class="dropdown-item" href="javascript: void(0);">标为未读</a>
+                                                    <a class="dropdown-item" href="javascript: void(0);">添加到任务</a>
+                                                    <a class="dropdown-item" href="javascript: void(0);">添加星标</a>
+                                                    <a class="dropdown-item" href="javascript: void(0);">静音</a>
                                                 </div>
                                             </div>
 
@@ -145,7 +145,7 @@ $this->registerJsFile('/admin/js/pages/demo.inbox.js', ['depends' => 'app\assets
                                                 <p><b>Best,</b> <br/> Graphic Studio</p>
                                                 <hr/>
 
-                                                <h5 class="mb-3">Attachments</h5>
+                                                <h5 class="mb-3">附件</h5>
 
                                                 <div class="row">
                                                     <div class="col-xl-4">
@@ -223,8 +223,8 @@ $this->registerJsFile('/admin/js/pages/demo.inbox.js', ['depends' => 'app\assets
                                                 <!-- end row-->
                                                 
                                                 <div class="mt-5">
-                                                    <a href="#" class="btn btn-secondary me-2"><i class="mdi mdi-reply me-1"></i> Reply</a>
-                                                    <a href="#" class="btn btn-light">Forward <i class="mdi mdi-forward ms-1"></i></a>
+                                                    <a href="#" class="btn btn-secondary me-2"><i class="mdi mdi-reply me-1"></i> 回复</a>
+                                                    <a href="#" class="btn btn-light">转发 <i class="mdi mdi-forward ms-1"></i></a>
                                                 </div>
      
                                             </div>

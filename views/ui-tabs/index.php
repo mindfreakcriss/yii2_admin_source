@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Tabs</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">标签页</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Tabs</h4>
+                                    <h4 class="page-title">标签页</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Default Tabs</h4>
+                                        <h4 class="header-title">Default 标签页</h4>
                                         <p class="text-muted font-14 mb-3">Simple widget of tabbable panes of local content.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -119,7 +119,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Tabs Justified</h4>
+                                        <h4 class="header-title">标签页 Justified</h4>
                                         <p class="text-muted font-14 mb-3">Using class <code>.nav-justified</code>, you can force your <code>tab menu items</code> to use the full available width.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -222,7 +222,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Tabs Vertical Left</h4>
+                                        <h4 class="header-title">标签页 Vertical Left</h4>
                                         <p class="text-muted font-14 mb-3">
                                             You can stack your navigation by changing the flex item direction with the <code>.flex-column</code> utility.
                                         </p>
@@ -339,7 +339,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Tabs Vertical Right</h4>
+                                        <h4 class="header-title">标签页 Vertical Right</h4>
                                         <p class="text-muted font-14 mb-3">
                                             You can stack your navigation by changing the flex item direction with the <code>.flex-column</code> utility.
                                         </p>
@@ -457,7 +457,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Tabs Bordered</h4>
+                                        <h4 class="header-title">标签页 Bordered</h4>
                                         <p class="text-muted font-14 mb-3">
                                             The navigation item can have a simple bottom border as well. Just specify the class <code>.nav-bordered</code>.
                                         </p>
@@ -559,7 +559,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Tabs Bordered Justified</h4>
+                                        <h4 class="header-title">标签页 Bordered Justified</h4>
                                         <p class="text-muted font-14 mb-3">
                                             The navigation item with a simple bottom border and justified</code>
                                         </p>

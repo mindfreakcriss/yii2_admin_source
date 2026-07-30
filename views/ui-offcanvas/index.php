@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Offcanvas</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">侧边栏</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Offcanvas</h4>
+                                    <h4 class="page-title">侧边栏</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Offcanvas</h4>
+                                        <h4 class="header-title">侧边栏</h4>
                                         <p class="text-muted font-13">
                                             You can use a link with the <code>href</code> attribute, or a button with the <code>data-bs-target</code> attribute. In both cases, the <code>data-bs-toggle="offcanvas"</code> is required.
                                         </p>
@@ -28,13 +28,13 @@
                                             <li class="nav-item">
                                                 <a href="#offcanvas-preview" data-bs-toggle="tab"
                                                     aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#offcanvas-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -43,16 +43,16 @@
                                             <div class="tab-pane show active" id="offcanvas-preview">
                                                 <div class="button-list">
                                                     <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
-                                                        Link with href
+                                                        链接 href 方式
                                                     </a>
                                                     <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
-                                                        Button with data-bs-target
+                                                        按钮 data-bs-target 方式
                                                     </button>
                                                 </div> <!-- end button-list-->
                                         
                                                 <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
                                                     <div class="offcanvas-header">
-                                                        <h5 class="offcanvas-title" id="offcanvasExampleLabel">Offcanvas</h5>
+                                                        <h5 class="offcanvas-title" id="offcanvasExampleLabel">侧边栏</h5>
                                                         <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                                                     </div> <!-- end offcanvas-header-->
 
@@ -81,15 +81,15 @@
                                                 <pre class="mb-0">
                                                     <span class="html escape">
                                                         &lt;a class=&quot;btn btn-primary&quot; data-bs-toggle=&quot;offcanvas&quot; href=&quot;#offcanvasExample&quot; role=&quot;button&quot; aria-controls=&quot;offcanvasExample&quot;&gt;
-                                                            Link with href
+                                                            链接 href 方式
                                                         &lt;/a&gt;
                                                         &lt;button class=&quot;btn btn-primary&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasExample&quot; aria-controls=&quot;offcanvasExample&quot;&gt;
-                                                            Button with data-bs-target
+                                                            按钮 data-bs-target 方式
                                                         &lt;/button&gt;
                                                 
                                                         &lt;div class=&quot;offcanvas offcanvas-start&quot; tabindex=&quot;-1&quot; id=&quot;offcanvasExample&quot; aria-labelledby=&quot;offcanvasExampleLabel&quot;&gt;
                                                             &lt;div class=&quot;offcanvas-header&quot;&gt;
-                                                                &lt;h5 class=&quot;offcanvas-title&quot; id=&quot;offcanvasExampleLabel&quot;&gt;Offcanvas&lt;/h5&gt;
+                                                                &lt;h5 class=&quot;offcanvas-title&quot; id=&quot;offcanvasExampleLabel&quot;&gt;侧边栏&lt;/h5&gt;
                                                                 &lt;button type=&quot;button&quot; class=&quot;btn-close text-reset&quot; data-bs-dismiss=&quot;offcanvas&quot; aria-label=&quot;Close&quot;&gt;&lt;/button&gt;
                                                             &lt;/div&gt;
                                                             &lt;div class=&quot;offcanvas-body&quot;&gt;
@@ -121,7 +121,7 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Offcanvas Backdrop</h4>
+                                        <h4 class="header-title">侧边栏 Backdrop</h4>
                                         <p class="text-muted font-13">
                                             Scrolling the <code>&lt;body&gt;</code> element is disabled when an offcanvas and its backdrop are visible. Use the <code>data-bs-scroll</code> attribute to toggle <code>&lt;body&gt;</code> scrolling and <code>data-bs-backdrop</code> to toggle the backdrop.
                                         </p>
@@ -130,13 +130,13 @@
                                             <li class="nav-item">
                                                 <a href="#offcanvas-backdrop-preview" data-bs-toggle="tab"
                                                     aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#offcanvas-backdrop-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -145,9 +145,9 @@
                                             <div class="tab-pane show active" id="offcanvas-backdrop-preview">
 
                                                 <div class="button-list">
-                                                    <button class="btn btn-primary mt-2 mt-md-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling">Enable body scrolling</button>
-                                                    <button class="btn btn-primary mt-2 mt-md-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBackdrop" aria-controls="offcanvasWithBackdrop">Enable backdrop (default)</button>
-                                                    <button class="btn btn-primary mt-2 mt-md-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">Enable both scrolling & backdrop</button>
+                                                    <button class="btn btn-primary mt-2 mt-md-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling">启用页面滚动</button>
+                                                    <button class="btn btn-primary mt-2 mt-md-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBackdrop" aria-controls="offcanvasWithBackdrop">启用遮罩（默认）</button>
+                                                    <button class="btn btn-primary mt-2 mt-md-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">同时启用滚动和遮罩</button>
                                                 </div> <!-- end button-list-->
                                                 
                                                 <div class="offcanvas offcanvas-start" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
@@ -177,7 +177,7 @@
                                                 
                                                 <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasWithBackdrop" aria-labelledby="offcanvasWithBackdropLabel">
                                                     <div class="offcanvas-header">
-                                                        <h5 class="offcanvas-title" id="offcanvasWithBackdropLabel">Offcanvas with backdrop</h5>
+                                                        <h5 class="offcanvas-title" id="offcanvasWithBackdropLabel">侧边栏 with backdrop</h5>
                                                         <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                                                     </div> <!-- end offcanvas-header-->
 
@@ -231,8 +231,8 @@
                                             <div class="tab-pane" id="offcanvas-backdrop-code">
                                                 <pre class="mb-0">
                                                     <span class="html escape">
-                                                        &lt;button class=&quot;btn btn-primary mt-2 mt-md-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasScrolling&quot; aria-controls=&quot;offcanvasScrolling&quot;&gt;Enable body scrolling&lt;/button&gt;
-                                                        &lt;button class=&quot;btn btn-primary mt-2 mt-md-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasWithBackdrop&quot; aria-controls=&quot;offcanvasWithBackdrop&quot;&gt;Enable backdrop (default)&lt;/button&gt;
+                                                        &lt;button class=&quot;btn btn-primary mt-2 mt-md-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasScrolling&quot; aria-controls=&quot;offcanvasScrolling&quot;&gt;启用页面滚动&lt;/button&gt;
+                                                        &lt;button class=&quot;btn btn-primary mt-2 mt-md-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasWithBackdrop&quot; aria-controls=&quot;offcanvasWithBackdrop&quot;&gt;启用遮罩（默认）&lt;/button&gt;
                                                         &lt;button class=&quot;btn btn-primary mt-2 mt-md-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasWithBothOptions&quot; aria-controls=&quot;offcanvasWithBothOptions&quot;&gt;Enable both scrolling &amp; backdrop&lt;/button&gt;
                                                         
                                                         &lt;div class=&quot;offcanvas offcanvas-start&quot; data-bs-scroll=&quot;true&quot; data-bs-backdrop=&quot;false&quot; tabindex=&quot;-1&quot; id=&quot;offcanvasScrolling&quot; aria-labelledby=&quot;offcanvasScrollingLabel&quot;&gt;
@@ -262,7 +262,7 @@
                                                         
                                                         &lt;div class=&quot;offcanvas offcanvas-start&quot; tabindex=&quot;-1&quot; id=&quot;offcanvasWithBackdrop&quot; aria-labelledby=&quot;offcanvasWithBackdropLabel&quot;&gt;
                                                             &lt;div class=&quot;offcanvas-header&quot;&gt;
-                                                                &lt;h5 class=&quot;offcanvas-title&quot; id=&quot;offcanvasWithBackdropLabel&quot;&gt;Offcanvas with backdrop&lt;/h5&gt;
+                                                                &lt;h5 class=&quot;offcanvas-title&quot; id=&quot;offcanvasWithBackdropLabel&quot;&gt;侧边栏 with backdrop&lt;/h5&gt;
                                                                 &lt;button type=&quot;button&quot; class=&quot;btn-close text-reset&quot; data-bs-dismiss=&quot;offcanvas&quot; aria-label=&quot;Close&quot;&gt;&lt;/button&gt;
                                                             &lt;/div&gt;
                                                             &lt;div class=&quot;offcanvas-body&quot;&gt;
@@ -320,7 +320,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Offcanvas Placement</h4>
+                                        <h4 class="header-title">侧边栏 Placement</h4>
                                         <p class="text-muted font-13">
                                             Try the right and bottom examples out below.
                                         </p>
@@ -329,13 +329,13 @@
                                             <li class="nav-item">
                                                 <a href="#offcanvas-placement-preview" data-bs-toggle="tab"
                                                     aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#offcanvas-placement-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -351,15 +351,15 @@
         
                                                 <div>
                                                     <div class="button-list">
-                                                        <button class="btn btn-primary mt-2 mt-md-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasTop" aria-controls="offcanvasTop">Toggle Top offcanvas</button>
-                                                        <button class="btn btn-primary mt-2 mt-md-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">Toggle right offcanvas</button>
-                                                        <button class="btn btn-primary mt-2 mt-md-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasBottom" aria-controls="offcanvasBottom">Toggle bottom offcanvas</button>
-                                                        <button class="btn btn-primary mt-2 mt-lg-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasLeft" aria-controls="offcanvasLeft">Toggle Left offcanvas</button>
+                                                        <button class="btn btn-primary mt-2 mt-md-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasTop" aria-controls="offcanvasTop">切换顶部侧边栏</button>
+                                                        <button class="btn btn-primary mt-2 mt-md-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">切换右侧侧边栏</button>
+                                                        <button class="btn btn-primary mt-2 mt-md-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasBottom" aria-controls="offcanvasBottom">切换底部侧边栏</button>
+                                                        <button class="btn btn-primary mt-2 mt-lg-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasLeft" aria-controls="offcanvasLeft">切换左侧侧边栏</button>
                                                     </div> <!-- end button-list-->
                                                     
                                                     <div class="offcanvas offcanvas-top" tabindex="-1" id="offcanvasTop" aria-labelledby="offcanvasTopLabel">
                                                         <div class="offcanvas-header">
-                                                            <h5 id="offcanvasTopLabel">Offcanvas Top</h5>
+                                                            <h5 id="offcanvasTopLabel">侧边栏 Top</h5>
                                                             <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                                                         </div> <!-- end offcanvas-header-->
 
@@ -379,7 +379,7 @@
     
                                                     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
                                                         <div class="offcanvas-header">
-                                                            <h5 id="offcanvasRightLabel">Offcanvas right</h5>
+                                                            <h5 id="offcanvasRightLabel">侧边栏 right</h5>
                                                             <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                                                         </div> <!-- end offcanvas-header-->
 
@@ -399,7 +399,7 @@
     
                                                     <div class="offcanvas offcanvas-bottom" tabindex="-1" id="offcanvasBottom" aria-labelledby="offcanvasBottomLabel">
                                                         <div class="offcanvas-header">
-                                                            <h5 class="offcanvas-title" id="offcanvasBottomLabel">Offcanvas bottom</h5>
+                                                            <h5 class="offcanvas-title" id="offcanvasBottomLabel">侧边栏 bottom</h5>
                                                             <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                                                         </div> <!-- end offcanvas-header-->
 
@@ -419,7 +419,7 @@
     
                                                     <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasLeft" aria-labelledby="offcanvasLeftLabel">
                                                         <div class="offcanvas-header">
-                                                            <h5 id="offcanvasLeftLabel">Offcanvas Left</h5>
+                                                            <h5 id="offcanvasLeftLabel">侧边栏 Left</h5>
                                                             <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                                                         </div> <!-- end offcanvas-header-->
 
@@ -444,14 +444,14 @@
                                                     <span class="html escape">
                 
                                                         &lt;div&gt;
-                                                            &lt;button class=&quot;btn btn-primary mt-2 mt-md-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasTop&quot; aria-controls=&quot;offcanvasTop&quot;&gt;Toggle Top offcanvas&lt;/button&gt;
-                                                            &lt;button class=&quot;btn btn-primary mt-2 mt-md-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasRight&quot; aria-controls=&quot;offcanvasRight&quot;&gt;Toggle right offcanvas&lt;/button&gt;
-                                                            &lt;button class=&quot;btn btn-primary mt-2 mt-md-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasBottom&quot; aria-controls=&quot;offcanvasBottom&quot;&gt;Toggle bottom offcanvas&lt;/button&gt;
-                                                            &lt;button class=&quot;btn btn-primary mt-2 mt-lg-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasLeft&quot; aria-controls=&quot;offcanvasLeft&quot;&gt;Toggle Left offcanvas&lt;/button&gt;
+                                                            &lt;button class=&quot;btn btn-primary mt-2 mt-md-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasTop&quot; aria-controls=&quot;offcanvasTop&quot;&gt;切换顶部侧边栏&lt;/button&gt;
+                                                            &lt;button class=&quot;btn btn-primary mt-2 mt-md-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasRight&quot; aria-controls=&quot;offcanvasRight&quot;&gt;切换右侧侧边栏&lt;/button&gt;
+                                                            &lt;button class=&quot;btn btn-primary mt-2 mt-md-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasBottom&quot; aria-controls=&quot;offcanvasBottom&quot;&gt;切换底部侧边栏&lt;/button&gt;
+                                                            &lt;button class=&quot;btn btn-primary mt-2 mt-lg-0&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasLeft&quot; aria-controls=&quot;offcanvasLeft&quot;&gt;切换左侧侧边栏&lt;/button&gt;
                                                             
                                                             &lt;div class=&quot;offcanvas offcanvas-top&quot; tabindex=&quot;-1&quot; id=&quot;offcanvasTop&quot; aria-labelledby=&quot;offcanvasTopLabel&quot;&gt;
                                                                 &lt;div class=&quot;offcanvas-header&quot;&gt;
-                                                                    &lt;h5 id=&quot;offcanvasTopLabel&quot;&gt;Offcanvas Top&lt;/h5&gt;
+                                                                    &lt;h5 id=&quot;offcanvasTopLabel&quot;&gt;侧边栏 Top&lt;/h5&gt;
                                                                     &lt;button type=&quot;button&quot; class=&quot;btn-close text-reset&quot; data-bs-dismiss=&quot;offcanvas&quot; aria-label=&quot;Close&quot;&gt;&lt;/button&gt;
                                                                 &lt;/div&gt;
                                                                 &lt;div class=&quot;offcanvas-body&quot;&gt;
@@ -470,7 +470,7 @@
             
                                                             &lt;div class=&quot;offcanvas offcanvas-end&quot; tabindex=&quot;-1&quot; id=&quot;offcanvasRight&quot; aria-labelledby=&quot;offcanvasRightLabel&quot;&gt;
                                                                 &lt;div class=&quot;offcanvas-header&quot;&gt;
-                                                                    &lt;h5 id=&quot;offcanvasRightLabel&quot;&gt;Offcanvas right&lt;/h5&gt;
+                                                                    &lt;h5 id=&quot;offcanvasRightLabel&quot;&gt;侧边栏 right&lt;/h5&gt;
                                                                     &lt;button type=&quot;button&quot; class=&quot;btn-close text-reset&quot; data-bs-dismiss=&quot;offcanvas&quot; aria-label=&quot;Close&quot;&gt;&lt;/button&gt;
                                                                 &lt;/div&gt;
                                                                 &lt;div class=&quot;offcanvas-body&quot;&gt;
@@ -489,7 +489,7 @@
             
                                                             &lt;div class=&quot;offcanvas offcanvas-bottom&quot; tabindex=&quot;-1&quot; id=&quot;offcanvasBottom&quot; aria-labelledby=&quot;offcanvasBottomLabel&quot;&gt;
                                                                 &lt;div class=&quot;offcanvas-header&quot;&gt;
-                                                                    &lt;h5 class=&quot;offcanvas-title&quot; id=&quot;offcanvasBottomLabel&quot;&gt;Offcanvas bottom&lt;/h5&gt;
+                                                                    &lt;h5 class=&quot;offcanvas-title&quot; id=&quot;offcanvasBottomLabel&quot;&gt;侧边栏 bottom&lt;/h5&gt;
                                                                     &lt;button type=&quot;button&quot; class=&quot;btn-close text-reset&quot; data-bs-dismiss=&quot;offcanvas&quot; aria-label=&quot;Close&quot;&gt;&lt;/button&gt;
                                                                 &lt;/div&gt;
                                                                 &lt;div class=&quot;offcanvas-body&quot;&gt;
@@ -508,7 +508,7 @@
             
                                                             &lt;div class=&quot;offcanvas offcanvas-start&quot; tabindex=&quot;-1&quot; id=&quot;offcanvasLeft&quot; aria-labelledby=&quot;offcanvasLeftLabel&quot;&gt;
                                                                 &lt;div class=&quot;offcanvas-header&quot;&gt;
-                                                                    &lt;h5 id=&quot;offcanvasLeftLabel&quot;&gt;Offcanvas Left&lt;/h5&gt;
+                                                                    &lt;h5 id=&quot;offcanvasLeftLabel&quot;&gt;侧边栏 Left&lt;/h5&gt;
                                                                     &lt;button type=&quot;button&quot; class=&quot;btn-close text-reset&quot; data-bs-dismiss=&quot;offcanvas&quot; aria-label=&quot;Close&quot;&gt;&lt;/button&gt;
                                                                 &lt;/div&gt;
                                                                 &lt;div class=&quot;offcanvas-body&quot;&gt;

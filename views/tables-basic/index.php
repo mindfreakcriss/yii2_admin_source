@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Tables</a></li>
-                                            <li class="breadcrumb-item active">Basic Tables</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">表格</a></li>
+                                            <li class="breadcrumb-item active">基本表格</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Basic Tables</h4>
+                                    <h4 class="page-title">基本表格</h4>
                                 </div>
                             </div>
                         </div>
@@ -20,7 +20,7 @@
                                 <div class="card">
                                     <div class="card-body">
 
-                                        <h4 class="header-title">Basic example</h4>
+                                        <h4 class="header-title">基本示例</h4>
                                         <p class="text-muted font-14">
                                             For basic styling—light padding and only horizontal dividers—add the base class <code>.table</code> to any <code>&lt;table&gt;</code>.
                                         </p>
@@ -28,12 +28,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#basic-example-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#basic-example-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -43,10 +43,10 @@
                                                     <table class="table table-centered mb-0">
                                                         <thead>
                                                             <tr>
-                                                                <th>Name</th>
-                                                                <th>Phone Number</th>
-                                                                <th>Date of Birth</th>
-                                                                <th>Active?</th>
+                                                                <th>名称</th>
+                                                                <th>电话号码</th>
+                                                                <th>出生日期</th>
+                                                                <th>是否激活？</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -109,10 +109,10 @@
                                                         &lt;table class=&quot;table table-centered mb-0&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Phone Number&lt;/th&gt;
-                                                                    &lt;th&gt;Date of Birth&lt;/th&gt;
-                                                                    &lt;th&gt;Active?&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;电话号码&lt;/th&gt;
+                                                                    &lt;th&gt;出生日期&lt;/th&gt;
+                                                                    &lt;th&gt;是否激活？&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                             &lt;tbody&gt;
@@ -187,12 +187,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#inverse-table-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#inverse-table-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -202,10 +202,10 @@
                                                     <table class="table table-dark mb-0">
                                                         <thead>
                                                             <tr>
-                                                                <th>Name</th>
-                                                                <th>Phone Number</th>
-                                                                <th>Date of Birth</th>
-                                                                <th>Active?</th>
+                                                                <th>名称</th>
+                                                                <th>电话号码</th>
+                                                                <th>出生日期</th>
+                                                                <th>是否激活？</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -268,10 +268,10 @@
                                                         &lt;table class=&quot;table table-dark mb-0&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Phone Number&lt;/th&gt;
-                                                                    &lt;th&gt;Date of Birth&lt;/th&gt;
-                                                                    &lt;th&gt;Active?&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;电话号码&lt;/th&gt;
+                                                                    &lt;th&gt;出生日期&lt;/th&gt;
+                                                                    &lt;th&gt;是否激活？&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                             &lt;tbody&gt;
@@ -341,7 +341,7 @@
                                 <div class="card">
                                     <div class="card-body">
 
-                                        <h4 class="header-title">Striped rows</h4>
+                                        <h4 class="header-title">条纹行</h4>
                                         <p class="text-muted font-14">
                                             Use <code>.table-striped</code> to add zebra-striping to any table row
                                             within the <code>&lt;tbody&gt;</code>.
@@ -350,12 +350,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#striped-rows-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#striped-rows-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -365,10 +365,10 @@
                                                     <table class="table table-striped table-centered mb-0">
                                                         <thead>
                                                             <tr>
-                                                                <th>User</th>
-                                                                <th>Account No.</th>
-                                                                <th>Balance</th>
-                                                                <th>Action</th>
+                                                                <th>用户</th>
+                                                                <th>账号</th>
+                                                                <th>余额</th>
+                                                                <th>操作</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -431,10 +431,10 @@
                                                         &lt;table class=&quot;table table-striped table-centered mb-0&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;User&lt;/th&gt;
-                                                                    &lt;th&gt;Account No.&lt;/th&gt;
-                                                                    &lt;th&gt;Balance&lt;/th&gt;
-                                                                    &lt;th&gt;Action&lt;/th&gt;
+                                                                    &lt;th&gt;用户&lt;/th&gt;
+                                                                    &lt;th&gt;账号&lt;/th&gt;
+                                                                    &lt;th&gt;余额&lt;/th&gt;
+                                                                    &lt;th&gt;操作&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                             &lt;tbody&gt;
@@ -501,7 +501,7 @@
                                 <div class="card">
                                     <div class="card-body">
 
-                                        <h4 class="header-title">Table head options</h4>
+                                        <h4 class="header-title">表头选项</h4>
                                         <p class="text-muted font-14">
                                             Use one of two modifier classes to make <code>&lt;thead&gt;</code>s appear light or dark gray.
                                         </p>
@@ -509,12 +509,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#table-head-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#table-head-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -524,10 +524,10 @@
                                                     <table class="table table-centered mb-0">
                                                         <thead class="table-dark">
                                                             <tr>
-                                                                <th>Product</th>
-                                                                <th>Courier</th>
-                                                                <th>Process</th>
-                                                                <th>Status</th>
+                                                                <th>产品</th>
+                                                                <th>快递</th>
+                                                                <th>进度</th>
+                                                                <th>状态</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -582,10 +582,10 @@
                                                         &lt;table class=&quot;table table-centered mb-0&quot;&gt;
                                                             &lt;thead class=&quot;table-dark&quot;&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Product&lt;/th&gt;
-                                                                    &lt;th&gt;Courier&lt;/th&gt;
-                                                                    &lt;th&gt;Process&lt;/th&gt;
-                                                                    &lt;th&gt;Status&lt;/th&gt;
+                                                                    &lt;th&gt;产品&lt;/th&gt;
+                                                                    &lt;th&gt;快递&lt;/th&gt;
+                                                                    &lt;th&gt;进度&lt;/th&gt;
+                                                                    &lt;th&gt;状态&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                             &lt;tbody&gt;
@@ -647,7 +647,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Hoverable rows</h4>
+                                        <h4 class="header-title">悬停行</h4>
                                         <p class="text-muted font-14">
                                             Add <code>.table-hover</code> to enable a hover state on table rows within a <code>&lt;tbody&gt;</code>.
                                         </p>
@@ -655,12 +655,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#hoverable-rows-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#hoverable-rows-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -670,10 +670,10 @@
                                                     <table class="table table-hover table-centered mb-0">
                                                         <thead>
                                                             <tr>
-                                                                <th>Product</th>
-                                                                <th>Price</th>
-                                                                <th>Quantity</th>
-                                                                <th>Amount</th>
+                                                                <th>产品</th>
+                                                                <th>价格</th>
+                                                                <th>数量</th>
+                                                                <th>金额</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -712,10 +712,10 @@
                                                         &lt;table class=&quot;table table-hover table-centered mb-0&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Product&lt;/th&gt;
-                                                                    &lt;th&gt;Price&lt;/th&gt;
-                                                                    &lt;th&gt;Quantity&lt;/th&gt;
-                                                                    &lt;th&gt;Amount&lt;/th&gt;
+                                                                    &lt;th&gt;产品&lt;/th&gt;
+                                                                    &lt;th&gt;价格&lt;/th&gt;
+                                                                    &lt;th&gt;数量&lt;/th&gt;
+                                                                    &lt;th&gt;金额&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                             &lt;tbody&gt;
@@ -758,7 +758,7 @@
                                 <div class="card">
                                     <div class="card-body">
 
-                                        <h4 class="header-title">Small table</h4>
+                                        <h4 class="header-title">紧凑表格</h4>
                                         <p class="text-muted font-14">
                                             Add <code>.table-sm</code> to make tables more compact by cutting cell padding in half.
                                         </p>
@@ -766,12 +766,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#small-table-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#small-table-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -781,10 +781,10 @@
                                                     <table class="table table-sm table-centered mb-0">
                                                         <thead>
                                                             <tr>
-                                                                <th>Product</th>
-                                                                <th>Price</th>
-                                                                <th>Quantity</th>
-                                                                <th>Amount</th>
+                                                                <th>产品</th>
+                                                                <th>价格</th>
+                                                                <th>数量</th>
+                                                                <th>金额</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -835,10 +835,10 @@
                                                         &lt;table class=&quot;table table-sm table-centered mb-0&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Product&lt;/th&gt;
-                                                                    &lt;th&gt;Price&lt;/th&gt;
-                                                                    &lt;th&gt;Quantity&lt;/th&gt;
-                                                                    &lt;th&gt;Amount&lt;/th&gt;
+                                                                    &lt;th&gt;产品&lt;/th&gt;
+                                                                    &lt;th&gt;价格&lt;/th&gt;
+                                                                    &lt;th&gt;数量&lt;/th&gt;
+                                                                    &lt;th&gt;金额&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                             &lt;tbody&gt;
@@ -895,7 +895,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Bordered table</h4>
+                                        <h4 class="header-title">带边框表格</h4>
                                         <p class="text-muted font-14">
                                             Add <code>.table-bordered</code> for borders on all sides of the table and cells.
                                         </p>
@@ -903,12 +903,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#bordered-table-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#bordered-table-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -918,10 +918,10 @@
                                                     <table class="table table-bordered table-centered mb-0">
                                                         <thead>
                                                             <tr>
-                                                                <th>User</th>
-                                                                <th>Account No.</th>
-                                                                <th>Balance</th>
-                                                                <th class="text-center">Action</th>
+                                                                <th>用户</th>
+                                                                <th>账号</th>
+                                                                <th>余额</th>
+                                                                <th class="text-center">操作</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -980,10 +980,10 @@
                                                         &lt;table class=&quot;table table-bordered table-centered mb-0&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;User&lt;/th&gt;
-                                                                    &lt;th&gt;Account No.&lt;/th&gt;
-                                                                    &lt;th&gt;Balance&lt;/th&gt;
-                                                                    &lt;th class=&quot;text-center&quot;&gt;Action&lt;/th&gt;
+                                                                    &lt;th&gt;用户&lt;/th&gt;
+                                                                    &lt;th&gt;账号&lt;/th&gt;
+                                                                    &lt;th&gt;余额&lt;/th&gt;
+                                                                    &lt;th class=&quot;text-center&quot;&gt;操作&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                             &lt;tbody&gt;
@@ -1053,12 +1053,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#bordered-color-table-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#bordered-color-table-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -1068,10 +1068,10 @@
                                                     <table class="table table-bordered border-primary table-centered mb-0">
                                                         <thead>
                                                             <tr>
-                                                                <th>User</th>
-                                                                <th>Account No.</th>
-                                                                <th>Balance</th>
-                                                                <th class="text-center">Action</th>
+                                                                <th>用户</th>
+                                                                <th>账号</th>
+                                                                <th>余额</th>
+                                                                <th class="text-center">操作</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -1130,10 +1130,10 @@
                                                         &lt;table class=&quot;table table-bordered border-primary table-centered mb-0&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;User&lt;/th&gt;
-                                                                    &lt;th&gt;Account No.&lt;/th&gt;
-                                                                    &lt;th&gt;Balance&lt;/th&gt;
-                                                                    &lt;th class=&quot;text-center&quot;&gt;Action&lt;/th&gt;
+                                                                    &lt;th&gt;用户&lt;/th&gt;
+                                                                    &lt;th&gt;账号&lt;/th&gt;
+                                                                    &lt;th&gt;余额&lt;/th&gt;
+                                                                    &lt;th class=&quot;text-center&quot;&gt;操作&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                             &lt;tbody&gt;
@@ -1200,7 +1200,7 @@
                                 <div class="card">
                                     <div class="card-body">
 
-                                        <h4 class="header-title">Always responsive</h4>
+                                        <h4 class="header-title">始终自适应</h4>
                                         <p class="text-muted font-14">
                                             Across every breakpoint, use
                                             <code>.table-responsive</code> for horizontally scrolling tables. Use
@@ -1211,12 +1211,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#responsive-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#responsive-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -1362,12 +1362,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#basic-borderless-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#basic-borderless-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -1377,10 +1377,10 @@
                                                     <table class="table table-centered table-borderless mb-0">
                                                         <thead>
                                                             <tr>
-                                                                <th>Name</th>
-                                                                <th>Phone Number</th>
-                                                                <th>Date of Birth</th>
-                                                                <th>Active?</th>
+                                                                <th>名称</th>
+                                                                <th>电话号码</th>
+                                                                <th>出生日期</th>
+                                                                <th>是否激活？</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -1443,10 +1443,10 @@
                                                         &lt;table class=&quot;table table-centered table-borderless mb-0&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Phone Number&lt;/th&gt;
-                                                                    &lt;th&gt;Date of Birth&lt;/th&gt;
-                                                                    &lt;th&gt;Active?&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;电话号码&lt;/th&gt;
+                                                                    &lt;th&gt;出生日期&lt;/th&gt;
+                                                                    &lt;th&gt;是否激活？&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                             &lt;tbody&gt;
@@ -1521,12 +1521,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#inverse-borderless-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#inverse-borderless-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -1536,10 +1536,10 @@
                                                     <table class="table table-dark table-borderless mb-0">
                                                         <thead>
                                                             <tr>
-                                                                <th>Name</th>
-                                                                <th>Phone Number</th>
-                                                                <th>Date of Birth</th>
-                                                                <th>Active?</th>
+                                                                <th>名称</th>
+                                                                <th>电话号码</th>
+                                                                <th>出生日期</th>
+                                                                <th>是否激活？</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -1602,10 +1602,10 @@
                                                         &lt;table class=&quot;table table-dark table-borderless mb-0&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Phone Number&lt;/th&gt;
-                                                                    &lt;th&gt;Date of Birth&lt;/th&gt;
-                                                                    &lt;th&gt;Active?&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;电话号码&lt;/th&gt;
+                                                                    &lt;th&gt;出生日期&lt;/th&gt;
+                                                                    &lt;th&gt;是否激活？&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                             &lt;tbody&gt;
@@ -1682,12 +1682,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#active-tables-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#active-tables-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -1697,10 +1697,10 @@
                                                     <table class="table mb-0">
                                                         <thead>
                                                             <tr>
-                                                                <th>Name</th>
-                                                                <th>Phone Number</th>
-                                                                <th>Date of Birth</th>
-                                                                <th>Active?</th>
+                                                                <th>名称</th>
+                                                                <th>电话号码</th>
+                                                                <th>出生日期</th>
+                                                                <th>是否激活？</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -1775,10 +1775,10 @@
                                                             &lt;table class=&quot;table mb-0&quot;&gt;
                                                                 &lt;thead&gt;
                                                                     &lt;tr&gt;
-                                                                        &lt;th&gt;Name&lt;/th&gt;
-                                                                        &lt;th&gt;Phone Number&lt;/th&gt;
-                                                                        &lt;th&gt;Date of Birth&lt;/th&gt;
-                                                                        &lt;th&gt;Active?&lt;/th&gt;
+                                                                        &lt;th&gt;名称&lt;/th&gt;
+                                                                        &lt;th&gt;电话号码&lt;/th&gt;
+                                                                        &lt;th&gt;出生日期&lt;/th&gt;
+                                                                        &lt;th&gt;是否激活？&lt;/th&gt;
                                                                     &lt;/tr&gt;
                                                                 &lt;/thead&gt;
                                                                 &lt;tbody&gt;
@@ -1855,33 +1855,33 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Nesting</h4>
+                                        <h4 class="header-title">嵌套</h4>
                                         <p class="text-muted font-14">
                                             Border styles, active styles, and table variants are not inherited by nested tables.
                                         </p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
-                                                <a href="#Nesting-tables-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                <a href="#嵌套-tables-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
-                                                <a href="#Nesting-tables-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                <a href="#嵌套-tables-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
                                         <div class="tab-content">
-                                            <div class="tab-pane show active" id="Nesting-tables-preview">
+                                            <div class="tab-pane show active" id="嵌套-tables-preview">
                                                 <div class="table-responsive-sm">
                                                     <table class="table table-striped mb-0">
                                                         <thead>
                                                             <tr>
-                                                                <th>Name</th>
-                                                                <th>Phone Number</th>
-                                                                <th>Date of Birth</th>
-                                                                <th>Active?</th>
+                                                                <th>名称</th>
+                                                                <th>电话号码</th>
+                                                                <th>出生日期</th>
+                                                                <th>是否激活？</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -1902,10 +1902,10 @@
                                                                     <table class="table mb-0">
                                                                         <thead>
                                                                             <tr>
-                                                                                <th>Name</th>
-                                                                                <th>Phone Number</th>
-                                                                                <th>Date of Birth</th>
-                                                                                <th>Active?</th>
+                                                                                <th>名称</th>
+                                                                                <th>电话号码</th>
+                                                                                <th>出生日期</th>
+                                                                                <th>是否激活？</th>
                                                                             </tr>
                                                                         </thead>
                                                                         <tbody>
@@ -1955,17 +1955,17 @@
                                                     </table>
                                                 </div>
                                             </div>
-                                            <div class="tab-pane" id="Nesting-tables-code">
+                                            <div class="tab-pane" id="嵌套-tables-code">
                                                 <div class="table-responsive-sm">
                                                     <pre class="mb-0">
                                                         <span class="html escape">
                                                             &lt;table class=&quot;table table-striped mb-0&quot;&gt;
                                                                 &lt;thead&gt;
                                                                     &lt;tr&gt;
-                                                                        &lt;th&gt;Name&lt;/th&gt;
-                                                                        &lt;th&gt;Phone Number&lt;/th&gt;
-                                                                        &lt;th&gt;Date of Birth&lt;/th&gt;
-                                                                        &lt;th&gt;Active?&lt;/th&gt;
+                                                                        &lt;th&gt;名称&lt;/th&gt;
+                                                                        &lt;th&gt;电话号码&lt;/th&gt;
+                                                                        &lt;th&gt;出生日期&lt;/th&gt;
+                                                                        &lt;th&gt;是否激活？&lt;/th&gt;
                                                                     &lt;/tr&gt;
                                                                 &lt;/thead&gt;
                                                                 &lt;tbody&gt;
@@ -1986,10 +1986,10 @@
                                                                             &lt;table class=&quot;table mb-0&quot;&gt;
                                                                                 &lt;thead&gt;
                                                                                     &lt;tr&gt;
-                                                                                        &lt;th&gt;Name&lt;/th&gt;
-                                                                                        &lt;th&gt;Phone Number&lt;/th&gt;
-                                                                                        &lt;th&gt;Date of Birth&lt;/th&gt;
-                                                                                        &lt;th&gt;Active?&lt;/th&gt;
+                                                                                        &lt;th&gt;名称&lt;/th&gt;
+                                                                                        &lt;th&gt;电话号码&lt;/th&gt;
+                                                                                        &lt;th&gt;出生日期&lt;/th&gt;
+                                                                                        &lt;th&gt;是否激活？&lt;/th&gt;
                                                                                     &lt;/tr&gt;
                                                                                 &lt;/thead&gt;
                                                                                 &lt;tbody&gt;

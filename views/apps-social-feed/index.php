@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Apps</a></li>
-                                            <li class="breadcrumb-item active">Social Feed</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">应用</a></li>
+                                            <li class="breadcrumb-item active">社交动态</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Social Feed</h4>
+                                    <h4 class="page-title">社交动态</h4>
                                 </div>
                             </div>
                         </div>
@@ -26,9 +26,9 @@
                                             </a>
                                             <div class="dropdown-menu dropdown-menu-end">
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">Edit Profile</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">编辑个人资料</a>
                                                 <!-- item-->
-                                                <a href="javascript:void(0);" class="dropdown-item">Settings</a>
+                                                <a href="javascript:void(0);" class="dropdown-item">设置</a>
                                             </div>
                                         </div>
 
@@ -41,11 +41,11 @@
                                         </div>
 
                                         <div class="list-group list-group-flush mt-2">
-                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action text-primary border-0"><i class='uil uil-images me-1'></i> News Feed</a>
-                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-comment-alt-message me-1'></i> Messages</a>
-                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-calendar-alt me-1'></i> Events</a>
-                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-users-alt me-1'></i> Groups</a>
-                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-copy me-1'></i> Pages</a>
+                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action text-primary border-0"><i class='uil uil-images me-1'></i> 动态</a>
+                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-comment-alt-message me-1'></i> 消息</a>
+                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-calendar-alt me-1'></i> 事件</a>
+                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-users-alt me-1'></i> 群组</a>
+                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-copy me-1'></i> 页面</a>
                                         </div>
                                     </div>
                                 </div>
@@ -55,9 +55,9 @@
                                 <div class="card">
                                     <div class="card-body p-2">
                                         <div class="list-group list-group-flush my-2">
-                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-calendar-alt me-1'></i> 3 events this week</a>
-                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-calender me-1'></i> Eva's birthday today</a>
-                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-bookmark me-1'></i> Jenny's wedding tomorrow</a>
+                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-calendar-alt me-1'></i> 本周3个事件</a>
+                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-calender me-1'></i> Eva今天生日</a>
+                                            <a href="javascript:void(0);" class="list-group-item list-group-item-action border-0"><i class='uil uil-bookmark me-1'></i> Jenny明天婚礼</a>
                                         </div>
                                     </div>
                                 </div>
@@ -67,20 +67,20 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-2">
-                                            <h4 class="header-title">Trending</h4>
+                                            <h4 class="header-title">热门</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-horizontal"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Today</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">今天</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Yesterday</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">昨天</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Last Week</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">上周</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Last Month</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">上月</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -133,19 +133,19 @@
                                             <li class="nav-item">
                                                 <a href="#newpost" data-bs-toggle="tab" aria-expanded="false" class="nav-link active px-3 py-2">
                                                     <i class="mdi mdi-pencil-box-multiple font-18 d-md-none d-block"></i>
-                                                    <span class="d-none d-md-block">Create Post</span>
+                                                    <span class="d-none d-md-block">创建动态</span>
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#photo-video" data-bs-toggle="tab" aria-expanded="true" class="nav-link px-3 py-2">
                                                     <i class="mdi mdi-image font-18 d-md-none d-block"></i>
-                                                    <span class="d-none d-md-block">Photos/Videos</span>
+                                                    <span class="d-none d-md-block">照片/视频</span>
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#story" data-bs-toggle="tab" aria-expanded="true" class="nav-link px-3 py-2">
                                                     <i class="mdi mdi-book-open-variant font-18 d-md-none d-block"></i>
-                                                    <span class="d-none d-md-block">Story</span>
+                                                    <span class="d-none d-md-block">故事</span>
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -154,14 +154,14 @@
                                                 <!-- comment box -->
                                                 <div class="border rounded">
                                                     <form action="#" class="comment-area-box">
-                                                        <textarea rows="4" class="form-control border-0 resize-none" placeholder="Write something...."></textarea>
+                                                        <textarea rows="4" class="form-control border-0 resize-none" placeholder="写点什么..."></textarea>
                                                         <div class="p-2 bg-light d-flex justify-content-between align-items-center">
                                                             <div>
                                                                 <a href="#" class="btn btn-sm px-2 font-16 btn-light"><i class="uil uil-scenery"></i></a>
                                                                 <a href="#" class="btn btn-sm px-2 font-16 btn-light"><i class="uil uil-location"></i></a>
                                                                 <a href="#" class="btn btn-sm px-2 font-16 btn-light"><i class="uil uil-paperclip"></i></a>
                                                             </div>
-                                                            <button type="submit" class="btn btn-sm btn-success"><i class='uil uil-message me-1'></i>Post</button>
+                                                            <button type="submit" class="btn btn-sm btn-success"><i class='uil uil-message me-1'></i>发布</button>
                                                         </div>
                                                     </form>
                                                 </div> <!-- end .border-->
@@ -185,13 +185,13 @@
                                                     </a>
                                                     <div class="dropdown-menu dropdown-menu-end">
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item">Edit</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item">编辑</a>
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item">Delete</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item">删除</a>
                                                     </div>
                                                 </div>
                                                 <h5 class="m-0">Jeremy Tomlinson</h5>
-                                                <p class="text-muted"><small>about 2 minuts ago <span class="mx-1">⚬</span> <span>Public</span></small></p>
+                                                <p class="text-muted"><small>约2分钟前 <span class="mx-1">⚬</span> <span>公开</span></small></p>
                                             </div>
                                         </div>
 
@@ -206,9 +206,9 @@
                                         <hr class="m-0" />
 
                                         <div class="my-1">
-                                            <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted ps-0"><i class='mdi mdi-heart text-danger'></i> 2k Likes</a>
-                                            <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted"><i class='uil uil-comments-alt'></i> 200 Comments</a>
-                                            <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted"><i class='uil uil-share-alt'></i> Share</a>
+                                            <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted ps-0"><i class='mdi mdi-heart text-danger'></i> 2k 赞</a>
+                                            <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted"><i class='uil uil-comments-alt'></i> 200 条评论</a>
+                                            <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted"><i class='uil uil-share-alt'></i> 分享</a>
                                         </div>
 
                                         <hr class="m-0" />
@@ -225,10 +225,10 @@
 
                                                     <div>
                                                         <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted p-0">
-                                                            <i class='uil uil-heart me-1'></i> Like
+                                                            <i class='uil uil-heart me-1'></i> 点赞
                                                         </a>
                                                         <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted p-0 ps-2">
-                                                            <i class='uil uil-comments-alt me-1'></i> Reply
+                                                            <i class='uil uil-comments-alt me-1'></i> 回复
                                                         </a>
                                                     </div>
 
@@ -249,7 +249,7 @@
                                             <div class="d-flex mb-2">
                                                 <img src="/admin/images/users/avatar-1.jpg" height="32" class="align-self-start rounded me-2" alt="Arya Stark" />
                                                 <div class="w-100">
-                                                    <input type="text" class="form-control border-0 form-control-sm" placeholder="Write a comment">
+                                                    <input type="text" class="form-control border-0 form-control-sm" placeholder="写评论">
                                                 </div> <!-- end w-100 -->
                                             </div> <!-- end d-flex -->
 
@@ -269,13 +269,13 @@
                                                     </a>
                                                     <div class="dropdown-menu dropdown-menu-end">
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item">Edit</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item">编辑</a>
                                                         <!-- item-->
-                                                        <a href="javascript:void(0);" class="dropdown-item">Delete</a>
+                                                        <a href="javascript:void(0);" class="dropdown-item">删除</a>
                                                     </div>
                                                 </div>
                                                 <h5 class="m-0">Jon Snow</h5>
-                                                <p class="text-muted"><small>20 min ago <span class="mx-1">⚬</span> <span>Public</span></small></p>
+                                                <p class="text-muted"><small>20分钟前 <span class="mx-1">⚬</span> <span>公开</span></small></p>
                                             </div> <!-- end w-100-->
                                         </div> <!-- end d-flex -->
 
@@ -295,9 +295,9 @@
                                         </div>
 
                                         <div class="mt-1 mb-1">
-                                            <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted ps-0"><i class='mdi mdi-heart text-danger'></i> 1.2k Likes</a>
-                                            <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted"><i class='uil uil-comments-alt'></i> 148 Comments</a>
-                                            <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted"><i class='uil uil-share-alt'></i> Share</a>
+                                            <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted ps-0"><i class='mdi mdi-heart text-danger'></i> 1.2k 赞</a>
+                                            <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted"><i class='uil uil-comments-alt'></i> 148 条评论</a>
+                                            <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted"><i class='uil uil-share-alt'></i> 分享</a>
                                         </div>
                                         <hr class="m-0" />
 
@@ -313,10 +313,10 @@
 
                                                     <div>
                                                         <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted p-0">
-                                                            <i class='uil uil-heart me-1'></i> Like
+                                                            <i class='uil uil-heart me-1'></i> 点赞
                                                         </a>
                                                         <a href="javascript: void(0);" class="btn btn-sm btn-link text-muted p-0 ps-2">
-                                                            <i class='uil uil-comments-alt me-1'></i> Reply
+                                                            <i class='uil uil-comments-alt me-1'></i> 回复
                                                         </a>
                                                     </div>
                                                 </div> <!-- end w-100 -->
@@ -327,7 +327,7 @@
                                             <div class="d-flex mb-2">
                                                 <img src="/admin/images/users/avatar-1.jpg" height="32" class="align-self-start rounded me-2" alt="Arya Stark" />
                                                 <div class="w-100">
-                                                    <input type="text" class="form-control border-0 form-control-sm" placeholder="Write a comment">
+                                                    <input type="text" class="form-control border-0 form-control-sm" placeholder="写评论">
                                                 </div> <!-- end w-100 -->
                                             </div> <!-- end d-flex -->
                                         </div>
@@ -337,7 +337,7 @@
 
                                 <!-- loader -->
                                 <div class="text-center mb-3">
-                                    <a href="javascript:void(0);" class="text-danger"><i class="mdi mdi-spin mdi-loading me-1 font-16"></i> Load more </a>
+                                    <a href="javascript:void(0);" class="text-danger"><i class="mdi mdi-spin mdi-loading me-1 font-16"></i> 加载更多 </a>
                                 </div>
                                 <!-- end loader -->
                             </div>
@@ -347,7 +347,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center">
-                                            <h4 class="header-title">Featured Video For You</h4>
+                                            <h4 class="header-title">为您推荐视频</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown"
                                                     aria-expanded="false">
@@ -355,13 +355,13 @@
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Today</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">今天</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Yesterday</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">昨天</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Last Week</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">上周</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Last Month</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">上月</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -379,7 +379,7 @@
                                 <div class="card">
                                     <div class="card-body pb-0">
                                         <div class="d-flex justify-content-between align-items-center mb-2">
-                                            <h4 class="header-title">People you may know</h4>
+                                            <h4 class="header-title">可能认识的人</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown"
                                                     aria-expanded="false">
@@ -387,7 +387,7 @@
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">View All</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">查看全部</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -437,7 +437,7 @@
                                         </div> <!-- end inbox-widget -->    
 
                                         <div class="mt-2 mb-3 text-center">
-                                            <a href="#">View More<i class='uil uil-arrow-right ms-1'></i></a>
+                                            <a href="#">查看更多<i class='uil uil-arrow-right ms-1'></i></a>
                                         </div>
 
                                     </div> <!-- end card-body -->

@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">eCommerce</a></li>
-                                            <li class="breadcrumb-item active">Product Details</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">电子商务</a></li>
+                                            <li class="breadcrumb-item active">产品详情</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Product Details</h4>
+                                    <h4 class="page-title">产品详情</h4>
                                 </div>
                             </div>
                         </div>
@@ -42,7 +42,7 @@
                                                 <form class="ps-lg-4">
                                                     <!-- Product title -->
                                                     <h3 class="mt-0">Amazing Modern Chair (Orange) <a href="javascript: void(0);" class="text-muted"><i class="mdi mdi-square-edit-outline ms-2"></i></a> </h3>
-                                                    <p class="mb-1">Added Date: 09/12/2018</p>
+                                                    <p class="mb-1">添加日期：09/12/2018</p>
                                                     <p class="font-16">
                                                         <span class="text-warning mdi mdi-star"></span>
                                                         <span class="text-warning mdi mdi-star"></span>
@@ -53,27 +53,27 @@
 
                                                     <!-- Product stock -->
                                                     <div class="mt-3">
-                                                        <h4><span class="badge badge-success-lighten">Instock</span></h4>
+                                                        <h4><span class="badge badge-success-lighten">有货</span></h4>
                                                     </div>
 
                                                     <!-- Product description -->
                                                     <div class="mt-4">
-                                                        <h6 class="font-14">Retail Price:</h6>
+                                                        <h6 class="font-14">零售价：</h6>
                                                         <h3> $139.58</h3>
                                                     </div>
 
                                                     <!-- Quantity -->
                                                     <div class="mt-4">
-                                                        <h6 class="font-14">Quantity</h6>
+                                                        <h6 class="font-14">数量</h6>
                                                         <div class="d-flex">
                                                             <input type="number" min="1" value="1" class="form-control" placeholder="Qty" style="width: 90px;">
-                                                            <button type="button" class="btn btn-danger ms-2"><i class="mdi mdi-cart me-1"></i> Add to cart</button>
+                                                            <button type="button" class="btn btn-danger ms-2"><i class="mdi mdi-cart me-1"></i> 加入购物车</button>
                                                         </div>
                                                     </div>
                                         
                                                     <!-- Product description -->
                                                     <div class="mt-4">
-                                                        <h6 class="font-14">Description:</h6>
+                                                        <h6 class="font-14">描述：</h6>
                                                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </p>
                                                     </div>
 
@@ -81,15 +81,15 @@
                                                     <div class="mt-4">
                                                         <div class="row">
                                                             <div class="col-md-4">
-                                                                <h6 class="font-14">Available Stock:</h6>
+                                                                <h6 class="font-14">可用库存：</h6>
                                                                 <p class="text-sm lh-150">1784</p>
                                                             </div>
                                                             <div class="col-md-4">
-                                                                <h6 class="font-14">Number of Orders:</h6>
+                                                                <h6 class="font-14">订单数量：</h6>
                                                                 <p class="text-sm lh-150">5,458</p>
                                                             </div>
                                                             <div class="col-md-4">
-                                                                <h6 class="font-14">Revenue:</h6>
+                                                                <h6 class="font-14">收入：</h6>
                                                                 <p class="text-sm lh-150">$8,57,014</p>
                                                             </div>
                                                         </div>
@@ -103,10 +103,10 @@
                                             <table class="table table-bordered table-centered mb-0">
                                                 <thead class="table-light">
                                                     <tr>
-                                                        <th>Outlets</th>
-                                                        <th>Price</th>
-                                                        <th>Stock</th>
-                                                        <th>Revenue</th>
+                                                        <th>门店</th>
+                                                        <th>价格</th>
+                                                        <th>库存</th>
+                                                        <th>收入</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>

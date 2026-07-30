@@ -19,7 +19,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-analytics.js', ['depends' 
                                             </a>
                                         </form>
                                     </div>
-                                    <h4 class="page-title">Analytics</h4>
+                                    <h4 class="page-title">分析</h4>
                                 </div>
                             </div>
                         </div>
@@ -30,13 +30,13 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-analytics.js', ['depends' 
                                 <div class="card tilebox-one">
                                     <div class="card-body">
                                         <i class='uil uil-users-alt float-end'></i>
-                                        <h6 class="text-uppercase mt-0">Active Users</h6>
+                                        <h6 class="text-uppercase mt-0">活跃用户</h6>
                                         <h2 class="my-2" id="active-users-count">121</h2>
                                         <script>
                                             document.getElementById('active-users-count').innerText = Math.floor(30 + Math.random() * 100);
                                         </script>
                                         <p class="mb-0 text-muted">
-                                            <span class="text-nowrap">Since last month</span>
+                                            <span class="text-nowrap">较上月</span>
                                         </p>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
@@ -46,13 +46,13 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-analytics.js', ['depends' 
                                 <div class="card tilebox-one">
                                     <div class="card-body">
                                         <i class='uil uil-window-restore float-end'></i>
-                                        <h6 class="text-uppercase mt-0">New Orders</h6>
+                                        <h6 class="text-uppercase mt-0">新订单</h6>
                                         <h2 class="my-2" id="new-orders-count">341</h2>
                                         <script>
                                             document.getElementById('new-orders-count').innerText = Math.floor(100 + Math.random() * 1000);
                                         </script>
                                         <p class="mb-0 text-muted">
-                                            <span class="text-nowrap">Since last month</span>
+                                            <span class="text-nowrap">较上月</span>
                                         </p>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
@@ -62,13 +62,13 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-analytics.js', ['depends' 
                                 <div class="card tilebox-one">
                                     <div class="card-body">
                                         <i class='uil uil-window float-end'></i>
-                                        <h6 class="text-uppercase mt-0">New Users</h6>
+                                        <h6 class="text-uppercase mt-0">新用户</h6>
                                         <h2 class="my-2" id="new-users-count">199</h2>
                                         <script>
                                             document.getElementById('new-users-count').innerText = Math.floor(10 + Math.random() * 100);
                                         </script>
                                         <p class="mb-0 text-muted">
-                                            <span class="text-nowrap">Since last month</span>
+                                            <span class="text-nowrap">较上月</span>
                                         </p>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
@@ -78,13 +78,13 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-analytics.js', ['depends' 
                                 <div class="card tilebox-one">
                                     <div class="card-body">
                                         <i class='uil uil-chart float-end'></i>
-                                        <h6 class="text-uppercase mt-0">Total Sales</h6>
+                                        <h6 class="text-uppercase mt-0">总销售额</h6>
                                         <h2 class="my-2" id="total-sales-count">542</h2>
                                         <script>
                                             document.getElementById('total-sales-count').innerText = Math.floor(200 + Math.random() * 1000);
                                         </script>
                                         <p class="mb-0 text-muted">
-                                            <span class="text-nowrap">Since last month</span>
+                                            <span class="text-nowrap">较上月</span>
                                         </p>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
@@ -97,16 +97,16 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-analytics.js', ['depends' 
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-3">
-                                            <h4 class="header-title">Sessions Overview</h4>
+                                            <h4 class="header-title">会话概览</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
-                                                    <a href="javascript:void(0);" class="dropdown-item">Today</a>
-                                                    <a href="javascript:void(0);" class="dropdown-item">This Week</a>
-                                                    <a href="javascript:void(0);" class="dropdown-item">This Month</a>
-                                                    <a href="javascript:void(0);" class="dropdown-item">This Year</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">今天</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">本周</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">本月</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">今年</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -124,16 +124,16 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-analytics.js', ['depends' 
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-3">
-                                            <h4 class="header-title">Visitors</h4>
+                                            <h4 class="header-title">访客</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
-                                                    <a href="javascript:void(0);" class="dropdown-item">Today</a>
-                                                    <a href="javascript:void(0);" class="dropdown-item">This Week</a>
-                                                    <a href="javascript:void(0);" class="dropdown-item">This Month</a>
-                                                    <a href="javascript:void(0);" class="dropdown-item">This Year</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">今天</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">本周</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">本月</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">今年</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -146,16 +146,16 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-analytics.js', ['depends' 
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-3">
-                                            <h4 class="header-title">Revenue Breakdown</h4>
+                                            <h4 class="header-title">收入明细</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
-                                                    <a href="javascript:void(0);" class="dropdown-item">Today</a>
-                                                    <a href="javascript:void(0);" class="dropdown-item">This Week</a>
-                                                    <a href="javascript:void(0);" class="dropdown-item">This Month</a>
-                                                    <a href="javascript:void(0);" class="dropdown-item">This Year</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">今天</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">本周</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">本月</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">今年</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -168,16 +168,16 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-analytics.js', ['depends' 
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-3">
-                                            <h4 class="header-title">Targets</h4>
+                                            <h4 class="header-title">目标</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
-                                                    <a href="javascript:void(0);" class="dropdown-item">Today</a>
-                                                    <a href="javascript:void(0);" class="dropdown-item">This Week</a>
-                                                    <a href="javascript:void(0);" class="dropdown-item">This Month</a>
-                                                    <a href="javascript:void(0);" class="dropdown-item">This Year</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">今天</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">本周</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">本月</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">今年</a>
                                                 </div>
                                             </div>
                                         </div>

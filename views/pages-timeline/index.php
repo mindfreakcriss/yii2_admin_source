@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Pages</a></li>
-                                            <li class="breadcrumb-item active">Timeline</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">页面</a></li>
+                                            <li class="breadcrumb-item active">时间线</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Timeline</h4>
+                                    <h4 class="page-title">时间线</h4>
                                 </div>
                             </div>
                         </div>
@@ -20,7 +20,7 @@
                                 <div class="timeline" dir="ltr">
 
                                     <div class="timeline-show mb-3 text-center">
-                                        <h5 class="m-0 time-show-name">Today</h5>
+                                        <h5 class="m-0 time-show-name">今天</h5>
                                     </div>
 
                                     <div class="timeline-lg-item timeline-item-left">
@@ -53,7 +53,7 @@
                                     </div>
 
                                     <div class="timeline-show my-3 text-center">
-                                        <h5 class="m-0 time-show-name">Yesterday</h5>
+                                        <h5 class="m-0 time-show-name">昨天</h5>
                                     </div>
 
                                     <div class="timeline-lg-item timeline-item-left">

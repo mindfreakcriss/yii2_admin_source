@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Accordions</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">手风琴</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Accordions</h4>
+                                    <h4 class="page-title">手风琴</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Simple Accordions</h4>
+                                        <h4 class="header-title">简单手风琴</h4>
                                         <p class="text-muted font-14 mb-3">
                                             Using the card component, you can
                                             extend the default collapse behavior to create an accordion. To properly achieve
@@ -29,12 +29,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item" role="presentation">
                                                 <a href="#default-accordions-preview" class="nav-link active" data-bs-toggle="tab" role="tab" aria-controls="nav-preview" aria-selected="true">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#default-accordions-code" class="nav-link" data-bs-toggle="tab" role="tab" aria-controls="nav-code" aria-selected="false">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -46,7 +46,7 @@
                                                         <div class="card-header" id="headingOne">
                                                             <h5 class="m-0">
                                                                 <a class="custom-accordion-title d-block pt-2 pb-2" data-bs-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                                    Collapsible Group Item #1
+                                                                    可折叠分组项 #1
                                                                 </a>
                                                             </h5>
                                                         </div>
@@ -74,7 +74,7 @@
                                                                 <a class="custom-accordion-title collapsed d-block pt-2 pb-2"
                                                                     data-bs-toggle="collapse" href="#collapseTwo"
                                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                                    Collapsible Group Item #2
+                                                                    可折叠分组项 #2
                                                                 </a>
                                                             </h5>
                                                         </div>
@@ -101,7 +101,7 @@
                                                                 <a class="custom-accordion-title collapsed d-block pt-2 pb-2"
                                                                     data-bs-toggle="collapse" href="#collapseThree"
                                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                                    Collapsible Group Item #3
+                                                                    可折叠分组项 #3
                                                                 </a>
                                                             </h5>
                                                         </div>
@@ -135,7 +135,7 @@
                                                                         &lt;a class=&quot;custom-accordion-title d-block pt-2 pb-2&quot;
                                                                             data-bs-toggle=&quot;collapse&quot; href=&quot;#collapseOne&quot;
                                                                             aria-expanded=&quot;true&quot; aria-controls=&quot;collapseOne&quot;&gt;
-                                                                            Collapsible Group Item #1
+                                                                            可折叠分组项 #1
                                                                         &lt;/a&gt;
                                                                     &lt;/h5&gt;
                                                                 &lt;/div&gt;
@@ -153,7 +153,7 @@
                                                                         &lt;a class=&quot;custom-accordion-title collapsed d-block pt-2 pb-2&quot;
                                                                             data-bs-toggle=&quot;collapse&quot; href=&quot;#collapseTwo&quot;
                                                                             aria-expanded=&quot;false&quot; aria-controls=&quot;collapseTwo&quot;&gt;
-                                                                            Collapsible Group Item #2
+                                                                            可折叠分组项 #2
                                                                         &lt;/a&gt;
                                                                     &lt;/h5&gt;
                                                                 &lt;/div&gt;
@@ -170,7 +170,7 @@
                                                                         &lt;a class=&quot;custom-accordion-title collapsed d-block pt-2 pb-2&quot;
                                                                             data-bs-toggle=&quot;collapse&quot; href=&quot;#collapseThree&quot;
                                                                             aria-expanded=&quot;false&quot; aria-controls=&quot;collapseThree&quot;&gt;
-                                                                            Collapsible Group Item #3
+                                                                            可折叠分组项 #3
                                                                         &lt;/a&gt;
                                                                     &lt;/h5&gt;
                                                                 &lt;/div&gt;

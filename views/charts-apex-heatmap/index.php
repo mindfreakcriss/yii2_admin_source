@@ -10,10 +10,10 @@ $this->registerJsFile('/admin/js/pages/demo.apex-heatmap.js', ['depends' => 'app
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Apex</a></li>
-                                            <li class="breadcrumb-item active">Heatmap Charts</li>
+                                            <li class="breadcrumb-item active">热力图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Heatmap Charts</h4>
+                                    <h4 class="page-title">热力图</h4>
                                 </div>
                             </div>
                         </div>
@@ -23,7 +23,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-heatmap.js', ['depends' => 'app
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Basic Heatmap - Single Series</h4>
+                                        <h4 class="header-title">基本热力图 - Single Series</h4>
                                         <div dir="ltr">
                                             <div id="basic-heatmap" class="apex-charts" data-colors="#727cf5"></div>
                                         </div>
@@ -54,7 +54,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-heatmap.js', ['depends' => 'app
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Heatmap - Color Range</h4>
+                                        <h4 class="header-title mb-3">Heatmap - 颜色范围</h4>
                                         <div dir="ltr">
                                             <div id="color-range-heatmap" class="apex-charts" data-colors="#fa5c7c,#ffbc00,#39afd1,#0acf97"></div>
                                         </div>

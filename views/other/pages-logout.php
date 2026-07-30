@@ -14,8 +14,8 @@
                             <div class="card-body p-4">
                                 
                                 <div class="text-center w-75 m-auto">
-                                    <h4 class="text-dark-50 text-center mt-0 fw-bold">See You Again !</h4>
-                                    <p class="text-muted mb-4">You are now successfully sign out.</p>
+                                    <h4 class="text-dark-50 text-center mt-0 fw-bold">下次再见！</h4>
+                                    <p class="text-muted mb-4">您已成功退出登录。</p>
                                 </div>
 
                                 <div class="logout-icon m-auto">
@@ -37,7 +37,7 @@
 
                         <div class="row mt-3">
                             <div class="col-12 text-center">
-                                <p class="text-muted">Back to <a href="pages-login.html" class="text-muted ms-1"><b>Log In</b></a></p>
+                                <p class="text-muted">返回 <a href="pages-login.html" class="text-muted ms-1"><b>登录</b></a></p>
                             </div> <!-- end col -->
                         </div>
                         <!-- end row -->

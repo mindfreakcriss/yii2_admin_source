@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Dashboard</a></li>
-                                            <li class="breadcrumb-item active">Projects</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">仪表盘</a></li>
+                                            <li class="breadcrumb-item active">项目</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Projects</h4>
+                                    <h4 class="page-title">项目</h4>
                                 </div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                     <div class="card-body text-center">
                                                         <i class="dripicons-briefcase text-muted" style="font-size: 24px;"></i>
                                                         <h3><span>29</span></h3>
-                                                        <p class="text-muted font-15 mb-0">Total Projects</p>
+                                                        <p class="text-muted font-15 mb-0">项目总数</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -39,7 +39,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                     <div class="card-body text-center">
                                                         <i class="dripicons-checklist text-muted" style="font-size: 24px;"></i>
                                                         <h3><span>715</span></h3>
-                                                        <p class="text-muted font-15 mb-0">Total Tasks</p>
+                                                        <p class="text-muted font-15 mb-0">任务总数</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -49,7 +49,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                     <div class="card-body text-center">
                                                         <i class="dripicons-user-group text-muted" style="font-size: 24px;"></i>
                                                         <h3><span>31</span></h3>
-                                                        <p class="text-muted font-15 mb-0">Members</p>
+                                                        <p class="text-muted font-15 mb-0">成员数</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -59,7 +59,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                     <div class="card-body text-center">
                                                         <i class="dripicons-graph-line text-muted" style="font-size: 24px;"></i>
                                                         <h3><span>93%</span> <i class="mdi mdi-arrow-up text-success"></i></h3>
-                                                        <p class="text-muted font-15 mb-0">Productivity</p>
+                                                        <p class="text-muted font-15 mb-0">生产力</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -77,20 +77,20 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center">
-                                            <h4 class="header-title">Project Status</h4>
+                                            <h4 class="header-title">项目状态</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Weekly Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">周报</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Monthly Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">月报</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Action</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">操作</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Settings</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">设置</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -106,7 +106,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                     <h3 class="fw-normal">
                                                         <span>64%</span>
                                                     </h3>
-                                                    <p class="text-muted mb-0">Completed</p>
+                                                    <p class="text-muted mb-0">已完成</p>
                                                 </div>
                                                 
                                             </div>
@@ -116,7 +116,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                     <h3 class="fw-normal">
                                                         <span>26%</span>
                                                     </h3>
-                                                    <p class="text-muted mb-0"> In-progress</p>
+                                                    <p class="text-muted mb-0">处理中</p>
                                                 </div>
                                                 
                                             </div>
@@ -126,7 +126,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                     <h3 class="fw-normal">
                                                         <span>10%</span>
                                                     </h3>
-                                                    <p class="text-muted mb-0"> Behind</p>
+                                                    <p class="text-muted mb-0">滞后</p>
                                                 </div>
                                                 
                                             </div>
@@ -141,25 +141,25 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-2">
-                                            <h4 class="header-title">Tasks</h4>
+                                            <h4 class="header-title">任务</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Weekly Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">周报</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Monthly Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">月报</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Action</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">操作</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Settings</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">设置</a>
                                                 </div>
                                             </div>
                                         </div>
 
-                                        <p><b>107</b> Tasks completed out of 195</p>
+                                        <p>已完成 <b>107</b> 项任务，共 195 项</p>
 
                                         <div class="table-responsive">
                                             <table class="table table-centered table-nowrap table-hover mb-0">
@@ -167,18 +167,18 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                     <tr>
                                                         <td>
                                                             <h5 class="font-14 my-1"><a href="javascript:void(0);" class="text-body">Coffee detail page - Main Page</a></h5>
-                                                            <span class="text-muted font-13">Due in 3 days</span>
+                                                            <span class="text-muted font-13">剩余 3 天</span>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Status</span> <br/>
-                                                            <span class="badge badge-warning-lighten">In-progress</span>
+                                                            <span class="text-muted font-13">状态</span> <br/>
+                                                            <span class="badge badge-warning-lighten">处理中</span>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Assigned to</span>
+                                                            <span class="text-muted font-13">分配给</span>
                                                             <h5 class="font-14 mt-1 fw-normal">Logan R. Cohn</h5>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Total time spend</span>
+                                                            <span class="text-muted font-13">总耗时</span>
                                                             <h5 class="font-14 mt-1 fw-normal">3h 20min</h5>
                                                         </td>
                                                         <td class="table-action" style="width: 90px;">
@@ -189,18 +189,18 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                     <tr>
                                                         <td>
                                                             <h5 class="font-14 my-1"><a href="javascript:void(0);" class="text-body">Drinking bottle graphics</a></h5>
-                                                            <span class="text-muted font-13">Due in 27 days</span>
+                                                            <span class="text-muted font-13">剩余 27 天</span>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Status</span> <br/>
-                                                            <span class="badge badge-danger-lighten">Outdated</span>
+                                                            <span class="text-muted font-13">状态</span> <br/>
+                                                            <span class="badge badge-danger-lighten">已过期</span>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Assigned to</span>
+                                                            <span class="text-muted font-13">分配给</span>
                                                             <h5 class="font-14 mt-1 fw-normal">Jerry F. Powell</h5>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Total time spend</span>
+                                                            <span class="text-muted font-13">总耗时</span>
                                                             <h5 class="font-14 mt-1 fw-normal">12h 21min</h5>
                                                         </td>
                                                         <td class="table-action" style="width: 90px;">
@@ -211,18 +211,18 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                     <tr>
                                                         <td>
                                                             <h5 class="font-14 my-1"><a href="javascript:void(0);" class="text-body">App design and development</a></h5>
-                                                            <span class="text-muted font-13">Due in 7 days</span>
+                                                            <span class="text-muted font-13">剩余 7 天</span>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Status</span> <br/>
-                                                            <span class="badge badge-success-lighten">Completed</span>
+                                                            <span class="text-muted font-13">状态</span> <br/>
+                                                            <span class="badge badge-success-lighten">已完成</span>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Assigned to</span>
+                                                            <span class="text-muted font-13">分配给</span>
                                                             <h5 class="font-14 mt-1 fw-normal">Scot M. Smith</h5>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Total time spend</span>
+                                                            <span class="text-muted font-13">总耗时</span>
                                                             <h5 class="font-14 mt-1 fw-normal">78h 05min</h5>
                                                         </td>
                                                         <td class="table-action" style="width: 90px;">
@@ -233,18 +233,18 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                     <tr>
                                                         <td>
                                                             <h5 class="font-14 my-1"><a href="javascript:void(0);" class="text-body">Poster illustation design</a></h5>
-                                                            <span class="text-muted font-13">Due in 5 days</span>
+                                                            <span class="text-muted font-13">剩余 5 天</span>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Status</span> <br/>
-                                                            <span class="badge badge-warning-lighten">In-progress</span>
+                                                            <span class="text-muted font-13">状态</span> <br/>
+                                                            <span class="badge badge-warning-lighten">处理中</span>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Assigned to</span>
+                                                            <span class="text-muted font-13">分配给</span>
                                                             <h5 class="font-14 mt-1 fw-normal">John P. Ritter</h5>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Total time spend</span>
+                                                            <span class="text-muted font-13">总耗时</span>
                                                             <h5 class="font-14 mt-1 fw-normal">26h 58min</h5>
                                                         </td>
                                                         <td class="table-action" style="width: 90px;">
@@ -269,20 +269,20 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-2">
-                                            <h4 class="header-title">Tasks Overview</h4>
+                                            <h4 class="header-title">任务概览</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Weekly Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">周报</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Monthly Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">月报</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Action</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">操作</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Settings</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">设置</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -305,20 +305,20 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-2">
-                                            <h4 class="header-title">Recent Activities</h4>
+                                            <h4 class="header-title">最近动态</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Weekly Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">周报</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Monthly Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">月报</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Action</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">操作</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Settings</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">设置</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -337,7 +337,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                             </div>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Project</span> <br/>
+                                                            <span class="text-muted font-13">项目</span> <br/>
                                                             <p class="mb-0">Hyper Mockup</p>
                                                         </td>
                                                         <td class="table-action" style="width: 50px;">
@@ -366,7 +366,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                             </div>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Project</span> <br/>
+                                                            <span class="text-muted font-13">项目</span> <br/>
                                                             <p class="mb-0">Hyper Mockup</p>
                                                         </td>
                                                         <td class="table-action" style="width: 50px;">
@@ -395,7 +395,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                             </div>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Project</span> <br/>
+                                                            <span class="text-muted font-13">项目</span> <br/>
                                                             <p class="mb-0">Web UI Design</p>
                                                         </td>
                                                         <td class="table-action" style="width: 50px;">
@@ -424,7 +424,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                             </div>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Project</span> <br/>
+                                                            <span class="text-muted font-13">项目</span> <br/>
                                                             <p class="mb-0">UBold Admin</p>
                                                         </td>
                                                         <td class="table-action" style="width: 50px;">
@@ -453,7 +453,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                             </div>
                                                         </td>
                                                         <td>
-                                                            <span class="text-muted font-13">Project</span> <br/>
+                                                            <span class="text-muted font-13">项目</span> <br/>
                                                             <p class="mb-0">Website Mockup</p>
                                                         </td>
                                                         <td class="table-action" style="width: 50px;">
@@ -483,20 +483,20 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex justify-content-between align-items-center mb-2">
-                                            <h4 class="header-title">Your Calendar</h4>
+                                            <h4 class="header-title">日历</h4>
                                             <div class="dropdown">
                                                 <a href="#" class="dropdown-toggle arrow-none card-drop" data-bs-toggle="dropdown" aria-expanded="false">
                                                     <i class="mdi mdi-dots-vertical"></i>
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Weekly Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">周报</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Monthly Report</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">月报</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Action</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">操作</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item">Settings</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item">设置</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -511,25 +511,25 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                         <p class="text-muted mb-1 font-13">
                                                             <i class="mdi mdi-calendar"></i> 7:30 AM - 10:00 AM
                                                         </p>
-                                                        <h5>Meeting with BD Team</h5>
+                                                        <h5>与BD团队会议</h5>
                                                     </li>
                                                     <li class="mb-4">
                                                         <p class="text-muted mb-1 font-13">
                                                             <i class="mdi mdi-calendar"></i> 10:30 AM - 11:45 AM
                                                         </p>
-                                                        <h5>Design Review - Hyper Admin</h5>
+                                                        <h5>设计评审 - Hyper管理后台</h5>
                                                     </li>
                                                     <li class="mb-4">
                                                         <p class="text-muted mb-1 font-13">
                                                             <i class="mdi mdi-calendar"></i> 12:15 PM - 02:00 PM
                                                         </p>
-                                                        <h5>Setup Github Repository</h5>
+                                                        <h5>设置Github仓库</h5>
                                                     </li>
                                                     <li>
                                                         <p class="text-muted mb-1 font-13">
                                                             <i class="mdi mdi-calendar"></i> 5:30 PM - 07:00 PM
                                                         </p>
-                                                        <h5>Meeting with Design Studio</h5>
+                                                        <h5>与设计工作室会议</h5>
                                                     </li>
                                                 </ul>
                                             </div> <!-- end col -->

@@ -12,10 +12,10 @@ $this->registerJsFile('/admin/js/ui/component.todo.js', ['depends' => 'app\asset
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Components</a></li>
-                                            <li class="breadcrumb-item active">Widgets</li>
+                                            <li class="breadcrumb-item active">小部件</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Widgets</h4>
+                                    <h4 class="page-title">小部件</h4>
                                 </div>
                             </div>
                         </div>

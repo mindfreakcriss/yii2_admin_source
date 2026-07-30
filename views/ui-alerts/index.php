@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Alerts</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">警告</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Alerts</h4>
+                                    <h4 class="page-title">警告</h4>
                                 </div>
                             </div>
                         </div>
@@ -23,7 +23,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Default Alert</h4>
+                                        <h4 class="header-title">默认警告</h4>
                                         <p class="text-muted font-14 mb-3">
                                             Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.
                                             Alerts are available for any length of text, as well as an optional dismiss
@@ -40,13 +40,13 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                             <li class="nav-item">
                                                 <a href="#default-alert-preview" data-bs-toggle="tab" aria-expanded="false"
                                                     class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#default-alert-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -54,29 +54,29 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="default-alert-preview">
                                                 <div class="alert alert-primary" role="alert">
-                                                    <strong>Primary - </strong> A simple primary alert—check it out!
+                                                    <strong>主要 - </strong> 一个简单的主要警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-secondary" role="alert">
-                                                    <strong>Secondary - </strong> A simple secondary alert—check it out!
+                                                    <strong>次要 - </strong> 一个简单的次要警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-success" role="alert">
-                                                    <strong>Success - </strong> A simple success alert—check it out!
+                                                    <strong>成功 - </strong> 一个简单的成功警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-danger" role="alert">
-                                                    <strong>Error - </strong> A simple danger alert—check it out!
+                                                    <strong>错误 - </strong> 一个简单的危险警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-warning bg-warning text-white border-0"
                                                     role="alert">
-                                                    <strong>Warning - </strong> A simple warning alert—check it out!
+                                                    <strong>警告 - </strong> 一个简单的警告警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-info bg-info text-white border-0" role="alert">
-                                                    <strong>Info - </strong> A simple info alert—check it out!
+                                                    <strong>信息 - </strong> 一个简单的信息警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-light bg-light text-dark border-0" role="alert">
-                                                    <strong>Light - </strong> A simple light alert—check it out!
+                                                    <strong>浅色 - </strong> 一个简单的浅色警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-dark bg-dark text-light border-0 mb-0" role="alert">
-                                                    <strong>Dark - </strong> A simple dark alert—check it out!
+                                                    <strong>深色 - </strong> 一个简单的深色警告——看看吧！
                                                 </div>
                                             </div> <!-- end preview-->
 
@@ -119,7 +119,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Dismissing Alerts</h4>
+                                        <h4 class="header-title">可关闭的警告</h4>
                                         <p class="text-muted font-14 mb-3">
                                             Add a dismiss button and the <code>.alert-dismissible</code> class, which adds
                                             extra padding to the right of the alert
@@ -130,13 +130,13 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                             <li class="nav-item">
                                                 <a href="#dismissing-alerts-preview" data-bs-toggle="tab" aria-expanded="false"
                                                     class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#dismissing-alerts-code" data-bs-toggle="tab" aria-expanded="true"
                                                     class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -144,39 +144,39 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                             <div class="tab-pane show active" id="dismissing-alerts-preview">
                                                 <div class="alert alert-primary alert-dismissible bg-primary text-white border-0 fade show"
                                                     role="alert">
-                                                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="alert" aria-label="Close"></button>
-                                                    <strong>Primary - </strong> A simple primary alert—check it out!
+                                                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="alert" aria-label="关闭"></button>
+                                                    <strong>主要 - </strong> 一个简单的主要警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-secondary alert-dismissible bg-secondary text-light border-0 fade show"
                                                     role="alert">
-                                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                                                    <strong>Secondary - </strong> A simple secondary alert—check it out!
+                                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="关闭"></button>
+                                                    <strong>次要 - </strong> 一个简单的次要警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-success alert-dismissible bg-success text-white border-0 fade show"
                                                     role="alert">
-                                                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="alert" aria-label="Close"></button>
-                                                    <strong>Success - </strong> A simple success alert—check it out!
+                                                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="alert" aria-label="关闭"></button>
+                                                    <strong>成功 - </strong> 一个简单的成功警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-danger alert-dismissible bg-danger text-white border-0 fade show"
                                                     role="alert">
-                                                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="alert" aria-label="Close"></button>
-                                                    <strong>Error - </strong> A simple danger alert—check it out!
+                                                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="alert" aria-label="关闭"></button>
+                                                    <strong>错误 - </strong> 一个简单的危险警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-warning alert-dismissible fade show" role="alert">
-                                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                                                    <strong>Warning - </strong> A simple warning alert—check it out!
+                                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="关闭"></button>
+                                                    <strong>警告 - </strong> 一个简单的警告警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-info alert-dismissible fade show" role="alert">
-                                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                                                    <strong>Info - </strong> A simple info alert—check it out!
+                                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="关闭"></button>
+                                                    <strong>信息 - </strong> 一个简单的信息警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-light alert-dismissible fade show" role="alert">
-                                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                                                    <strong>Light - </strong> A simple light alert—check it out!
+                                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="关闭"></button>
+                                                    <strong>浅色 - </strong> 一个简单的浅色警告——看看吧！
                                                 </div>
                                                 <div class="alert alert-dark alert-dismissible fade show mb-0" role="alert">
-                                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                                                    <strong>Dark - </strong> A simple dark alert—check it out!
+                                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="关闭"></button>
+                                                    <strong>深色 - </strong> 一个简单的深色警告——看看吧！
                                                 </div>
                                             </div> <!-- end preview-->
 

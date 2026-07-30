@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                            <li class="breadcrumb-item active">Breadcrumb</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                            <li class="breadcrumb-item active">面包屑</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Breadcrumb</h4>
+                                    <h4 class="page-title">面包屑</h4>
                                 </div>
                             </div>
                         </div>
@@ -19,7 +19,7 @@
                             <div class="col-xl-6">  
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Example</h4>
+                                        <h4 class="header-title">示例</h4>
                                         <p class="text-muted font-14">
                                             Indicate the current page’s location within a navigational hierarchy that automatically adds separators via CSS.
                                             Please read the official <a target="_blank" href="https://getbootstrap.com/docs/4.0/components/breadcrumb/">Bootstrap</a> documentation for more options.
@@ -28,12 +28,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#simple-bre-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#simple-bre-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -47,15 +47,15 @@
                                                     
                                                 <nav aria-label="breadcrumb">
                                                     <ol class="breadcrumb mb-0">
-                                                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                                                        <li class="breadcrumb-item"><a href="#">首页</a></li>
                                                         <li class="breadcrumb-item active" aria-current="page">Library</li>
                                                     </ol>
                                                 </nav>
                                                     
                                                 <nav aria-label="breadcrumb">
                                                     <ol class="breadcrumb mb-0">
-                                                        <li class="breadcrumb-item"><a href="#">Home</a></li>
-                                                        <li class="breadcrumb-item"><a href="#">Library</a></li>
+                                                        <li class="breadcrumb-item"><a href="#">首页</a></li>
+                                                        <li class="breadcrumb-item"><a href="#">库</a></li>
                                                         <li class="breadcrumb-item active" aria-current="page">Data</li>
                                                     </ol>
                                                 </nav>
@@ -96,7 +96,7 @@
                             <div class="col-xl-6">  
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">With Icons</h4>
+                                        <h4 class="header-title">带图标</h4>
                                         <p class="text-muted font-14">
                                             Optionally you can also specify the icon with your breadcrumb item.
                                         </p>
@@ -104,12 +104,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#icon-bre-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#icon-bre-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -131,7 +131,7 @@
                                                 <nav aria-label="breadcrumb">
                                                     <ol class="breadcrumb bg-light-lighten p-2 mb-0">
                                                         <li class="breadcrumb-item"><a href="#"><i class="uil-home-alt"></i> Home</a></li>
-                                                        <li class="breadcrumb-item"><a href="#">Library</a></li>
+                                                        <li class="breadcrumb-item"><a href="#">库</a></li>
                                                         <li class="breadcrumb-item active" aria-current="page">Data</li>
                                                     </ol>
                                                 </nav>

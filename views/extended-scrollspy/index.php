@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Extended UI</a></li>
-                                            <li class="breadcrumb-item active">Scrollspy</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">扩展 UI</a></li>
+                                            <li class="breadcrumb-item active">滚动监听</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Scrollspy</h4>
+                                    <h4 class="page-title">滚动监听</h4>
                                 </div>
                             </div>
                         </div>
@@ -39,7 +39,7 @@
                                         <div class="tab-content">
                                             <div class="tab-pane show active" id="navbar-example-preview">
                                                 <nav id="navbar-example2" class="navbar navbar-light bg-light px-3">
-                                                    <a class="navbar-brand" href="#">Navbar</a>
+                                                    <a class="navbar-brand" href="#">导航栏</a>
                                                     <ul class="nav nav-pills">
                                                         <li class="nav-item">
                                                             <a class="nav-link active" href="#fat">@fat</a>
@@ -119,7 +119,7 @@
                                                 <pre class="mb-0">
                                                     <span class="html escape">
                                                         &lt;nav id=&quot;navbar-example2&quot; class=&quot;navbar navbar-light bg-light px-3&quot;&gt;
-                                                            &lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Navbar&lt;/a&gt;
+                                                            &lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;导航栏&lt;/a&gt;
                                                             &lt;ul class=&quot;nav nav-pills&quot;&gt;
                                                                 &lt;li class=&quot;nav-item&quot;&gt;
                                                                     &lt;a class=&quot;nav-link active&quot; href=&quot;#fat&quot;&gt;@fat&lt;/a&gt;

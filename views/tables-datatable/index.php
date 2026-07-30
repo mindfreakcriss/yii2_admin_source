@@ -5,11 +5,11 @@
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Tables</a></li>
-                                            <li class="breadcrumb-item active">Data Tables</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">表格</a></li>
+                                            <li class="breadcrumb-item active">数据表格</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Data Tables</h4>
+                                    <h4 class="page-title">数据表格</h4>
                                 </div>
                             </div>
                         </div>
@@ -20,9 +20,9 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Basic Data Table</h4>
+                                        <h4 class="header-title">基本数据表格</h4>
                                         <p class="text-muted font-14">
-                                            DataTables has most features enabled by default, so all you need to do to use it with your own tables is to call the construction
+                                            Data表格 has most features enabled by default, so all you need to do to use it with your own tables is to call the construction
                                             function:
                                             <code>$().DataTable();</code>. KeyTable provides Excel like cell navigation on any table. Events (focus, blur, action etc) can be assigned to individual
                                             cells, columns, rows or all cells.
@@ -31,12 +31,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#basic-datatable-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#basic-datatable-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -45,12 +45,12 @@
                                                 <table id="basic-datatable" class="table table-striped dt-responsive nowrap w-100">
                                                     <thead>
                                                         <tr>
-                                                            <th>Name</th>
-                                                            <th>Position</th>
-                                                            <th>Office</th>
-                                                            <th>Age</th>
-                                                            <th>Start date</th>
-                                                            <th>Salary</th>
+                                                            <th>名称</th>
+                                                            <th>职位</th>
+                                                            <th>办公室</th>
+                                                            <th>年龄</th>
+                                                            <th>开始日期</th>
+                                                            <th>薪资</th>
                                                         </tr>
                                                     </thead>
                                                 
@@ -138,7 +138,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Jena Gaines</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>30</td>
                                                             <td>2008/12/19</td>
@@ -186,7 +186,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Paul Byrd</td>
-                                                            <td>Chief Financial Officer (CFO)</td>
+                                                            <td>Chief Financial 办公室r (CFO)</td>
                                                             <td>New York</td>
                                                             <td>64</td>
                                                             <td>2010/06/09</td>
@@ -226,7 +226,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Yuri Berry</td>
-                                                            <td>Chief Marketing Officer (CMO)</td>
+                                                            <td>Chief Marketing 办公室r (CMO)</td>
                                                             <td>New York</td>
                                                             <td>40</td>
                                                             <td>2009/06/25</td>
@@ -250,7 +250,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Angelica Ramos</td>
-                                                            <td>Chief Executive Officer (CEO)</td>
+                                                            <td>Chief Executive 办公室r (CEO)</td>
                                                             <td>London</td>
                                                             <td>47</td>
                                                             <td>2009/10/09</td>
@@ -282,7 +282,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Fiona Green</td>
-                                                            <td>Chief Operating Officer (COO)</td>
+                                                            <td>Chief Operating 办公室r (COO)</td>
                                                             <td>San Francisco</td>
                                                             <td>48</td>
                                                             <td>2010/03/11</td>
@@ -346,7 +346,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Howard Hatfield</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>San Francisco</td>
                                                             <td>51</td>
                                                             <td>2008/12/16</td>
@@ -370,7 +370,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Timothy Mooney</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>37</td>
                                                             <td>2008/12/11</td>
@@ -522,7 +522,7 @@
                                                 <pre>
                                                     <span class="html escape">
                                                         &lt;!-- Datatables css --&gt;
-                                                        &lt;link href=&quot;assets/css/vendor/dataTables.bootstrap5.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+                                                        &lt;link href=&quot;assets/css/vendor/data表格.bootstrap5.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
                                                         &lt;link href=&quot;assets/css/vendor/responsive.bootstrap5.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
                                                     </span>
                                                 </pre> <!-- end highlight-->
@@ -532,9 +532,9 @@
                                                 <pre class="mb-0">
                                                     <span class="html escape">
                                                         &lt;!-- Datatables js --&gt;
-                                                        &lt;script src=&quot;assets/js/vendor/jquery.dataTables.min.js&quot;&gt;&lt;/script&gt;
-                                                        &lt;script src=&quot;assets/js/vendor/dataTables.bootstrap5.js&quot;&gt;&lt;/script&gt;
-                                                        &lt;script src=&quot;assets/js/vendor/dataTables.responsive.min.js&quot;&gt;&lt;/script&gt;
+                                                        &lt;script src=&quot;assets/js/vendor/jquery.data表格.min.js&quot;&gt;&lt;/script&gt;
+                                                        &lt;script src=&quot;assets/js/vendor/data表格.bootstrap5.js&quot;&gt;&lt;/script&gt;
+                                                        &lt;script src=&quot;assets/js/vendor/data表格.responsive.min.js&quot;&gt;&lt;/script&gt;
                                                         &lt;script src=&quot;assets/js/vendor/responsive.bootstrap5.min.js&quot;&gt;&lt;/script&gt;
 
                                                         &lt;!-- Datatable Init js --&gt;
@@ -547,12 +547,12 @@
                                                         &lt;table id=&quot;basic-datatable&quot; class=&quot;table dt-responsive nowrap w-100&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Position&lt;/th&gt;
-                                                                    &lt;th&gt;Office&lt;/th&gt;
-                                                                    &lt;th&gt;Age&lt;/th&gt;
-                                                                    &lt;th&gt;Start date&lt;/th&gt;
-                                                                    &lt;th&gt;Salary&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;职位&lt;/th&gt;
+                                                                    &lt;th&gt;办公室&lt;/th&gt;
+                                                                    &lt;th&gt;年龄&lt;/th&gt;
+                                                                    &lt;th&gt;开始日期&lt;/th&gt;
+                                                                    &lt;th&gt;薪资&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                         
@@ -594,19 +594,19 @@
 
                                         <h4 class="header-title">Buttons example</h4>
                                         <p class="text-muted font-14">
-                                            The Buttons extension for DataTables provides a common set of options, API methods and styling to display buttons on a page
+                                            The Buttons extension for Data表格 provides a common set of options, API methods and styling to display buttons on a page
                                             that will interact with a DataTable. The core library provides the based framework upon which plug-ins can built.
                                         </p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#buttons-table-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#buttons-table-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -615,12 +615,12 @@
                                                 <table id="datatable-buttons" class="table table-striped dt-responsive nowrap w-100">
                                                     <thead>
                                                         <tr>
-                                                            <th>Name</th>
-                                                            <th>Position</th>
-                                                            <th>Office</th>
-                                                            <th>Age</th>
-                                                            <th>Start date</th>
-                                                            <th>Salary</th>
+                                                            <th>名称</th>
+                                                            <th>职位</th>
+                                                            <th>办公室</th>
+                                                            <th>年龄</th>
+                                                            <th>开始日期</th>
+                                                            <th>薪资</th>
                                                         </tr>
                                                     </thead>
                                                 
@@ -708,7 +708,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Jena Gaines</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>30</td>
                                                             <td>2008/12/19</td>
@@ -756,7 +756,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Paul Byrd</td>
-                                                            <td>Chief Financial Officer (CFO)</td>
+                                                            <td>Chief Financial 办公室r (CFO)</td>
                                                             <td>New York</td>
                                                             <td>64</td>
                                                             <td>2010/06/09</td>
@@ -796,7 +796,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Yuri Berry</td>
-                                                            <td>Chief Marketing Officer (CMO)</td>
+                                                            <td>Chief Marketing 办公室r (CMO)</td>
                                                             <td>New York</td>
                                                             <td>40</td>
                                                             <td>2009/06/25</td>
@@ -820,7 +820,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Angelica Ramos</td>
-                                                            <td>Chief Executive Officer (CEO)</td>
+                                                            <td>Chief Executive 办公室r (CEO)</td>
                                                             <td>London</td>
                                                             <td>47</td>
                                                             <td>2009/10/09</td>
@@ -852,7 +852,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Fiona Green</td>
-                                                            <td>Chief Operating Officer (COO)</td>
+                                                            <td>Chief Operating 办公室r (COO)</td>
                                                             <td>San Francisco</td>
                                                             <td>48</td>
                                                             <td>2010/03/11</td>
@@ -916,7 +916,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Howard Hatfield</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>San Francisco</td>
                                                             <td>51</td>
                                                             <td>2008/12/16</td>
@@ -940,7 +940,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Timothy Mooney</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>37</td>
                                                             <td>2008/12/11</td>
@@ -1101,7 +1101,7 @@
                                                 <pre class="mb-0">
                                                     <span class="html escape">
                                                         &lt;!-- Datatables js --&gt;
-                                                        &lt;script src=&quot;assets/js/vendor/dataTables.buttons.min.js&quot;&gt;&lt;/script&gt;
+                                                        &lt;script src=&quot;assets/js/vendor/data表格.buttons.min.js&quot;&gt;&lt;/script&gt;
                                                         &lt;script src=&quot;assets/js/vendor/buttons.bootstrap5.min.js&quot;&gt;&lt;/script&gt;
                                                         &lt;script src=&quot;assets/js/vendor/buttons.html5.min.js&quot;&gt;&lt;/script&gt;
                                                         &lt;script src=&quot;assets/js/vendor/buttons.flash.min.js&quot;&gt;&lt;/script&gt;
@@ -1114,12 +1114,12 @@
                                                         &lt;table id=&quot;datatable-buttons&quot; class=&quot;table table-striped dt-responsive nowrap w-100&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Position&lt;/th&gt;
-                                                                    &lt;th&gt;Office&lt;/th&gt;
-                                                                    &lt;th&gt;Age&lt;/th&gt;
-                                                                    &lt;th&gt;Start date&lt;/th&gt;
-                                                                    &lt;th&gt;Salary&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;职位&lt;/th&gt;
+                                                                    &lt;th&gt;办公室&lt;/th&gt;
+                                                                    &lt;th&gt;年龄&lt;/th&gt;
+                                                                    &lt;th&gt;开始日期&lt;/th&gt;
+                                                                    &lt;th&gt;薪资&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                         
@@ -1168,12 +1168,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#multi-item-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#multi-item-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -1182,12 +1182,12 @@
                                                 <table id="selection-datatable" class="table table-striped dt-responsive nowrap w-100">
                                                     <thead>
                                                         <tr>
-                                                            <th>Name</th>
-                                                            <th>Position</th>
-                                                            <th>Office</th>
-                                                            <th>Age</th>
-                                                            <th>Start date</th>
-                                                            <th>Salary</th>
+                                                            <th>名称</th>
+                                                            <th>职位</th>
+                                                            <th>办公室</th>
+                                                            <th>年龄</th>
+                                                            <th>开始日期</th>
+                                                            <th>薪资</th>
                                                         </tr>
                                                     </thead>
                                                 
@@ -1275,7 +1275,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Jena Gaines</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>30</td>
                                                             <td>2008/12/19</td>
@@ -1323,7 +1323,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Paul Byrd</td>
-                                                            <td>Chief Financial Officer (CFO)</td>
+                                                            <td>Chief Financial 办公室r (CFO)</td>
                                                             <td>New York</td>
                                                             <td>64</td>
                                                             <td>2010/06/09</td>
@@ -1363,7 +1363,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Yuri Berry</td>
-                                                            <td>Chief Marketing Officer (CMO)</td>
+                                                            <td>Chief Marketing 办公室r (CMO)</td>
                                                             <td>New York</td>
                                                             <td>40</td>
                                                             <td>2009/06/25</td>
@@ -1387,7 +1387,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Angelica Ramos</td>
-                                                            <td>Chief Executive Officer (CEO)</td>
+                                                            <td>Chief Executive 办公室r (CEO)</td>
                                                             <td>London</td>
                                                             <td>47</td>
                                                             <td>2009/10/09</td>
@@ -1419,7 +1419,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Fiona Green</td>
-                                                            <td>Chief Operating Officer (COO)</td>
+                                                            <td>Chief Operating 办公室r (COO)</td>
                                                             <td>San Francisco</td>
                                                             <td>48</td>
                                                             <td>2010/03/11</td>
@@ -1483,7 +1483,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Howard Hatfield</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>San Francisco</td>
                                                             <td>51</td>
                                                             <td>2008/12/16</td>
@@ -1507,7 +1507,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Timothy Mooney</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>37</td>
                                                             <td>2008/12/11</td>
@@ -1668,7 +1668,7 @@
                                                 <pre class="mb-0">
                                                     <span class="html escape">
                                                         &lt;!-- Datatables js --&gt;
-                                                        &lt;script src=&quot;assets/js/vendor/dataTables.select.min.js&quot;&gt;&lt;/script&gt;
+                                                        &lt;script src=&quot;assets/js/vendor/data表格.select.min.js&quot;&gt;&lt;/script&gt;
                                                     </span>
                                                 </pre> <!-- end highlight-->
                                                 <pre class="mb-0">
@@ -1676,12 +1676,12 @@
                                                         &lt;table id=&quot;selection-datatable&quot; class=&quot;table dt-responsive nowrap w-100&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Position&lt;/th&gt;
-                                                                    &lt;th&gt;Office&lt;/th&gt;
-                                                                    &lt;th&gt;Age&lt;/th&gt;
-                                                                    &lt;th&gt;Start date&lt;/th&gt;
-                                                                    &lt;th&gt;Salary&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;职位&lt;/th&gt;
+                                                                    &lt;th&gt;办公室&lt;/th&gt;
+                                                                    &lt;th&gt;年龄&lt;/th&gt;
+                                                                    &lt;th&gt;开始日期&lt;/th&gt;
+                                                                    &lt;th&gt;薪资&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                         
@@ -1722,7 +1722,7 @@
                                     <div class="card-body">
                                         <h4 class="header-title">Alternative Pagination</h4>
                                         <p class="text-muted font-14">
-                                            The default page control presented by DataTables (forward and backward buttons with up to 7 page numbers in-between)
+                                            The default page control presented by Data表格 (forward and backward buttons with up to 7 page numbers in-between)
                                             is fine for most situations, but there are cases where you may wish to customise the options presented to the end
                                             user.
                                         </p>
@@ -1730,12 +1730,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#alt-pagination-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#alt-pagination-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -1744,12 +1744,12 @@
                                                 <table id="alternative-page-datatable" class="table table-striped dt-responsive nowrap w-100">
                                                     <thead>
                                                         <tr>
-                                                            <th>Name</th>
-                                                            <th>Position</th>
-                                                            <th>Office</th>
-                                                            <th>Age</th>
-                                                            <th>Start date</th>
-                                                            <th>Salary</th>
+                                                            <th>名称</th>
+                                                            <th>职位</th>
+                                                            <th>办公室</th>
+                                                            <th>年龄</th>
+                                                            <th>开始日期</th>
+                                                            <th>薪资</th>
                                                         </tr>
                                                     </thead>
                                                 
@@ -1837,7 +1837,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Jena Gaines</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>30</td>
                                                             <td>2008/12/19</td>
@@ -1885,7 +1885,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Paul Byrd</td>
-                                                            <td>Chief Financial Officer (CFO)</td>
+                                                            <td>Chief Financial 办公室r (CFO)</td>
                                                             <td>New York</td>
                                                             <td>64</td>
                                                             <td>2010/06/09</td>
@@ -1925,7 +1925,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Yuri Berry</td>
-                                                            <td>Chief Marketing Officer (CMO)</td>
+                                                            <td>Chief Marketing 办公室r (CMO)</td>
                                                             <td>New York</td>
                                                             <td>40</td>
                                                             <td>2009/06/25</td>
@@ -1949,7 +1949,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Angelica Ramos</td>
-                                                            <td>Chief Executive Officer (CEO)</td>
+                                                            <td>Chief Executive 办公室r (CEO)</td>
                                                             <td>London</td>
                                                             <td>47</td>
                                                             <td>2009/10/09</td>
@@ -1981,7 +1981,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Fiona Green</td>
-                                                            <td>Chief Operating Officer (COO)</td>
+                                                            <td>Chief Operating 办公室r (COO)</td>
                                                             <td>San Francisco</td>
                                                             <td>48</td>
                                                             <td>2010/03/11</td>
@@ -2045,7 +2045,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Howard Hatfield</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>San Francisco</td>
                                                             <td>51</td>
                                                             <td>2008/12/16</td>
@@ -2069,7 +2069,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Timothy Mooney</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>37</td>
                                                             <td>2008/12/11</td>
@@ -2221,12 +2221,12 @@
                                                         &lt;table id=&quot;alternative-page-datatable&quot; class=&quot;table dt-responsive nowrap w-100&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Position&lt;/th&gt;
-                                                                    &lt;th&gt;Office&lt;/th&gt;
-                                                                    &lt;th&gt;Age&lt;/th&gt;
-                                                                    &lt;th&gt;Start date&lt;/th&gt;
-                                                                    &lt;th&gt;Salary&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;职位&lt;/th&gt;
+                                                                    &lt;th&gt;办公室&lt;/th&gt;
+                                                                    &lt;th&gt;年龄&lt;/th&gt;
+                                                                    &lt;th&gt;开始日期&lt;/th&gt;
+                                                                    &lt;th&gt;薪资&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                         
@@ -2266,7 +2266,7 @@
                                     <div class="card-body">
                                         <h4 class="header-title">Scroll - Vertical</h4>
                                         <p class="text-muted font-14">
-                                            This example shows the DataTables table body scrolling in the vertical direction. This can generally be seen as an
+                                            This example shows the Data表格 table body scrolling in the vertical direction. This can generally be seen as an
                                             alternative method to pagination for displaying a large table in a fairly small vertical area, and as such
                                             pagination has been disabled here (note that this is not mandatory, it will work just fine with pagination enabled
                                             as well!).
@@ -2275,12 +2275,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#scroll-vertical-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#scroll-vertical-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -2289,12 +2289,12 @@
                                                 <table id="scroll-vertical-datatable" class="table table-striped dt-responsive nowrap w-100">
                                                     <thead>
                                                         <tr>
-                                                            <th>Name</th>
-                                                            <th>Position</th>
-                                                            <th>Office</th>
-                                                            <th>Age</th>
-                                                            <th>Start date</th>
-                                                            <th>Salary</th>
+                                                            <th>名称</th>
+                                                            <th>职位</th>
+                                                            <th>办公室</th>
+                                                            <th>年龄</th>
+                                                            <th>开始日期</th>
+                                                            <th>薪资</th>
                                                         </tr>
                                                     </thead>
                                                 
@@ -2382,7 +2382,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Jena Gaines</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>30</td>
                                                             <td>2008/12/19</td>
@@ -2430,7 +2430,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Paul Byrd</td>
-                                                            <td>Chief Financial Officer (CFO)</td>
+                                                            <td>Chief Financial 办公室r (CFO)</td>
                                                             <td>New York</td>
                                                             <td>64</td>
                                                             <td>2010/06/09</td>
@@ -2470,7 +2470,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Yuri Berry</td>
-                                                            <td>Chief Marketing Officer (CMO)</td>
+                                                            <td>Chief Marketing 办公室r (CMO)</td>
                                                             <td>New York</td>
                                                             <td>40</td>
                                                             <td>2009/06/25</td>
@@ -2494,7 +2494,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Angelica Ramos</td>
-                                                            <td>Chief Executive Officer (CEO)</td>
+                                                            <td>Chief Executive 办公室r (CEO)</td>
                                                             <td>London</td>
                                                             <td>47</td>
                                                             <td>2009/10/09</td>
@@ -2526,7 +2526,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Fiona Green</td>
-                                                            <td>Chief Operating Officer (COO)</td>
+                                                            <td>Chief Operating 办公室r (COO)</td>
                                                             <td>San Francisco</td>
                                                             <td>48</td>
                                                             <td>2010/03/11</td>
@@ -2590,7 +2590,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Howard Hatfield</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>San Francisco</td>
                                                             <td>51</td>
                                                             <td>2008/12/16</td>
@@ -2614,7 +2614,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Timothy Mooney</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>37</td>
                                                             <td>2008/12/11</td>
@@ -2766,12 +2766,12 @@
                                                         &lt;table id=&quot;scroll-vertical-datatable&quot; class=&quot;table dt-responsive nowrap w-100&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Position&lt;/th&gt;
-                                                                    &lt;th&gt;Office&lt;/th&gt;
-                                                                    &lt;th&gt;Age&lt;/th&gt;
-                                                                    &lt;th&gt;Start date&lt;/th&gt;
-                                                                    &lt;th&gt;Salary&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;职位&lt;/th&gt;
+                                                                    &lt;th&gt;办公室&lt;/th&gt;
+                                                                    &lt;th&gt;年龄&lt;/th&gt;
+                                                                    &lt;th&gt;开始日期&lt;/th&gt;
+                                                                    &lt;th&gt;薪资&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                         
@@ -2812,19 +2812,19 @@
                                     <div class="card-body">
                                         <h4 class="header-title">Scroll - Horizontal</h4>
                                         <p class="text-muted font-14">
-                                            DataTables has the ability to show tables with horizontal scrolling, which is very useful for when you have a wide
+                                            Data表格 has the ability to show tables with horizontal scrolling, which is very useful for when you have a wide
                                             table, but want to constrain it to a limited horizontal display area.
                                         </p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#scroll-horizontal-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#scroll-horizontal-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -2835,11 +2835,11 @@
                                                         <tr>
                                                             <th>First name</th>
                                                             <th>Last name</th>
-                                                            <th>Position</th>
-                                                            <th>Office</th>
-                                                            <th>Age</th>
-                                                            <th>Start date</th>
-                                                            <th>Salary</th>
+                                                            <th>职位</th>
+                                                            <th>办公室</th>
+                                                            <th>年龄</th>
+                                                            <th>开始日期</th>
+                                                            <th>薪资</th>
                                                             <th>Extn.</th>
                                                             <th>E-mail</th>
                                                         </tr>
@@ -2958,7 +2958,7 @@
                                                         <tr>
                                                             <td>Jena</td>
                                                             <td>Gaines</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>30</td>
                                                             <td>2008/12/19</td>
@@ -3024,7 +3024,7 @@
                                                         <tr>
                                                             <td>Paul</td>
                                                             <td>Byrd</td>
-                                                            <td>Chief Financial Officer (CFO)</td>
+                                                            <td>Chief Financial 办公室r (CFO)</td>
                                                             <td>New York</td>
                                                             <td>64</td>
                                                             <td>2010/06/09</td>
@@ -3079,7 +3079,7 @@
                                                         <tr>
                                                             <td>Yuri</td>
                                                             <td>Berry</td>
-                                                            <td>Chief Marketing Officer (CMO)</td>
+                                                            <td>Chief Marketing 办公室r (CMO)</td>
                                                             <td>New York</td>
                                                             <td>40</td>
                                                             <td>2009/06/25</td>
@@ -3112,7 +3112,7 @@
                                                         <tr>
                                                             <td>Angelica</td>
                                                             <td>Ramos</td>
-                                                            <td>Chief Executive Officer (CEO)</td>
+                                                            <td>Chief Executive 办公室r (CEO)</td>
                                                             <td>London</td>
                                                             <td>47</td>
                                                             <td>2009/10/09</td>
@@ -3156,7 +3156,7 @@
                                                         <tr>
                                                             <td>Fiona</td>
                                                             <td>Green</td>
-                                                            <td>Chief Operating Officer (COO)</td>
+                                                            <td>Chief Operating 办公室r (COO)</td>
                                                             <td>San Francisco</td>
                                                             <td>48</td>
                                                             <td>2010/03/11</td>
@@ -3244,7 +3244,7 @@
                                                         <tr>
                                                             <td>Howard</td>
                                                             <td>Hatfield</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>San Francisco</td>
                                                             <td>51</td>
                                                             <td>2008/12/16</td>
@@ -3277,7 +3277,7 @@
                                                         <tr>
                                                             <td>Timothy</td>
                                                             <td>Mooney</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>37</td>
                                                             <td>2008/12/11</td>
@@ -3484,11 +3484,11 @@
                                                                 &lt;tr&gt;
                                                                     &lt;th&gt;First name&lt;/th&gt;
                                                                     &lt;th&gt;Last name&lt;/th&gt;
-                                                                    &lt;th&gt;Position&lt;/th&gt;
-                                                                    &lt;th&gt;Office&lt;/th&gt;
-                                                                    &lt;th&gt;Age&lt;/th&gt;
-                                                                    &lt;th&gt;Start date&lt;/th&gt;
-                                                                    &lt;th&gt;Salary&lt;/th&gt;
+                                                                    &lt;th&gt;职位&lt;/th&gt;
+                                                                    &lt;th&gt;办公室&lt;/th&gt;
+                                                                    &lt;th&gt;年龄&lt;/th&gt;
+                                                                    &lt;th&gt;开始日期&lt;/th&gt;
+                                                                    &lt;th&gt;薪资&lt;/th&gt;
                                                                     &lt;th&gt;Extn.&lt;/th&gt;
                                                                     &lt;th&gt;E-mail&lt;/th&gt;
                                                                 &lt;/tr&gt;
@@ -3535,18 +3535,18 @@
                                     <div class="card-body">
                                         <h4 class="header-title">Complex headers with column visibility</h4>
                                         <p class="text-muted font-14">
-                                            Complex headers (using <code>colspan</code> / <code>rowspan</code>) can be used to group columns of similar information in DataTables, creating a very powerful visual effect.
+                                            Complex headers (using <code>colspan</code> / <code>rowspan</code>) can be used to group columns of similar information in Data表格, creating a very powerful visual effect.
                                         </p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#complex-headers-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#complex-headers-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -3555,14 +3555,14 @@
                                                 <table id="complex-header-datatable" class="table table-striped dt-responsive nowrap w-100">
                                                     <thead class="table-light">
                                                         <tr>
-                                                            <th rowspan="2" class="align-middle">Name</th>
+                                                            <th rowspan="2" class="align-middle">名称</th>
                                                             <th colspan="2">HR Information</th>
                                                             <th colspan="3">Contact</th>
                                                         </tr>
                                                         <tr>
-                                                            <th>Position</th>
-                                                            <th>Salary</th>
-                                                            <th>Office</th>
+                                                            <th>职位</th>
+                                                            <th>薪资</th>
+                                                            <th>办公室</th>
                                                             <th>Extn.</th>
                                                             <th>E-mail</th>
                                                         </tr>
@@ -3650,7 +3650,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Jena Gaines</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>$90,560</td>
                                                             <td>London</td>
                                                             <td>3814</td>
@@ -3698,7 +3698,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Paul Byrd</td>
-                                                            <td>Chief Financial Officer (CFO)</td>
+                                                            <td>Chief Financial 办公室r (CFO)</td>
                                                             <td>$725,000</td>
                                                             <td>New York</td>
                                                             <td>3059</td>
@@ -3738,7 +3738,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Yuri Berry</td>
-                                                            <td>Chief Marketing Officer (CMO)</td>
+                                                            <td>Chief Marketing 办公室r (CMO)</td>
                                                             <td>$675,000</td>
                                                             <td>New York</td>
                                                             <td>6154</td>
@@ -3762,7 +3762,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Angelica Ramos</td>
-                                                            <td>Chief Executive Officer (CEO)</td>
+                                                            <td>Chief Executive 办公室r (CEO)</td>
                                                             <td>$1,200,000</td>
                                                             <td>London</td>
                                                             <td>5797</td>
@@ -3794,7 +3794,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Fiona Green</td>
-                                                            <td>Chief Operating Officer (COO)</td>
+                                                            <td>Chief Operating 办公室r (COO)</td>
                                                             <td>$850,000</td>
                                                             <td>San Francisco</td>
                                                             <td>2947</td>
@@ -3858,7 +3858,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Howard Hatfield</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>$164,500</td>
                                                             <td>San Francisco</td>
                                                             <td>7031</td>
@@ -3882,7 +3882,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Timothy Mooney</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>$136,200</td>
                                                             <td>London</td>
                                                             <td>7580</td>
@@ -4027,10 +4027,10 @@
                                                     </tbody>
                                                     <tfoot>
                                                         <tr>
-                                                            <th>Name</th>
-                                                            <th>Position</th>
-                                                            <th>Salary</th>
-                                                            <th>Office</th>
+                                                            <th>名称</th>
+                                                            <th>职位</th>
+                                                            <th>薪资</th>
+                                                            <th>办公室</th>
                                                             <th>Extn.</th>
                                                             <th>E-mail</th>
                                                         </tr>
@@ -4044,14 +4044,14 @@
                                                         &lt;table id=&quot;complex-header-datatable&quot; class=&quot;table dt-responsive nowrap w-100&quot;&gt;
                                                             &lt;thead class=&quot;table-light&quot;&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th rowspan=&quot;2&quot; class=&quot;align-middle&quot;&gt;Name&lt;/th&gt;
+                                                                    &lt;th rowspan=&quot;2&quot; class=&quot;align-middle&quot;&gt;名称&lt;/th&gt;
                                                                     &lt;th colspan=&quot;2&quot;&gt;HR Information&lt;/th&gt;
                                                                     &lt;th colspan=&quot;3&quot;&gt;Contact&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Position&lt;/th&gt;
-                                                                    &lt;th&gt;Salary&lt;/th&gt;
-                                                                    &lt;th&gt;Office&lt;/th&gt;
+                                                                    &lt;th&gt;职位&lt;/th&gt;
+                                                                    &lt;th&gt;薪资&lt;/th&gt;
+                                                                    &lt;th&gt;办公室&lt;/th&gt;
                                                                     &lt;th&gt;Extn.&lt;/th&gt;
                                                                     &lt;th&gt;E-mail&lt;/th&gt;
                                                                 &lt;/tr&gt;
@@ -4077,10 +4077,10 @@
                                                             &lt;/tbody&gt;
                                                             &lt;tfoot&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Position&lt;/th&gt;
-                                                                    &lt;th&gt;Salary&lt;/th&gt;
-                                                                    &lt;th&gt;Office&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;职位&lt;/th&gt;
+                                                                    &lt;th&gt;薪资&lt;/th&gt;
+                                                                    &lt;th&gt;办公室&lt;/th&gt;
                                                                     &lt;th&gt;Extn.&lt;/th&gt;
                                                                     &lt;th&gt;E-mail&lt;/th&gt;
                                                                 &lt;/tr&gt;
@@ -4111,12 +4111,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#row-callback-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#row-callback-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -4125,12 +4125,12 @@
                                                 <table id="row-callback-datatable" class="table table-striped dt-responsive nowrap w-100">
                                                     <thead>
                                                         <tr>
-                                                            <th>Name</th>
-                                                            <th>Position</th>
-                                                            <th>Office</th>
-                                                            <th>Age</th>
-                                                            <th>Start date</th>
-                                                            <th>Salary</th>
+                                                            <th>名称</th>
+                                                            <th>职位</th>
+                                                            <th>办公室</th>
+                                                            <th>年龄</th>
+                                                            <th>开始日期</th>
+                                                            <th>薪资</th>
                                                         </tr>
                                                     </thead>
                                                     <tbody>
@@ -4216,7 +4216,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Jena Gaines</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>30</td>
                                                             <td>2008/12/19</td>
@@ -4264,7 +4264,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Paul Byrd</td>
-                                                            <td>Chief Financial Officer (CFO)</td>
+                                                            <td>Chief Financial 办公室r (CFO)</td>
                                                             <td>New York</td>
                                                             <td>64</td>
                                                             <td>2010/06/09</td>
@@ -4304,7 +4304,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Yuri Berry</td>
-                                                            <td>Chief Marketing Officer (CMO)</td>
+                                                            <td>Chief Marketing 办公室r (CMO)</td>
                                                             <td>New York</td>
                                                             <td>40</td>
                                                             <td>2009/06/25</td>
@@ -4328,7 +4328,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Angelica Ramos</td>
-                                                            <td>Chief Executive Officer (CEO)</td>
+                                                            <td>Chief Executive 办公室r (CEO)</td>
                                                             <td>London</td>
                                                             <td>47</td>
                                                             <td>2009/10/09</td>
@@ -4360,7 +4360,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Fiona Green</td>
-                                                            <td>Chief Operating Officer (COO)</td>
+                                                            <td>Chief Operating 办公室r (COO)</td>
                                                             <td>San Francisco</td>
                                                             <td>48</td>
                                                             <td>2010/03/11</td>
@@ -4424,7 +4424,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Howard Hatfield</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>San Francisco</td>
                                                             <td>51</td>
                                                             <td>2008/12/16</td>
@@ -4448,7 +4448,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Timothy Mooney</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>37</td>
                                                             <td>2008/12/11</td>
@@ -4600,12 +4600,12 @@
                                                         &lt;table id=&quot;row-callback-datatable&quot; class=&quot;table dt-responsive nowrap w-100&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Position&lt;/th&gt;
-                                                                    &lt;th&gt;Office&lt;/th&gt;
-                                                                    &lt;th&gt;Age&lt;/th&gt;
-                                                                    &lt;th&gt;Start date&lt;/th&gt;
-                                                                    &lt;th&gt;Salary&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;职位&lt;/th&gt;
+                                                                    &lt;th&gt;办公室&lt;/th&gt;
+                                                                    &lt;th&gt;年龄&lt;/th&gt;
+                                                                    &lt;th&gt;开始日期&lt;/th&gt;
+                                                                    &lt;th&gt;薪资&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                         
@@ -4645,7 +4645,7 @@
                                     <div class="card-body">
                                         <h4 class="header-title">State Saving</h4>
                                         <p class="text-muted font-14">
-                                            DataTables has the option of being able to save the state of a table (its paging position, ordering state etc) so
+                                            Data表格 has the option of being able to save the state of a table (its paging position, ordering state etc) so
                                             that is can be restored when the user reloads a page, or comes back to the page after visiting a sub-page. This
                                             state saving ability is enabled by the stateSave option.
                                         </p>
@@ -4653,12 +4653,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#state-saving-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#state-saving-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -4667,12 +4667,12 @@
                                                 <table id="state-saving-datatable" class="table table-striped activate-select dt-responsive nowrap w-100">
                                                     <thead>
                                                         <tr>
-                                                            <th>Name</th>
-                                                            <th>Position</th>
-                                                            <th>Office</th>
-                                                            <th>Age</th>
-                                                            <th>Start date</th>
-                                                            <th>Salary</th>
+                                                            <th>名称</th>
+                                                            <th>职位</th>
+                                                            <th>办公室</th>
+                                                            <th>年龄</th>
+                                                            <th>开始日期</th>
+                                                            <th>薪资</th>
                                                         </tr>
                                                     </thead>
                                                 
@@ -4759,7 +4759,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Jena Gaines</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>30</td>
                                                             <td>2008/12/19</td>
@@ -4807,7 +4807,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Paul Byrd</td>
-                                                            <td>Chief Financial Officer (CFO)</td>
+                                                            <td>Chief Financial 办公室r (CFO)</td>
                                                             <td>New York</td>
                                                             <td>64</td>
                                                             <td>2010/06/09</td>
@@ -4847,7 +4847,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Yuri Berry</td>
-                                                            <td>Chief Marketing Officer (CMO)</td>
+                                                            <td>Chief Marketing 办公室r (CMO)</td>
                                                             <td>New York</td>
                                                             <td>40</td>
                                                             <td>2009/06/25</td>
@@ -4871,7 +4871,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Angelica Ramos</td>
-                                                            <td>Chief Executive Officer (CEO)</td>
+                                                            <td>Chief Executive 办公室r (CEO)</td>
                                                             <td>London</td>
                                                             <td>47</td>
                                                             <td>2009/10/09</td>
@@ -4903,7 +4903,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Fiona Green</td>
-                                                            <td>Chief Operating Officer (COO)</td>
+                                                            <td>Chief Operating 办公室r (COO)</td>
                                                             <td>San Francisco</td>
                                                             <td>48</td>
                                                             <td>2010/03/11</td>
@@ -4967,7 +4967,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Howard Hatfield</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>San Francisco</td>
                                                             <td>51</td>
                                                             <td>2008/12/16</td>
@@ -4991,7 +4991,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Timothy Mooney</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>37</td>
                                                             <td>2008/12/11</td>
@@ -5143,12 +5143,12 @@
                                                         &lt;table id=&quot;state-saving-datatable&quot; class=&quot;table activate-select dt-responsive nowrap w-100&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Position&lt;/th&gt;
-                                                                    &lt;th&gt;Office&lt;/th&gt;
-                                                                    &lt;th&gt;Age&lt;/th&gt;
-                                                                    &lt;th&gt;Start date&lt;/th&gt;
-                                                                    &lt;th&gt;Salary&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;职位&lt;/th&gt;
+                                                                    &lt;th&gt;办公室&lt;/th&gt;
+                                                                    &lt;th&gt;年龄&lt;/th&gt;
+                                                                    &lt;th&gt;开始日期&lt;/th&gt;
+                                                                    &lt;th&gt;薪资&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                         
@@ -5194,12 +5194,12 @@
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#fixed-header-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#fixed-header-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -5209,12 +5209,12 @@
                                                 <table id="fixed-header-datatable" class="table table-striped dt-responsive nowrap table-striped w-100">
                                                     <thead>
                                                         <tr>
-                                                            <th>Name</th>
-                                                            <th>Position</th>
-                                                            <th>Office</th>
-                                                            <th>Age</th>
-                                                            <th>Start date</th>
-                                                            <th>Salary</th>
+                                                            <th>名称</th>
+                                                            <th>职位</th>
+                                                            <th>办公室</th>
+                                                            <th>年龄</th>
+                                                            <th>开始日期</th>
+                                                            <th>薪资</th>
                                                         </tr>
                                                     </thead>
                                                 
@@ -5301,7 +5301,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Jena Gaines</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>30</td>
                                                             <td>2008/12/19</td>
@@ -5349,7 +5349,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Paul Byrd</td>
-                                                            <td>Chief Financial Officer (CFO)</td>
+                                                            <td>Chief Financial 办公室r (CFO)</td>
                                                             <td>New York</td>
                                                             <td>64</td>
                                                             <td>2010/06/09</td>
@@ -5389,7 +5389,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Yuri Berry</td>
-                                                            <td>Chief Marketing Officer (CMO)</td>
+                                                            <td>Chief Marketing 办公室r (CMO)</td>
                                                             <td>New York</td>
                                                             <td>40</td>
                                                             <td>2009/06/25</td>
@@ -5413,7 +5413,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Angelica Ramos</td>
-                                                            <td>Chief Executive Officer (CEO)</td>
+                                                            <td>Chief Executive 办公室r (CEO)</td>
                                                             <td>London</td>
                                                             <td>47</td>
                                                             <td>2009/10/09</td>
@@ -5445,7 +5445,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Fiona Green</td>
-                                                            <td>Chief Operating Officer (COO)</td>
+                                                            <td>Chief Operating 办公室r (COO)</td>
                                                             <td>San Francisco</td>
                                                             <td>48</td>
                                                             <td>2010/03/11</td>
@@ -5509,7 +5509,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Howard Hatfield</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>San Francisco</td>
                                                             <td>51</td>
                                                             <td>2008/12/16</td>
@@ -5533,7 +5533,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>Timothy Mooney</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>37</td>
                                                             <td>2008/12/11</td>
@@ -5678,12 +5678,12 @@
                                                     </tbody>
                                                     <tfoot>
                                                         <tr>
-                                                            <th>Name</th>
-                                                            <th>Position</th>
-                                                            <th>Office</th>
-                                                            <th>Age</th>
-                                                            <th>Start date</th>
-                                                            <th>Salary</th>
+                                                            <th>名称</th>
+                                                            <th>职位</th>
+                                                            <th>办公室</th>
+                                                            <th>年龄</th>
+                                                            <th>开始日期</th>
+                                                            <th>薪资</th>
                                                         </tr>
                                                     </tfoot>
                                                 </table>                                          
@@ -5695,12 +5695,12 @@
                                                         &lt;table id=&quot;fixed-header-datatable&quot; class=&quot;table dt-responsive nowrap table-striped w-100&quot;&gt;
                                                             &lt;thead&gt;
                                                                 &lt;tr&gt;
-                                                                    &lt;th&gt;Name&lt;/th&gt;
-                                                                    &lt;th&gt;Position&lt;/th&gt;
-                                                                    &lt;th&gt;Office&lt;/th&gt;
-                                                                    &lt;th&gt;Age&lt;/th&gt;
-                                                                    &lt;th&gt;Start date&lt;/th&gt;
-                                                                    &lt;th&gt;Salary&lt;/th&gt;
+                                                                    &lt;th&gt;名称&lt;/th&gt;
+                                                                    &lt;th&gt;职位&lt;/th&gt;
+                                                                    &lt;th&gt;办公室&lt;/th&gt;
+                                                                    &lt;th&gt;年龄&lt;/th&gt;
+                                                                    &lt;th&gt;开始日期&lt;/th&gt;
+                                                                    &lt;th&gt;薪资&lt;/th&gt;
                                                                 &lt;/tr&gt;
                                                             &lt;/thead&gt;
                                                         
@@ -5739,18 +5739,18 @@
                                     <div class="card-body">
                                         <h4 class="header-title">Fixed Columns</h4>
                                         <p class="text-muted font-14">
-                                            When making use of DataTables' x-axis scrolling feature you may wish to fix the left or right most columns in place
+                                            When making use of Data表格' x-axis scrolling feature you may wish to fix the left or right most columns in place
                                         </p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
                                                 <a href="#fixed-columns-preview" data-bs-toggle="tab" aria-expanded="false" class="nav-link active">
-                                                    Preview
+                                                    预览
                                                 </a>
                                             </li>
                                             <li class="nav-item">
                                                 <a href="#fixed-columns-code" data-bs-toggle="tab" aria-expanded="true" class="nav-link">
-                                                    Code
+                                                    代码
                                                 </a>
                                             </li>
                                         </ul> <!-- end nav-->
@@ -5762,11 +5762,11 @@
                                                         <tr>
                                                             <th>First name</th>
                                                             <th>Last name</th>
-                                                            <th>Position</th>
-                                                            <th>Office</th>
-                                                            <th>Age</th>
-                                                            <th>Start date</th>
-                                                            <th>Salary</th>
+                                                            <th>职位</th>
+                                                            <th>办公室</th>
+                                                            <th>年龄</th>
+                                                            <th>开始日期</th>
+                                                            <th>薪资</th>
                                                             <th>Extn.</th>
                                                             <th>E-mail</th>
                                                         </tr>
@@ -5885,7 +5885,7 @@
                                                         <tr>
                                                             <td>Jena</td>
                                                             <td>Gaines</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>30</td>
                                                             <td>2008/12/19</td>
@@ -5951,7 +5951,7 @@
                                                         <tr>
                                                             <td>Paul</td>
                                                             <td>Byrd</td>
-                                                            <td>Chief Financial Officer (CFO)</td>
+                                                            <td>Chief Financial 办公室r (CFO)</td>
                                                             <td>New York</td>
                                                             <td>64</td>
                                                             <td>2010/06/09</td>
@@ -6006,7 +6006,7 @@
                                                         <tr>
                                                             <td>Yuri</td>
                                                             <td>Berry</td>
-                                                            <td>Chief Marketing Officer (CMO)</td>
+                                                            <td>Chief Marketing 办公室r (CMO)</td>
                                                             <td>New York</td>
                                                             <td>40</td>
                                                             <td>2009/06/25</td>
@@ -6039,7 +6039,7 @@
                                                         <tr>
                                                             <td>Angelica</td>
                                                             <td>Ramos</td>
-                                                            <td>Chief Executive Officer (CEO)</td>
+                                                            <td>Chief Executive 办公室r (CEO)</td>
                                                             <td>London</td>
                                                             <td>47</td>
                                                             <td>2009/10/09</td>
@@ -6083,7 +6083,7 @@
                                                         <tr>
                                                             <td>Fiona</td>
                                                             <td>Green</td>
-                                                            <td>Chief Operating Officer (COO)</td>
+                                                            <td>Chief Operating 办公室r (COO)</td>
                                                             <td>San Francisco</td>
                                                             <td>48</td>
                                                             <td>2010/03/11</td>
@@ -6171,7 +6171,7 @@
                                                         <tr>
                                                             <td>Howard</td>
                                                             <td>Hatfield</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>San Francisco</td>
                                                             <td>51</td>
                                                             <td>2008/12/16</td>
@@ -6204,7 +6204,7 @@
                                                         <tr>
                                                             <td>Timothy</td>
                                                             <td>Mooney</td>
-                                                            <td>Office Manager</td>
+                                                            <td>办公室 Manager</td>
                                                             <td>London</td>
                                                             <td>37</td>
                                                             <td>2008/12/11</td>
@@ -6411,11 +6411,11 @@
                                                                 &lt;tr&gt;
                                                                     &lt;th&gt;First name&lt;/th&gt;
                                                                     &lt;th&gt;Last name&lt;/th&gt;
-                                                                    &lt;th&gt;Position&lt;/th&gt;
-                                                                    &lt;th&gt;Office&lt;/th&gt;
-                                                                    &lt;th&gt;Age&lt;/th&gt;
-                                                                    &lt;th&gt;Start date&lt;/th&gt;
-                                                                    &lt;th&gt;Salary&lt;/th&gt;
+                                                                    &lt;th&gt;职位&lt;/th&gt;
+                                                                    &lt;th&gt;办公室&lt;/th&gt;
+                                                                    &lt;th&gt;年龄&lt;/th&gt;
+                                                                    &lt;th&gt;开始日期&lt;/th&gt;
+                                                                    &lt;th&gt;薪资&lt;/th&gt;
                                                                     &lt;th&gt;Extn.&lt;/th&gt;
                                                                     &lt;th&gt;E-mail&lt;/th&gt;
                                                                 &lt;/tr&gt;

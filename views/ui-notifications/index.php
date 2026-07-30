@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                 <div class="page-title-right">
                                     <ol class="breadcrumb m-0">
                                         <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                        <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
-                                        <li class="breadcrumb-item active">Notifications</li>
+                                        <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
+                                        <li class="breadcrumb-item active">通知</li>
                                     </ol>
                                 </div>
-                                <h4 class="page-title">Notifications</h4>
+                                <h4 class="page-title">通知</h4>
                             </div>
                         </div>
                     </div>
@@ -24,7 +24,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                             <div class="card">
                                 <div class="card-body">
 
-                                    <h4 class="header-title">Bootstrap Toasts</h4>
+                                    <h4 class="header-title">Bootstrap 提示通知</h4>
                                     <p class="text-muted font-14">Push notifications to your visitors with a toast, a
                                         lightweight and easily customizable alert message.</p>
 
@@ -32,13 +32,13 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                         <li class="nav-item">
                                             <a href="#bootstrap-toasts-preview" data-bs-toggle="tab"
                                                 aria-expanded="false" class="nav-link active">
-                                                Preview
+                                                预览
                                             </a>
                                         </li>
                                         <li class="nav-item">
                                             <a href="#bootstrap-toasts-code" data-bs-toggle="tab" aria-expanded="true"
                                                 class="nav-link">
-                                                Code
+                                                代码
                                             </a>
                                         </li>
                                     </ul> <!-- end nav-->
@@ -46,7 +46,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                         <div class="tab-pane show active" id="bootstrap-toasts-preview">
                                             <div class="row">
                                                 <div class="col-md-6">
-                                                    <h5 class="mb-2">Basic</h5>
+                                                    <h5 class="mb-2">基本</h5>
                                                     <p class="text-muted font-14">Toasts are as flexible as you need and
                                                         have very little required markup. At a minimum, we
                                                         require a single element to contain your “toasted” content and
@@ -72,7 +72,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                                     </div>
                                                 </div> <!-- end col-->
                                                 <div class="col-md-6">
-                                                    <h5 class="mb-2">Translucent</h5>
+                                                    <h5 class="mb-2">半透明</h5>
                                                     <p class="text-muted font-14">Toasts are slightly translucent, too,
                                                         so they blend over whatever they might appear over.
                                                         For browsers that support the backdrop-filter CSS property,
@@ -101,7 +101,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
 
                                             <div class="row">
                                                 <div class="col-md-6 mt-4">
-                                                    <h5 class="mb-2">Stacking</h5>
+                                                    <h5 class="mb-2">堆叠</h5>
                                                     <p class="text-muted font-14">When you have multiple toasts, we
                                                         default to vertiaclly stacking them in a readable manner.</p>
                                                     <div class="p-3">
@@ -152,7 +152,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                                     </div>
                                                 </div> <!-- end col-->
                                                 <div class="col-md-6 mt-4">
-                                                    <h5 class="mb-2">Placement</h5>
+                                                    <h5 class="mb-2">位置</h5>
                                                     <p class="text-muted font-14">Place toasts with custom CSS as you
                                                         need them. The top right is often used for
                                                         notifications, as is the top middle. If you’re only ever going

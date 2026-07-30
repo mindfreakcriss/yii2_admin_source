@@ -16,8 +16,8 @@
 
                         <!-- title-->
                         <div class="text-center">
-                            <h4 class="mt-0">See You Again !</h4>
-                            <p class="text-muted mb-4">You are now successfully sign out.</p>
+                            <h4 class="mt-0">下次再见！</h4>
+                            <p class="text-muted mb-4">您已成功退出登录。</p>
                         </div>
 
                         <!-- Logout icon -->
@@ -38,7 +38,7 @@
 
                         <!-- Footer-->
                         <footer class="footer footer-alt">
-                            <p class="text-muted">Back to <a href="pages-login-2.html" class="text-muted ms-1"><b>Log In</b></a></p>
+                            <p class="text-muted">返回 <a href="pages-login-2.html" class="text-muted ms-1"><b>登录</b></a></p>
                         </footer>
 
                     </div> <!-- end .card-body -->
@@ -49,11 +49,11 @@
             <!-- Auth fluid right content -->
             <div class="auth-fluid-right text-center">
                 <div class="auth-user-testimonial">
-                    <h2 class="mb-3">I love the color!</h2>
-                    <p class="lead"><i class="mdi mdi-format-quote-open"></i> It's a elegent templete. I love it very much! . <i class="mdi mdi-format-quote-close"></i>
+                    <h2 class="mb-3">我喜欢的颜色！</h2>
+                    <p class="lead"><i class="mdi mdi-format-quote-open"></i> 这是一个优雅的模板。我非常喜欢它！<i class="mdi mdi-format-quote-close"></i>
                     </p>
                     <p>
-                        - Hyper Admin User
+                        - Hyper 管理员用户
                     </p>
                 </div> <!-- end auth-user-testimonial-->
             </div>

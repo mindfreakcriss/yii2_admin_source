@@ -15,32 +15,32 @@
                         </div>
 
                         <!-- title-->
-                        <h4 class="mt-0">Sign In</h4>
-                        <p class="text-muted mb-4">Enter your email address and password to access account.</p>
+                        <h4 class="mt-0">登录</h4>
+                        <p class="text-muted mb-4">输入邮箱地址和密码以访问账户。</p>
 
                         <!-- form -->
                         <form action="#">
                             <div class="mb-3">
-                                <label for="emailaddress" class="form-label">Email address</label>
-                                <input class="form-control" type="email" id="emailaddress" required="" placeholder="Enter your email">
+                                <label for="emailaddress" class="form-label">邮箱地址</label>
+                                <input class="form-control" type="email" id="emailaddress" required="" placeholder="输入邮箱">
                             </div>
                             <div class="mb-3">
-                                <a href="pages-recoverpw-2.html" class="text-muted float-end"><small>Forgot your password?</small></a>
-                                <label for="password" class="form-label">Password</label>
-                                <input class="form-control" type="password" required="" id="password" placeholder="Enter your password">
+                                <a href="pages-recoverpw-2.html" class="text-muted float-end"><small>忘记密码？</small></a>
+                                <label for="password" class="form-label">密码</label>
+                                <input class="form-control" type="password" required="" id="password" placeholder="输入密码">
                             </div>
                             <div class="mb-3">
                                 <div class="form-check">
                                     <input type="checkbox" class="form-check-input" id="checkbox-signin">
-                                    <label class="form-check-label" for="checkbox-signin">Remember me</label>
+                                    <label class="form-check-label" for="checkbox-signin">记住我</label>
                                 </div>
                             </div>
                             <div class="d-grid mb-0 text-center">
-                                <button class="btn btn-primary" type="submit"><i class="mdi mdi-login"></i> Log In </button>
+                                <button class="btn btn-primary" type="submit"><i class="mdi mdi-login"></i> 登录 </button>
                             </div>
                             <!-- social-->
                             <div class="text-center mt-4">
-                                <p class="text-muted font-16">Sign in with</p>
+                                <p class="text-muted font-16">使用以下方式登录</p>
                                 <ul class="social-list list-inline mt-3">
                                     <li class="list-inline-item">
                                         <a href="javascript: void(0);" class="social-list-item border-primary text-primary"><i class="mdi mdi-facebook"></i></a>
@@ -61,7 +61,7 @@
 
                         <!-- Footer-->
                         <footer class="footer footer-alt">
-                            <p class="text-muted">Don't have an account? <a href="pages-register-2.html" class="text-muted ms-1"><b>Sign Up</b></a></p>
+                            <p class="text-muted">没有账户？<a href="pages-register-2.html" class="text-muted ms-1"><b>注册</b></a></p>
                         </footer>
 
                     </div> <!-- end .card-body -->
@@ -72,11 +72,11 @@
             <!-- Auth fluid right content -->
             <div class="auth-fluid-right text-center">
                 <div class="auth-user-testimonial">
-                    <h2 class="mb-3">I love the color!</h2>
-                    <p class="lead"><i class="mdi mdi-format-quote-open"></i> It's a elegent templete. I love it very much! . <i class="mdi mdi-format-quote-close"></i>
+                    <h2 class="mb-3">我喜欢的颜色！</h2>
+                    <p class="lead"><i class="mdi mdi-format-quote-open"></i> 这是一个优雅的模板。我非常喜欢它！<i class="mdi mdi-format-quote-close"></i>
                     </p>
                     <p>
-                        - Hyper Admin User
+                        - Hyper 管理员用户
                     </p>
                 </div> <!-- end auth-user-testimonial-->
             </div>

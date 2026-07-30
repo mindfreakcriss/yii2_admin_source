@@ -17,18 +17,17 @@
                         <!-- email send icon with text-->
                         <div class="text-center m-auto">
                             <img src="/admin/images/mail_sent.svg" alt="mail sent image" height="64" />
-                            <h4 class="text-dark-50 text-center mt-4 fw-bold">Please check your email</h4>
+                            <h4 class="text-dark-50 text-center mt-4 fw-bold">请检查您的邮箱</h4>
                             <p class="text-muted mb-4">
-                                A email has been send to <b>youremail@domain.com</b>.
-                                Please check for an email from company and click on the included link to
-                                reset your password. 
+                                一封邮件已发送至 <b>youremail@domain.com</b>。
+                                请查收公司发送的邮件，并点击邮件中的链接以重置密码。
                             </p>
                         </div>
 
                         <!-- form -->
                         <form action="https://coderthemes.com/hyper/saas/index.html">
                             <div class="mb-0 d-grid text-center">
-                                <button class="btn btn-primary" type="submit"><i class="mdi mdi-home me-1"></i> Back to Home </button>
+                                <button class="btn btn-primary" type="submit"><i class="mdi mdi-home me-1"></i> 返回首页 </button>
                             </div>
                         </form>
                         <!-- end form-->
@@ -46,11 +45,11 @@
             <!-- Auth fluid right content -->
             <div class="auth-fluid-right text-center">
                 <div class="auth-user-testimonial">
-                    <h2 class="mb-3">I love the color!</h2>
-                    <p class="lead"><i class="mdi mdi-format-quote-open"></i> It's a elegent templete. I love it very much! . <i class="mdi mdi-format-quote-close"></i>
+                    <h2 class="mb-3">我喜欢的颜色！</h2>
+                    <p class="lead"><i class="mdi mdi-format-quote-open"></i> 这是一个优雅的模板。我非常喜欢它！<i class="mdi mdi-format-quote-close"></i>
                     </p>
                     <p>
-                        - Hyper Admin User
+                        - Hyper 管理员用户
                     </p>
                 </div> <!-- end auth-user-testimonial-->
             </div>

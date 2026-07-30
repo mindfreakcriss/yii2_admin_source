@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.project-detail.js', ['depends' => 'a
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Projects</a></li>
-                                            <li class="breadcrumb-item active">Project Details</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">项目</a></li>
+                                            <li class="breadcrumb-item active">项目详情</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Project Details</h4>
+                                    <h4 class="page-title">项目详情</h4>
                                 </div>
                             </div>
                         </div>
@@ -32,20 +32,20 @@ $this->registerJsFile('/admin/js/pages/demo.project-detail.js', ['depends' => 'a
                                                 </a>
                                                 <div class="dropdown-menu dropdown-menu-end">
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>Edit</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-pencil me-1"></i>编辑</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>Delete</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-delete me-1"></i>删除</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-email-outline me-1"></i>Invite</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-email-outline me-1"></i>邀请</a>
                                                     <!-- item-->
-                                                    <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>Leave</a>
+                                                    <a href="javascript:void(0);" class="dropdown-item"><i class="mdi mdi-exit-to-app me-1"></i>退出</a>
                                                 </div>
                                             </div>
                                             <!-- project title-->
                                         </div>
-                                        <div class="badge bg-secondary text-light mb-3">Ongoing</div>
+                                        <div class="badge bg-secondary text-light mb-3">进行中</div>
 
-                                        <h5>Project Overview:</h5>
+                                        <h5>项目概述：</h5>
 
                                         <p class="text-muted mb-2">
                                             With supporting text below as a natural lead-in to additional contenposuere erat a ante. Voluptates, illo, iste itaque voluptas
@@ -62,26 +62,26 @@ $this->registerJsFile('/admin/js/pages/demo.project-detail.js', ['depends' => 'a
                                         <div class="row">
                                             <div class="col-md-4">
                                                 <div class="mb-4">
-                                                    <h5>Start Date</h5>
+                                                    <h5>开始日期</h5>
                                                     <p>17 March 2018 <small class="text-muted">1:00 PM</small></p>
                                                 </div>
                                             </div>
                                             <div class="col-md-4">
                                                 <div class="mb-4">
-                                                    <h5>End Date</h5>
+                                                    <h5>结束日期</h5>
                                                     <p>22 December 2018 <small class="text-muted">1:00 PM</small></p>
                                                 </div>
                                             </div>
                                             <div class="col-md-4">
                                                 <div class="mb-4">
-                                                    <h5>Budget</h5>
+                                                    <h5>预算</h5>
                                                     <p>$15,800</p>
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div id="tooltip-container">
-                                            <h5>Team Members:</h5>
+                                            <h5>团队成员：</h5>
                                             <a href="javascript:void(0);" data-bs-container="#tooltip-container" data-bs-toggle="tooltip" data-bs-placement="top" title="Mat Helme" class="d-inline-block">
                                                 <img src="/admin/images/users/avatar-6.jpg" class="rounded-circle img-thumbnail avatar-sm" alt="friend">
                                             </a>
@@ -113,15 +113,15 @@ $this->registerJsFile('/admin/js/pages/demo.project-detail.js', ['depends' => 'a
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="mt-0 mb-3">Comments (258)</h4>
+                                        <h4 class="mt-0 mb-3">评论 (258)</h4>
 
-                                        <textarea class="form-control form-control-light mb-2" placeholder="Write message" id="example-textarea" rows="3"></textarea>
+                                        <textarea class="form-control form-control-light mb-2" placeholder="写消息" id="example-textarea" rows="3"></textarea>
                                         <div class="text-end">
                                             <div class="btn-group mb-2">
                                                 <button type="button" class="btn btn-link btn-sm text-muted font-18"><i class="dripicons-paperclip"></i></button>
                                             </div>
                                             <div class="btn-group mb-2 ms-2">
-                                                <button type="button" class="btn btn-primary btn-sm">Submit</button>
+                                                <button type="button" class="btn btn-primary btn-sm">提交</button>
                                             </div>
                                         </div>
 
@@ -148,7 +148,7 @@ $this->registerJsFile('/admin/js/pages/demo.project-detail.js', ['depends' => 'a
                                         </div>
 
                                         <div class="text-center mt-2">
-                                            <a href="javascript:void(0);" class="text-danger">Load more </a>
+                                            <a href="javascript:void(0);" class="text-danger">加载更多 </a>
                                         </div>
                                     </div> <!-- end card-body-->
                                 </div>
@@ -158,7 +158,7 @@ $this->registerJsFile('/admin/js/pages/demo.project-detail.js', ['depends' => 'a
                             <div class="col-lg-6 col-xxl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h5 class="card-title mb-3">Progress</h5>
+                                        <h5 class="card-title mb-3">进度</h5>
                                         <div dir="ltr">
                                             <div class="mt-3 chartjs-chart" style="height: 320px;">
                                                 <canvas id="line-chart-example"></canvas>
@@ -170,7 +170,7 @@ $this->registerJsFile('/admin/js/pages/demo.project-detail.js', ['depends' => 'a
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h5 class="card-title mb-3">Files</h5>
+                                        <h5 class="card-title mb-3">文件</h5>
 
                                         <div class="card mb-1 shadow-none border">
                                             <div class="p-2">

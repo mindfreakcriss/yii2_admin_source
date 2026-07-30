@@ -5,10 +5,10 @@ use yii\helpers\Html;
 /** @var yii\web\View $this */
 /** @var app\models\DemoModel $model */
 
-$this->title = 'Update Demo Model: ' . $model->id;
-$this->params['breadcrumbs'][] = ['label' => 'Demo Models', 'url' => ['index']];
+$this->title = '更新数据模型: ' . $model->id;
+$this->params['breadcrumbs'][] = ['label' => '数据模型', 'url' => ['index']];
 $this->params['breadcrumbs'][] = ['label' => $model->id, 'url' => ['view', 'id' => $model->id]];
-$this->params['breadcrumbs'][] = 'Update';
+$this->params['breadcrumbs'][] = '更新';
 ?>
 <div class="demo-model-update">
 

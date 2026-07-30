@@ -9,11 +9,11 @@ $this->registerJsFile('/admin/js/pages/demo.google-maps.js', ['depends' => 'app\
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Maps</a></li>
-                                            <li class="breadcrumb-item active">Google Maps</li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">地图</a></li>
+                                            <li class="breadcrumb-item active">谷歌地图</li>
                                         </ol>
                                     </div>
-                                    <h4 class="page-title">Google Maps</h4>
+                                    <h4 class="page-title">谷歌地图</h4>
                                 </div>
                             </div>
                         </div>
@@ -23,7 +23,7 @@ $this->registerJsFile('/admin/js/pages/demo.google-maps.js', ['depends' => 'app\
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Basic Google Map</h4>
+                                        <h4 class="header-title mb-3">基本 Google Map</h4>
                                         <div id="gmaps-basic" class="gmaps"></div>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
@@ -31,7 +31,7 @@ $this->registerJsFile('/admin/js/pages/demo.google-maps.js', ['depends' => 'app\
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Markers Google Map</h4>
+                                        <h4 class="header-title mb-3">标记s Google Map</h4>
                                         <div id="gmaps-markers" class="gmaps"></div>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
@@ -43,7 +43,7 @@ $this->registerJsFile('/admin/js/pages/demo.google-maps.js', ['depends' => 'app\
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Street View Panoramas Google Map</h4>
+                                        <h4 class="header-title mb-3">街景 Panoramas Google Map</h4>
                                         <div id="panorama" class="gmaps"></div>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
@@ -51,7 +51,7 @@ $this->registerJsFile('/admin/js/pages/demo.google-maps.js', ['depends' => 'app\
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title mb-3">Google Map Types</h4>
+                                        <h4 class="header-title mb-3">Google 地图类型</h4>
                                         <div id="gmaps-types" class="gmaps"></div>
                                     </div> <!-- end card-body-->
                                 </div> <!-- end card-->
