@@ -29,6 +29,9 @@ $this->registerLinkTag(['rel' => 'shortcut icon', 'href' => Yii::getAlias('@web/
         body[data-leftbar-compact-mode="condensed"] .wrapper .leftside-menu #leftside-menu-container {
             height: auto !important;
         }
+        .content-page {
+            position: relative;
+        }
     </style>
 </head>
 <body data-layout-color="light" data-leftbar-theme="dark" data-layout-mode="fluid" data-rightbar-onstart="true">
@@ -45,8 +48,8 @@ $this->registerLinkTag(['rel' => 'shortcut icon', 'href' => Yii::getAlias('@web/
                         <?= $content ?>
                     </div>
                 </div>
+                <?= $this->render('footer'); ?>
             </div>
-            <?= $this->render('footer'); ?>
             <!-- Right Sidebar -->  
             <?= $this->render('right-sidebar'); ?>
 
