@@ -21,7 +21,7 @@
 
                                     <div class="card-body">
                                         <h4 class="m-t-0 header-title">Examples</h4>
-                                        <p class="text-muted font-14">Use Class <code>&lt;i class="dripicons-alarm">&lt;/i></code></p>
+                                        <p class="text-muted font-14">使用类 <code>&lt;i class="dripicons-alarm">&lt;/i></code></p>
 
                                         <div class="row icons-list-demo">
                                             <div class="col-xl-3 col-lg-4 col-sm-6">

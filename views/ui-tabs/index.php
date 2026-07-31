@@ -20,7 +20,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">Default 标签页</h4>
-                                        <p class="text-muted font-14 mb-3">Simple widget of tabbable panes of local content.</p>
+                                        <p class="text-muted font-14 mb-3">选项卡面板的简单小部件。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -120,7 +120,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">标签页 Justified</h4>
-                                        <p class="text-muted font-14 mb-3">Using class <code>.nav-justified</code>, you can force your <code>tab menu items</code> to use the full available width.</p>
+                                        <p class="text-muted font-14 mb-3">使用 <code>.nav-justified</code> 类，可以让标签菜单项使用全部可用宽度。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

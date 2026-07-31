@@ -20,7 +20,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">展示标题</h4>
-                                        <p class="text-muted font-14">Traditional heading elements are designed to work best in the meat of your page content. When you need a heading to stand out, consider using a display heading—a larger, slightly more opinionated heading style.</p>
+                                        <p class="text-muted font-14">传统的标题元素最适合在页面主要内容中使用。当需要标题更加突出时，可以考虑使用展示标题——一种更大、更具特色的标题样式。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -119,9 +119,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">标题</h4>
-                                        <p class="text-muted font-14">All HTML headings, <code>&lt;h1&gt;</code> through
-                                            <code>&lt;h6&gt;</code>, are available. <code>.h1</code> through <code>.h6</code>
-                                            classes are also available, for when you want to match the font styling of a heading
+                                        <p class="text-muted font-14">所有 HTML 标题 <code>&lt;h1&gt;</code> 到 <code>&lt;h6&gt;</code> 均可使用。同时提供 <code>.h1</code> 到 <code>.h6</code> 类，用于匹配标题的字体样式。
                                             but still want your text to be displayed inline.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -232,7 +230,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">内联文本元素</h4>
-                                        <p class="text-muted font-14">Styling for common inline HTML5 elements.</p>
+                                        <p class="text-muted font-14">常见内联 HTML5 元素的样式。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -290,8 +288,8 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Contextual Text Colors</h4>
-                                        <p class="text-muted font-14">Available color variations.</p>
+                                        <h4 class="header-title">情景文本颜色</h4>
+                                        <p class="text-muted font-14">可用的颜色变化。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -386,7 +384,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Unordered</h4>
+                                        <h4 class="header-title">无序列表</h4>
                                         <p class="text-muted font-14">A list of items in which the order does not explicitly matter.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -484,7 +482,7 @@
                             <div class="col-xl-4">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Ordered</h4>
+                                        <h4 class="header-title">有序列表</h4>
                                         <p class="text-muted font-14">A list of items in which the order does explicitly matter.</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -691,7 +689,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">块引用</h4>
-                                        <p class="text-muted font-14">For quoting blocks of content from another source within your document. Wrap <code>&lt;blockquote class="blockquote"&gt;</code> around any <abbr title="HyperText Markup Language">HTML</abbr> as the quote.</p>
+                                        <p class="text-muted font-14">用于引用文档中来自其他来源的内容块。使用 <code>&lt;blockquote class="blockquote"&gt;</code> 包裹任何 <abbr title="超文本标记语言">HTML</abbr> 作为引用。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -759,7 +757,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">描述列表对齐</h4>
-                                        <p class="text-muted font-14">Align terms and descriptions horizontally by using our grid system’s predefined classes (or semantic mixins). For longer terms, you can optionally add a <code>.text-truncate</code> class to truncate the text with an ellipsis.</p>
+                                        <p class="text-muted font-14">使用网格系统的预定义类（或语义 mixin）水平对齐术语和描述。对于较长的术语，可以添加 <code>.text-truncate</code> 类来用省略号截断文本。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

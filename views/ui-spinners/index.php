@@ -21,7 +21,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">边框加载动画</h4>
-                                        <p class="text-muted font-14">Use the border spinners for a lightweight loading indicator.</p>
+                                        <p class="text-muted font-14">使用边框旋转器作为轻量级加载指示器。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -58,8 +58,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">颜色</h4>
-                                        <p class="text-muted font-14">You can use any 
-                                                of our text color utilities on the standard spinner.</p>
+                                        <p class="text-muted font-14">您可以在标准旋转器上使用任何文本颜色工具类。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -106,7 +105,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">对齐</h4>
-                                        <p class="text-muted font-14">Use flexbox utilities, float utilities, or text alignment utilities to place spinners exactly where you need them in any situation.</p>
+                                        <p class="text-muted font-14">使用 flexbox 工具、浮动工具或文本对齐工具，将旋转器放置在任何需要的位置。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -142,9 +141,9 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Size</h4>
-                                        <p class="text-muted font-14">Add <code>.spinner-border-sm</code> and 
-                                            <code>.spinner-border.avatar-**</code> to make a smaller spinner that can quickly be used within other components.</p>
+                                        <h4 class="header-title">尺寸</h4>
+                                        <p class="text-muted font-14">添加 <code>.spinner-border-sm</code> 和
+                                            <code>.spinner-border.avatar-**</code> 来制作更小的旋转器，可快速用于其他组件中。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -213,7 +212,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">增长加载动画</h4>
-                                        <p class="text-muted font-14">If you don’t fancy a border spinner, switch to the grow spinner. While it doesn’t technically spin, it does repeatedly grow!</p>
+                                        <p class="text-muted font-14">如果您不喜欢边框旋转器，可以切换到增长旋转器。虽然它技术上不旋转，但它会反复增长！</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -249,8 +248,8 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Color 增长加载动画</h4>
-                                        <p class="text-muted font-14">You can use any of our text color utilities on the standard spinner.</p>
+                                        <h4 class="header-title">彩色增长加载动画</h4>
+                                        <p class="text-muted font-14">您可以在标准旋转器上使用任何文本颜色工具类。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -296,8 +295,8 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Placement</h4>
-                                        <p class="text-muted font-14">Use <code>flexbox utilities</code>, <code>float utilities</code>, or <code>text alignment</code> utilities to place spinners exactly where you need them in any situation.</p>
+                                        <h4 class="header-title">位置</h4>
+                                        <p class="text-muted font-14">使用 <code>flexbox 工具</code>、<code>浮动工具</code> 或 <code>文本对齐</code> 工具，将旋转器放置在任何需要的位置。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -336,8 +335,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">按钮 spinner</h4>
-                                        <p class="text-muted font-14">Use spinners within buttons to indicate an action is currently processing or taking place. 
-                                                You may also swap the text out of the spinner element and utilize button text as needed.</p>
+                                        <p class="text-muted font-14">在按钮中使用旋转器来指示正在处理或执行的操作。您也可以将文本从旋转器元素中移出，根据需要利用按钮文本。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

@@ -20,7 +20,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">默认分页</h4>
-                                        <p class="text-muted font-14">Simple pagination inspired by Rdio, great for apps and search results.</p>
+                                        <p class="text-muted font-14">受 Rdio 启发的简单分页，适用于应用和搜索结果。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -89,7 +89,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">禁用和激活状态</h4>
-                                        <p class="text-muted font-14">Pagination links are customizable for different circumstances. Use <code>.disabled</code> for links that appear un-clickable and <code>.active</code> to indicate the current page.</p>
+                                        <p class="text-muted font-14">分页链接可根据不同情况自定义。使用 <code>.disabled</code> 表示不可点击的链接，使用 <code>.active</code> 表示当前页面。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -150,7 +150,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">对齐</h4>
-                                        <p class="text-muted font-14">Change the alignment of pagination components with flexbox utilities.</p>
+                                        <p class="text-muted font-14">使用 flexbox 工具更改分页组件的对齐方式。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -239,7 +239,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">圆角分页</h4>
-                                        <p class="text-muted font-14">Add <code> .pagination-rounded</code> for rounded pagination.</p>
+                                        <p class="text-muted font-14">添加 <code>.pagination-rounded</code> 实现圆角分页。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -308,7 +308,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">尺寸</h4>
-                                        <p class="text-muted font-14">Add <code> .pagination-lg</code> or <code> .pagination-sm</code> for additional sizes.</p>
+                                        <p class="text-muted font-14">添加 <code>.pagination-lg</code> 或 <code>.pagination-sm</code> 获取其他尺寸。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

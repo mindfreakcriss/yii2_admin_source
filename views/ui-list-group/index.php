@@ -21,8 +21,7 @@
                                     <div class="card-body">
                                         <h4 class="header-title">基本示例</h4>
                                         
-                                        <p class="text-muted font-14">The most basic list group is an unordered list with list items and the proper classes.
-                                            Build upon it with the options that follow, or with your own CSS as needed.
+                                        <p class="text-muted font-14">最基本的列表组是一个带有列表项和适当类别的无序列表。根据需要使用以下选项或自定义 CSS 进行扩展。
                                         </p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -70,7 +69,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">激活项</h4>
-                                        <p class="text-muted font-14">Add <code>.active</code> to a <code>.list-group-item</code> to indicate the current active selection.</p>
+                                        <p class="text-muted font-14">添加 <code>.active</code> 到 <code>.list-group-item</code> 以指示当前激活的选择项。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -166,7 +165,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">链接和按钮</h4>
-                                        <p class="text-muted font-14">Use <code>&lt;a&gt;</code>s or <code>&lt;button&gt;</code>s to create <em>actionable</em> list group items with hover, disabled, and active states by adding <code>.list-group-item-action</code>.</p>
+                                        <p class="text-muted font-14">使用 <code>&lt;a&gt;</code> 或 <code>&lt;button&gt;</code> 创建<em>可操作</em>的列表组项，通过添加 <code>.list-group-item-action</code> 实现悬停、禁用和激活状态。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -217,7 +216,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">无边框</h4>
-                                        <p class="text-muted font-14">Add <code>.list-group-flush</code> to remove some borders and rounded corners to render list group items edge-to-edge in a parent container (e.g., cards).</p>
+                                        <p class="text-muted font-14">添加 <code>.list-group-flush</code> 移除部分边框和圆角，使列表组项在父容器中边缘对齐。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -264,7 +263,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">水平排列</h4>
-                                        <p class="text-muted font-14">Add <code>.list-group-horizontal</code> to change the layout of list group items from vertical to horizontal across all breakpoints. Alternatively, choose a responsive variant <code>.list-group-horizontal-{sm|md|lg|xl}</code> to make a list group horizontal starting at that breakpoint’s <code>min-width</code>.</p>
+                                        <p class="text-muted font-14">添加 <code>.list-group-horizontal</code> 改变列表组项的布局，从垂直变为水平。或者选择响应式变体 <code>.list-group-horizontal-{sm|md|lg|xl}</code>，使列表组在指定断点处变为水平排列。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -345,7 +344,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">情景类</h4>
-                                        <p class="text-muted font-14">Use contextual classes to style list items with a stateful background and color.</p>
+                                        <p class="text-muted font-14">使用情景类来为列表项添加带状态背景和颜色的样式。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -400,7 +399,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">带链接的情景类</h4>
-                                        <p class="text-muted font-14">Use contextual classes to style list items with a stateful background and color.</p>
+                                        <p class="text-muted font-14">使用情景类来为列表项添加带状态背景和颜色的样式。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -455,7 +454,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">自定义内容</h4>
-                                        <p class="text-muted font-14">Add nearly any HTML within, even for linked list groups like the one below, with the help of flexbox utilities.</p>
+                                        <p class="text-muted font-14">借助 flexbox 工具，几乎可以在列表组中添加任何 HTML 内容，甚至是像下面这样的链接列表组。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -544,7 +543,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">带徽章</h4>
-                                        <p class="text-muted font-14">Add badges to any list group item to show unread counts, activity, and more with the help of some utilities.</p>
+                                        <p class="text-muted font-14">借助一些工具，向任何列表组项添加徽章以显示未读计数、活动等。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -613,7 +612,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">复选框和单选按钮</h4>
-                                        <p class="text-muted font-14">Place Bootstrap’s checkboxes and radios within list group items and customize as needed. You can use them without <code>&lt;label&gt;</code>s, but please remember to include an <code>aria-label</code> attribute and value for accessibility.</p>
+                                        <p class="text-muted font-14">将 Bootstrap 的复选框和单选按钮放在列表组项中，并根据需要自定义。可以在没有 <code>&lt;label&gt;</code> 的情况下使用，但请记得添加 <code>aria-label</code> 属性以确保可访问性。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -681,7 +680,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">编号列表</h4>
-                                        <p class="text-muted font-14">Numbers are generated by <code>counter-reset</code> on the <code>&lt;ol&gt;</code>, and then styled and placed with a <code>::before</code> psuedo-element on the <code>&lt;li&gt;</code> with <code>counter-increment</code> and <code>content</code>.</p>
+                                        <p class="text-muted font-14">数字由 <code>&lt;ol&gt;</code> 上的 <code>counter-reset</code> 生成，然后通过 <code>&lt;li&gt;</code> 上的 <code>::before</code> 伪元素配合 <code>counter-increment</code> 和 <code>content</code> 进行样式设置和定位。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

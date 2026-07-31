@@ -19,10 +19,9 @@
                         <div class="col-xl-6">
                             <div class="card">
                                 <div class="card-body">
-                                    <h4 class="header-title">Simple Popover</h4>
+                                    <h4 class="header-title">简单弹出框</h4>
                                     <p class="text-muted font-14">
-                                        Popover is a component which displays a box with a content after a click on an
-                                        element - similar to the tooltip but can contain more content.
+                                        Popover 是一个组件，点击元素后显示一个包含内容的气泡框 - 类似于 tooltip，但可以包含更多内容。
                                     </p>
 
                                     <ul class="nav nav-tabs nav-bordered mb-3">
@@ -61,9 +60,8 @@
 
                             <div class="card">
                                 <div class="card-body">
-                                    <h4 class="header-title">Dismiss on Next Click</h4>
-                                    <p class="text-muted font-14">Use the <code>focus</code> trigger to dismiss popovers
-                                        on the user’s next click of a different element than the toggle element.</p>
+                                    <h4 class="header-title">下次点击时关闭</h4>
+                                    <p class="text-muted font-14">使用 <code>focus</code> 触发器，在用户下次点击切换元素之外的其他元素时关闭弹出框。</p>
 
                                     <ul class="nav nav-tabs nav-bordered mb-3">
                                         <li class="nav-item">
@@ -105,9 +103,9 @@
 
                             <div class="card">
                                 <div class="card-body">
-                                    <h4 class="header-title">Hover</h4>
-                                    <p class="text-muted font-14">Use the attribute <code>data-bs-trigger="hover"</code>
-                                        to show the popover on hovering the element.</p>
+                                    <h4 class="header-title">悬停</h4>
+                                    <p class="text-muted font-14">使用属性 <code>data-bs-trigger="hover"</code>
+                                        在悬停元素时显示弹出框。</p>
 
                                     <ul class="nav nav-tabs nav-bordered mb-3">
                                         <li class="nav-item">
@@ -150,9 +148,8 @@
                         <div class="col-xl-6">
                             <div class="card">
                                 <div class="card-body">
-                                    <h4 class="header-title">Four Directions</h4>
-                                    <p class="text-muted font-14">Four options are available: top, right, bottom, and
-                                        left aligned.</p>
+                                    <h4 class="header-title">四个方向</h4>
+                                    <p class="text-muted font-14">有四个方向可选：上、右、下、左对齐。</p>
 
                                     <ul class="nav nav-tabs nav-bordered mb-3">
                                         <li class="nav-item">
@@ -236,12 +233,8 @@
 
                             <div class="card">
                                 <div class="card-body">
-                                    <h4 class="header-title">Disabled Elements</h4>
-                                    <p class="text-muted font-14">Elements with the <code>disabled</code> attribute
-                                        aren’t interactive, meaning users cannot hover or click them to trigger a
-                                        popover (or tooltip). As a workaround, you’ll want to trigger the popover from a
-                                        wrapper <code>&lt;div&gt;</code> or <code>&lt;span&gt;</code> and override the
-                                        <code>pointer-events</code> on the disabled element.</p>
+                                    <h4 class="header-title">禁用元素</h4>
+                                    <p class="text-muted font-14">带有 <code>disabled</code> 属性的元素不可交互，用户无法悬停或点击来触发弹出框（或 tooltip）。作为解决方法，您可以从包装的 <code>&lt;div&gt;</code> 或 <code>&lt;span&gt;</code> 触发弹出框，并覆盖禁用元素上的 <code>pointer-events</code>。</p>
 
                                     <ul class="nav nav-tabs nav-bordered mb-3">
                                         <li class="nav-item">

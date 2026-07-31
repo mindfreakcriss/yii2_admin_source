@@ -24,7 +24,7 @@ $this->registerJsFile('/admin/js/ui/component.range-slider.js', ['depends' => 'a
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">默认</h4>
-                                        <p class="text-muted font-14">Start with default options</p>
+                                        <p class="text-muted font-14">从默认选项开始</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -57,7 +57,7 @@ $this->registerJsFile('/admin/js/ui/component.range-slider.js', ['depends' => 'a
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">前缀</h4>
-                                        <p class="text-muted font-14">Showing grid and adding prefix "$"</p>
+                                        <p class="text-muted font-14">显示网格并添加前缀 "$"</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -93,8 +93,8 @@ $this->registerJsFile('/admin/js/ui/component.range-slider.js', ['depends' => 'a
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Step</h4>
-                                        <p class="text-muted font-14">Increment with specific value only (step)</p>
+                                        <h4 class="header-title">步长</h4>
+                                        <p class="text-muted font-14">仅按指定值递增（步长）</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -130,8 +130,8 @@ $this->registerJsFile('/admin/js/ui/component.range-slider.js', ['depends' => 'a
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Prettify Numbers</h4>
-                                        <p class="text-muted font-14">Prettify enabled. Much better!</p>
+                                        <h4 class="header-title">数字格式化</h4>
+                                        <p class="text-muted font-14">数字格式化已启用。好多了！</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -167,8 +167,8 @@ $this->registerJsFile('/admin/js/ui/component.range-slider.js', ['depends' => 'a
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Extra Example</h4>
-                                        <p class="text-muted font-14">Want to show that max number is not the biggest one?</p>
+                                        <h4 class="header-title">额外示例</h4>
+                                        <p class="text-muted font-14">想要显示最大值不是最大的那个？</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -204,8 +204,8 @@ $this->registerJsFile('/admin/js/ui/component.range-slider.js', ['depends' => 'a
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Postfixes</h4>
-                                        <p class="text-muted font-14">Using postfixes</p>
+                                        <h4 class="header-title">后缀</h4>
+                                        <p class="text-muted font-14">使用后缀</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -245,7 +245,7 @@ $this->registerJsFile('/admin/js/ui/component.range-slider.js', ['depends' => 'a
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">最小-最大</h4>
-                                        <p class="text-muted font-14">Set min value, max value and start point</p>
+                                        <p class="text-muted font-14">设置最小值、最大值和起始点</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -279,8 +279,8 @@ $this->registerJsFile('/admin/js/ui/component.range-slider.js', ['depends' => 'a
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Range</h4>
-                                        <p class="text-muted font-14">Set up range with negative values</p>
+                                        <h4 class="header-title">范围</h4>
+                                        <p class="text-muted font-14">设置包含负值的范围</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -316,8 +316,8 @@ $this->registerJsFile('/admin/js/ui/component.range-slider.js', ['depends' => 'a
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Custom Values</h4>
-                                        <p class="text-muted font-14">Using any strings as values</p>
+                                        <h4 class="header-title">自定义值</h4>
+                                        <p class="text-muted font-14">使用任意字符串作为值</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -353,8 +353,8 @@ $this->registerJsFile('/admin/js/ui/component.range-slider.js', ['depends' => 'a
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Disabled</h4>
-                                        <p class="text-muted font-14">Lock slider by using disable option</p>
+                                        <h4 class="header-title">禁用</h4>
+                                        <p class="text-muted font-14">使用禁用选项锁定滑块</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -389,7 +389,7 @@ $this->registerJsFile('/admin/js/ui/component.range-slider.js', ['depends' => 'a
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">Use Decorate Both option</h4>
-                                        <p class="text-muted font-14">Use decorate_both option</p>
+                                        <p class="text-muted font-14">使用 decorate_both 选项</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -427,8 +427,8 @@ $this->registerJsFile('/admin/js/ui/component.range-slider.js', ['depends' => 'a
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Hide</h4>
-                                        <p class="text-muted font-14">Or hide any part you wish</p>
+                                        <h4 class="header-title">隐藏</h4>
+                                        <p class="text-muted font-14">或隐藏您希望隐藏的部分</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

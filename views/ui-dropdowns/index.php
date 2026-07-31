@@ -109,7 +109,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">变体</h4>
-                                        <p class="text-muted font-14">The best part is you can do this with any button variant, too:</p>
+                                        <p class="text-muted font-14">最好的部分是，您也可以使用任何按钮变体来实现：</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -303,9 +303,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">向上弹出变体</h4>
-                                        <p class="text-muted font-14">Trigger dropdown menus above elements
-                                                by adding <code>.dropup</code> to the parent
-                                                element.</p>
+                                        <p class="text-muted font-14">通过添加 <code>.dropup</code> 到父元素，在元素上方触发展开菜单。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -393,7 +391,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">向右弹出变体</h4>
-                                        <p class="text-muted font-14">Trigger dropdown menus at the right of the elements by adding <code>.dropend</code> to the parent element.</p>
+                                        <p class="text-muted font-14">通过添加 <code>.dropend</code> 到父元素，在元素右侧触发展开菜单。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -485,7 +483,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">禁用项</h4>
-                                        <p class="text-muted font-14">Add <code>.disabled</code> to items in the dropdown to <strong>style them as disabled</strong>.</p>
+                                        <p class="text-muted font-14">在菜单项中添加 <code>.disabled</code> 来<strong>设置禁用样式</strong>。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -539,7 +537,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">文本</h4>
-                                        <p class="text-muted font-14">Place any freeform text within a dropdown menu with text and use spacing utilities. Note that you’ll likely need additional sizing styles to constrain the menu width.</p>
+                                        <p class="text-muted font-14">在下拉菜单中放置任意文本，并使用间距工具。注意，您可能需要添加额外的尺寸样式来限制菜单宽度。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -782,7 +780,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">尺寸</h4>
-                                        <p class="text-muted font-14">Button dropdowns work with buttons of all sizes, including default and split dropdown buttons.</p>
+                                        <p class="text-muted font-14">按钮下拉菜单适用于所有尺寸的按钮，包括默认和分割下拉按钮。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -928,7 +926,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">向左弹出变体</h4>
-                                        <p class="text-muted font-14">Trigger dropdown menus at the right of the elements by adding <code>.dropleft</code> to the parent element.</p>
+                                        <p class="text-muted font-14">通过添加 <code>.dropleft</code> 到父元素，在元素左侧触发展开菜单。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -1024,8 +1022,8 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Active Item</h4>
-                                        <p class="text-muted font-14">Add <code>.active</code> to item in the dropdown to <strong>style them as active</strong>.</p>
+                                        <h4 class="header-title">活跃项</h4>
+                                        <p class="text-muted font-14">在下拉菜单项中添加 <code>.active</code> 来<strong>设置活跃样式</strong>。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -1077,8 +1075,8 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Headers</h4>
-                                        <p class="text-muted font-14">Add a header to label sections of actions in any dropdown menu.</p>
+                                        <h4 class="header-title">标题</h4>
+                                        <p class="text-muted font-14">添加标题来标记下拉菜单中的操作分组。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -1130,8 +1128,8 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Forms</h4>
-                                        <p class="text-muted font-14">Put a form within a dropdown menu, or make it into a dropdown menu, and use margin or padding utilities to give it the negative space you require.</p>
+                                        <h4 class="header-title">表单</h4>
+                                        <p class="text-muted font-14">在下拉菜单中放置表单，或将其制作为下拉菜单，使用边距或填充工具来获得所需的负空间。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -1155,26 +1153,26 @@
                                                     <div class="dropdown-menu">
                                                         <form class="px-4 py-3">
                                                             <div class="mb-3">
-                                                                <label for="exampleDropdownFormEmail1" class="form-label">Email address</label>
+                                                                <label for="exampleDropdownFormEmail1" class="form-label">邮箱地址</label>
                                                                 <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="email@example.com">
                                                             </div>
                                                             <div class="mb-3">
-                                                                <label for="exampleDropdownFormPassword1" class="form-label">Password</label>
-                                                                <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Password">
+                                                                <label for="exampleDropdownFormPassword1" class="form-label">密码</label>
+                                                                <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="密码">
                                                             </div>
                                                             <div class="mb-2">
                                                                 <div class="form-check">
                                                                     <input type="checkbox" class="form-check-input" id="dropdownCheck">
                                                                     <label class="form-check-label" for="dropdownCheck">
-                                                                        Remember me
+                                                                        记住我
                                                                     </label>
                                                                 </div>
                                                             </div>
-                                                            <button type="submit" class="btn btn-primary">Sign in</button>
+                                                            <button type="submit" class="btn btn-primary">登录</button>
                                                         </form>
                                                         <div class="dropdown-divider"></div>
-                                                        <a class="dropdown-item" href="#">New around here? Sign up</a>
-                                                        <a class="dropdown-item" href="#">Forgot password?</a>
+                                                        <a class="dropdown-item" href="#">新用户？注册</a>
+                                                        <a class="dropdown-item" href="#">忘记密码？</a>
                                                     </div>
                                                 </div>
                                             </div> <!-- end preview-->

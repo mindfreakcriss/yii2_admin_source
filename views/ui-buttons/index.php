@@ -20,7 +20,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">默认按钮</h4>
-                                        <p class="text-muted font-14">Use the button classes on an <code>&lt;a&gt;</code>, <code>&lt;button&gt;</code>, or <code>&lt;input&gt;</code> element.</p>
+                                        <p class="text-muted font-14">在 <code>&lt;a&gt;</code>、<code>&lt;button&gt;</code> 或 <code>&lt;input&gt;</code> 元素上使用按钮类。</p>
                                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -74,7 +74,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">轮廓按钮</h4>
-                                        <p class="text-muted font-14">Use a classes <code>.btn-outline-**</code> to quickly create a bordered buttons.</p>
+                                        <p class="text-muted font-14">使用 <code>.btn-outline-**</code> 类快速创建带边框的按钮。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -129,7 +129,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">圆角按钮</h4>
-                                        <p class="text-muted font-14">Add <code>.rounded-pill</code> to default button to get rounded corners.</p>
+                                        <p class="text-muted font-14">添加 <code>.rounded-pill</code> 到默认按钮以获取圆角。</p>
                                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -183,7 +183,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">轮廓圆角按钮</h4>
-                                        <p class="text-muted font-14">Use a classes <code>.btn-outline-**</code> to quickly create a bordered buttons.</p>
+                                        <p class="text-muted font-14">使用 <code>.btn-outline-**</code> 类快速创建带边框的按钮。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

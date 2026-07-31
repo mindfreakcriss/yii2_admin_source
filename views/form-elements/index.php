@@ -19,7 +19,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Input Types</h4>
+                                        <h4 class="header-title">输入类型</h4>
                                         <p class="text-muted font-14">
                                             Most common form control, text-based input fields. Includes support for all HTML5 types: <code>text</code>, <code>password</code>, <code>datetime</code>, <code>datetime-local</code>, <code>date</code>, <code>month</code>, <code>time</code>, <code>week</code>, <code>number</code>, <code>email</code>, <code>url</code>, <code>search</code>, <code>tel</code>, and <code>color</code>.
                                         </p>
@@ -961,7 +961,7 @@
                                 <div class="card">
                                     <div class="card-body">
 
-                                        <h4 class="header-title">Input Sizes</h4>
+                                        <h4 class="header-title">输入尺寸</h4>
                                         <p class="text-muted font-14">
                                             Set heights using classes like <code>.input-lg</code>, and set widths using grid column classes like <code>.col-lg-*</code>.
                                         </p>
@@ -1046,7 +1046,7 @@
                                 <div class="card">
                                     <div class="card-body">
 
-                                        <h4 class="header-title">Input Group</h4>
+                                        <h4 class="header-title">输入组</h4>
                                         <p class="text-muted font-14">
                                             Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs, custom selects, and custom file inputs
                                         </p>
@@ -1168,8 +1168,8 @@
                             <div class="col-lg-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Basic Example</h4>
-                                        <p class="text-muted font-14">Here’s a quick example to demonstrate Bootstrap’s form styles. Keep reading for documentation on required classes, form layout, and more.</p>
+                                        <h4 class="header-title">基本示例</h4>
+                                        <p class="text-muted font-14">这是一个快速示例，演示 Bootstrap 的表单样式。继续阅读文档了解所需的类、表单布局等更多信息。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -1239,8 +1239,8 @@
                             <div class="col-lg-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Horizontal form</h4>
-                                        <p class="text-muted font-14">Create horizontal forms with the grid by adding the <code>.row</code> class to form groups and using the <code>.col-*-*</code> classes to specify the width of your labels and controls. Be sure to add <code>.col-form-label</code> to your <code>&lt;label&gt;</code>s as well so they’re vertically centered with their associated form controls.</p>
+                                        <h4 class="header-title">水平表单</h4>
+                                        <p class="text-muted font-14">通过向表单组添加 <code>.row</code> 类，并使用 <code>.col-*-*</code> 类指定标签和控件的宽度，创建水平表单。同时确保向 <code>&lt;label&gt;</code> 添加 <code>.col-form-label</code>，使其与关联的表单控件垂直居中。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -1463,7 +1463,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">水平表单标签尺寸</h4>
-                                        <p class="text-muted font-14">Be sure to use <code>.col-form-label-sm</code> or <code>.col-form-label-lg</code> to your <code>&lt;label&gt;</code>s or <code>&lt;legend&gt;</code>s to correctly follow the size of <code>.form-control-lg</code> and <code>.form-control-sm</code>.</p>
+                                        <p class="text-muted font-14">确保为 <code>&lt;label&gt;</code> 或 <code>&lt;legend&gt;</code> 使用 <code>.col-form-label-sm</code> 或 <code>.col-form-label-lg</code>，以正确匹配 <code>.form-control-lg</code> 和 <code>.form-control-sm</code> 的尺寸。</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -1539,7 +1539,7 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Form Row</h4>
+                                        <h4 class="header-title">表单行</h4>
                                         <p class="text-muted font-14">
                                             By adding <code>.row</code> & <code>.g-2</code>, you can have control over the gutter width in as well the inline as block direction.
                                         </p>

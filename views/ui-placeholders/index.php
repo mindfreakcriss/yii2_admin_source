@@ -124,9 +124,9 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Color</h4>
+                                        <h4 class="header-title">颜色</h4>
                                         <p class="text-muted font-13">
-                                            By default, the <code>placeholder</code> uses <code>currentColor</code>. This can be overriden with a custom color or utility class.
+                                            默认情况下，<code>placeholder</code> 使用 <code>currentColor</code>。可以使用自定义颜色或工具类覆盖。
                                         </p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -268,9 +268,9 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">How it works</h4>
+                                        <h4 class="header-title">工作原理</h4>
                                         <p class="text-muted font-13">
-                                            Create placeholders with the <code>.placeholder</code> class and a grid column class (e.g., <code>.col-6</code>) to set the <code>width</code>. They can replace the text inside an element or as be added as a modifier class to an existing component.
+                                            使用 <code>.placeholder</code> 类和网格列类（如 <code>.col-6</code>）创建占位符，以设置 <code>width</code>。它们可以替换元素内的文本，或作为修饰类添加到现有组件中。
                                         </p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -316,9 +316,9 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Animation</h4>
+                                        <h4 class="header-title">动画</h4>
                                         <p class="text-muted font-13">
-                                            Animate placehodlers with <code>.placeholder-glow</code> or <code>.placeholder-wave</code> to better convey the perception of something being <em>actively</em> loaded.
+                                            使用 <code>.placeholder-glow</code> 或 <code>.placeholder-wave</code> 为占位符添加动画，以更好地传达正在<em>积极</em>加载的感觉。
                                         </p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">

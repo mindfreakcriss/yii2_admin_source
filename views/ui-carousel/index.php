@@ -164,8 +164,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">带指示器</h4>
-                                        <p class="text-muted font-14">You can also add the indicators to the
-                                            carousel, alongside the controls, too.</p>
+                                        <p class="text-muted font-14">您还可以在轮播中添加指示器以及控制按钮。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -251,7 +250,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">带说明文字</h4>
-                                        <p class="text-muted font-14">Add captions to your slides easily with the <code>.carousel-caption</code> element within any <code>.carousel-item</code>.</p>
+                                        <p class="text-muted font-14">使用 <code>.carousel-caption</code> 元素轻松为幻灯片添加字幕。</p>
                                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -355,7 +354,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">淡入淡出</h4>
-                                        <p class="text-muted font-14">Add <code>.carousel-fade</code> to your carousel to animate slides with a fade transition instead of a slide.</p>
+                                        <p class="text-muted font-14">添加 <code>.carousel-fade</code> 让轮播使用淡入淡出过渡效果，而不是滑动切换。</p>
                                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -431,7 +430,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">自定义间隔</h4>
-                                        <p class="text-muted font-14">Add <code>data-bs-interval=""</code> to a <code>.carousel-item</code> to change the amount of time to delay between automatically cycling to the next item.</p>
+                                        <p class="text-muted font-14">添加 <code>data-bs-interval=""</code> 到 <code>.carousel-item</code> 以更改自动轮播到下一项的间隔时间。</p>
                                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

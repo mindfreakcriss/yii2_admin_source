@@ -20,7 +20,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">Examples</h4>
-                                        <p class="text-muted font-14">Hover over the links below to see tooltips.</p>
+                                        <p class="text-muted font-14">悬停在下方链接上查看工具提示。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -73,13 +73,8 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Disabled elements</h4>
-                                        <p class="text-muted font-14">Elements with the <code>disabled</code> attribute
-                                            aren’t interactive, meaning users cannot focus, hover, or click them to trigger
-                                            a tooltip (or popover). As a workaround, you’ll want to trigger the tooltip from
-                                            a wrapper <code>&lt;div&gt;</code> or <code>&lt;span&gt;</code>, ideally made
-                                            keyboard-focusable using <code>tabindex="0"</code>, and override the
-                                            <code>pointer-events</code> on the disabled element.</p>
+                                        <h4 class="header-title">禁用元素</h4>
+                                        <p class="text-muted font-14">带有 <code>disabled</code> 属性的元素不可交互，用户无法聚焦、悬停或点击来触发工具提示（或弹出框）。作为解决方法，您需要从包装的 <code>&lt;div&gt;</code> 或 <code>&lt;span&gt;</code> 触发工具提示，最好使用 <code>tabindex="0"</code> 使其可键盘聚焦，并覆盖禁用元素上的 <code>pointer-events</code>。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -122,9 +117,8 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Four Directions</h4>
-                                        <p class="text-muted font-14">Hover over the buttons below to see the four tooltips
-                                            directions: top, right, bottom, and left.</p>
+                                        <h4 class="header-title">四个方向</h4>
+                                        <p class="text-muted font-14">悬停在下方按钮上查看四个方向的工具提示：上、右、下、左。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -167,8 +161,8 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">HTML Tags</h4>
-                                        <p class="text-muted font-14">And with custom HTML added:</p>
+                                        <h4 class="header-title">HTML 标签</h4>
+                                        <p class="text-muted font-14">并添加自定义 HTML：</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

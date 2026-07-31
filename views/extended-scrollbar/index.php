@@ -20,8 +20,8 @@
                             <div class="card">
                                 <div class="card-body pb-0">
                                     <h4 class="header-title">默认 Scroll</h4>
-                                    <p class="text-muted font-14">Just use data attribute <code>data-simplebar</code>
-                                        and add <code>max-height: **px</code> oh fix height</p>
+                                    <p class="text-muted font-14">使用 data 属性 <code>data-simplebar</code>
+                                       并设置 <code>max-height: **px</code> 来固定高度</p>
 
                                     <ul class="nav nav-tabs nav-bordered mb-3">
                                         <li class="nav-item">
@@ -83,8 +83,8 @@
                             <div class="card">
                                 <div class="card-body pb-0">
                                     <h4 class="header-title">从右到左 Position</h4>
-                                    <p class="text-muted font-14">Just use data attribute <code>data-simplebar data-simplebar-direction='rtl'</code>
-                                        and add <code>max-height: **px</code> oh fix height</p>
+                                    <p class="text-muted font-14">使用 data 属性 <code>data-simplebar data-simplebar-direction='rtl'</code>
+                                       并设置 <code>max-height: **px</code> 来固定高度</p>
 
                                     <ul class="nav nav-tabs nav-bordered mb-3">
                                         <li class="nav-item">
@@ -149,9 +149,9 @@
                         <div class="col-xl-6">
                             <div class="card">
                                 <div class="card-body pb-0">
-                                    <h4 class="header-title">Scroll Size</h4>
-                                    <p class="text-muted font-14">Just use data attribute <code>data-simplebar</code>
-                                        and add <code>max-height: **px</code> oh fix height</p>
+                                    <h4 class="header-title">滚动大小</h4>
+                                    <p class="text-muted font-14">使用 data 属性 <code>data-simplebar</code>
+                                       并设置 <code>max-height: **px</code> 来固定高度</p>
 
                                     <ul class="nav nav-tabs nav-bordered mb-3">
                                         <li class="nav-item">
@@ -212,9 +212,9 @@
                         <div class="col-xl-6">
                             <div class="card">
                                 <div class="card-body pb-0">
-                                    <h4 class="header-title">Scroll Color</h4>
-                                    <p class="text-muted font-14">Just use data attribute <code>data-simplebar data-simplebar-primary</code>
-                                        and add <code>max-height: **px</code> oh fix height</p>
+                                    <h4 class="header-title">滚动颜色</h4>
+                                    <p class="text-muted font-14">使用 data 属性 <code>data-simplebar data-simplebar-primary</code>
+                                       并设置 <code>max-height: **px</code> 来固定高度</p>
 
                                     <ul class="nav nav-tabs nav-bordered mb-3">
                                         <li class="nav-item">

@@ -197,8 +197,8 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">RTL support</h4>
-                                        <p class="text-muted font-14">Now we are in RTL mode. No changes needed to make this work</p>
+                                        <h4 class="header-title">RTL 支持</h4>
+                                        <p class="text-muted font-14">现在处于 RTL 模式。无需任何更改即可正常工作</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -354,8 +354,8 @@
 
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Setting and Getting values</h4>
-                                        <p class="text-muted font-14">All properties can also be set on the fly. Here are a few examples:</p>
+                                        <h4 class="header-title">设置和获取值</h4>
+                                        <p class="text-muted font-14">所有属性都可以动态设置。以下是一些示例：</p>
                         
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

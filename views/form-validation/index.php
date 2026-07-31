@@ -20,11 +20,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">自定义样式</h4>
-                                        <p class="text-muted font-14">Custom feedback styles apply custom colors, borders,
-                                            focus styles, and background
-                                            icons to better communicate feedback. Background icons for
-                                            <code>&lt;select&gt;</code>s are only available with
-                                            <code>.form-select</code>, and not <code>.form-control</code>.
+                                        <p class="text-muted font-14">自定义反馈样式应用自定义颜色、边框、焦点样式和背景图标，以更好地传达反馈信息。<code>&lt;select&gt;</code> 的背景图标仅适用于 <code>.form-select</code>，不适用于 <code>.form-control</code>。
                                         </p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
@@ -176,13 +172,8 @@
                             <div class="col-lg-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Tooltips</h4>
-                                        <p class="text-muted font-14">If your form layout allows it, you can swap the
-                                            <code>.{valid|invalid}-feedback</code> classes for
-                                            <code>.{valid|invalid}-tooltip</code> classes to display validation feedback in
-                                            a styled tooltip. Be sure to have a parent with <code>position: relative</code>
-                                            on it for tooltip positioning. In the example below, our column classes have
-                                            this already, but your project may require an alternative setup.
+                                        <h4 class="header-title">工具提示</h4>
+                                        <p class="text-muted font-14">如果您的表单布局允许，可以将 <code>.{valid|invalid}-feedback</code> 类替换为 <code>.{valid|invalid}-tooltip</code> 类，以在样式化的工具提示中显示验证反馈。确保父元素设置了 <code>position: relative</code> 以正确定位工具提示。在下面的示例中，我们的列类已经包含此设置，但您的项目可能需要不同的配置。
                                         </p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">

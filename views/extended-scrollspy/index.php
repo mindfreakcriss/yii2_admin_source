@@ -19,9 +19,8 @@
                             <div class="col-12">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Example in navbar</h4>
-                                        <p class="text-muted font-14">Scroll the area below the navbar and watch the active
-                                            class change. The dropdown items will be highlighted as well.</p>
+                                        <h4 class="header-title">导航栏示例</h4>
+                                        <p class="text-muted font-14">滚动导航栏下方的区域，查看激活类的变化。下拉菜单项也会被高亮。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

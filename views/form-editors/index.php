@@ -22,7 +22,7 @@
                                         <li class="list-group-item">
                                             <div class="mb-2">
                                                 <h4 class="header-title mt-2">Quill 编辑器</h4>
-                                                <p class="text-muted font-14">Snow is a clean, flat toolbar theme.</p>
+                                                <p class="text-muted font-14">Snow 是一个简洁、扁平的工具栏主题。</p>
 
                                                 <ul class="nav nav-tabs nav-bordered mb-3">
                                                     <li class="nav-item">
@@ -110,7 +110,7 @@
                                         <li class="list-group-item">
                                             <div class="mb-2">
                                                 <h5 class="mb-1">Bubble Editor</h5>
-                                                <p class="text-muted font-14">Bubble is a simple tooltip based theme.</p>
+                                                <p class="text-muted font-14">Bubble 是一个基于提示框的简洁主题。</p>
 
                                                 <ul class="nav nav-tabs nav-bordered mb-3">
                                                     <li class="nav-item">
@@ -193,7 +193,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">SimpleMDE</h4>
-                                        <p class="text-muted font-14">SimpleMDE is a light-weight, simple, embeddable, and beautiful JS markdown editor</p>
+                                        <p class="text-muted font-14">SimpleMDE 是一个轻量、简洁、可嵌入的 JS Markdown 编辑器</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

@@ -294,8 +294,8 @@
                             <div class="col-xl-6">
                                 <div class="card">
                                     <div class="card-body">
-                                        <h4 class="header-title">Modal with Pages</h4>
-                                        <p class="text-muted font-14">Examples of custom modals.</p>
+                                        <h4 class="header-title">带页面的模态框</h4>
+                                        <p class="text-muted font-14">自定义模态框的示例。</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">

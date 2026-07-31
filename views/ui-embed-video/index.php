@@ -20,7 +20,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">自适应嵌入视频 21:9</h4>
-                                        <p class="text-muted font-14">Use class <code>.ratio-21x9</code></p>
+                                        <p class="text-muted font-14">使用 <code>.ratio-21x9</code> 类</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -59,7 +59,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">自适应嵌入视频 1:1</h4>
-                                        <p class="text-muted font-14">Use class <code>.ratio-1x1</code></p>
+                                        <p class="text-muted font-14">使用 <code>.ratio-1x1</code> 类</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -100,7 +100,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">自适应嵌入视频 16:9</h4>
-                                        <p class="text-muted font-14">Use class <code>.ratio-16x9</code></p>
+                                        <p class="text-muted font-14">使用 <code>.ratio-16x9</code> 类</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
@@ -139,7 +139,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <h4 class="header-title">自适应嵌入视频 4:3</h4>
-                                        <p class="text-muted font-14">Use class <code>.ratio-4x3</code></p>
+                                        <p class="text-muted font-14">使用 <code>.ratio-4x3</code> 类</p>
 
                                         <ul class="nav nav-tabs nav-bordered mb-3">
                                             <li class="nav-item">
