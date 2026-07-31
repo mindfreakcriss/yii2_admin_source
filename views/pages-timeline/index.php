@@ -4,7 +4,7 @@
                                 <div class="page-title-box">
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">页面</a></li>
                                             <li class="breadcrumb-item active">时间线</li>
                                         </ol>
@@ -142,7 +142,7 @@
                                             <div class="timeline-box">
                                                 <span class="arrow-alt"></span>
                                                 <span class="timeline-icon"><i class="mdi mdi-adjust"></i></span>
-                                                <h4 class="mt-0 mb-1 font-16">First release of Hyper admin dashboard template</h4>
+                                                <h4 class="mt-0 mb-1 font-16">First release of criss-admin admin dashboard template</h4>
                                                 <p class="text-muted"><small>16 July, 2018</small></p>
                                                 <p>Outdoor visit at California State Route 85 with John Boltana &
                                                     Harry Piterson regarding to setup a new show room.</p>

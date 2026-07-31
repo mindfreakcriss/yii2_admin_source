@@ -8,7 +8,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                 <div class="page-title-box">
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">仪表盘</a></li>
                                             <li class="breadcrumb-item active">项目</li>
                                         </ol>
@@ -338,7 +338,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                         </td>
                                                         <td>
                                                             <span class="text-muted font-13">项目</span> <br/>
-                                                            <p class="mb-0">Hyper Mockup</p>
+                                                            <p class="mb-0">criss-admin Mockup</p>
                                                         </td>
                                                         <td class="table-action" style="width: 50px;">
                                                             <div class="dropdown">
@@ -367,7 +367,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                         </td>
                                                         <td>
                                                             <span class="text-muted font-13">项目</span> <br/>
-                                                            <p class="mb-0">Hyper Mockup</p>
+                                                            <p class="mb-0">criss-admin Mockup</p>
                                                         </td>
                                                         <td class="table-action" style="width: 50px;">
                                                             <div class="dropdown">
@@ -448,7 +448,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                                 <img class="me-2 rounded-circle" src="/admin/images/users/avatar-5.jpg" width="40" alt="Generic placeholder image">
                                                                 <div>
                                                                     <h5 class="mt-0 mb-1">Francis Achin<small class="fw-normal ms-3">08 Jan 2019 12:28 pm</small></h5>
-                                                                    <span class="font-13">Assigned task "Hyper app design"...</span>
+                                                                    <span class="font-13">Assigned task "criss-admin app design"...</span>
                                                                 </div>
                                                             </div>
                                                         </td>
@@ -517,7 +517,7 @@ $this->registerJsFile('/admin/js/pages/demo.dashboard-projects.js', ['depends' =
                                                         <p class="text-muted mb-1 font-13">
                                                             <i class="mdi mdi-calendar"></i> 10:30 AM - 11:45 AM
                                                         </p>
-                                                        <h5>设计评审 - Hyper管理后台</h5>
+                                                        <h5>设计评审 - criss-admin管理后台</h5>
                                                     </li>
                                                     <li class="mb-4">
                                                         <p class="text-muted mb-1 font-13">

@@ -4,7 +4,7 @@
                                 <div class="page-title-box">
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">应用</a></li>
                                             <li class="breadcrumb-item active">聊天</li>
                                         </ol>
@@ -413,7 +413,7 @@
                                                                 </div>
                                                                 <div class="col ps-0">
                                                                     <a href="javascript:void(0);"
-                                                                        class="text-muted fw-bold">Hyper-admin-design.zip</a>
+                                                                        class="text-muted fw-bold">criss-admin-design.zip</a>
                                                                     <p class="mb-0">2.3 MB</p>
                                                                 </div>
                                                                 <div class="col-auto">

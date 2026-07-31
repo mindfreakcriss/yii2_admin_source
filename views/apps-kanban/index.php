@@ -8,7 +8,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                 <div class="page-title-box">
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">任务</a></li>
                                             <li class="breadcrumb-item active">看板</li>
                                         </ol>
@@ -86,7 +86,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                     <p class="mb-0">
                                                         <span class="pe-2 text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-briefcase-outline text-muted"></i>
-                                                            Hyper
+                                                            criss-admin
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>
@@ -184,7 +184,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                     <p class="mb-0">
                                                         <span class="pe-2 text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-briefcase-outline text-muted"></i>
-                                                            Hyper
+                                                            criss-admin
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>
@@ -469,7 +469,7 @@ $this->registerJsFile('/admin/js/ui/component.dragula.js', ['depends' => 'app\as
                                                     <p class="mb-0">
                                                         <span class="pe-2 text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-briefcase-outline text-muted"></i>
-                                                            Hyper
+                                                            criss-admin
                                                         </span>
                                                         <span class="text-nowrap mb-2 d-inline-block">
                                                             <i class="mdi mdi-comment-multiple-outline text-muted"></i>

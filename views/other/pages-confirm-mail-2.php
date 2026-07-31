@@ -34,7 +34,7 @@
 
                         <!-- Footer-->
                         <footer class="footer footer-alt">
-                            <p class="text-muted">2018 - <script>document.write(new Date().getFullYear())</script> © Hyper - Coderthemes.com</p>
+                            <p class="text-muted">2018 - <script>document.write(new Date().getFullYear())</script> © criss-admin - Coderthemes.com</p>
                         </footer>
 
                     </div> <!-- end .card-body -->
@@ -49,7 +49,7 @@
                     <p class="lead"><i class="mdi mdi-format-quote-open"></i> 这是一个优雅的模板。我非常喜欢它！<i class="mdi mdi-format-quote-close"></i>
                     </p>
                     <p>
-                        - Hyper 管理员用户
+                        - criss-admin 管理员用户
                     </p>
                 </div> <!-- end auth-user-testimonial-->
             </div>

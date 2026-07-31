@@ -8,7 +8,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                             <div class="page-title-box">
                                 <div class="page-title-right">
                                     <ol class="breadcrumb m-0">
-                                        <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                        <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                         <li class="breadcrumb-item"><a href="javascript: void(0);">基础 UI</a></li>
                                         <li class="breadcrumb-item active">通知</li>
                                     </ol>
@@ -54,7 +54,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                                             <div class="toast-header">
                                                                 <img src="/admin/images/logo_sm_dark.png"
                                                                     alt="brand-logo" height="12" class="me-1" />
-                                                                <strong class="me-auto">Hyper</strong>
+                                                                <strong class="me-auto">criss-admin</strong>
                                                                 <small>11 mins ago</small>
                                                                 <button type="button" class="ms-2 mb-1 btn-close"
                                                                     data-bs-dismiss="toast" aria-label="Close"></button>
@@ -77,7 +77,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                                             <div class="toast-header">
                                                                 <img src="/admin/images/logo_sm_dark.png"
                                                                     alt="brand-logo" height="12" class="me-1" />
-                                                                <strong class="me-auto">Hyper</strong>
+                                                                <strong class="me-auto">criss-admin</strong>
                                                                 <small>11 mins ago</small>
                                                                 <button type="button" class="ms-2 mb-1 btn-close"
                                                                     data-bs-dismiss="toast" aria-label="Close"></button>
@@ -109,7 +109,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                                                     <div class="toast-header">
                                                                         <img src="/admin/images/logo_sm_dark.png"
                                                                             alt="brand-logo" height="12" class="me-1" />
-                                                                        <strong class="me-auto">Hyper</strong>
+                                                                        <strong class="me-auto">criss-admin</strong>
                                                                         <small class="text-muted">just now</small>
                                                                         <button type="button"
                                                                             class="ms-2 mb-1 btn-close"
@@ -127,7 +127,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                                                     <div class="toast-header">
                                                                         <img src="/admin/images/logo_sm_dark.png"
                                                                             alt="brand-logo" height="12" class="me-1" />
-                                                                        <strong class="me-auto">Hyper</strong>
+                                                                        <strong class="me-auto">criss-admin</strong>
                                                                         <small class="text-muted">2 seconds ago</small>
                                                                         <button type="button"
                                                                             class="ms-2 mb-1 btn-close"
@@ -158,7 +158,7 @@ $this->registerJsFile('/admin/js/pages/demo.toastr.js', ['depends' => 'app\asset
                                                                 <div class="toast-header">
                                                                     <img src="/admin/images/logo_sm_dark.png"
                                                                         alt="brand-logo" height="12" class="me-1" />
-                                                                    <strong class="me-auto">Hyper</strong>
+                                                                    <strong class="me-auto">criss-admin</strong>
                                                                     <small>11 mins ago</small>
                                                                     <button type="button" class="ms-2 mb-1 btn-close"
                                                                         data-bs-dismiss="toast"

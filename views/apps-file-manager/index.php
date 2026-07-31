@@ -4,7 +4,7 @@
                                 <div class="page-title-box">
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">应用</a></li>
                                             <li class="breadcrumb-item active">文件管理</li>
                                         </ol>
@@ -89,7 +89,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="col ps-0">
-                                                                        <a href="javascript:void(0);" class="text-muted fw-bold">Hyper-sketch.zip</a>
+                                                                        <a href="javascript:void(0);" class="text-muted fw-bold">criss-admin-sketch.zip</a>
                                                                         <p class="mb-0 font-13">2.3 MB</p>
                                                                     </div>
                                                                 </div> <!-- end row -->
@@ -209,7 +209,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="col ps-0">
-                                                                        <a href="javascript:void(0);" class="text-muted fw-bold">Hyper Integrations</a>
+                                                                        <a href="javascript:void(0);" class="text-muted fw-bold">criss-admin Integrations</a>
                                                                         <p class="mb-0 font-13">874 MB</p>
                                                                     </div>
                                                                 </div> <!-- end row -->
@@ -283,7 +283,7 @@
                                                             
                                                             <tr>
                                                                 <td>
-                                                                    <span class="ms-2 fw-semibold"><a href="javascript: void(0);" class="text-reset">Hyper-sketch-design.zip</a></span>
+                                                                    <span class="ms-2 fw-semibold"><a href="javascript: void(0);" class="text-reset">criss-admin-sketch-design.zip</a></span>
                                                                 </td>
                                                                 <td>
                                                                     <p class="mb-0">Feb 13, 2020</p>

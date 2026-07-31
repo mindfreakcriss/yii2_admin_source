@@ -10,7 +10,7 @@ $this->registerJsFile('/admin/js/ui/component.todo.js', ['depends' => 'app\asset
                                 <div class="page-title-box">
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Components</a></li>
                                             <li class="breadcrumb-item active">小部件</li>
                                         </ol>
@@ -515,7 +515,7 @@ $this->registerJsFile('/admin/js/ui/component.todo.js', ['depends' => 'app\asset
                                                 <i class="mdi mdi-upload bg-info-lighten text-info timeline-icon"></i>
                                                 <div class="timeline-item-info">
                                                     <a href="#" class="text-info fw-bold mb-1 d-block">You sold an item</a>
-                                                    <small>Paul Burgess just purchased “Hyper - Admin Dashboard”!</small>
+                                                    <small>Paul Burgess just purchased “criss-admin - Admin Dashboard”!</small>
                                                     <p class="mb-0 pb-2">
                                                         <small class="text-muted">5 minutes ago</small>
                                                     </p>
@@ -593,7 +593,7 @@ $this->registerJsFile('/admin/js/ui/component.todo.js', ['depends' => 'app\asset
                                                 <i class="mdi mdi-arrow-collapse-up text-danger font-18"></i>
                                             </div>
                                             <div class="col ps-0">
-                                                <a href="javascript:void(0);" class="text-body">Purchased Hyper Admin Template</a>
+                                                <a href="javascript:void(0);" class="text-body">Purchased criss-admin Admin Template</a>
                                                 <p class="mb-0 text-muted"><small>Today</small></p>
                                             </div>
                                             <div class="col-auto">

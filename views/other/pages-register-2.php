@@ -79,7 +79,7 @@
                     <p class="lead"><i class="mdi mdi-format-quote-open"></i> 这是一个优雅的模板。我非常喜欢它！<i class="mdi mdi-format-quote-close"></i>
                     </p>
                     <p>
-                        - Hyper 管理员用户
+                        - criss-admin 管理员用户
                     </p>
                 </div> <!-- end auth-user-testimonial-->
             </div>

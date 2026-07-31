@@ -8,7 +8,7 @@ $this->registerJsFile('/admin/js/pages/demo.sellers.js', ['depends' => 'app\asse
                                 <div class="page-title-box">
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">电子商务</a></li>
                                             <li class="breadcrumb-item active">卖家</li>
                                         </ol>
@@ -293,7 +293,7 @@ $this->registerJsFile('/admin/js/pages/demo.sellers.js', ['depends' => 'app\asse
                                                             <a href="javascript:void(0);" class="text-body fw-semibold">Edward Roseby</a>
                                                         </td>
                                                         <td>
-                                                            Hyperill
+                                                            criss-adminill
                                                         </td>
                                                         <td>
                                                             <span class="fw-semibold">77</span>

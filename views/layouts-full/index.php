@@ -4,7 +4,7 @@
                                 <div class="page-title-box">
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">布局</a></li>
                                             <li class="breadcrumb-item active">全宽</li>
                                         </ol>
@@ -427,7 +427,7 @@
                                                 <i class="mdi mdi-upload bg-info-lighten text-info timeline-icon"></i>
                                                 <div class="timeline-item-info">
                                                     <a href="javascript:void(0);" class="text-info fw-bold mb-1 d-block">您售出了一件商品</a>
-                                                    <small>Paul Burgess just purchased “Hyper - Admin Dashboard”!</small>
+                                                    <small>Paul Burgess just purchased “criss-admin - Admin Dashboard”!</small>
                                                     <p class="mb-0 pb-2">
                                                         <small class="text-muted">5 minutes ago</small>
                                                     </p>
@@ -477,7 +477,7 @@
                                                 <i class="mdi mdi-upload bg-info-lighten text-info timeline-icon"></i>
                                                 <div class="timeline-item-info">
                                                     <a href="javascript:void(0);" class="text-info fw-bold mb-1 d-block">您售出了一件商品</a>
-                                                    <small>Paul Burgess just purchased “Hyper - Admin Dashboard”!</small>
+                                                    <small>Paul Burgess just purchased “criss-admin - Admin Dashboard”!</small>
                                                     <p class="mb-0 pb-2">
                                                         <small class="text-muted">16 hours ago</small>
                                                     </p>

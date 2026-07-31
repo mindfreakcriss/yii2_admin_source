@@ -9,7 +9,7 @@ $this->registerJsFile('/admin/js/ui/component.todo.js', ['depends' => 'app\asset
                                 <div class="page-title-box">
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">CRM</a></li>
                                             <li class="breadcrumb-item active">CRM 仪表盘</li>
                                         </ol>

@@ -7,7 +7,7 @@
             <div class="page-title-box">
                 <div class="page-title-right">
                     <ol class="breadcrumb m-0">
-                        <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                        <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                         <li class="breadcrumb-item"><a href="javascript: void(0);">Base UI</a></li>
                         <li class="breadcrumb-item active">Accordions</li>
                     </ol>
@@ -288,7 +288,7 @@
                                             <a class="custom-accordion-title collapsed d-block py-1"
                                                 data-bs-toggle="collapse" href="#collapseSeven"
                                                 aria-expanded="false" aria-controls="collapseSeven">
-                                                Q. Will you regularly give updates of Hyper ? <i
+                                                Q. Will you regularly give updates of criss-admin ? <i
                                                     class="mdi mdi-chevron-down accordion-arrow"></i>
                                             </a>
                                         </h5>
@@ -297,7 +297,7 @@
                                         aria-labelledby="headingSeven"
                                         data-bs-parent="#custom-accordion-one">
                                         <div class="card-body">
-                                            Yes, We will update the Hyper regularly. All the
+                                            Yes, We will update the criss-admin regularly. All the
                                             future updates would be available without any cost
                                         </div>
                                     </div>
@@ -372,7 +372,7 @@
                                                     &lt;a class=&quot;custom-accordion-title collapsed d-block py-1&quot;
                                                         data-bs-toggle=&quot;collapse&quot; href=&quot;#collapseSeven&quot;
                                                         aria-expanded=&quot;false&quot; aria-controls=&quot;collapseSeven&quot;&gt;
-                                                        Q. Will you regularly give updates of Hyper ? &lt;i
+                                                        Q. Will you regularly give updates of criss-admin ? &lt;i
                                                             class=&quot;mdi mdi-chevron-down accordion-arrow&quot;&gt;&lt;/i&gt;
                                                     &lt;/a&gt;
                                                 &lt;/h5&gt;

@@ -71,7 +71,7 @@
         <!-- end page -->
 
         <footer class="footer footer-alt">
-            2018 - <script>document.write(new Date().getFullYear())</script> © Hyper - Coderthemes.com
+            2018 - <script>document.write(new Date().getFullYear())</script> © criss-admin - Coderthemes.com
         </footer>
 
         <!-- bundle -->

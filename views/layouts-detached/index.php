@@ -4,7 +4,7 @@
 <!-- Mirrored from coderthemes.com/hyper/saas/layouts-detached.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 29 Jul 2022 10:21:23 GMT -->
 <head>
         <meta charset="utf-8" />
-        <title>Detached Layout | Hyper - Responsive Bootstrap 5 Admin Dashboard</title>
+        <title>Detached Layout | criss-admin - Responsive Bootstrap 5 Admin Dashboard</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta content="A fully featured admin theme which can be used to build CRM, CMS, etc." name="description" />
         <meta content="Coderthemes" name="author" />
@@ -1096,7 +1096,7 @@
                                 <div class="page-title-box">
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Layouts</a></li>
                                             <li class="breadcrumb-item active">Detached Sidenav</li>
                                         </ol>
@@ -1519,7 +1519,7 @@
                                                 <i class="mdi mdi-upload bg-info-lighten text-info timeline-icon"></i>
                                                 <div class="timeline-item-info">
                                                     <a href="javascript:void(0);" class="text-info fw-bold mb-1 d-block">You sold an item</a>
-                                                    <small>Paul Burgess just purchased “Hyper - Admin Dashboard”!</small>
+                                                    <small>Paul Burgess just purchased “criss-admin - Admin Dashboard”!</small>
                                                     <p class="mb-0 pb-2">
                                                         <small class="text-muted">5 minutes ago</small>
                                                     </p>
@@ -1569,7 +1569,7 @@
                                                 <i class="mdi mdi-upload bg-info-lighten text-info timeline-icon"></i>
                                                 <div class="timeline-item-info">
                                                     <a href="javascript:void(0);" class="text-info fw-bold mb-1 d-block">You sold an item</a>
-                                                    <small>Paul Burgess just purchased “Hyper - Admin Dashboard”!</small>
+                                                    <small>Paul Burgess just purchased “criss-admin - Admin Dashboard”!</small>
                                                     <p class="mb-0 pb-2">
                                                         <small class="text-muted">16 hours ago</small>
                                                     </p>
@@ -1620,7 +1620,7 @@
                         <div class="container-fluid">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <script>document.write(new Date().getFullYear())</script> © Hyper - Coderthemes.com
+                                    <script>document.write(new Date().getFullYear())</script> © criss-admin - Coderthemes.com
                                 </div>
                                 <div class="col-md-6">
                                     <div class="text-md-end footer-links d-none d-md-block">

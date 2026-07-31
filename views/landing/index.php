@@ -66,7 +66,7 @@
                                 Responsive Web UI Kit & Dashboard Template
                             </h2>
 
-                            <p class="mb-4 font-16 text-white-50">Hyper is a fully featured dashboard and admin template
+                            <p class="mb-4 font-16 text-white-50">criss-admin is a fully featured dashboard and admin template
                                 comes with tones of well designed UI elements, components, widgets and pages.</p>
 
                             <a href="#" target="_blank" class="btn btn-success">预览 <i
@@ -263,7 +263,7 @@
                         <div class="text-center">
                             <h1 class="mt-0"><i class="mdi mdi-heart-multiple-outline"></i></h1>
                             <h3>您会<span class="text-danger">喜爱</span的功能</h3>
-                            <p class="text-muted mt-2">Hyper comes with next generation ui design and have multiple benefits
+                            <p class="text-muted mt-2">criss-admin comes with next generation ui design and have multiple benefits
                             </p>
                         </div>
                     </div>
@@ -274,7 +274,7 @@
                     </div>
                     <div class="col-lg-6 offset-md-1 col-md-5">
                         <h3 class="fw-normal">内置应用和页面</h3>
-                        <p class="text-muted mt-3">Hyper comes with a variety of ready-to-use applications and pages that help to speed up the development</p>
+                        <p class="text-muted mt-3">criss-admin comes with a variety of ready-to-use applications and pages that help to speed up the development</p>
 
                         <div class="mt-4">
                             <p class="text-muted"><i class="mdi mdi-circle-medium text-primary"></i> 项目与任务</p>
@@ -291,7 +291,7 @@
                 <div class="row pb-3 pt-5 align-items-center">
                     <div class="col-lg-6 col-md-5">
                         <h3 class="fw-normal">简约美观的设计</h3>
-                        <p class="text-muted mt-3">The simplest and fastest way to build dashboard or admin panel. Hyper is built using the latest tech and tools and provide an easy way to customize anything, including an overall color schemes, layout, etc.</p>
+                        <p class="text-muted mt-3">The simplest and fastest way to build dashboard or admin panel. criss-admin is built using the latest tech and tools and provide an easy way to customize anything, including an overall color schemes, layout, etc.</p>
 
                         <div class="mt-4">
                             <p class="text-muted"><i class="mdi mdi-circle-medium text-success"></i> 基于最新 Bootstrap 构建</p>
@@ -448,8 +448,8 @@
                         <!-- Question/Answer -->
                         <div>
                             <div class="faq-question-q-box">Q.</div>
-                            <h4 class="faq-question text-body">Will you regularly give updates of Hyper?</h4>
-                            <p class="faq-answer mb-4 pb-1 text-muted">Yes, We will update the Hyper regularly. All the
+                            <h4 class="faq-question text-body">Will you regularly give updates of criss-admin?</h4>
+                            <p class="faq-answer mb-4 pb-1 text-muted">Yes, We will update the criss-admin regularly. All the
                                 future updates would be available without any cost.</p>
                         </div>
 
@@ -538,7 +538,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <img src="/admin/images/logo.png" alt="" class="logo-dark" height="18" />
-                        <p class="text-muted mt-4">Hyper makes it easier to build better websites with
+                        <p class="text-muted mt-4">criss-admin makes it easier to build better websites with
                             <br> great speed. Save hundreds of hours of design
                             <br> and development by using it.</p>
 
@@ -597,7 +597,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="mt-5">
-                            <p class="text-muted mt-4 text-center mb-0">© 2018 - <script>document.write(new Date().getFullYear())</script> Hyper. Design and coded by
+                            <p class="text-muted mt-4 text-center mb-0">© 2018 - <script>document.write(new Date().getFullYear())</script> criss-admin. Design and coded by
                                 Coderthemes</p>
                         </div>
                     </div>

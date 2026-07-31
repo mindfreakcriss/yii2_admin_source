@@ -8,7 +8,7 @@ $this->registerJsFile('/admin/js/pages/demo.apex-mixed.js', ['depends' => 'app\a
                                 <div class="page-title-box">
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">Apex</a></li>
                                             <li class="breadcrumb-item active">混合图</li>
                                         </ol>

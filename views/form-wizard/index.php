@@ -8,7 +8,7 @@ $this->registerJsFile('/admin/js/pages/demo.form-wizard.js', ['depends' => 'app\
                                 <div class="page-title-box">
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Hyper</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">criss-admin</a></li>
                                             <li class="breadcrumb-item"><a href="javascript: void(0);">表单</a></li>
                                             <li class="breadcrumb-item active">表单向导</li>
                                         </ol>
