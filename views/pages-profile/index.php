@@ -1,3 +1,6 @@
+<?php 
+$this->registerJsFile('/admin/js/pages/demo.profile.js', ['depends' => 'app\assets\AdminAsset']);
+?>
 <!-- start page title -->
                         <div class="row">
                             <div class="col-12">

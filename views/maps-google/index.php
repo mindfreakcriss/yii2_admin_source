@@ -1,5 +1,6 @@
 <?php
-$this->registerJsFile('/admin/js/pages/demo.google-maps.js', ['depends' => 'app\assets\\AdminAsset']);
+$this->registerJsFile('/admin/js/pages/demo.google-maps.js', ['depends' => 'app\assets\AdminAsset']);
+$this->registerJsFile('https://maps.google.com/maps/api/js', ['depends' => 'app\assets\AdminAsset']);
 ?>
 
 <!-- start page title -->

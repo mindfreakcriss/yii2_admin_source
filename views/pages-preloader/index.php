@@ -1,3 +1,6 @@
+<?php 
+$this->registerJsFile('/admin/js/pages/demo.crm-dashboard.js', ['depends' => 'app\assets\AdminAsset']);
+?>
 <!-- start page title -->
                         <div class="row">
                             <div class="col-12">

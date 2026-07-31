@@ -330,13 +330,13 @@
                             <div class="collapse" id="sidebarLayouts">
                                 <ul class="side-nav-second-level">
                                     <li>
-                                        <a href="/layouts-horizontal/index"><i class="mdi mdi-arrow-right"></i> 水平</a>
+                                        <a href="/layouts-horizontal/index" target="_blank"><i class="mdi mdi-arrow-right"></i> 水平</a>
                                     </li>
                                     <li>
-                                        <a href="/layouts-detached/index"><i class="mdi mdi-view-column"></i> 分离式</a>
+                                        <a href="/layouts-detached/index" target="_blank"><i class="mdi mdi-view-column"></i> 分离式</a>
                                     </li>
                                     <li>
-                                        <a href="/layouts-full/index"><i class="mdi mdi-arrow-expand-all"></i> 全宽</a>
+                                        <a href="/layouts-full/index" target="_blank"><i class="mdi mdi-arrow-expand-all"></i> 全宽</a>
                                     </li>
                                 </ul>
                             </div>
